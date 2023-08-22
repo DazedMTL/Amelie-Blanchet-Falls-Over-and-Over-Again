@@ -1,0 +1,4026 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": false,
+        "name": "デバック",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 822.8571428571428,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 2,
+        "expanded": false,
+        "name": "ちっぷおき2、立ち絵",
+        "order": 5,
+        "parentId": 1,
+        "scrollX": 755.3333333333334,
+        "scrollY": 438.6666666666667
+    },
+    {
+        "id": 3,
+        "expanded": false,
+        "name": "回想室",
+        "order": 288,
+        "parentId": 0,
+        "scrollX": 1056,
+        "scrollY": 489.3333333333333
+    },
+    {
+        "id": 4,
+        "expanded": false,
+        "name": "学院最深部 一層",
+        "order": 205,
+        "parentId": 27,
+        "scrollX": 2095.3333333333335,
+        "scrollY": 660
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "サミュエル礼拝堂",
+        "order": 161,
+        "parentId": 20,
+        "scrollX": 708,
+        "scrollY": 564
+    },
+    {
+        "id": 6,
+        "expanded": false,
+        "name": "カレドニー魔法学院　1F",
+        "order": 152,
+        "parentId": 0,
+        "scrollX": 1910.3999999999999,
+        "scrollY": 840
+    },
+    {
+        "id": 7,
+        "expanded": true,
+        "name": "グラウンド",
+        "order": 155,
+        "parentId": 6,
+        "scrollX": 815,
+        "scrollY": 738
+    },
+    {
+        "id": 8,
+        "expanded": true,
+        "name": "エチエチダンジョン",
+        "order": 409,
+        "parentId": 267,
+        "scrollX": 921.75,
+        "scrollY": 850.5
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "カレドニー魔法学院　校門2",
+        "order": 132,
+        "parentId": 10,
+        "scrollX": 1108.8,
+        "scrollY": 1164
+    },
+    {
+        "id": 10,
+        "expanded": false,
+        "name": "カレドニー魔法学院　校門",
+        "order": 131,
+        "parentId": 0,
+        "scrollX": 1109.142857142857,
+        "scrollY": 564
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "イベント",
+        "order": 25,
+        "parentId": 0,
+        "scrollX": 822.8571428571428,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "勇者協会の部屋",
+        "order": 27,
+        "parentId": 11,
+        "scrollX": 1038.857142857143,
+        "scrollY": 894.8571428571428
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "教室2-A",
+        "order": 178,
+        "parentId": 22,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 14,
+        "expanded": true,
+        "name": "食堂",
+        "order": 153,
+        "parentId": 6,
+        "scrollX": 777.5999999999999,
+        "scrollY": 564
+    },
+    {
+        "id": 15,
+        "expanded": false,
+        "name": "中庭",
+        "order": 154,
+        "parentId": 6,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 16,
+        "expanded": true,
+        "name": "正宗とトミーの部屋",
+        "order": 230,
+        "parentId": 38,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 17,
+        "expanded": true,
+        "name": "職員室",
+        "order": 156,
+        "parentId": 6,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "大ホール",
+        "order": 157,
+        "parentId": 6,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "サミュエル礼拝堂 B1",
+        "order": 162,
+        "parentId": 20,
+        "scrollX": 708,
+        "scrollY": 564
+    },
+    {
+        "id": 20,
+        "expanded": false,
+        "name": "サミュエル礼拝堂への道",
+        "order": 160,
+        "parentId": 6,
+        "scrollX": 1164,
+        "scrollY": 564
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "-----------------",
+        "order": 130,
+        "parentId": 0,
+        "scrollX": 516,
+        "scrollY": 337
+    },
+    {
+        "id": 22,
+        "expanded": false,
+        "name": "カレドニー魔法学院　2F",
+        "order": 177,
+        "parentId": 0,
+        "scrollX": 1134.6666666666667,
+        "scrollY": 456
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "魔法基礎の実習室",
+        "order": 179,
+        "parentId": 22,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "儀式学の実習室",
+        "order": 180,
+        "parentId": 22,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "呪い魔法の実習室",
+        "order": 181,
+        "parentId": 22,
+        "scrollX": 866.5714285714286,
+        "scrollY": 766.2857142857142
+    },
+    {
+        "id": 26,
+        "expanded": false,
+        "name": "カレドニー魔法学院　3F",
+        "order": 195,
+        "parentId": 0,
+        "scrollX": 1083,
+        "scrollY": 1020
+    },
+    {
+        "id": 27,
+        "expanded": false,
+        "name": "カレドニー魔法学院　4F",
+        "order": 198,
+        "parentId": 0,
+        "scrollX": 1206.857142857143,
+        "scrollY": 636
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "大図書館",
+        "order": 199,
+        "parentId": 27,
+        "scrollX": 1254.857142857143,
+        "scrollY": 660
+    },
+    {
+        "id": 29,
+        "expanded": true,
+        "name": "生徒会室",
+        "order": 204,
+        "parentId": 27,
+        "scrollX": 870.8571428571428,
+        "scrollY": 636
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "カレドニー魔法学院　5F",
+        "order": 212,
+        "parentId": 0,
+        "scrollX": 1206.857142857143,
+        "scrollY": 588
+    },
+    {
+        "id": 31,
+        "expanded": false,
+        "name": "魔道具研究会",
+        "order": 213,
+        "parentId": 30,
+        "scrollX": 684.6666666666666,
+        "scrollY": 438.6666666666667
+    },
+    {
+        "id": 32,
+        "expanded": false,
+        "name": "謎の部屋",
+        "order": 215,
+        "parentId": 30,
+        "scrollX": 674,
+        "scrollY": 510.6666666666667
+    },
+    {
+        "id": 33,
+        "expanded": false,
+        "name": "男子トイレ",
+        "order": 183,
+        "parentId": 22,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 34,
+        "expanded": false,
+        "name": "女子トイレ",
+        "order": 184,
+        "parentId": 22,
+        "scrollX": 770.25,
+        "scrollY": 505.5
+    },
+    {
+        "id": 35,
+        "expanded": false,
+        "name": "カレドニー魔法学院　6F",
+        "order": 224,
+        "parentId": 0,
+        "scrollX": 1097.142857142857,
+        "scrollY": 564
+    },
+    {
+        "id": 36,
+        "expanded": true,
+        "name": "ハワード寮",
+        "order": 225,
+        "parentId": 35,
+        "scrollX": 1050,
+        "scrollY": 394.79999999999995
+    },
+    {
+        "id": 37,
+        "expanded": true,
+        "name": "談話室",
+        "order": 226,
+        "parentId": 35,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 38,
+        "expanded": true,
+        "name": "男子棟",
+        "order": 228,
+        "parentId": 35,
+        "scrollX": 866.5714285714286,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "風呂場",
+        "order": 229,
+        "parentId": 38,
+        "scrollX": 885.4285714285713,
+        "scrollY": 564
+    },
+    {
+        "id": 40,
+        "expanded": false,
+        "name": "倉庫",
+        "order": 159,
+        "parentId": 6,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 41,
+        "expanded": false,
+        "name": "レオンの部屋",
+        "order": 231,
+        "parentId": 38,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 42,
+        "expanded": false,
+        "name": "女子棟",
+        "order": 232,
+        "parentId": 35,
+        "scrollX": 1020,
+        "scrollY": 660
+    },
+    {
+        "id": 43,
+        "expanded": true,
+        "name": "女子風呂場",
+        "order": 233,
+        "parentId": 42,
+        "scrollX": 1032,
+        "scrollY": 676
+    },
+    {
+        "id": 44,
+        "expanded": false,
+        "name": "寝室",
+        "order": 234,
+        "parentId": 42,
+        "scrollX": 1032,
+        "scrollY": 676
+    },
+    {
+        "id": 45,
+        "expanded": false,
+        "name": "エレナ寝室",
+        "order": 235,
+        "parentId": 42,
+        "scrollX": 640,
+        "scrollY": 449.3333333333333
+    },
+    {
+        "id": 46,
+        "expanded": false,
+        "name": "カレドニー魔法学院　B1",
+        "order": 258,
+        "parentId": 0,
+        "scrollX": 674.4,
+        "scrollY": 708
+    },
+    {
+        "id": 47,
+        "expanded": false,
+        "name": "B1-2",
+        "order": 260,
+        "parentId": 48,
+        "scrollX": 870.8571428571428,
+        "scrollY": 730.2857142857142
+    },
+    {
+        "id": 48,
+        "expanded": false,
+        "name": "カレドニー魔法学院　B2",
+        "order": 259,
+        "parentId": 46,
+        "scrollX": 566.4,
+        "scrollY": 775.1999999999999
+    },
+    {
+        "id": 49,
+        "expanded": false,
+        "name": "地下休憩室",
+        "order": 263,
+        "parentId": 48,
+        "scrollX": 871.5,
+        "scrollY": 567
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "魔法牢獄",
+        "order": 287,
+        "parentId": 0,
+        "scrollX": 1050.6666666666667,
+        "scrollY": 972
+    },
+    {
+        "id": 51,
+        "expanded": false,
+        "name": "呪い魔法の準備室",
+        "order": 182,
+        "parentId": 25,
+        "scrollX": 805.7142857142857,
+        "scrollY": 714.8571428571428
+    },
+    {
+        "id": 52,
+        "expanded": false,
+        "name": "カレドニー魔法学院　B3",
+        "order": 264,
+        "parentId": 46,
+        "scrollX": 1015.3333333333334,
+        "scrollY": 553.3333333333334
+    },
+    {
+        "id": 53,
+        "expanded": false,
+        "name": "魔法研究会部室",
+        "order": 270,
+        "parentId": 0,
+        "scrollX": 1050.6666666666667,
+        "scrollY": 1084
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "カレドニー魔法学院　B5",
+        "order": 269,
+        "parentId": 46,
+        "scrollX": 1050,
+        "scrollY": 636
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "魔法研懲罰房",
+        "order": 276,
+        "parentId": 118,
+        "scrollX": 963,
+        "scrollY": 909
+    },
+    {
+        "id": 56,
+        "expanded": false,
+        "name": "カレドニー魔法学院　B4",
+        "order": 267,
+        "parentId": 46,
+        "scrollX": 1356.6666666666667,
+        "scrollY": 564
+    },
+    {
+        "id": 57,
+        "expanded": true,
+        "name": "B4-2",
+        "order": 268,
+        "parentId": 56,
+        "scrollX": 1038,
+        "scrollY": 684
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "キャバレー『ロイヤルストレート』",
+        "order": 271,
+        "parentId": 53,
+        "scrollX": 674,
+        "scrollY": 942.6666666666666
+    },
+    {
+        "id": 59,
+        "expanded": false,
+        "name": "女性用風俗　巨根クラブ",
+        "order": 272,
+        "parentId": 53,
+        "scrollX": 1027,
+        "scrollY": 674
+    },
+    {
+        "id": 60,
+        "expanded": false,
+        "name": "巨根クラブ部屋",
+        "order": 273,
+        "parentId": 59,
+        "scrollX": 586.8,
+        "scrollY": 420
+    },
+    {
+        "id": 61,
+        "expanded": false,
+        "name": "巨根クラブ 控室",
+        "order": 274,
+        "parentId": 59,
+        "scrollX": 607.1999999999999,
+        "scrollY": 420
+    },
+    {
+        "id": 62,
+        "expanded": false,
+        "name": "カジノ『ハレンチ』",
+        "order": 3,
+        "parentId": 217,
+        "scrollX": 1051.5,
+        "scrollY": 836.25
+    },
+    {
+        "id": 63,
+        "expanded": false,
+        "name": "魔法研究室",
+        "order": 277,
+        "parentId": 53,
+        "scrollX": 704,
+        "scrollY": 438.6666666666667
+    },
+    {
+        "id": 64,
+        "expanded": true,
+        "name": "代表室への道3",
+        "order": 281,
+        "parentId": 185,
+        "scrollX": 819,
+        "scrollY": 514.5
+    },
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "代表室",
+        "order": 286,
+        "parentId": 63,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 66,
+        "expanded": false,
+        "name": "ラブホテル",
+        "order": 227,
+        "parentId": 37,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 67,
+        "expanded": false,
+        "name": "クレオンタ防衛階層",
+        "order": 202,
+        "parentId": 27,
+        "scrollX": 1120.5,
+        "scrollY": 625.5
+    },
+    {
+        "id": 68,
+        "expanded": false,
+        "name": "ホフマンの工房　第一階層",
+        "order": 187,
+        "parentId": 22,
+        "scrollX": 1136,
+        "scrollY": 522.6666666666666
+    },
+    {
+        "id": 69,
+        "expanded": true,
+        "name": "ホフマンの工房　実験室",
+        "order": 193,
+        "parentId": 68,
+        "scrollX": 780.6666666666666,
+        "scrollY": 761.3333333333334
+    },
+    {
+        "id": 70,
+        "expanded": false,
+        "name": "ホフマンの工房　第二階層",
+        "order": 188,
+        "parentId": 68,
+        "scrollX": 1102,
+        "scrollY": 624
+    },
+    {
+        "id": 71,
+        "expanded": false,
+        "name": "魔獣小屋",
+        "order": 189,
+        "parentId": 70,
+        "scrollX": 958,
+        "scrollY": 521.3333333333334
+    },
+    {
+        "id": 72,
+        "expanded": true,
+        "name": "工房の倉庫",
+        "order": 190,
+        "parentId": 70,
+        "scrollX": 1054,
+        "scrollY": 780
+    },
+    {
+        "id": 73,
+        "expanded": true,
+        "name": "ホフマンの工房　第三階層",
+        "order": 191,
+        "parentId": 68,
+        "scrollX": 2603.3333333333335,
+        "scrollY": 1732
+    },
+    {
+        "id": 74,
+        "expanded": true,
+        "name": "学院監獄",
+        "order": 4,
+        "parentId": 217,
+        "scrollX": 995.3333333333334,
+        "scrollY": 678.6666666666666
+    },
+    {
+        "id": 75,
+        "expanded": true,
+        "name": "学院最深部 三層",
+        "order": 210,
+        "parentId": 4,
+        "scrollX": 1103.3333333333333,
+        "scrollY": 1586.6666666666667
+    },
+    {
+        "id": 76,
+        "expanded": false,
+        "name": "マーティン家の施設への道",
+        "order": 219,
+        "parentId": 30,
+        "scrollX": 809.1428571428571,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 77,
+        "expanded": true,
+        "name": "マーティン家の施設　外観",
+        "order": 220,
+        "parentId": 76,
+        "scrollX": 1747.3333333333333,
+        "scrollY": 1273.3333333333333
+    },
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "マーティン家の施設　内部",
+        "order": 221,
+        "parentId": 76,
+        "scrollX": 814,
+        "scrollY": 1273.3333333333333
+    },
+    {
+        "id": 79,
+        "expanded": true,
+        "name": "魔力抽出部屋",
+        "order": 222,
+        "parentId": 76,
+        "scrollX": 766,
+        "scrollY": 857.3333333333334
+    },
+    {
+        "id": 80,
+        "expanded": true,
+        "name": "エチエチダンジョン２",
+        "order": 410,
+        "parentId": 267,
+        "scrollX": 1032,
+        "scrollY": 676
+    },
+    {
+        "id": 81,
+        "expanded": false,
+        "name": "寝る部屋 アメリレオンH",
+        "order": 102,
+        "parentId": 289,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 82,
+        "expanded": false,
+        "name": "エチエチダンジョン3",
+        "order": 411,
+        "parentId": 267,
+        "scrollX": 1032,
+        "scrollY": 676
+    },
+    {
+        "id": 83,
+        "expanded": false,
+        "name": "学院最深部 二層",
+        "order": 207,
+        "parentId": 4,
+        "scrollX": 1198,
+        "scrollY": 660
+    },
+    {
+        "id": 84,
+        "expanded": false,
+        "name": "学院最深部 2-2",
+        "order": 208,
+        "parentId": 83,
+        "scrollX": 1102,
+        "scrollY": 660
+    },
+    {
+        "id": 85,
+        "expanded": true,
+        "name": "学院最深部 2-3",
+        "order": 209,
+        "parentId": 83,
+        "scrollX": 1354.6666666666667,
+        "scrollY": 922.6666666666666
+    },
+    {
+        "id": 86,
+        "expanded": true,
+        "name": "生徒会長室",
+        "order": 211,
+        "parentId": 75,
+        "scrollX": 684.6666666666666,
+        "scrollY": 449.3333333333333
+    },
+    {
+        "id": 87,
+        "expanded": true,
+        "name": "魔道具研究会　倉庫",
+        "order": 214,
+        "parentId": 31,
+        "scrollX": 675.8181818181819,
+        "scrollY": 446.1818181818182
+    },
+    {
+        "id": 88,
+        "expanded": true,
+        "name": "部室棟の魔法空間",
+        "order": 216,
+        "parentId": 32,
+        "scrollX": 1702,
+        "scrollY": 440
+    },
+    {
+        "id": 89,
+        "expanded": true,
+        "name": "部室棟の魔法空間2",
+        "order": 217,
+        "parentId": 32,
+        "scrollX": 1524.6666666666667,
+        "scrollY": 520
+    },
+    {
+        "id": 90,
+        "expanded": false,
+        "name": "表情",
+        "order": 6,
+        "parentId": 2,
+        "scrollX": 743.3333333333334,
+        "scrollY": 484
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "OP",
+        "order": 26,
+        "parentId": 11,
+        "scrollX": 640,
+        "scrollY": 449.3333333333333
+    },
+    {
+        "id": 92,
+        "expanded": false,
+        "name": "女子棟先輩",
+        "order": 350,
+        "parentId": 141,
+        "scrollX": 905.3333333333334,
+        "scrollY": 720
+    },
+    {
+        "id": 93,
+        "expanded": true,
+        "name": "カレドニー魔法学院　B3-2",
+        "order": 265,
+        "parentId": 52,
+        "scrollX": 956,
+        "scrollY": 676
+    },
+    {
+        "id": 94,
+        "expanded": true,
+        "name": "空き教室",
+        "order": 200,
+        "parentId": 28,
+        "scrollX": 1042.909090909091,
+        "scrollY": 737.4545454545455
+    },
+    {
+        "id": 95,
+        "expanded": false,
+        "name": "保健室ibe",
+        "order": 404,
+        "parentId": 261,
+        "scrollX": 770.25,
+        "scrollY": 505.5
+    },
+    {
+        "id": 96,
+        "expanded": true,
+        "name": "禁書庫",
+        "order": 201,
+        "parentId": 28,
+        "scrollX": 1025.4545454545455,
+        "scrollY": 750.5454545454546
+    },
+    {
+        "id": 97,
+        "expanded": false,
+        "name": "【MapDecorator/自動装飾】",
+        "order": 18,
+        "parentId": 99,
+        "scrollX": 809.1428571428571,
+        "scrollY": 617.1428571428571
+    },
+    {
+        "id": 98,
+        "expanded": false,
+        "name": "シナリオ",
+        "order": 7,
+        "parentId": 1,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 99,
+        "expanded": false,
+        "name": "【プリセット】",
+        "order": 8,
+        "parentId": 1,
+        "scrollX": 718.5,
+        "scrollY": 507
+    },
+    {
+        "id": 100,
+        "expanded": true,
+        "name": "炎",
+        "order": 9,
+        "parentId": 99,
+        "scrollX": 763.3333333333334,
+        "scrollY": 454
+    },
+    {
+        "id": 101,
+        "expanded": false,
+        "name": "コモンパレット<MapObj>",
+        "order": 19,
+        "parentId": 97,
+        "scrollX": 650.6666666666666,
+        "scrollY": 466.6666666666667
+    },
+    {
+        "id": 102,
+        "expanded": true,
+        "name": "《FSMタイル用テンプレ》",
+        "order": 20,
+        "parentId": 97,
+        "scrollX": 650.6666666666666,
+        "scrollY": 466.6666666666667
+    },
+    {
+        "id": 103,
+        "expanded": true,
+        "name": "テンプレート：FSM洞窟",
+        "order": 21,
+        "parentId": 102,
+        "scrollX": 1066,
+        "scrollY": 746
+    },
+    {
+        "id": 104,
+        "expanded": true,
+        "name": "サンプル：FSM洞窟",
+        "order": 22,
+        "parentId": 103,
+        "scrollX": 960,
+        "scrollY": 1300
+    },
+    {
+        "id": 105,
+        "expanded": true,
+        "name": "テンプレート：FSM明るい森",
+        "order": 23,
+        "parentId": 102,
+        "scrollX": 640,
+        "scrollY": 744
+    },
+    {
+        "id": 106,
+        "expanded": true,
+        "name": "雨/嵐/くもり",
+        "order": 10,
+        "parentId": 99,
+        "scrollX": 809.1428571428571,
+        "scrollY": 617.1428571428571
+    },
+    {
+        "id": 107,
+        "expanded": true,
+        "name": "花火",
+        "order": 11,
+        "parentId": 99,
+        "scrollX": 836.5714285714286,
+        "scrollY": 600
+    },
+    {
+        "id": 108,
+        "expanded": true,
+        "name": "サンプル：FSM明るい森",
+        "order": 24,
+        "parentId": 105,
+        "scrollX": 640,
+        "scrollY": 746.6666666666666
+    },
+    {
+        "id": 109,
+        "expanded": false,
+        "name": "水中ダンジョン",
+        "order": 12,
+        "parentId": 99,
+        "scrollX": 822.8571428571428,
+        "scrollY": 603.4285714285714
+    },
+    {
+        "id": 110,
+        "expanded": false,
+        "name": "雪",
+        "order": 13,
+        "parentId": 99,
+        "scrollX": 809.1428571428571,
+        "scrollY": 617.1428571428571
+    },
+    {
+        "id": 111,
+        "expanded": false,
+        "name": "闇",
+        "order": 14,
+        "parentId": 99,
+        "scrollX": 1301.142857142857,
+        "scrollY": 603.4285714285714
+    },
+    {
+        "id": 112,
+        "expanded": false,
+        "name": "歩行",
+        "order": 15,
+        "parentId": 99,
+        "scrollX": 809.1428571428571,
+        "scrollY": 617.1428571428571
+    },
+    {
+        "id": 113,
+        "expanded": false,
+        "name": "天界",
+        "order": 16,
+        "parentId": 99,
+        "scrollX": 809.1428571428571,
+        "scrollY": 617.1428571428571
+    },
+    {
+        "id": 114,
+        "expanded": false,
+        "name": "漂う光",
+        "order": 17,
+        "parentId": 99,
+        "scrollX": 1130.1818181818182,
+        "scrollY": 751.6363636363636
+    },
+    {
+        "id": 115,
+        "expanded": true,
+        "name": "食堂",
+        "order": 28,
+        "parentId": 11,
+        "scrollX": 777.5999999999999,
+        "scrollY": 894
+    },
+    {
+        "id": 116,
+        "expanded": true,
+        "name": "転送部屋",
+        "order": 186,
+        "parentId": 22,
+        "scrollX": 870.8571428571428,
+        "scrollY": 709.7142857142857
+    },
+    {
+        "id": 117,
+        "expanded": true,
+        "name": "教室3-A",
+        "order": 196,
+        "parentId": 26,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 118,
+        "expanded": false,
+        "name": "監獄の建物",
+        "order": 275,
+        "parentId": 53,
+        "scrollX": 674,
+        "scrollY": 473.3333333333333
+    },
+    {
+        "id": 119,
+        "expanded": false,
+        "name": "カレドニー魔法学院　2Fいべ",
+        "order": 29,
+        "parentId": 11,
+        "scrollX": 1118.3999999999999,
+        "scrollY": 480
+    },
+    {
+        "id": 120,
+        "expanded": true,
+        "name": "教室2-A",
+        "order": 30,
+        "parentId": 119,
+        "scrollX": 672,
+        "scrollY": 394.79999999999995
+    },
+    {
+        "id": 121,
+        "expanded": true,
+        "name": "教室2-A2",
+        "order": 31,
+        "parentId": 119,
+        "scrollX": 638.4,
+        "scrollY": 394.79999999999995
+    },
+    {
+        "id": 122,
+        "expanded": false,
+        "name": "魔法基礎の実習室1-1",
+        "order": 369,
+        "parentId": 160,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 123,
+        "expanded": false,
+        "name": "正宗とトミーの部屋1-2y",
+        "order": 32,
+        "parentId": 11,
+        "scrollX": 633.6,
+        "scrollY": 480
+    },
+    {
+        "id": 124,
+        "expanded": true,
+        "name": "教室2-A　1-3ｈ",
+        "order": 33,
+        "parentId": 11,
+        "scrollX": 633.6,
+        "scrollY": 394.79999999999995
+    },
+    {
+        "id": 125,
+        "expanded": true,
+        "name": "大ホールive",
+        "order": 34,
+        "parentId": 11,
+        "scrollX": 960,
+        "scrollY": 674
+    },
+    {
+        "id": 126,
+        "expanded": false,
+        "name": "B1-3",
+        "order": 261,
+        "parentId": 48,
+        "scrollX": 864,
+        "scrollY": 1004
+    },
+    {
+        "id": 127,
+        "expanded": false,
+        "name": "町",
+        "order": 35,
+        "parentId": 11,
+        "scrollX": 1664,
+        "scrollY": 1130
+    },
+    {
+        "id": 128,
+        "expanded": false,
+        "name": "森の遊歩道",
+        "order": 36,
+        "parentId": 127,
+        "scrollX": 1433.142857142857,
+        "scrollY": 1018.2857142857142
+    },
+    {
+        "id": 129,
+        "expanded": true,
+        "name": "部隊の部屋",
+        "order": 37,
+        "parentId": 127,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 130,
+        "expanded": false,
+        "name": "教室2-A　1-7ｈ",
+        "order": 38,
+        "parentId": 11,
+        "scrollX": 960,
+        "scrollY": 674
+    },
+    {
+        "id": 131,
+        "expanded": true,
+        "name": "教室2-A　1-7ｈ2",
+        "order": 39,
+        "parentId": 130,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 132,
+        "expanded": false,
+        "name": "カレドニー魔法学院　2F",
+        "order": 40,
+        "parentId": 130,
+        "scrollX": 1856.6666666666667,
+        "scrollY": 818.6666666666666
+    },
+    {
+        "id": 133,
+        "expanded": false,
+        "name": "B1-4",
+        "order": 262,
+        "parentId": 48,
+        "scrollX": 870.8571428571428,
+        "scrollY": 730.2857142857142
+    },
+    {
+        "id": 134,
+        "expanded": false,
+        "name": "地下休憩室いべ",
+        "order": 41,
+        "parentId": 11,
+        "scrollX": 944,
+        "scrollY": 910
+    },
+    {
+        "id": 135,
+        "expanded": false,
+        "name": "カレドニー魔法学院　1Fibe",
+        "order": 42,
+        "parentId": 134,
+        "scrollX": 1378,
+        "scrollY": 926
+    },
+    {
+        "id": 136,
+        "expanded": false,
+        "name": "女子風呂場ibe1",
+        "order": 332,
+        "parentId": 141,
+        "scrollX": 1032,
+        "scrollY": 676
+    },
+    {
+        "id": 137,
+        "expanded": true,
+        "name": "魔法牢獄",
+        "order": 43,
+        "parentId": 134,
+        "scrollX": 866.5714285714286,
+        "scrollY": 636
+    },
+    {
+        "id": 138,
+        "expanded": false,
+        "name": "地下休憩室Hシーン用02",
+        "order": 291,
+        "parentId": 3,
+        "scrollX": 1050.6666666666667,
+        "scrollY": 489.3333333333333
+    },
+    {
+        "id": 139,
+        "expanded": true,
+        "name": "サミュエル礼拝堂 Hシーン用08",
+        "order": 289,
+        "parentId": 3,
+        "scrollX": 866.5714285714286,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 140,
+        "expanded": false,
+        "name": "地下休憩室Hシーン用01",
+        "order": 290,
+        "parentId": 3,
+        "scrollX": 864,
+        "scrollY": 624
+    },
+    {
+        "id": 141,
+        "expanded": false,
+        "name": "サブH■■■",
+        "order": 331,
+        "parentId": 0,
+        "scrollX": 576,
+        "scrollY": 404.4
+    },
+    {
+        "id": 142,
+        "expanded": true,
+        "name": "風呂場",
+        "order": 333,
+        "parentId": 136,
+        "scrollX": 831.5999999999999,
+        "scrollY": 523.1999999999999
+    },
+    {
+        "id": 143,
+        "expanded": false,
+        "name": "女子風呂場ibe２",
+        "order": 334,
+        "parentId": 141,
+        "scrollX": 880.2857142857142,
+        "scrollY": 564
+    },
+    {
+        "id": 144,
+        "expanded": true,
+        "name": "風呂場",
+        "order": 335,
+        "parentId": 143,
+        "scrollX": 832,
+        "scrollY": 520
+    },
+    {
+        "id": 145,
+        "expanded": false,
+        "name": "女子風呂場ibe３",
+        "order": 336,
+        "parentId": 141,
+        "scrollX": 1027,
+        "scrollY": 674
+    },
+    {
+        "id": 146,
+        "expanded": true,
+        "name": "風呂場",
+        "order": 337,
+        "parentId": 145,
+        "scrollX": 612,
+        "scrollY": 423
+    },
+    {
+        "id": 147,
+        "expanded": true,
+        "name": "教室1-A",
+        "order": 185,
+        "parentId": 22,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 148,
+        "expanded": false,
+        "name": "カレドニー魔法学院さぶｈ1",
+        "order": 338,
+        "parentId": 141,
+        "scrollX": 1295,
+        "scrollY": 826
+    },
+    {
+        "id": 149,
+        "expanded": false,
+        "name": "カレドニー魔法学院さぶｈ2",
+        "order": 339,
+        "parentId": 148,
+        "scrollX": 1293,
+        "scrollY": 824
+    },
+    {
+        "id": 150,
+        "expanded": false,
+        "name": "カレドニー魔法学院さぶｈ3",
+        "order": 340,
+        "parentId": 148,
+        "scrollX": 1293,
+        "scrollY": 824
+    },
+    {
+        "id": 151,
+        "expanded": false,
+        "name": "女子トイレ1",
+        "order": 341,
+        "parentId": 141,
+        "scrollX": 677.3333333333334,
+        "scrollY": 481.3333333333333
+    },
+    {
+        "id": 152,
+        "expanded": false,
+        "name": "男子トイレ1",
+        "order": 342,
+        "parentId": 151,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 153,
+        "expanded": false,
+        "name": "女子トイレ2",
+        "order": 343,
+        "parentId": 141,
+        "scrollX": 641.3333333333334,
+        "scrollY": 514
+    },
+    {
+        "id": 154,
+        "expanded": false,
+        "name": "男子トイレ2",
+        "order": 344,
+        "parentId": 153,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 155,
+        "expanded": false,
+        "name": "女子トイレ3",
+        "order": 345,
+        "parentId": 141,
+        "scrollX": 1027,
+        "scrollY": 674
+    },
+    {
+        "id": 156,
+        "expanded": false,
+        "name": "男子トイレ3",
+        "order": 346,
+        "parentId": 155,
+        "scrollX": 614.4,
+        "scrollY": 483.59999999999997
+    },
+    {
+        "id": 157,
+        "expanded": false,
+        "name": "正宗の部屋2週目-----------",
+        "order": 44,
+        "parentId": 11,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 158,
+        "expanded": false,
+        "name": "正宗とトミーの部屋2週目2",
+        "order": 45,
+        "parentId": 157,
+        "scrollX": 626.6666666666666,
+        "scrollY": 477.3333333333333
+    },
+    {
+        "id": 159,
+        "expanded": true,
+        "name": "教室2-A2週目",
+        "order": 46,
+        "parentId": 11,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 160,
+        "expanded": false,
+        "name": "授業■■■",
+        "order": 368,
+        "parentId": 0,
+        "scrollX": 640,
+        "scrollY": 449.3333333333333
+    },
+    {
+        "id": 161,
+        "expanded": false,
+        "name": "儀式学の実習室2-1",
+        "order": 375,
+        "parentId": 160,
+        "scrollX": 1027,
+        "scrollY": 674
+    },
+    {
+        "id": 162,
+        "expanded": true,
+        "name": "カレドニー魔法学院　B3-3",
+        "order": 266,
+        "parentId": 52,
+        "scrollX": 1158,
+        "scrollY": 712
+    },
+    {
+        "id": 163,
+        "expanded": false,
+        "name": "教室2-A　2-2",
+        "order": 47,
+        "parentId": 11,
+        "scrollX": 960,
+        "scrollY": 674
+    },
+    {
+        "id": 164,
+        "expanded": true,
+        "name": "大ホール2-3",
+        "order": 48,
+        "parentId": 163,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 165,
+        "expanded": false,
+        "name": "儀式学の実習室2-2",
+        "order": 376,
+        "parentId": 161,
+        "scrollX": 762,
+        "scrollY": 597
+    },
+    {
+        "id": 166,
+        "expanded": false,
+        "name": "ハワード寮2-2",
+        "order": 49,
+        "parentId": 11,
+        "scrollX": 960,
+        "scrollY": 674
+    },
+    {
+        "id": 167,
+        "expanded": true,
+        "name": "魔法牢獄2-2",
+        "order": 50,
+        "parentId": 166,
+        "scrollX": 870.8571428571428,
+        "scrollY": 687.4285714285713
+    },
+    {
+        "id": 168,
+        "expanded": false,
+        "name": "儀式学の実習室2-3",
+        "order": 377,
+        "parentId": 161,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 169,
+        "expanded": true,
+        "name": "儀式学の実習室2-3ｂ",
+        "order": 378,
+        "parentId": 168,
+        "scrollX": 659.4,
+        "scrollY": 646.8
+    },
+    {
+        "id": 170,
+        "expanded": false,
+        "name": "魔法研懲罰房ibe　エレナH01",
+        "order": 51,
+        "parentId": 11,
+        "scrollX": 944,
+        "scrollY": 1054
+    },
+    {
+        "id": 171,
+        "expanded": true,
+        "name": "魔法研懲罰房ibe2",
+        "order": 52,
+        "parentId": 170,
+        "scrollX": 1040,
+        "scrollY": 1189
+    },
+    {
+        "id": 172,
+        "expanded": true,
+        "name": "魔法研懲罰房ibe3",
+        "order": 53,
+        "parentId": 170,
+        "scrollX": 1112,
+        "scrollY": 1217
+    },
+    {
+        "id": 173,
+        "expanded": true,
+        "name": "魔法研懲罰房ibe4 アメリH05",
+        "order": 54,
+        "parentId": 170,
+        "scrollX": 915,
+        "scrollY": 1320
+    },
+    {
+        "id": 174,
+        "expanded": true,
+        "name": "魔法研懲罰房ibe4-2",
+        "order": 55,
+        "parentId": 173,
+        "scrollX": 914,
+        "scrollY": 1217
+    },
+    {
+        "id": 175,
+        "expanded": false,
+        "name": "魔法牢獄３週目------",
+        "order": 56,
+        "parentId": 11,
+        "scrollX": 1050,
+        "scrollY": 970.2857142857142
+    },
+    {
+        "id": 176,
+        "expanded": false,
+        "name": "ハワード寮3-1",
+        "order": 57,
+        "parentId": 175,
+        "scrollX": 1039.7142857142856,
+        "scrollY": 564
+    },
+    {
+        "id": 177,
+        "expanded": false,
+        "name": "正宗の部屋",
+        "order": 58,
+        "parentId": 175,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 178,
+        "expanded": false,
+        "name": "教室2-A　3-1",
+        "order": 59,
+        "parentId": 175,
+        "scrollX": 646.6666666666666,
+        "scrollY": 413.3333333333333
+    },
+    {
+        "id": 179,
+        "expanded": false,
+        "name": "儀式学の実習室3-1",
+        "order": 382,
+        "parentId": 160,
+        "scrollX": 629.3333333333334,
+        "scrollY": 577.3333333333334
+    },
+    {
+        "id": 180,
+        "expanded": false,
+        "name": "カレドニー魔法学院2F 3-1ｂ",
+        "order": 383,
+        "parentId": 179,
+        "scrollX": 1068,
+        "scrollY": 565.7142857142857
+    },
+    {
+        "id": 181,
+        "expanded": false,
+        "name": "アメリ尋問",
+        "order": 347,
+        "parentId": 141,
+        "scrollX": 688,
+        "scrollY": 450.6666666666667
+    },
+    {
+        "id": 182,
+        "expanded": true,
+        "name": "儀式学の実習室3-2",
+        "order": 384,
+        "parentId": 179,
+        "scrollX": 762,
+        "scrollY": 579
+    },
+    {
+        "id": 183,
+        "expanded": false,
+        "name": "魔法研究室いべ",
+        "order": 60,
+        "parentId": 11,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 184,
+        "expanded": true,
+        "name": "儀式学の実習室3-3",
+        "order": 385,
+        "parentId": 179,
+        "scrollX": 659.4,
+        "scrollY": 620.4
+    },
+    {
+        "id": 185,
+        "expanded": true,
+        "name": "代表室への道",
+        "order": 278,
+        "parentId": 63,
+        "scrollX": 885,
+        "scrollY": 514.5
+    },
+    {
+        "id": 186,
+        "expanded": true,
+        "name": "代表室への道2",
+        "order": 279,
+        "parentId": 185,
+        "scrollX": 843,
+        "scrollY": 514.5
+    },
+    {
+        "id": 187,
+        "expanded": true,
+        "name": "代表室への道4",
+        "order": 283,
+        "parentId": 185,
+        "scrollX": 762,
+        "scrollY": 511.5
+    },
+    {
+        "id": 188,
+        "expanded": true,
+        "name": "代表室への道5　中央",
+        "order": 284,
+        "parentId": 185,
+        "scrollX": 819,
+        "scrollY": 513
+    },
+    {
+        "id": 189,
+        "expanded": true,
+        "name": "代表室への道6",
+        "order": 285,
+        "parentId": 185,
+        "scrollX": 885,
+        "scrollY": 514.5
+    },
+    {
+        "id": 190,
+        "expanded": true,
+        "name": "代表室への道7",
+        "order": 282,
+        "parentId": 64,
+        "scrollX": 762,
+        "scrollY": 514.5
+    },
+    {
+        "id": 191,
+        "expanded": true,
+        "name": "代表室ibe",
+        "order": 61,
+        "parentId": 11,
+        "scrollX": 774.75,
+        "scrollY": 579
+    },
+    {
+        "id": 192,
+        "expanded": false,
+        "name": "代表室ibe2",
+        "order": 62,
+        "parentId": 11,
+        "scrollX": 774.75,
+        "scrollY": 610.5
+    },
+    {
+        "id": 193,
+        "expanded": false,
+        "name": "代表室ibe3",
+        "order": 63,
+        "parentId": 192,
+        "scrollX": 774.75,
+        "scrollY": 598.5
+    },
+    {
+        "id": 194,
+        "expanded": false,
+        "name": "カレドニー魔法学院　1Fibe",
+        "order": 64,
+        "parentId": 192,
+        "scrollX": 1107.6,
+        "scrollY": 684.6
+    },
+    {
+        "id": 195,
+        "expanded": true,
+        "name": "ハワード寮ibe",
+        "order": 65,
+        "parentId": 192,
+        "scrollX": 1035.75,
+        "scrollY": 493.5
+    },
+    {
+        "id": 196,
+        "expanded": false,
+        "name": "ラブホテルibe",
+        "order": 66,
+        "parentId": 192,
+        "scrollX": 773.25,
+        "scrollY": 505.5
+    },
+    {
+        "id": 197,
+        "expanded": true,
+        "name": "魔法牢獄",
+        "order": 67,
+        "parentId": 192,
+        "scrollX": 806.25,
+        "scrollY": 741
+    },
+    {
+        "id": 198,
+        "expanded": false,
+        "name": "7日目終わり■■■",
+        "order": 129,
+        "parentId": 11,
+        "scrollX": 633.6,
+        "scrollY": 579.6
+    },
+    {
+        "id": 199,
+        "expanded": false,
+        "name": "談話室JNTR2",
+        "order": 298,
+        "parentId": 3,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 200,
+        "expanded": false,
+        "name": "談話室JNTR3",
+        "order": 299,
+        "parentId": 3,
+        "scrollX": 575,
+        "scrollY": 390
+    },
+    {
+        "id": 201,
+        "expanded": false,
+        "name": "アメリ寝室オナニー",
+        "order": 301,
+        "parentId": 3,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 202,
+        "expanded": false,
+        "name": "談話室JNTR4",
+        "order": 303,
+        "parentId": 3,
+        "scrollX": 803,
+        "scrollY": 391
+    },
+    {
+        "id": 203,
+        "expanded": false,
+        "name": "アメリ寝室",
+        "order": 304,
+        "parentId": 202,
+        "scrollX": 760.1999999999999,
+        "scrollY": 367.2
+    },
+    {
+        "id": 204,
+        "expanded": true,
+        "name": "女子風呂場JNTR5",
+        "order": 306,
+        "parentId": 3,
+        "scrollX": 1056,
+        "scrollY": 511
+    },
+    {
+        "id": 205,
+        "expanded": true,
+        "name": "魔法研懲罰房ibe　エレナH01",
+        "order": 292,
+        "parentId": 3,
+        "scrollX": 1110,
+        "scrollY": 1097
+    },
+    {
+        "id": 206,
+        "expanded": true,
+        "name": "魔法研懲罰房",
+        "order": 293,
+        "parentId": 3,
+        "scrollX": 1110,
+        "scrollY": 1122
+    },
+    {
+        "id": 207,
+        "expanded": false,
+        "name": "魔法牢獄",
+        "order": 294,
+        "parentId": 3,
+        "scrollX": 508,
+        "scrollY": 377
+    },
+    {
+        "id": 208,
+        "expanded": true,
+        "name": "魔法牢獄2",
+        "order": 295,
+        "parentId": 207,
+        "scrollX": 936,
+        "scrollY": 896
+    },
+    {
+        "id": 209,
+        "expanded": true,
+        "name": "魔法研懲罰房ibe4 アメリH05",
+        "order": 296,
+        "parentId": 3,
+        "scrollX": 1131,
+        "scrollY": 812
+    },
+    {
+        "id": 210,
+        "expanded": true,
+        "name": "カレドニー魔法学院　2F",
+        "order": 297,
+        "parentId": 3,
+        "scrollX": 1970.5714285714284,
+        "scrollY": 792
+    },
+    {
+        "id": 211,
+        "expanded": false,
+        "name": "談話室JNTR3回想",
+        "order": 300,
+        "parentId": 200,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 212,
+        "expanded": false,
+        "name": "アメリ寝室オナニー回想",
+        "order": 302,
+        "parentId": 201,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 213,
+        "expanded": false,
+        "name": "アメリ寝室回想",
+        "order": 305,
+        "parentId": 202,
+        "scrollX": 685.8,
+        "scrollY": 367.2
+    },
+    {
+        "id": 214,
+        "expanded": false,
+        "name": "アメリ尋問回想",
+        "order": 348,
+        "parentId": 181,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 215,
+        "expanded": false,
+        "name": "校門いべ4周目-----------",
+        "order": 68,
+        "parentId": 11,
+        "scrollX": 1240.2857142857142,
+        "scrollY": 1073.142857142857
+    },
+    {
+        "id": 216,
+        "expanded": true,
+        "name": "魔法牢獄",
+        "order": 69,
+        "parentId": 215,
+        "scrollX": 1158.75,
+        "scrollY": 1042.5
+    },
+    {
+        "id": 217,
+        "expanded": false,
+        "name": "ちっぷおき",
+        "order": 2,
+        "parentId": 1,
+        "scrollX": 1011,
+        "scrollY": 676
+    },
+    {
+        "id": 218,
+        "expanded": false,
+        "name": "教室2-A　4-1",
+        "order": 70,
+        "parentId": 215,
+        "scrollX": 773.25,
+        "scrollY": 505.5
+    },
+    {
+        "id": 219,
+        "expanded": true,
+        "name": "教室2-A 4-2",
+        "order": 71,
+        "parentId": 215,
+        "scrollX": 759.75,
+        "scrollY": 498
+    },
+    {
+        "id": 220,
+        "expanded": false,
+        "name": "呪い魔法の実習室4-1",
+        "order": 386,
+        "parentId": 160,
+        "scrollX": 666.6666666666666,
+        "scrollY": 564
+    },
+    {
+        "id": 221,
+        "expanded": false,
+        "name": "カレドニー魔法学院　2Fibe",
+        "order": 387,
+        "parentId": 220,
+        "scrollX": 1232,
+        "scrollY": 564
+    },
+    {
+        "id": 222,
+        "expanded": true,
+        "name": "カレドニー魔法学院　2Fibe2",
+        "order": 388,
+        "parentId": 221,
+        "scrollX": 2249.3333333333335,
+        "scrollY": 710.6666666666666
+    },
+    {
+        "id": 223,
+        "expanded": false,
+        "name": "カレドニー魔法学院　1F",
+        "order": 389,
+        "parentId": 222,
+        "scrollX": 916,
+        "scrollY": 624
+    },
+    {
+        "id": 224,
+        "expanded": false,
+        "name": "生徒会室ero",
+        "order": 307,
+        "parentId": 3,
+        "scrollX": 822.75,
+        "scrollY": 898.5
+    },
+    {
+        "id": 225,
+        "expanded": false,
+        "name": "ハワード寮4-1",
+        "order": 72,
+        "parentId": 11,
+        "scrollX": 880.2857142857142,
+        "scrollY": 564
+    },
+    {
+        "id": 226,
+        "expanded": true,
+        "name": "呪い魔法の実習室4-2 フェラ",
+        "order": 390,
+        "parentId": 220,
+        "scrollX": 666.6666666666666,
+        "scrollY": 776
+    },
+    {
+        "id": 227,
+        "expanded": true,
+        "name": "魔法牢獄ibe",
+        "order": 391,
+        "parentId": 226,
+        "scrollX": 870.6666666666666,
+        "scrollY": 776
+    },
+    {
+        "id": 228,
+        "expanded": false,
+        "name": "転送部屋いべ",
+        "order": 73,
+        "parentId": 11,
+        "scrollX": 666.6666666666666,
+        "scrollY": 580
+    },
+    {
+        "id": 229,
+        "expanded": false,
+        "name": "転送部屋ibe",
+        "order": 74,
+        "parentId": 11,
+        "scrollX": 666.6666666666666,
+        "scrollY": 620
+    },
+    {
+        "id": 230,
+        "expanded": true,
+        "name": "転送部屋ibe2いんもｎ",
+        "order": 75,
+        "parentId": 229,
+        "scrollX": 866.5714285714286,
+        "scrollY": 646.2857142857142
+    },
+    {
+        "id": 231,
+        "expanded": false,
+        "name": "ホフマンの工房　えろ",
+        "order": 308,
+        "parentId": 3,
+        "scrollX": 909.4285714285713,
+        "scrollY": 588
+    },
+    {
+        "id": 232,
+        "expanded": false,
+        "name": "呪い魔法の実習室4-3　立ちバック",
+        "order": 392,
+        "parentId": 220,
+        "scrollX": 866.5714285714286,
+        "scrollY": 764.5714285714286
+    },
+    {
+        "id": 233,
+        "expanded": false,
+        "name": "カレドニー魔法学院　1Fいべ",
+        "order": 393,
+        "parentId": 232,
+        "scrollX": 1225.5,
+        "scrollY": 898.5
+    },
+    {
+        "id": 234,
+        "expanded": true,
+        "name": "呪い魔法の実習室4-3いべ",
+        "order": 394,
+        "parentId": 232,
+        "scrollX": 706.5,
+        "scrollY": 837
+    },
+    {
+        "id": 235,
+        "expanded": true,
+        "name": "呪い魔法の実習室4-3いべ2",
+        "order": 395,
+        "parentId": 232,
+        "scrollX": 870.8571428571428,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 236,
+        "expanded": false,
+        "name": "転送部屋ibe2",
+        "order": 76,
+        "parentId": 11,
+        "scrollX": 666.6666666666666,
+        "scrollY": 704
+    },
+    {
+        "id": 237,
+        "expanded": true,
+        "name": "転送部屋ibe3",
+        "order": 77,
+        "parentId": 236,
+        "scrollX": 677.3333333333334,
+        "scrollY": 704
+    },
+    {
+        "id": 238,
+        "expanded": true,
+        "name": "転送部屋ibe4",
+        "order": 78,
+        "parentId": 236,
+        "scrollX": 677.3333333333334,
+        "scrollY": 704
+    },
+    {
+        "id": 239,
+        "expanded": false,
+        "name": "ホフマンの工房　えろ2",
+        "order": 309,
+        "parentId": 3,
+        "scrollX": 909.4285714285713,
+        "scrollY": 588
+    },
+    {
+        "id": 240,
+        "expanded": false,
+        "name": "呪い魔法の実習室4-4",
+        "order": 396,
+        "parentId": 220,
+        "scrollX": 866.5714285714286,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 241,
+        "expanded": false,
+        "name": "呪い魔法の実習室4-4 太ももコキセックス",
+        "order": 397,
+        "parentId": 240,
+        "scrollX": 866.5714285714286,
+        "scrollY": 612
+    },
+    {
+        "id": 242,
+        "expanded": false,
+        "name": "カレドニー魔法学院ibe",
+        "order": 398,
+        "parentId": 240,
+        "scrollX": 1271.142857142857,
+        "scrollY": 612
+    },
+    {
+        "id": 243,
+        "expanded": false,
+        "name": "魔法牢獄ibe",
+        "order": 399,
+        "parentId": 240,
+        "scrollX": 1114.2857142857142,
+        "scrollY": 612
+    },
+    {
+        "id": 244,
+        "expanded": false,
+        "name": "転送部屋ibe4-4",
+        "order": 79,
+        "parentId": 11,
+        "scrollX": 666.6666666666666,
+        "scrollY": 580
+    },
+    {
+        "id": 245,
+        "expanded": true,
+        "name": "転送部屋ibe4",
+        "order": 80,
+        "parentId": 244,
+        "scrollX": 666.6666666666666,
+        "scrollY": 716
+    },
+    {
+        "id": 246,
+        "expanded": false,
+        "name": "ホフマンの工房　えろ3",
+        "order": 349,
+        "parentId": 141,
+        "scrollX": 1032,
+        "scrollY": 676
+    },
+    {
+        "id": 247,
+        "expanded": false,
+        "name": "呪い魔法の実習室4-5",
+        "order": 400,
+        "parentId": 220,
+        "scrollX": 870.8571428571428,
+        "scrollY": 639.4285714285714
+    },
+    {
+        "id": 248,
+        "expanded": false,
+        "name": "呪い魔法の実習室4-5ero",
+        "order": 401,
+        "parentId": 247,
+        "scrollX": 816,
+        "scrollY": 640
+    },
+    {
+        "id": 249,
+        "expanded": true,
+        "name": "転送部屋いべ5",
+        "order": 81,
+        "parentId": 11,
+        "scrollX": 866.5714285714286,
+        "scrollY": 766.2857142857142
+    },
+    {
+        "id": 250,
+        "expanded": false,
+        "name": "ホフマンの工房いべ",
+        "order": 82,
+        "parentId": 11,
+        "scrollX": 905.3333333333334,
+        "scrollY": 634.6666666666666
+    },
+    {
+        "id": 251,
+        "expanded": false,
+        "name": "談話室いべ",
+        "order": 83,
+        "parentId": 250,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 252,
+        "expanded": true,
+        "name": "ハワード寮ibe",
+        "order": 84,
+        "parentId": 250,
+        "scrollX": 970.2857142857142,
+        "scrollY": 565.7142857142857
+    },
+    {
+        "id": 253,
+        "expanded": false,
+        "name": "儀式学の実習室えろ",
+        "order": 310,
+        "parentId": 3,
+        "scrollX": 758.25,
+        "scrollY": 598.5
+    },
+    {
+        "id": 254,
+        "expanded": true,
+        "name": "サミュエル礼拝堂乱交",
+        "order": 311,
+        "parentId": 253,
+        "scrollX": 548,
+        "scrollY": 640
+    },
+    {
+        "id": 255,
+        "expanded": false,
+        "name": "カレドニー魔法学院5-----------",
+        "order": 85,
+        "parentId": 11,
+        "scrollX": 1530,
+        "scrollY": 565.7142857142857
+    },
+    {
+        "id": 256,
+        "expanded": true,
+        "name": "魔法牢獄",
+        "order": 86,
+        "parentId": 255,
+        "scrollX": 1026.857142857143,
+        "scrollY": 970.2857142857142
+    },
+    {
+        "id": 257,
+        "expanded": false,
+        "name": "談話室いべ",
+        "order": 87,
+        "parentId": 255,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 258,
+        "expanded": false,
+        "name": "男子棟いべ",
+        "order": 88,
+        "parentId": 255,
+        "scrollX": 870.8571428571428,
+        "scrollY": 636
+    },
+    {
+        "id": 259,
+        "expanded": false,
+        "name": "正宗の部屋ibe",
+        "order": 89,
+        "parentId": 255,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 260,
+        "expanded": true,
+        "name": "教室2-A",
+        "order": 90,
+        "parentId": 255,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 261,
+        "expanded": false,
+        "name": "教室2-A　地獄史1 獣姦エロ",
+        "order": 403,
+        "parentId": 160,
+        "scrollX": 960,
+        "scrollY": 674
+    },
+    {
+        "id": 262,
+        "expanded": false,
+        "name": "カレドニー魔法学院　ibe",
+        "order": 405,
+        "parentId": 95,
+        "scrollX": 1287.4285714285713,
+        "scrollY": 663.4285714285713
+    },
+    {
+        "id": 263,
+        "expanded": true,
+        "name": "サミュエル礼拝堂ibe",
+        "order": 406,
+        "parentId": 95,
+        "scrollX": 870.8571428571428,
+        "scrollY": 663.4285714285713
+    },
+    {
+        "id": 264,
+        "expanded": true,
+        "name": "カレドニー魔法学院　4いべ",
+        "order": 92,
+        "parentId": 266,
+        "scrollX": 871.7142857142857,
+        "scrollY": 634.2857142857142
+    },
+    {
+        "id": 265,
+        "expanded": true,
+        "name": "生徒会室いべ",
+        "order": 93,
+        "parentId": 264,
+        "scrollX": 866.5714285714286,
+        "scrollY": 814.2857142857142
+    },
+    {
+        "id": 266,
+        "expanded": false,
+        "name": "男子棟いべ5-2",
+        "order": 91,
+        "parentId": 11,
+        "scrollX": 871.7142857142857,
+        "scrollY": 565.7142857142857
+    },
+    {
+        "id": 267,
+        "expanded": false,
+        "name": "大図書館 地獄史2",
+        "order": 407,
+        "parentId": 261,
+        "scrollX": 1053,
+        "scrollY": 830
+    },
+    {
+        "id": 268,
+        "expanded": true,
+        "name": "大図書館ibe",
+        "order": 408,
+        "parentId": 267,
+        "scrollX": 1248,
+        "scrollY": 858.5
+    },
+    {
+        "id": 269,
+        "expanded": true,
+        "name": "大図書館ibe2",
+        "order": 412,
+        "parentId": 267,
+        "scrollX": 1047,
+        "scrollY": 812
+    },
+    {
+        "id": 270,
+        "expanded": false,
+        "name": "カレドニー魔法学院　えろ69",
+        "order": 413,
+        "parentId": 267,
+        "scrollX": 1027,
+        "scrollY": 674
+    },
+    {
+        "id": 271,
+        "expanded": true,
+        "name": "エチエチダンジョアメリ",
+        "order": 414,
+        "parentId": 267,
+        "scrollX": 1027,
+        "scrollY": 674
+    },
+    {
+        "id": 272,
+        "expanded": false,
+        "name": "エチエチダンジョンameri2",
+        "order": 415,
+        "parentId": 267,
+        "scrollX": 1027,
+        "scrollY": 674
+    },
+    {
+        "id": 273,
+        "expanded": false,
+        "name": "カレドニー魔法学院ibe",
+        "order": 416,
+        "parentId": 267,
+        "scrollX": 1027,
+        "scrollY": 674
+    },
+    {
+        "id": 274,
+        "expanded": false,
+        "name": "ハワード寮5",
+        "order": 94,
+        "parentId": 11,
+        "scrollX": 1035.4285714285713,
+        "scrollY": 565.7142857142857
+    },
+    {
+        "id": 275,
+        "expanded": false,
+        "name": "ラブホテル5ibe",
+        "order": 95,
+        "parentId": 274,
+        "scrollX": 628,
+        "scrollY": 486.5
+    },
+    {
+        "id": 276,
+        "expanded": false,
+        "name": "男子棟いべ5-3",
+        "order": 96,
+        "parentId": 274,
+        "scrollX": 628,
+        "scrollY": 684.6666666666666
+    },
+    {
+        "id": 277,
+        "expanded": true,
+        "name": "教室2-A　地獄史汎用",
+        "order": 425,
+        "parentId": 261,
+        "scrollX": 688,
+        "scrollY": 450.6666666666667
+    },
+    {
+        "id": 278,
+        "expanded": false,
+        "name": "大図書館 地獄史3",
+        "order": 417,
+        "parentId": 261,
+        "scrollX": 1052.6666666666667,
+        "scrollY": 830.6666666666666
+    },
+    {
+        "id": 279,
+        "expanded": true,
+        "name": "空き教室ibe　触手エッチ",
+        "order": 418,
+        "parentId": 278,
+        "scrollX": 1027,
+        "scrollY": 674
+    },
+    {
+        "id": 280,
+        "expanded": false,
+        "name": "カレドニー魔法学院　5Fいべ",
+        "order": 419,
+        "parentId": 278,
+        "scrollX": 1052.6666666666667,
+        "scrollY": 713.3333333333334
+    },
+    {
+        "id": 281,
+        "expanded": false,
+        "name": "生徒会長室ibe",
+        "order": 97,
+        "parentId": 11,
+        "scrollX": 684.6666666666666,
+        "scrollY": 449.3333333333333
+    },
+    {
+        "id": 282,
+        "expanded": true,
+        "name": "学院最深部 三層ibe",
+        "order": 98,
+        "parentId": 281,
+        "scrollX": 2268.6666666666665,
+        "scrollY": 561.3333333333334
+    },
+    {
+        "id": 283,
+        "expanded": false,
+        "name": "ハワード寮5-4",
+        "order": 99,
+        "parentId": 281,
+        "scrollX": 1149.75,
+        "scrollY": 493.5
+    },
+    {
+        "id": 284,
+        "expanded": false,
+        "name": "大図書館 地獄史4",
+        "order": 420,
+        "parentId": 261,
+        "scrollX": 1358,
+        "scrollY": 892
+    },
+    {
+        "id": 285,
+        "expanded": true,
+        "name": "大図書館ibe5",
+        "order": 421,
+        "parentId": 284,
+        "scrollX": 1234,
+        "scrollY": 1009.3333333333334
+    },
+    {
+        "id": 286,
+        "expanded": true,
+        "name": "大図書館ibe5-2",
+        "order": 422,
+        "parentId": 284,
+        "scrollX": 1250,
+        "scrollY": 972
+    },
+    {
+        "id": 287,
+        "expanded": true,
+        "name": "大図書館ibe5-3",
+        "order": 423,
+        "parentId": 284,
+        "scrollX": 1094,
+        "scrollY": 1014.6666666666666
+    },
+    {
+        "id": 288,
+        "expanded": true,
+        "name": "魔法牢獄",
+        "order": 424,
+        "parentId": 284,
+        "scrollX": 1376,
+        "scrollY": 901.3333333333334
+    },
+    {
+        "id": 289,
+        "expanded": false,
+        "name": "謎の部屋ibe",
+        "order": 100,
+        "parentId": 11,
+        "scrollX": 674,
+        "scrollY": 654.6666666666666
+    },
+    {
+        "id": 290,
+        "expanded": false,
+        "name": "カレドニー魔法学院　6Fibe",
+        "order": 101,
+        "parentId": 289,
+        "scrollX": 684.6666666666666,
+        "scrollY": 438.6666666666667
+    },
+    {
+        "id": 291,
+        "expanded": false,
+        "name": "寝る部屋 朝",
+        "order": 103,
+        "parentId": 289,
+        "scrollX": 1376,
+        "scrollY": 901.3333333333334
+    },
+    {
+        "id": 292,
+        "expanded": false,
+        "name": "大図書館ibe",
+        "order": 104,
+        "parentId": 11,
+        "scrollX": 1194,
+        "scrollY": 922.6666666666666
+    },
+    {
+        "id": 293,
+        "expanded": false,
+        "name": "魔道具研究会　倉庫ibve",
+        "order": 106,
+        "parentId": 294,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 294,
+        "expanded": false,
+        "name": "魔道具研究会　倉庫ibe1",
+        "order": 105,
+        "parentId": 11,
+        "scrollX": 694.5,
+        "scrollY": 487
+    },
+    {
+        "id": 295,
+        "expanded": false,
+        "name": "魔力抽出部屋いべ",
+        "order": 107,
+        "parentId": 11,
+        "scrollX": 758.5,
+        "scrollY": 666
+    },
+    {
+        "id": 296,
+        "expanded": true,
+        "name": "正宗とトミーの部屋いべ",
+        "order": 108,
+        "parentId": 295,
+        "scrollX": 694.5,
+        "scrollY": 466
+    },
+    {
+        "id": 297,
+        "expanded": false,
+        "name": "ハワード寮ibe",
+        "order": 109,
+        "parentId": 11,
+        "scrollX": 960,
+        "scrollY": 674
+    },
+    {
+        "id": 298,
+        "expanded": false,
+        "name": "ラブホテルibe Hアメリ取られる",
+        "order": 110,
+        "parentId": 297,
+        "scrollX": 646.5,
+        "scrollY": 439
+    },
+    {
+        "id": 299,
+        "expanded": true,
+        "name": "魔法牢獄いべ",
+        "order": 111,
+        "parentId": 297,
+        "scrollX": 870,
+        "scrollY": 802.2857142857142
+    },
+    {
+        "id": 300,
+        "expanded": true,
+        "name": "カレドニー魔法学院　2Fいべ",
+        "order": 313,
+        "parentId": 301,
+        "scrollX": 1572,
+        "scrollY": 924
+    },
+    {
+        "id": 301,
+        "expanded": false,
+        "name": "キャバレーHアメリバイト",
+        "order": 312,
+        "parentId": 3,
+        "scrollX": 674,
+        "scrollY": 490.6666666666667
+    },
+    {
+        "id": 302,
+        "expanded": true,
+        "name": "キャバレーHアメリバイト2",
+        "order": 314,
+        "parentId": 301,
+        "scrollX": 1016,
+        "scrollY": 716
+    },
+    {
+        "id": 303,
+        "expanded": false,
+        "name": "談話室エロ露出",
+        "order": 315,
+        "parentId": 3,
+        "scrollX": 684.6666666666666,
+        "scrollY": 438.6666666666667
+    },
+    {
+        "id": 304,
+        "expanded": true,
+        "name": "カレドニー魔法学院　校門2露出",
+        "order": 316,
+        "parentId": 303,
+        "scrollX": 674,
+        "scrollY": 1490.6666666666667
+    },
+    {
+        "id": 305,
+        "expanded": false,
+        "name": "控室 Hアメリクラブ",
+        "order": 317,
+        "parentId": 3,
+        "scrollX": 684.6666666666666,
+        "scrollY": 449.3333333333333
+    },
+    {
+        "id": 306,
+        "expanded": true,
+        "name": "教室2-Aいべ",
+        "order": 318,
+        "parentId": 305,
+        "scrollX": 770.25,
+        "scrollY": 505.5
+    },
+    {
+        "id": 307,
+        "expanded": false,
+        "name": "巨根クラブ部屋",
+        "order": 320,
+        "parentId": 305,
+        "scrollX": 1032,
+        "scrollY": 676
+    },
+    {
+        "id": 308,
+        "expanded": false,
+        "name": "女性用風俗　巨根クラブ",
+        "order": 319,
+        "parentId": 305,
+        "scrollX": 909.75,
+        "scrollY": 493.5
+    },
+    {
+        "id": 309,
+        "expanded": true,
+        "name": "控室ibe",
+        "order": 321,
+        "parentId": 305,
+        "scrollX": 1032,
+        "scrollY": 676
+    },
+    {
+        "id": 310,
+        "expanded": true,
+        "name": "控室2",
+        "order": 322,
+        "parentId": 305,
+        "scrollX": 1032,
+        "scrollY": 676
+    },
+    {
+        "id": 311,
+        "expanded": false,
+        "name": "巨根クラブ部屋",
+        "order": 323,
+        "parentId": 310,
+        "scrollX": 1032,
+        "scrollY": 676
+    },
+    {
+        "id": 312,
+        "expanded": false,
+        "name": "魔法研究会部室ibe",
+        "order": 324,
+        "parentId": 3,
+        "scrollX": 1656.6666666666667,
+        "scrollY": 1960
+    },
+    {
+        "id": 313,
+        "expanded": false,
+        "name": "女性用風俗　巨根クラブibe",
+        "order": 325,
+        "parentId": 312,
+        "scrollX": 1027,
+        "scrollY": 674
+    },
+    {
+        "id": 314,
+        "expanded": false,
+        "name": "巨根クラブ部屋オリH",
+        "order": 326,
+        "parentId": 312,
+        "scrollX": 1027,
+        "scrollY": 674
+    },
+    {
+        "id": 315,
+        "expanded": true,
+        "name": "魔法研究会部室ibe2",
+        "order": 327,
+        "parentId": 312,
+        "scrollX": 1839,
+        "scrollY": 1980
+    },
+    {
+        "id": 316,
+        "expanded": false,
+        "name": "談話室 Hオリビア２",
+        "order": 328,
+        "parentId": 3,
+        "scrollX": 755.3333333333334,
+        "scrollY": 438.6666666666667
+    },
+    {
+        "id": 317,
+        "expanded": false,
+        "name": "談話室いべ",
+        "order": 329,
+        "parentId": 316,
+        "scrollX": 781,
+        "scrollY": 391
+    },
+    {
+        "id": 318,
+        "expanded": false,
+        "name": "ハワード寮 6----------",
+        "order": 112,
+        "parentId": 11,
+        "scrollX": 1040,
+        "scrollY": 438.6666666666667
+    },
+    {
+        "id": 319,
+        "expanded": true,
+        "name": "魔法牢獄いべ",
+        "order": 113,
+        "parentId": 318,
+        "scrollX": 1053.4285714285713,
+        "scrollY": 937.7142857142857
+    },
+    {
+        "id": 320,
+        "expanded": false,
+        "name": "大図書館ibe",
+        "order": 114,
+        "parentId": 318,
+        "scrollX": 1197.4285714285713,
+        "scrollY": 564
+    },
+    {
+        "id": 321,
+        "expanded": true,
+        "name": "禁書庫",
+        "order": 115,
+        "parentId": 318,
+        "scrollX": 866.5714285714286,
+        "scrollY": 747.4285714285713
+    },
+    {
+        "id": 322,
+        "expanded": true,
+        "name": "禁書庫2",
+        "order": 116,
+        "parentId": 318,
+        "scrollX": 866.5714285714286,
+        "scrollY": 838.2857142857142
+    },
+    {
+        "id": 323,
+        "expanded": true,
+        "name": "魔法牢獄　レビH2",
+        "order": 117,
+        "parentId": 318,
+        "scrollX": 1050,
+        "scrollY": 807.4285714285713
+    },
+    {
+        "id": 324,
+        "expanded": false,
+        "name": "カレドニー魔法学院ibe",
+        "order": 118,
+        "parentId": 11,
+        "scrollX": 1355.142857142857,
+        "scrollY": 1107.4285714285713
+    },
+    {
+        "id": 325,
+        "expanded": false,
+        "name": "カレドニー魔法学院ibe2",
+        "order": 119,
+        "parentId": 324,
+        "scrollX": 1338.8571428571427,
+        "scrollY": 1210.2857142857142
+    },
+    {
+        "id": 326,
+        "expanded": false,
+        "name": "カレドニー魔法学院　1Fibe",
+        "order": 120,
+        "parentId": 324,
+        "scrollX": 1338.8571428571427,
+        "scrollY": 1018.2857142857142
+    },
+    {
+        "id": 327,
+        "expanded": true,
+        "name": "正宗とトミーの部屋ibe",
+        "order": 121,
+        "parentId": 324,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 328,
+        "expanded": false,
+        "name": "教室2-Aibe",
+        "order": 122,
+        "parentId": 11,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 329,
+        "expanded": false,
+        "name": "カレドニー魔法学院　2Fいべ",
+        "order": 123,
+        "parentId": 328,
+        "scrollX": 1762.5,
+        "scrollY": 710
+    },
+    {
+        "id": 330,
+        "expanded": false,
+        "name": "カレドニー魔法学院　1Fibe",
+        "order": 124,
+        "parentId": 328,
+        "scrollX": 2190.5,
+        "scrollY": 794
+    },
+    {
+        "id": 331,
+        "expanded": true,
+        "name": "代表室 ibe",
+        "order": 125,
+        "parentId": 328,
+        "scrollX": 1049.5,
+        "scrollY": 778
+    },
+    {
+        "id": 332,
+        "expanded": true,
+        "name": "談話室",
+        "order": 126,
+        "parentId": 328,
+        "scrollX": 545.5,
+        "scrollY": 394
+    },
+    {
+        "id": 333,
+        "expanded": false,
+        "name": "ラブホテル Hアメリ純愛",
+        "order": 127,
+        "parentId": 328,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 334,
+        "expanded": true,
+        "name": "食堂いべ",
+        "order": 128,
+        "parentId": 11,
+        "scrollX": 809.1428571428571,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 335,
+        "expanded": false,
+        "name": "魔法基礎の実習室2-1",
+        "order": 370,
+        "parentId": 122,
+        "scrollX": 600,
+        "scrollY": 534.5454545454546
+    },
+    {
+        "id": 336,
+        "expanded": false,
+        "name": "魔法基礎の実習室2-2",
+        "order": 371,
+        "parentId": 122,
+        "scrollX": 606.5454545454546,
+        "scrollY": 601.0909090909091
+    },
+    {
+        "id": 337,
+        "expanded": false,
+        "name": "魔法基礎の実習室2-3",
+        "order": 372,
+        "parentId": 122,
+        "scrollX": 558.5454545454546,
+        "scrollY": 601.0909090909091
+    },
+    {
+        "id": 338,
+        "expanded": false,
+        "name": "魔法基礎の実習室2-4",
+        "order": 373,
+        "parentId": 122,
+        "scrollX": 554.1818181818182,
+        "scrollY": 524.7272727272727
+    },
+    {
+        "id": 339,
+        "expanded": false,
+        "name": "魔法基礎の実習室2-5",
+        "order": 374,
+        "parentId": 122,
+        "scrollX": 681.8181818181819,
+        "scrollY": 579.2727272727273
+    },
+    {
+        "id": 340,
+        "expanded": true,
+        "name": "呪い魔法の実習室5汎用",
+        "order": 402,
+        "parentId": 220,
+        "scrollX": 870.8571428571428,
+        "scrollY": 641.1428571428571
+    },
+    {
+        "id": 341,
+        "expanded": true,
+        "name": "儀式学の実習室4-汎用",
+        "order": 381,
+        "parentId": 161,
+        "scrollX": 659.4,
+        "scrollY": 472.79999999999995
+    },
+    {
+        "id": 342,
+        "expanded": true,
+        "name": "儀式学の実習室2-4",
+        "order": 379,
+        "parentId": 161,
+        "scrollX": 659.4,
+        "scrollY": 639.6
+    },
+    {
+        "id": 343,
+        "expanded": true,
+        "name": "儀式学の実習室2-5",
+        "order": 380,
+        "parentId": 161,
+        "scrollX": 659.4,
+        "scrollY": 572.4
+    },
+    {
+        "id": 344,
+        "expanded": true,
+        "name": "礼拝堂地下空間　最奥",
+        "order": 174,
+        "parentId": 19,
+        "scrollX": 762,
+        "scrollY": 550.5
+    },
+    {
+        "id": 345,
+        "expanded": true,
+        "name": "礼拝堂地下空間　宝部屋",
+        "order": 176,
+        "parentId": 19,
+        "scrollX": 705,
+        "scrollY": 645
+    },
+    {
+        "id": 346,
+        "expanded": true,
+        "name": "礼拝堂地下空間1",
+        "order": 163,
+        "parentId": 19,
+        "scrollX": 762,
+        "scrollY": 562.5
+    },
+    {
+        "id": 347,
+        "expanded": true,
+        "name": "礼拝堂地下空間3H",
+        "order": 166,
+        "parentId": 349,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 348,
+        "expanded": true,
+        "name": "礼拝堂地下空間2",
+        "order": 164,
+        "parentId": 19,
+        "scrollX": 721.5,
+        "scrollY": 561
+    },
+    {
+        "id": 349,
+        "expanded": true,
+        "name": "礼拝堂地下空間3",
+        "order": 165,
+        "parentId": 19,
+        "scrollX": 705,
+        "scrollY": 561
+    },
+    {
+        "id": 350,
+        "expanded": true,
+        "name": "礼拝堂地下空間4",
+        "order": 167,
+        "parentId": 19,
+        "scrollX": 838.5,
+        "scrollY": 561
+    },
+    {
+        "id": 351,
+        "expanded": true,
+        "name": "礼拝堂地下空間5",
+        "order": 168,
+        "parentId": 19,
+        "scrollX": 832.5,
+        "scrollY": 561
+    },
+    {
+        "id": 352,
+        "expanded": true,
+        "name": "礼拝堂地下空間6",
+        "order": 170,
+        "parentId": 19,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 353,
+        "expanded": true,
+        "name": "礼拝堂地下空間7",
+        "order": 171,
+        "parentId": 19,
+        "scrollX": 831,
+        "scrollY": 561
+    },
+    {
+        "id": 354,
+        "expanded": true,
+        "name": "礼拝堂地下空間8",
+        "order": 172,
+        "parentId": 19,
+        "scrollX": 762,
+        "scrollY": 561
+    },
+    {
+        "id": 355,
+        "expanded": true,
+        "name": "礼拝堂地下空間5H",
+        "order": 169,
+        "parentId": 351,
+        "scrollX": 838.5,
+        "scrollY": 561
+    },
+    {
+        "id": 356,
+        "expanded": true,
+        "name": "礼拝堂地下空間8H",
+        "order": 173,
+        "parentId": 354,
+        "scrollX": 705,
+        "scrollY": 561
+    },
+    {
+        "id": 357,
+        "expanded": true,
+        "name": "礼拝堂地下空間　最奥いべ",
+        "order": 175,
+        "parentId": 344,
+        "scrollX": 705,
+        "scrollY": 507
+    },
+    {
+        "id": 358,
+        "expanded": false,
+        "name": "空室",
+        "order": 236,
+        "parentId": 35,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 359,
+        "expanded": true,
+        "name": "秘密の通路1",
+        "order": 237,
+        "parentId": 358,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 360,
+        "expanded": true,
+        "name": "屋根裏",
+        "order": 250,
+        "parentId": 358,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 361,
+        "expanded": true,
+        "name": "秘密の通路2",
+        "order": 238,
+        "parentId": 359,
+        "scrollX": 846.6666666666666,
+        "scrollY": 552
+    },
+    {
+        "id": 362,
+        "expanded": true,
+        "name": "秘密の通路3",
+        "order": 239,
+        "parentId": 359,
+        "scrollX": 724,
+        "scrollY": 530.6666666666666
+    },
+    {
+        "id": 363,
+        "expanded": true,
+        "name": "秘密の通路4",
+        "order": 240,
+        "parentId": 359,
+        "scrollX": 866.5714285714286,
+        "scrollY": 622.2857142857142
+    },
+    {
+        "id": 364,
+        "expanded": true,
+        "name": "秘密の通路5",
+        "order": 241,
+        "parentId": 358,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 365,
+        "expanded": true,
+        "name": "秘密の通路6",
+        "order": 242,
+        "parentId": 364,
+        "scrollX": 701.3333333333334,
+        "scrollY": 590.6666666666666
+    },
+    {
+        "id": 366,
+        "expanded": true,
+        "name": "秘密の通路7",
+        "order": 243,
+        "parentId": 358,
+        "scrollX": 954.6666666666666,
+        "scrollY": 450.6666666666667
+    },
+    {
+        "id": 367,
+        "expanded": true,
+        "name": "秘密の通路8",
+        "order": 244,
+        "parentId": 366,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 368,
+        "expanded": true,
+        "name": "秘密の通路9",
+        "order": 245,
+        "parentId": 366,
+        "scrollX": 750.6666666666666,
+        "scrollY": 561.3333333333334
+    },
+    {
+        "id": 369,
+        "expanded": true,
+        "name": "秘密の通路10",
+        "order": 246,
+        "parentId": 358,
+        "scrollX": 832,
+        "scrollY": 560
+    },
+    {
+        "id": 370,
+        "expanded": true,
+        "name": "女子棟の空室",
+        "order": 249,
+        "parentId": 358,
+        "scrollX": 626.6666666666666,
+        "scrollY": 560
+    },
+    {
+        "id": 371,
+        "expanded": true,
+        "name": "秘密の通路10H",
+        "order": 247,
+        "parentId": 369,
+        "scrollX": 838.6666666666666,
+        "scrollY": 572
+    },
+    {
+        "id": 372,
+        "expanded": true,
+        "name": "秘密の通路10いべ",
+        "order": 248,
+        "parentId": 369,
+        "scrollX": 832,
+        "scrollY": 608
+    },
+    {
+        "id": 373,
+        "expanded": false,
+        "name": "エレナ寝室いべ",
+        "order": 251,
+        "parentId": 360,
+        "scrollX": 637.3333333333334,
+        "scrollY": 450.6666666666667
+    },
+    {
+        "id": 374,
+        "expanded": false,
+        "name": "ギャル寝室",
+        "order": 253,
+        "parentId": 360,
+        "scrollX": 658.6666666666666,
+        "scrollY": 440
+    },
+    {
+        "id": 375,
+        "expanded": false,
+        "name": "エレナ寝室",
+        "order": 254,
+        "parentId": 360,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 376,
+        "expanded": false,
+        "name": "寝室",
+        "order": 252,
+        "parentId": 373,
+        "scrollX": 767,
+        "scrollY": 345.5
+    },
+    {
+        "id": 377,
+        "expanded": false,
+        "name": "日和寝室",
+        "order": 255,
+        "parentId": 360,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 378,
+        "expanded": false,
+        "name": "アメリ寝室",
+        "order": 257,
+        "parentId": 360,
+        "scrollX": 807,
+        "scrollY": 326.5
+    },
+    {
+        "id": 379,
+        "expanded": false,
+        "name": "オリビア寝室",
+        "order": 256,
+        "parentId": 360,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 380,
+        "expanded": false,
+        "name": "レオポルトの部屋　宝物庫",
+        "order": 146,
+        "parentId": 390,
+        "scrollX": 832,
+        "scrollY": 630
+    },
+    {
+        "id": 381,
+        "expanded": false,
+        "name": "レオポルトの部屋1 入口",
+        "order": 133,
+        "parentId": 10,
+        "scrollX": 822.8571428571428,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 382,
+        "expanded": true,
+        "name": "レオポルトの部屋2　右",
+        "order": 134,
+        "parentId": 381,
+        "scrollX": 906.6666666666666,
+        "scrollY": 520
+    },
+    {
+        "id": 383,
+        "expanded": false,
+        "name": "レオポルトの部屋3",
+        "order": 135,
+        "parentId": 382,
+        "scrollX": 733.3333333333334,
+        "scrollY": 490.6666666666667
+    },
+    {
+        "id": 384,
+        "expanded": true,
+        "name": "レオポルトの部屋4",
+        "order": 136,
+        "parentId": 382,
+        "scrollX": 880.2857142857142,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 385,
+        "expanded": false,
+        "name": "レオポルトの部屋5",
+        "order": 137,
+        "parentId": 382,
+        "scrollX": 814,
+        "scrollY": 493.3333333333333
+    },
+    {
+        "id": 386,
+        "expanded": true,
+        "name": "レオポルトの部屋6　左",
+        "order": 138,
+        "parentId": 381,
+        "scrollX": 881.25,
+        "scrollY": 562.5
+    },
+    {
+        "id": 387,
+        "expanded": false,
+        "name": "レオポルトの部屋7",
+        "order": 139,
+        "parentId": 386,
+        "scrollX": 813.75,
+        "scrollY": 493.5
+    },
+    {
+        "id": 388,
+        "expanded": false,
+        "name": "レオポルトの部屋8",
+        "order": 140,
+        "parentId": 386,
+        "scrollX": 770.25,
+        "scrollY": 493.5
+    },
+    {
+        "id": 389,
+        "expanded": true,
+        "name": "レオポルトの部屋9",
+        "order": 141,
+        "parentId": 386,
+        "scrollX": 813.75,
+        "scrollY": 493.5
+    },
+    {
+        "id": 390,
+        "expanded": true,
+        "name": "レオポルトの部屋10　上",
+        "order": 142,
+        "parentId": 381,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 391,
+        "expanded": false,
+        "name": "レオポルトの部屋11",
+        "order": 143,
+        "parentId": 390,
+        "scrollX": 953.1428571428571,
+        "scrollY": 564
+    },
+    {
+        "id": 392,
+        "expanded": false,
+        "name": "レオポルトの部屋12",
+        "order": 144,
+        "parentId": 390,
+        "scrollX": 754.6666666666666,
+        "scrollY": 521.3333333333334
+    },
+    {
+        "id": 393,
+        "expanded": true,
+        "name": "レオポルトの部屋13　最奥",
+        "order": 145,
+        "parentId": 390,
+        "scrollX": 833.3333333333334,
+        "scrollY": 438.6666666666667
+    },
+    {
+        "id": 394,
+        "expanded": true,
+        "name": "カレドニー魔法学院　校門いべ",
+        "order": 147,
+        "parentId": 381,
+        "scrollX": 1186.2857142857142,
+        "scrollY": 1152
+    },
+    {
+        "id": 395,
+        "expanded": false,
+        "name": "レオポルトの部屋4いべ",
+        "order": 148,
+        "parentId": 394,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 396,
+        "expanded": false,
+        "name": "レオポルトの部屋9いべ",
+        "order": 149,
+        "parentId": 394,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 397,
+        "expanded": true,
+        "name": "レオポルトの部屋13　最奥いべ",
+        "order": 150,
+        "parentId": 394,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 398,
+        "expanded": false,
+        "name": "レオポルトの部屋13　最奥いべ2",
+        "order": 151,
+        "parentId": 397,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 399,
+        "expanded": true,
+        "name": "女子風呂場",
+        "order": 351,
+        "parentId": 92,
+        "scrollX": 905.3333333333334,
+        "scrollY": 520
+    },
+    {
+        "id": 400,
+        "expanded": false,
+        "name": "寝室",
+        "order": 352,
+        "parentId": 92,
+        "scrollX": 688,
+        "scrollY": 450.6666666666667
+    },
+    {
+        "id": 401,
+        "expanded": false,
+        "name": "女子トイレぎゃる",
+        "order": 353,
+        "parentId": 92,
+        "scrollX": 677.3333333333334,
+        "scrollY": 509.3333333333333
+    },
+    {
+        "id": 402,
+        "expanded": false,
+        "name": "女子トイレせん",
+        "order": 354,
+        "parentId": 92,
+        "scrollX": 1032,
+        "scrollY": 676
+    },
+    {
+        "id": 403,
+        "expanded": true,
+        "name": "女子棟先生",
+        "order": 355,
+        "parentId": 92,
+        "scrollX": 1016,
+        "scrollY": 660
+    },
+    {
+        "id": 404,
+        "expanded": true,
+        "name": "代表室への道秘密",
+        "order": 280,
+        "parentId": 186,
+        "scrollX": 831,
+        "scrollY": 514.5
+    },
+    {
+        "id": 405,
+        "expanded": false,
+        "name": "謎の民家",
+        "order": 203,
+        "parentId": 67,
+        "scrollX": 637.3333333333334,
+        "scrollY": 450.6666666666667
+    },
+    {
+        "id": 406,
+        "expanded": true,
+        "name": "一層1-2　洞窟",
+        "order": 194,
+        "parentId": 68,
+        "scrollX": 884.5714285714286,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 407,
+        "expanded": false,
+        "name": "倉庫",
+        "order": 192,
+        "parentId": 73,
+        "scrollX": 674,
+        "scrollY": 670.6666666666666
+    },
+    {
+        "id": 408,
+        "expanded": false,
+        "name": "一層-2",
+        "order": 206,
+        "parentId": 4,
+        "scrollX": 606.6,
+        "scrollY": 507.59999999999997
+    },
+    {
+        "id": 409,
+        "expanded": true,
+        "name": "部室棟の魔法空間3",
+        "order": 218,
+        "parentId": 32,
+        "scrollX": 684.6666666666666,
+        "scrollY": 449.3333333333333
+    },
+    {
+        "id": 410,
+        "expanded": false,
+        "name": "部室棟の魔法空間3ero",
+        "order": 361,
+        "parentId": 141,
+        "scrollX": 684.6666666666666,
+        "scrollY": 449.3333333333333
+    },
+    {
+        "id": 411,
+        "expanded": false,
+        "name": "アメリ手コキサブ",
+        "order": 356,
+        "parentId": 141,
+        "scrollX": 1028,
+        "scrollY": 734
+    },
+    {
+        "id": 412,
+        "expanded": false,
+        "name": "エレナ手コキ",
+        "order": 357,
+        "parentId": 141,
+        "scrollX": 2092.3636363636365,
+        "scrollY": 1824
+    },
+    {
+        "id": 413,
+        "expanded": true,
+        "name": "トラップ露出",
+        "order": 358,
+        "parentId": 141,
+        "scrollX": 1311.2727272727273,
+        "scrollY": 1632
+    },
+    {
+        "id": 414,
+        "expanded": false,
+        "name": "小夜子手コキ",
+        "order": 359,
+        "parentId": 141,
+        "scrollX": 1470.5454545454545,
+        "scrollY": 2290.909090909091
+    },
+    {
+        "id": 415,
+        "expanded": true,
+        "name": "オリビア手マン",
+        "order": 360,
+        "parentId": 141,
+        "scrollX": 2110,
+        "scrollY": 1968
+    },
+    {
+        "id": 416,
+        "expanded": true,
+        "name": "部室棟の魔法空間3er2",
+        "order": 362,
+        "parentId": 410,
+        "scrollX": 718.5,
+        "scrollY": 507
+    },
+    {
+        "id": 417,
+        "expanded": true,
+        "name": "空き教室",
+        "order": 197,
+        "parentId": 26,
+        "scrollX": 819.4285714285713,
+        "scrollY": 579.4285714285714
+    },
+    {
+        "id": 418,
+        "expanded": false,
+        "name": "部室棟倉庫",
+        "order": 223,
+        "parentId": 30,
+        "scrollX": 770.25,
+        "scrollY": 505.5
+    },
+    {
+        "id": 419,
+        "expanded": true,
+        "name": "パイズリパラダイス",
+        "order": 158,
+        "parentId": 18,
+        "scrollX": 810.75,
+        "scrollY": 493.5
+    },
+    {
+        "id": 420,
+        "expanded": false,
+        "name": "パイズリパラダイスHa",
+        "order": 363,
+        "parentId": 141,
+        "scrollX": 908,
+        "scrollY": 521.3333333333334
+    },
+    {
+        "id": 421,
+        "expanded": true,
+        "name": "部室棟倉庫2アナル",
+        "order": 364,
+        "parentId": 141,
+        "scrollX": 688,
+        "scrollY": 450.6666666666667
+    },
+    {
+        "id": 422,
+        "expanded": true,
+        "name": "風呂場さぶいべ",
+        "order": 366,
+        "parentId": 141,
+        "scrollX": 891.3333333333334,
+        "scrollY": 521.3333333333334
+    },
+    {
+        "id": 423,
+        "expanded": true,
+        "name": "サミュエル礼拝堂にんしん",
+        "order": 367,
+        "parentId": 141,
+        "scrollX": 674,
+        "scrollY": 510.6666666666667
+    },
+    {
+        "id": 424,
+        "expanded": true,
+        "name": "空き教室えっち",
+        "order": 365,
+        "parentId": 141,
+        "scrollX": 684.6666666666666,
+        "scrollY": 449.3333333333333
+    },
+    {
+        "id": 425,
+        "expanded": false,
+        "name": "時空の狭間",
+        "order": 426,
+        "parentId": 0,
+        "scrollX": 822.8571428571428,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 426,
+        "expanded": true,
+        "name": "魔法牢獄　レビH2回想",
+        "order": 330,
+        "parentId": 3,
+        "scrollX": 1011.3333333333334,
+        "scrollY": 808
+    },
+    {
+        "id": 427,
+        "expanded": false,
+        "name": "ハワード寮エレナIF",
+        "order": 427,
+        "parentId": 425,
+        "scrollX": 1280,
+        "scrollY": 438.6666666666667
+    },
+    {
+        "id": 428,
+        "expanded": true,
+        "name": "ハワード寮エレナIFameri",
+        "order": 428,
+        "parentId": 427,
+        "scrollX": 1041.6,
+        "scrollY": 394.79999999999995
+    },
+    {
+        "id": 429,
+        "expanded": false,
+        "name": "教室2-A　IFシナリオ数学",
+        "order": 429,
+        "parentId": 427,
+        "scrollX": 672,
+        "scrollY": 394.79999999999995
+    },
+    {
+        "id": 430,
+        "expanded": false,
+        "name": "中庭いべ",
+        "order": 430,
+        "parentId": 429,
+        "scrollX": 1027,
+        "scrollY": 674
+    },
+    {
+        "id": 431,
+        "expanded": false,
+        "name": "談話室IFibe",
+        "order": 431,
+        "parentId": 427,
+        "scrollX": 800,
+        "scrollY": 438.6666666666667
+    },
+    {
+        "id": 432,
+        "expanded": false,
+        "name": "カレドニーIFibe",
+        "order": 432,
+        "parentId": 431,
+        "scrollX": 1550.6666666666667,
+        "scrollY": 858.6666666666666
+    },
+    {
+        "id": 433,
+        "expanded": false,
+        "name": "ハワード寮゛生徒会IF",
+        "order": 433,
+        "parentId": 425,
+        "scrollX": 944.4,
+        "scrollY": 394.79999999999995
+    },
+    {
+        "id": 434,
+        "expanded": true,
+        "name": "ハワード寮seriameri",
+        "order": 434,
+        "parentId": 433,
+        "scrollX": 990,
+        "scrollY": 394.79999999999995
+    },
+    {
+        "id": 435,
+        "expanded": false,
+        "name": "生徒会室if",
+        "order": 435,
+        "parentId": 433,
+        "scrollX": 944.4,
+        "scrollY": 717.6
+    },
+    {
+        "id": 436,
+        "expanded": false,
+        "name": "カレドニー魔法学院　3Fif",
+        "order": 436,
+        "parentId": 435,
+        "scrollX": 990,
+        "scrollY": 926.4
+    },
+    {
+        "id": 437,
+        "expanded": false,
+        "name": "生徒会室if3",
+        "order": 437,
+        "parentId": 433,
+        "scrollX": 1113.6,
+        "scrollY": 394.79999999999995
+    },
+    {
+        "id": 438,
+        "expanded": false,
+        "name": "カレドニー魔法学院　校門if",
+        "order": 438,
+        "parentId": 437,
+        "scrollX": 1508.3999999999999,
+        "scrollY": 394.79999999999995
+    },
+    {
+        "id": 439,
+        "expanded": false,
+        "name": "After",
+        "order": 439,
+        "parentId": 425,
+        "scrollX": 809.1428571428571,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 440,
+        "expanded": false,
+        "name": "カレドニー魔法学院　2Faf",
+        "order": 440,
+        "parentId": 439,
+        "scrollX": 1767.4285714285713,
+        "scrollY": 564
+    },
+    {
+        "id": 441,
+        "expanded": false,
+        "name": "カレドニー魔法学院　1FIF",
+        "order": 441,
+        "parentId": 439,
+        "scrollX": 2101.714285714286,
+        "scrollY": 925.7142857142857
+    },
+    {
+        "id": 442,
+        "expanded": true,
+        "name": "After食堂",
+        "order": 442,
+        "parentId": 439,
+        "scrollX": 809.1428571428571,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 443,
+        "expanded": false,
+        "name": "談話室あｆ",
+        "order": 443,
+        "parentId": 439,
+        "scrollX": 822.8571428571428,
+        "scrollY": 577.7142857142857
+    },
+    {
+        "id": 444,
+        "expanded": false,
+        "name": "After2syoku",
+        "order": 444,
+        "parentId": 425,
+        "scrollX": 809.1428571428571,
+        "scrollY": 814.2857142857142
+    },
+    {
+        "id": 445,
+        "expanded": false,
+        "name": "1FIF 2",
+        "order": 445,
+        "parentId": 444,
+        "scrollX": 2208,
+        "scrollY": 1019.9999999999999
+    },
+    {
+        "id": 446,
+        "expanded": true,
+        "name": "校門2ibe",
+        "order": 446,
+        "parentId": 444,
+        "scrollX": 1590.8571428571427,
+        "scrollY": 1157.142857142857
+    },
+    {
+        "id": 447,
+        "expanded": false,
+        "name": "1FIF 3",
+        "order": 447,
+        "parentId": 444,
+        "scrollX": 1577.142857142857,
+        "scrollY": 1019.9999999999999
+    }
+]

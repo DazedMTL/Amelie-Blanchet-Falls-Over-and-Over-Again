@@ -1,0 +1,7809 @@
+[
+    null,
+    {
+        "id": 1,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 120
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 121
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 123
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 126
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 124
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 122
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.4,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 125
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "37_オルトロス",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 10
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 4000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 0,
+        "name": "ヘルハウンド",
+        "note": "Breath Motion: 1",
+        "params": [
+            20000,
+            5000,
+            90,
+            40,
+            11,
+            38,
+            100,
+            30
+        ]
+    },
+    {
+        "id": 2,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 3,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 129
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 130
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "21_ゴブリン",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 13,
+                "denominator": 8
+            },
+            {
+                "kind": 1,
+                "dataId": 19,
+                "denominator": 8
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 40,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 20,
+        "name": "ゴブリン",
+        "note": "Breath Motion: 1",
+        "params": [
+            190,
+            300,
+            16,
+            10,
+            18,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 4,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 130
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "22_ホブゴブリン",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 13,
+                "denominator": 8
+            },
+            {
+                "kind": 1,
+                "dataId": 19,
+                "denominator": 8
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 40,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 20,
+        "name": "ホブゴブリン",
+        "note": "Breath Motion: 1",
+        "params": [
+            210,
+            5000,
+            17,
+            10,
+            18,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 5,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 46
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 130
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 129
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "24_ハイオーク",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 51,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 400,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 100,
+        "name": "ハイオーク",
+        "note": "Breath Motion: 1",
+        "params": [
+            2000,
+            5000,
+            32,
+            10,
+            28,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 6,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 46
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 130
+            }
+        ],
+        "battlerHue": 331,
+        "battlerName": "23_オーク",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 51,
+                "denominator": 8
+            },
+            {
+                "kind": 1,
+                "dataId": 13,
+                "denominator": 5
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 60,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 20,
+        "name": "オーク",
+        "note": "Breath Motion: 1",
+        "params": [
+            350,
+            300,
+            32,
+            10,
+            30,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 7,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 120
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 130
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 132
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 131
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 133
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Seijyuu_01",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 19,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 500,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 100,
+        "name": "地獄トカゲ",
+        "note": "Breath Motion: 1",
+        "params": [
+            2500,
+            5000,
+            33,
+            10,
+            33,
+            10,
+            30,
+            30
+        ]
+    },
+    {
+        "id": 8,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 121
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 134
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 135
+            }
+        ],
+        "battlerHue": 327,
+        "battlerName": "09マンドラゴラ",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 52,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 80,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 20,
+        "name": "元気なマンドラゴラ",
+        "note": "Breath Motion: 1",
+        "params": [
+            450,
+            5000,
+            22,
+            10,
+            35,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 9,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 21
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 46
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 136
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "16_ひとだま",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 19,
+                "denominator": 8
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 100,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 20,
+        "name": "スピリット",
+        "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
+        "params": [
+            420,
+            5000,
+            22,
+            10,
+            38,
+            10,
+            25,
+            30
+        ]
+    },
+    {
+        "id": 10,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 59
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 137
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "18_地縛霊",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 19,
+                "denominator": 8
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 100,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 20,
+        "name": "スピリット",
+        "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
+        "params": [
+            480,
+            5000,
+            22,
+            10,
+            35,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 11,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 21
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 46
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 139
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.4,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 138
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "20_魔眼の覇者",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 25,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 200,
+        "name": "スピリットキング",
+        "note": "Breath Motion: 1",
+        "params": [
+            3500,
+            5000,
+            39,
+            10,
+            39,
+            10,
+            25,
+            30
+        ]
+    },
+    {
+        "id": 12,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 141
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 57
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "02_腐肉",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 54,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 200,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 20,
+        "name": "ファイアスライム",
+        "note": "Breath Motion: 1",
+        "params": [
+            550,
+            5000,
+            40,
+            10,
+            40,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 13,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 141
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 57
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "02_腐肉",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 10
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 200,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 20,
+        "name": "滾るファイアスライム",
+        "note": "Breath Motion: 1",
+        "params": [
+            4500,
+            5000,
+            43,
+            10,
+            43,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 14,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 21
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 142
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 57
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 143
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "07_熔解王",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 54,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1500,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 300,
+        "name": "スライムキング",
+        "note": "Breath Motion: 1",
+        "params": [
+            4500,
+            5000,
+            22,
+            10,
+            48,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 15,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 121
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 145
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "11_トレント",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 53,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 250,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 20,
+        "name": "トレント",
+        "note": "Breath Motion: 1",
+        "params": [
+            700,
+            5000,
+            44,
+            10,
+            44,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 16,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 121
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 145
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 146
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "13_世界樹",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 53,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1500,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 400,
+        "name": "トレントキング",
+        "note": "Breath Motion: 1",
+        "params": [
+            6000,
+            5000,
+            48,
+            10,
+            43,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 17,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 21
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 22
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 47
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 147
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "tg-cm03-fem-01-a",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 10
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 2000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 2000,
+        "name": "ジャクソン・スタインフェルド",
+        "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
+        "params": [
+            8000,
+            5000,
+            22,
+            10,
+            50,
+            15,
+            70,
+            30
+        ]
+    },
+    {
+        "id": 18,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 21
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 22
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 47
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 147
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 148
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "magmagolem",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 10
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 2000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 2000,
+        "name": "ジャクソン・スタインフェルド",
+        "note": "Breath Motion: 1",
+        "params": [
+            8000,
+            5000,
+            22,
+            10,
+            53,
+            20,
+            20,
+            30
+        ]
+    },
+    {
+        "id": 19,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 150
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 151
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 126
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Manmosu_02",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 57,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 400,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            }
+        ],
+        "gold": 60,
+        "name": "巡回マンモス",
+        "note": "Breath Motion: 1",
+        "params": [
+            600,
+            300,
+            46,
+            10,
+            10,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 20,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 28
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 50
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 152
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Crow",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 56,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 400,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            }
+        ],
+        "gold": 60,
+        "name": "巡回カラス",
+        "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
+        "params": [
+            580,
+            5000,
+            22,
+            10,
+            46,
+            10,
+            100,
+            30
+        ]
+    },
+    {
+        "id": 21,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 150
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 151
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 126
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 153
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Manmosu_02",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 14,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 2000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 1000,
+        "name": "警備長マンモス",
+        "note": "Breath Motion: 1",
+        "params": [
+            5500,
+            300,
+            50,
+            10,
+            10,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 22,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 120
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 29
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 154
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "55_ワイバーン",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 59,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 500,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            }
+        ],
+        "gold": 60,
+        "name": "ワイバーン",
+        "note": "Breath Motion: 1",
+        "params": [
+            900,
+            5000,
+            53,
+            10,
+            53,
+            10,
+            60,
+            30
+        ]
+    },
+    {
+        "id": 23,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 28
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 57
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 70
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "53_竜の雛",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 58,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 400,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            }
+        ],
+        "gold": 60,
+        "name": "ミニドラゴン",
+        "note": "Breath Motion: 1",
+        "params": [
+            880,
+            5000,
+            22,
+            10,
+            55,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 24,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 120
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 29
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 154
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 155
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "56_守護翼竜",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 20,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 3000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 1500,
+        "name": "大人びたワイバーン",
+        "note": "Breath Motion: 1",
+        "params": [
+            10000,
+            5000,
+            60,
+            10,
+            60,
+            10,
+            70,
+            30
+        ]
+    },
+    {
+        "id": 25,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 129
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 156
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Goblin",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 14,
+                "denominator": 12
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 480,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            }
+        ],
+        "gold": 60,
+        "name": "飼育ゴブリン",
+        "note": "Breath Motion: 1",
+        "params": [
+            950,
+            300,
+            58,
+            10,
+            10,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 26,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 150
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 157
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 158
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 159
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Unicorn",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 61,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 500,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 6,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 1.5
+            }
+        ],
+        "gold": 60,
+        "name": "ユニコーン",
+        "note": "Breath Motion: 1",
+        "params": [
+            1050,
+            5000,
+            62,
+            10,
+            10,
+            10,
+            30,
+            30
+        ]
+    },
+    {
+        "id": 27,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 150
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 157
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 158
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 159
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 160
+            }
+        ],
+        "battlerHue": 41,
+        "battlerName": "Unicorn",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 14,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 3000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 6,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 1500,
+        "name": "誇り高きユニコーン",
+        "note": "Breath Motion: 1",
+        "params": [
+            12000,
+            5000,
+            64,
+            10,
+            60,
+            10,
+            100,
+            30
+        ]
+    },
+    {
+        "id": 28,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 150
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 161
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 162
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Byakko_01",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 60,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 550,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            }
+        ],
+        "gold": 60,
+        "name": "ホワイトタイガー",
+        "note": "Breath Motion: 1",
+        "params": [
+            1200,
+            5000,
+            65,
+            10,
+            10,
+            10,
+            30,
+            30
+        ]
+    },
+    {
+        "id": 29,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 28
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 29
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 163
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "45_カミツキウオ",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 20,
+                "denominator": 12
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 510,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            }
+        ],
+        "gold": 60,
+        "name": "浮遊魚",
+        "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
+        "params": [
+            1150,
+            5000,
+            22,
+            10,
+            65,
+            10,
+            110,
+            30
+        ]
+    },
+    {
+        "id": 30,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 150
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 161
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 162
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 164
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "kyouryuu_01",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 26,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 3500,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 2000,
+        "name": "人工ダイナソー",
+        "note": "Breath Motion: 1",
+        "params": [
+            13000,
+            300,
+            70,
+            10,
+            10,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 31,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 150
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 165
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 51
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 166
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 167
+            }
+        ],
+        "battlerHue": 161,
+        "battlerName": "49_クラーケン",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 27,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 4000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 3000,
+        "name": "クラーケン",
+        "note": "Breath Motion: 1",
+        "params": [
+            15000,
+            5000,
+            72,
+            10,
+            72,
+            10,
+            15,
+            50
+        ]
+    },
+    {
+        "id": 32,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 33,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 25
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 48
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 169
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Phoenix_01",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 64,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 800,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 1.5
+            }
+        ],
+        "gold": 150,
+        "name": "フェニックス",
+        "note": "Breath Motion: 1",
+        "params": [
+            1400,
+            5000,
+            22,
+            10,
+            68,
+            10,
+            100,
+            30
+        ]
+    },
+    {
+        "id": 34,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 25
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 32
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 170
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "35_コカトリス",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 63,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 800,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            }
+        ],
+        "gold": 150,
+        "name": "コカトリス",
+        "note": "Breath Motion: 1",
+        "params": [
+            1350,
+            300,
+            22,
+            10,
+            68,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 35,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 25
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 48
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 171
+            },
+            {
+                "conditionParam1": 38,
+                "conditionParam2": 0,
+                "conditionType": 4,
+                "rating": 6,
+                "skillId": 172
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Rairyuu_03",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 26,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 3000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 2000,
+        "name": "ドラゴン・エレクトリック種",
+        "note": "Breath Motion: 1",
+        "params": [
+            25000,
+            5000,
+            22,
+            20,
+            70,
+            20,
+            120,
+            30
+        ]
+    },
+    {
+        "id": 36,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 32
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 33
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 173
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Karyou_04",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 66,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 900,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            }
+        ],
+        "gold": 150,
+        "name": "ドラゴン・ダーク種",
+        "note": "Breath Motion: 1",
+        "params": [
+            1900,
+            5000,
+            68,
+            10,
+            70,
+            10,
+            30,
+            30
+        ]
+    },
+    {
+        "id": 37,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 161
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 174
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "52_竜の胎動",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 28,
+                "denominator": 8
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 850,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            }
+        ],
+        "gold": 150,
+        "name": "ドラゴンの卵",
+        "note": "Breath Motion: 1",
+        "params": [
+            1800,
+            5000,
+            50,
+            10,
+            50,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 38,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 32
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 33
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 173
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 175
+            },
+            {
+                "conditionParam1": 0.4,
+                "conditionParam2": 1,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 176
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Karyou_03",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 16,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 4000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 2000,
+        "name": "獰猛なドラゴン・ダーク種",
+        "note": "Breath Motion: 1",
+        "params": [
+            28000,
+            5000,
+            73,
+            20,
+            73,
+            20,
+            50,
+            30
+        ]
+    },
+    {
+        "id": 39,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 29
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 30
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 51
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 177
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Hyouryuu_01",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 65,
+                "denominator": 4
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 950,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            }
+        ],
+        "gold": 150,
+        "name": "ドラゴン・フロスト種",
+        "note": "Breath Motion: 1",
+        "params": [
+            2100,
+            5000,
+            20,
+            10,
+            73,
+            10,
+            60,
+            30
+        ]
+    },
+    {
+        "id": 40,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 150
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 179
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 180
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "05_タール塊",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 15,
+                "denominator": 8
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 1.5
+            }
+        ],
+        "gold": 150,
+        "name": "なにかの塊",
+        "note": "Breath Motion: 1",
+        "params": [
+            1950,
+            5000,
+            74,
+            10,
+            10,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 41,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 29
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 30
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 51
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 177
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 178
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Hyouryuu_02",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 22,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 5000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 2000,
+        "name": "ドラゴン・フロスト変異種",
+        "note": "Breath Motion: 1",
+        "params": [
+            31000,
+            5000,
+            75,
+            20,
+            78,
+            20,
+            70,
+            30
+        ]
+    },
+    {
+        "id": 42,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 150
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 181
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 182
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "06_金塊",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 10
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 1.5
+            }
+        ],
+        "gold": 2000,
+        "name": "腐った金塊",
+        "note": "Breath Motion: 1\n\n金落とす",
+        "params": [
+            2000,
+            300,
+            75,
+            10,
+            10,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 43,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 44,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 120
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 183
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 184
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "28_王墓の防人",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 67,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1500,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            }
+        ],
+        "gold": 200,
+        "name": "スケルトン",
+        "note": "Breath Motion: 1",
+        "params": [
+            2400,
+            5000,
+            80,
+            10,
+            10,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 45,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 32
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 33
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 185
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "32_髑髏蜘蛛",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 68,
+                "denominator": 4
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1500,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 1.5
+            }
+        ],
+        "gold": 200,
+        "name": "地獄スパイダー",
+        "note": "Breath Motion: 1",
+        "params": [
+            2300,
+            5000,
+            22,
+            10,
+            80,
+            10,
+            200,
+            30
+        ]
+    },
+    {
+        "id": 46,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 150
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 186
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 187
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.4,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 188
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "43_アースゴーレム",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 16,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 5000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 3000,
+        "name": "アースゴーレム（電気の姿）",
+        "note": "Breath Motion: 1",
+        "params": [
+            33000,
+            5000,
+            82,
+            20,
+            10,
+            20,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 47,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 48,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 194
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 196
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 197
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 198
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 195
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 199
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Dullahan_01B",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 10
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 5000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "gold": 0,
+        "name": "公爵級悪魔エリゴール",
+        "note": "Breath Motion: 1",
+        "params": [
+            28000,
+            5000,
+            85,
+            20,
+            85,
+            20,
+            120,
+            30
+        ]
+    },
+    {
+        "id": 49,
+        "actions": [
+            {
+                "conditionParam1": 0.3,
+                "conditionParam2": 1,
+                "conditionType": 2,
+                "rating": 5,
+                "skillId": 194
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 197
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 202
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 201
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 205
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 203
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.4,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 204
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "60_魔王(暴走形態)",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 10
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "gold": 0,
+        "name": "偽魔王",
+        "note": "Breath Motion: 1",
+        "params": [
+            45000,
+            5000,
+            90,
+            20,
+            90,
+            20,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 50,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 51,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 52,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 53,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 54,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 55,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 56,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 57,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 58,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 29
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 25
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 21
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 220
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 221
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "42_宝石箱",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 30,
+                "denominator": 8
+            },
+            {
+                "kind": 1,
+                "dataId": 31,
+                "denominator": 8
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1500,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            }
+        ],
+        "gold": 100,
+        "name": "偽箱トラップ",
+        "note": "Breath Motion: 1\n\nいろんなアイテム落とす",
+        "params": [
+            1800,
+            300,
+            22,
+            10,
+            86,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 59,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 29
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 25
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 21
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 220
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 221
+            }
+        ],
+        "battlerHue": 26,
+        "battlerName": "42_宝石箱",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 33,
+                "denominator": 8
+            },
+            {
+                "kind": 1,
+                "dataId": 34,
+                "denominator": 8
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1500,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            }
+        ],
+        "gold": 100,
+        "name": "偽箱トラップ",
+        "note": "Breath Motion: 1\n\nいろんなアイテム落とす",
+        "params": [
+            1800,
+            300,
+            22,
+            10,
+            86,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 60,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 29
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 25
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 21
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 220
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 221
+            }
+        ],
+        "battlerHue": 188,
+        "battlerName": "42_宝石箱",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 28,
+                "denominator": 8
+            },
+            {
+                "kind": 1,
+                "dataId": 27,
+                "denominator": 10
+            },
+            {
+                "kind": 1,
+                "dataId": 26,
+                "denominator": 10
+            }
+        ],
+        "exp": 1500,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            }
+        ],
+        "gold": 100,
+        "name": "偽箱トラップ",
+        "note": "Breath Motion: 1\n\nいろんなアイテム落とす",
+        "params": [
+            1800,
+            300,
+            22,
+            10,
+            86,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 61,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 59
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 57
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "hero-mage_rt",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 10
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            }
+        ],
+        "gold": 0,
+        "name": "魔法研の生徒",
+        "note": "Breath Motion: 1",
+        "params": [
+            500,
+            300,
+            22,
+            10,
+            38,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 62,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 129
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 130
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "will-o_-the-wisp_01",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 13,
+                "denominator": 8
+            },
+            {
+                "kind": 1,
+                "dataId": 19,
+                "denominator": 8
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 10000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 20,
+        "name": "デバッグよう",
+        "note": "Breath Motion: 1",
+        "params": [
+            1,
+            300,
+            16,
+            10,
+            18,
+            10,
+            1,
+            30
+        ]
+    },
+    {
+        "id": 63,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 64,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 65,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 66,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 67,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 32
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 33
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 173
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 175
+            },
+            {
+                "conditionParam1": 0.4,
+                "conditionParam2": 1,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 176
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Karyou_03",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 16,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 4000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "gold": 2000,
+        "name": "獰猛なドラゴン・ダーク種（強化）",
+        "note": "Breath Motion: 1",
+        "params": [
+            40000,
+            5000,
+            100,
+            10,
+            100,
+            10,
+            200,
+            30
+        ]
+    },
+    {
+        "id": 68,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 69,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 70,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 71,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 72,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "その他----------------",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 73,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 207
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "suuhai_1",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 200,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            }
+        ],
+        "gold": 0,
+        "name": "炎",
+        "note": "Breath Motion: 1",
+        "params": [
+            200,
+            300,
+            20,
+            10,
+            22,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 74,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 207
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "suuhai_1",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 200,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 1.5
+            }
+        ],
+        "gold": 0,
+        "name": "水",
+        "note": "Breath Motion: 1",
+        "params": [
+            200,
+            300,
+            20,
+            10,
+            22,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 75,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 207
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "suuhai_1",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 200,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 1.5
+            }
+        ],
+        "gold": 0,
+        "name": "電気",
+        "note": "Breath Motion: 1",
+        "params": [
+            200,
+            300,
+            20,
+            10,
+            22,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 76,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 207
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "suuhai_1",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 200,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            }
+        ],
+        "gold": 0,
+        "name": "闇",
+        "note": "Breath Motion: 1",
+        "params": [
+            200,
+            300,
+            20,
+            10,
+            22,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 77,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 207
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "suuhai_1",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 203,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 6,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 1.5
+            }
+        ],
+        "gold": 0,
+        "name": "光",
+        "note": "Breath Motion: 1",
+        "params": [
+            200,
+            300,
+            20,
+            10,
+            22,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 78,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 79,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "ユニーク---------------",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 80,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 46
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 130
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 136
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 129
+            }
+        ],
+        "battlerHue": 179,
+        "battlerName": "23_オーク",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 148,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 300,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "gold": 0,
+        "name": "オーク・アビス",
+        "note": "Breath Motion: 1",
+        "params": [
+            2200,
+            5000,
+            38,
+            10,
+            38,
+            10,
+            60,
+            30
+        ]
+    },
+    {
+        "id": 81,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 59
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 137
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 32
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 33
+            }
+        ],
+        "battlerHue": 251,
+        "battlerName": "18_地縛霊",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 148,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "gold": 0,
+        "name": "スピリット・アビス",
+        "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
+        "params": [
+            5000,
+            5000,
+            20,
+            10,
+            50,
+            10,
+            60,
+            30
+        ]
+    },
+    {
+        "id": 82,
+        "actions": [
+            {
+                "conditionParam1": 0.2,
+                "conditionParam2": 1,
+                "conditionType": 2,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 218
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 219
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 129
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 224
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.4,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 225
+            }
+        ],
+        "battlerHue": 214,
+        "battlerName": "Golem_01",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 148,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 13
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1500,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "gold": 0,
+        "name": "ゴーレム・アビス",
+        "note": "Breath Motion: 1",
+        "params": [
+            7000,
+            5000,
+            53,
+            10,
+            10,
+            10,
+            20,
+            30
+        ]
+    },
+    {
+        "id": 83,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 150
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 151
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 226
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 227
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 228
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.4,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 229
+            }
+        ],
+        "battlerHue": 209,
+        "battlerName": "Manmosu_02",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 148,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 2000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            }
+        ],
+        "gold": 0,
+        "name": "マンモス・アビス",
+        "note": "Breath Motion: 1",
+        "params": [
+            15000,
+            5000,
+            60,
+            20,
+            10,
+            20,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 84,
+        "actions": [
+            {
+                "conditionParam1": 0.3,
+                "conditionParam2": 1,
+                "conditionType": 2,
+                "rating": 5,
+                "skillId": 32
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 33
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 30
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 59
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 51
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 57
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.4,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 230
+            }
+        ],
+        "battlerHue": 52,
+        "battlerName": "will-o_-the-wisp_01",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 148,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 3000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "gold": 0,
+        "name": "ウィルオウィスプ・アビス",
+        "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
+        "params": [
+            16000,
+            5000,
+            20,
+            15,
+            67,
+            25,
+            40,
+            30
+        ]
+    },
+    {
+        "id": 85,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 218
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 219
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 185
+            },
+            {
+                "conditionParam1": 47,
+                "conditionParam2": 0,
+                "conditionType": 4,
+                "rating": 4,
+                "skillId": 222
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 49
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 129
+            }
+        ],
+        "battlerHue": 216,
+        "battlerName": "Minotaur_01",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 148,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 4000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 14,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "gold": 0,
+        "name": "ミノタウロス・アビス",
+        "note": "Breath Motion: 1",
+        "params": [
+            15500,
+            5000,
+            76,
+            25,
+            73,
+            15,
+            150,
+            30
+        ]
+    },
+    {
+        "id": 86,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 87,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 30
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 51
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 208
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 191
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 72
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 230
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 232
+            }
+        ],
+        "battlerHue": 197,
+        "battlerName": "Gazer_01",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 148,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 5000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "gold": 0,
+        "name": "ゲイザー・アビス",
+        "note": "Breath Motion: 1",
+        "params": [
+            40000,
+            5000,
+            22,
+            20,
+            80,
+            20,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 88,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 33
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 193
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.7,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 192
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 231
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 190
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 233
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Yamatano-oroti_2",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 148,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 6000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "gold": 0,
+        "name": "ドラゴン・アビス",
+        "note": "Breath Motion: 1",
+        "params": [
+            50000,
+            5000,
+            90,
+            20,
+            90,
+            20,
+            100,
+            100
+        ]
+    },
+    {
+        "id": 89,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 214
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 215
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 216
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 235
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 217
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 234
+            }
+        ],
+        "battlerHue": 267,
+        "battlerName": "Fallen Angel_02",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 148,
+                "denominator": 1
+            },
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 12
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 7000,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 15,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "gold": 0,
+        "name": "アビス",
+        "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
+        "params": [
+            75000,
+            5000,
+            100,
+            20,
+            110,
+            20,
+            190,
+            80
+        ]
+    },
+    {
+        "id": 90,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    }
+]

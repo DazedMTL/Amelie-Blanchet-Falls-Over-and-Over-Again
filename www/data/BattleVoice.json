@@ -1,0 +1,380 @@
+{
+    "voices": [
+        [
+            {
+                "name": "attack1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "attack2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "attack3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "guard1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "guard2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "guard3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "skill1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "skill2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "skill3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "item1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "item2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "item3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "critical1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "critical2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "critical3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "miss1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "miss2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "miss3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "eva1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "eva2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "eva3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "dead1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "dead2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "dead3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "dying1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "dying2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "dying3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "damage1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "damage2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "damage3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "recover1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "recover2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "recover3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "inbattle1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "inbattle2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "inbattle3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "endbattle1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "endbattle2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "endbattle3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "escapefai1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "escapefai2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "escapefai2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "escapesus1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "escapesus2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "escapesus3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "spsk",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "counter1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "counter2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "counter3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "turn1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "turn2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "turn3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "state1",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "state2",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            },
+            {
+                "name": "state3",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ],
+        [
+            {
+                "name": "spst",
+                "pan": 0,
+                "pitch": 100,
+                "volume": 100
+            }
+        ]
+    ]
+}
