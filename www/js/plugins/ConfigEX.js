@@ -160,7 +160,7 @@ ConfigManager.readVolume = function (config, name) {
 
         _Window_Options_addGeneralOptions.call(this);
 
-        this.addCommand('会話音声', 'Voice');
+        this.addCommand('Voice', 'Voice');
         //あああ    this.addCommand('戦闘音声', 'battleVoice');
     };
     var _Window_Options_addVolumeOptions = Window_Options.prototype.addVolumeOptions;
@@ -168,7 +168,7 @@ ConfigManager.readVolume = function (config, name) {
 
         _Window_Options_addVolumeOptions.call(this);
 
-        this.addCommand('音声音量', 'vcVolume');
+        this.addCommand('Voice Volume', 'vcVolume');
     };
 
 })();
