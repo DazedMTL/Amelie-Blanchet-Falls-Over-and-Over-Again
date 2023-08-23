@@ -611,7 +611,7 @@ Window_EroStatus.prototype.update = function () {//毎回image描写してもい
 					x -= allW;
 				}
 				for (var k = 0, len2 = strAry.length; k < len2; k++) {
-					this.contents.fontSize = size + dataFAry[k];
+					this.contents.fontSize = 14;
 					this.contents.context.font = this.contents._makeFontNameText();
 					//bottom→下揃え原点の上　top→上揃え原点の下　center→原点
 					var line = ary[i].y;
