@@ -229,7 +229,7 @@ Sprite_CharText.prototype.create_char_text = function () {
 	this._char_text = new Sprite(new Bitmap(140, 32));
 	this._char_text.anchor.x = 0.5;
 	this._char_text.y = -(this.sprite_char.patternHeight());
-	this._char_text.bitmap.fontSize = Moghunter.charText_Size;
+	this._char_text.bitmap.fontSize = 10;
 	this.addChild(this._char_text);
 };
 
