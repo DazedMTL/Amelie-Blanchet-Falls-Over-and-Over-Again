@@ -4004,8 +4004,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "記録する",
-                                    "なにもしない"
+                                    "Record",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -6020,7 +6020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even now, the Manck Castle still floats in the\nsky of Manck City, but we were living peaceful\ndays."
+                                "Even now, the Manck Castle still floats in the sky\nof Manck City, but we were living peaceful days."
                             ]
                         },
                         {
@@ -6075,7 +6075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Leila: Yeah. It's a once-in-a-lifetime thing, so\nI definitely want to do it."
+                                "Leila: Yeah. It's a once-in-a-lifetime thing, so I\ndefinitely want to do it."
                             ]
                         },
                         {
@@ -6513,8 +6513,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "選択肢に戻る",
-                                    "戻らない（タイトル画面へ）"
+                                    "Return to the choices",
+                                    "Return (to the title screen)"
                                 ],
                                 -1,
                                 -1,
@@ -10156,7 +10156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Amelia] "
+                                "[Amelia]"
                             ]
                         },
                         {
@@ -10180,7 +10180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Masamune] "
+                                "[Masamune]"
                             ]
                         },
                         {
@@ -10204,7 +10204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Elena] "
+                                "[Elena]"
                             ]
                         },
                         {
@@ -10228,7 +10228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Hiyo] "
+                                "[Hiyo]"
                             ]
                         },
                         {
@@ -10252,7 +10252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Sayoko] "
+                                "[Sayoko]"
                             ]
                         },
                         {
@@ -10276,7 +10276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Olivia] "
+                                "[Olivia]"
                             ]
                         },
                         {
@@ -10300,7 +10300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Mysterious Girl Leviathan] "
+                                "[Mysterious Girl Leviathan]"
                             ]
                         },
                         {
@@ -10331,7 +10331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Professor Hoffman] "
+                                "[Professor Hoffman]"
                             ]
                         },
                         {
@@ -10355,7 +10355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Tommy] "
+                                "[Tommy]"
                             ]
                         },
                         {
@@ -10379,7 +10379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Leon] "
+                                "[Leon]"
                             ]
                         },
                         {
@@ -10403,7 +10403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Skeleton Head] "
+                                "[Skeleton Head]"
                             ]
                         },
                         {
@@ -10427,7 +10427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Jackson] "
+                                "[Jackson]"
                             ]
                         },
                         {
@@ -11009,8 +11009,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "しない"
+                                    "Save",
+                                    "I won't do it"
                                 ],
                                 1,
                                 0,
@@ -12600,7 +12600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Amelia] "
+                                "[Amelia]"
                             ]
                         },
                         {
@@ -12624,7 +12624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Masamune] "
+                                "[Masamune]"
                             ]
                         },
                         {
@@ -12648,7 +12648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Elena] "
+                                "[Elena]"
                             ]
                         },
                         {
@@ -12672,7 +12672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Hiyo] "
+                                "[Hiyo]"
                             ]
                         },
                         {
@@ -12696,7 +12696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Sayoko] "
+                                "[Sayoko]"
                             ]
                         },
                         {
@@ -12720,7 +12720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Olivia] "
+                                "[Olivia]"
                             ]
                         },
                         {
@@ -12744,7 +12744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Mysterious Girl Leviathan] "
+                                "[Mysterious Girl Leviathan]"
                             ]
                         },
                         {
@@ -12775,7 +12775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Professor Hoffman] "
+                                "[Professor Hoffman]"
                             ]
                         },
                         {
@@ -12799,7 +12799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Tommy] "
+                                "[Tommy]"
                             ]
                         },
                         {
@@ -12823,7 +12823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Leon] "
+                                "[Leon]"
                             ]
                         },
                         {
@@ -12847,7 +12847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Skeleton Head] "
+                                "[Skeleton Head]"
                             ]
                         },
                         {
@@ -12871,7 +12871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Jackson] "
+                                "[Jackson]"
                             ]
                         },
                         {
@@ -14843,9 +14843,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "服",
-                                    "なし"
+                                    "Naked",
+                                    "Clothes",
+                                    "None"
                                 ],
                                 1,
                                 0,
@@ -14923,9 +14923,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "制服",
-                                    "服"
+                                    "Naked",
+                                    "School uniform",
+                                    "Clothes"
                                 ],
                                 1,
                                 0,
@@ -15122,7 +15122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The final battle cannot take place until the\nthird day or later."
+                                "The final battle cannot take place until the third\nday or later."
                             ]
                         },
                         {
@@ -16325,7 +16325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Amelia] "
+                                "[Amelia]"
                             ]
                         },
                         {
@@ -16349,7 +16349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Masamune] "
+                                "[Masamune]"
                             ]
                         },
                         {
@@ -16373,7 +16373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Elena] "
+                                "[Elena]"
                             ]
                         },
                         {
@@ -16397,7 +16397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Hiyo] "
+                                "[Hiyo]"
                             ]
                         },
                         {
@@ -16421,7 +16421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Sayoko] "
+                                "[Sayoko]"
                             ]
                         },
                         {
@@ -16445,7 +16445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Olivia] "
+                                "[Olivia]"
                             ]
                         },
                         {
@@ -16469,7 +16469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Mysterious Girl Leviathan] "
+                                "[Mysterious Girl Leviathan]"
                             ]
                         },
                         {
@@ -16500,7 +16500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Professor Hoffman] "
+                                "[Professor Hoffman]"
                             ]
                         },
                         {
@@ -16524,7 +16524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Tommy] "
+                                "[Tommy]"
                             ]
                         },
                         {
@@ -16548,7 +16548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Leon] "
+                                "[Leon]"
                             ]
                         },
                         {
@@ -16572,7 +16572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Skeleton Head] "
+                                "[Skeleton Head]"
                             ]
                         },
                         {
@@ -16596,7 +16596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Jackson] "
+                                "[Jackson]"
                             ]
                         },
                         {
@@ -18755,7 +18755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Amelia] "
+                                "[Amelia]"
                             ]
                         },
                         {
@@ -18779,7 +18779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Masamune] "
+                                "[Masamune]"
                             ]
                         },
                         {
@@ -18803,7 +18803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Elena] "
+                                "[Elena]"
                             ]
                         },
                         {
@@ -18827,7 +18827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Hiyo] "
+                                "[Hiyo]"
                             ]
                         },
                         {
@@ -18851,7 +18851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Sayoko] "
+                                "[Sayoko]"
                             ]
                         },
                         {
@@ -18875,7 +18875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Olivia] "
+                                "[Olivia]"
                             ]
                         },
                         {
@@ -18899,7 +18899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Mysterious Girl Leviathan] "
+                                "[Mysterious Girl Leviathan]"
                             ]
                         },
                         {
@@ -18930,7 +18930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Professor Hoffman] "
+                                "[Professor Hoffman]"
                             ]
                         },
                         {
@@ -18954,7 +18954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Tommy] "
+                                "[Tommy]"
                             ]
                         },
                         {
@@ -18978,7 +18978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Leon] "
+                                "[Leon]"
                             ]
                         },
                         {
@@ -19002,7 +19002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Skeleton Head] "
+                                "[Skeleton Head]"
                             ]
                         },
                         {
@@ -19026,7 +19026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Jackson] "
+                                "[Jackson]"
                             ]
                         },
                         {

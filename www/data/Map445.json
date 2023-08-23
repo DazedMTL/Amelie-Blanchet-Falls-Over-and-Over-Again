@@ -13124,8 +13124,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13340,8 +13340,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13972,7 +13972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Hannah】 (I should deny those rumors about being\na love cupid as soon as possible.)"
+                                "【Hannah】 (I should deny those rumors about being a\nlove cupid as soon as possible.)"
                             ]
                         },
                         {
@@ -14160,7 +14160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Chloe】 I have developed a demon detector and I\nam cooperating with the heroes and the church."
+                                "【Chloe】 I have developed a demon detector and I am\ncooperating with the heroes and the church."
                             ]
                         },
                         {
@@ -14191,7 +14191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Chloe】 But Chloe's family is a branch family,\nand I happened to have a talent for magic..."
+                                "【Chloe】 But Chloe's family is a branch family, and\nI happened to have a talent for magic..."
                             ]
                         },
                         {
@@ -14315,7 +14315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Chloe】 That's the ancestor of the person I\nlike."
+                                "【Chloe】 That's the ancestor of the person I like."
                             ]
                         },
                         {
@@ -14439,7 +14439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Hannah】 I wonder what the master thinks of\nChloe?"
+                                "【Hannah】 I wonder what the master thinks of Chloe?"
                             ]
                         },
                         {
@@ -14570,7 +14570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Hannah】 I think it's not good to have sex\nwithout being in a relationship!"
+                                "【Hannah】 I think it's not good to have sex without\nbeing in a relationship!"
                             ]
                         },
                         {
@@ -14601,7 +14601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Chloe】 But if I'm desired, I can't refuse.\nMaybe, they might even become my lover."
+                                "【Chloe】 But if I'm desired, I can't refuse. Maybe,\nthey might even become my lover."
                             ]
                         },
                         {
@@ -14701,7 +14701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Hannah】 (They're definitely the type who can't\nbe happy)"
+                                "【Hannah】 (They're definitely the type who can't be\nhappy)"
                             ]
                         },
                         {
@@ -16388,7 +16388,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Store Clerk at the Purchasing\nDepartment】Welcome!"
+                                "【Store Clerk at the Purchasing Department】Welcome!"
                             ]
                         },
                         {
@@ -18351,7 +18351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Carbuncle】I am a Carbuncle kept at the academy.\nI am skilled in fortune-telling magic, so if\nyou're ever in need, feel free to ask me."
+                                "【Carbuncle】I am a Carbuncle kept at the academy. I\nam skilled in fortune-telling magic, so if you're\never in need, feel free to ask me."
                             ]
                         },
                         {
@@ -18382,7 +18382,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Carbuncle】Let's change various settings as\nwell."
+                                "【Carbuncle】Let's change various settings as well."
                             ]
                         },
                         {
@@ -18456,9 +18456,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "次に進むべき道を教えてもらう",
-                                    "設定を変える",
-                                    "なんでもない"
+                                    "Please tell me which path I should take next",
+                                    "Change the settings",
+                                    "It's nothing"
                                 ],
                                 2,
                                 0,
@@ -18506,12 +18506,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "雑魚戦闘を自動で終わらすON/OFF",
-                                    "ボス戦闘を自動で終わらすON/OFF",
-                                    "MAP立ち絵ON/OFF",
-                                    "パーティクル演出ON/OFF",
-                                    "画像を消す（ピクチャが残っている時に使用）",
-                                    "なんでもない"
+                                    "Auto Finish for Weak Battles ON/OFF",
+                                    "Toggle Auto Finish for Boss Battles ON/OFF",
+                                    "MAP Character Portrait ON/OFF",
+                                    "Particle Effects ON/OFF",
+                                    "Erase the image (use when the picture is still remaining)",
+                                    "It's nothing"
                                 ],
                                 5,
                                 0,
@@ -18655,7 +18655,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【Carbuncle】If you turn it ON, boss battles will\nbe skipped and considered as victories."
+                                "【Carbuncle】If you turn it ON, boss battles will be\nskipped and considered as victories."
                             ]
                         },
                         {
@@ -19839,7 +19839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Masamune】Should we use the teleportation stone\nwe registered when we went there before? It was at\nthe entrance of B2, right?"
+                                "【Masamune】Should we use the teleportation stone we\nregistered when we went there before? It was at\nthe entrance of B2, right?"
                             ]
                         },
                         {
@@ -19861,9 +19861,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -20106,10 +20106,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Stop"
                                 ],
                                 3,
                                 0,
@@ -20234,11 +20234,11 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Stop"
                                 ],
                                 4,
                                 0,
@@ -20379,12 +20379,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Stop"
                                 ],
                                 5,
                                 0,
@@ -20713,8 +20713,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "エレナと一緒に突入",
-                                    "やめる"
+                                    "Infiltrating together with Elena",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -20735,12 +20735,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,
@@ -21103,12 +21103,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,
@@ -21429,12 +21429,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,
@@ -21971,12 +21971,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,
@@ -22297,12 +22297,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,

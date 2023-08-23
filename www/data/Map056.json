@@ -8538,8 +8538,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "魔法の火種を使う",
-                                    "なにもしない"
+                                    "Using the seed of magic fire",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -8650,7 +8650,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Masamune】It seems like something can be\nburned... Shall we search the room?"
+                                "【Masamune】It seems like something can be burned...\nShall we search the room?"
                             ]
                         },
                         {
@@ -8801,8 +8801,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "魔法の火種を使う",
-                                    "なにもしない"
+                                    "Using the seed of magic fire",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -8913,7 +8913,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Masamune】It seems like something can be\nburned... Shall we search the room?"
+                                "【Masamune】It seems like something can be burned...\nShall we search the room?"
                             ]
                         },
                         {
@@ -9064,8 +9064,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "魔法の火種を使う",
-                                    "なにもしない"
+                                    "Using the magic spark",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -9176,7 +9176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Masamune】It seems like something can be\nburned... Shall we search the room?"
+                                "【Masamune】It seems like something can be burned...\nShall we search the room?"
                             ]
                         },
                         {
@@ -9370,8 +9370,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "調べる",
-                                    "なにもしない"
+                                    "Investigate",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -12706,9 +12706,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ探索を続ける",
-                                    "終わりにして部屋に戻る",
-                                    "入り口に戻る"
+                                    "Continue the exploration",
+                                    "Let's finish and return to the room",
+                                    "Return to the entrance"
                                 ],
                                 0,
                                 0,

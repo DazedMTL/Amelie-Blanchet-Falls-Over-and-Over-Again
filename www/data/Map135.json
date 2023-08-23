@@ -15381,9 +15381,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "次に進むべき道を教えてもらう",
-                                    "設定を変える",
-                                    "なんでもない"
+                                    "Please tell me which path to take next",
+                                    "Change the settings",
+                                    "It's nothing"
                                 ],
                                 2,
                                 0,
@@ -15431,12 +15431,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "雑魚戦闘を自動で終わらすON/OFF",
-                                    "ボス戦闘を自動で終わらすON/OFF",
-                                    "MAP立ち絵ON/OFF",
-                                    "パーティクル演出ON/OFF",
-                                    "画像を消す（ピクチャが残っている時に使用）",
-                                    "なんでもない"
+                                    "Toggle Auto-End for Weak Battles ON/OFF",
+                                    "Toggle Auto-End Boss Battles ON/OFF",
+                                    "MAP Character Portrait ON/OFF",
+                                    "Particle Effects ON/OFF",
+                                    "Delete image (used when a picture is remaining)",
+                                    "It's nothing"
                                 ],
                                 5,
                                 0,
@@ -15580,7 +15580,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【Carbuncle】If you turn it ON, boss battles will\nbe skipped and you will proceed as if you have\nwon."
+                                "【Carbuncle】If you turn it ON, boss battles will be\nskipped and you will proceed as if you have won."
                             ]
                         },
                         {
@@ -16508,7 +16508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Male] ...  Note: The term 男子 refers to a male\ncharacter, but since the gender is not specified\nin the context, I have used the gender-neutral\nterm Male instead."
+                                "[Male] ... Note: The term 男子 refers to a male\ncharacter, but since the gender is not specified\nin the context, I have used the gender-neutral\nterm Male instead."
                             ]
                         },
                         {
@@ -18041,7 +18041,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【Masamune】Should we use the teleportation stone\nwe registered when we went there before? It was at\nthe entrance of B2, right?"
+                                "【Masamune】Should we use the teleportation stone we\nregistered when we went there before? It was at\nthe entrance of B2, right?"
                             ]
                         },
                         {
@@ -18107,9 +18107,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Stop"
                                 ],
                                 2,
                                 0,

@@ -21998,9 +21998,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ探索を続ける",
-                                    "終わりにして部屋に戻る",
-                                    "入り口に戻る"
+                                    "Continue exploring",
+                                    "I'll finish up and return to my room",
+                                    "Return to the entrance"
                                 ],
                                 0,
                                 0,
@@ -22530,7 +22530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Masamune】We need to hurry to the\nrepresentative's office."
+                                "【Masamune】We need to hurry to the representative's\noffice."
                             ]
                         },
                         {
@@ -22620,9 +22620,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ探索を続ける",
-                                    "終わりにして部屋に戻る",
-                                    "入り口に戻る"
+                                    "Continue the exploration",
+                                    "I'll finish up and return to my room",
+                                    "Return to the entrance"
                                 ],
                                 0,
                                 0,
@@ -27942,9 +27942,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "次に進むべき道を教えてもらう",
-                                    "設定を変える",
-                                    "なんでもない"
+                                    "Please tell me which path I should take next",
+                                    "Change the settings",
+                                    "It's nothing"
                                 ],
                                 2,
                                 0,
@@ -27992,12 +27992,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "雑魚戦闘を自動で終わらすON/OFF",
-                                    "ボス戦闘を自動で終わらすON/OFF",
-                                    "MAP立ち絵ON/OFF",
-                                    "パーティクル演出ON/OFF",
-                                    "画像を消す（ピクチャが残っている時に使用）",
-                                    "なんでもない"
+                                    "Toggle Auto-End for Weak Battles ON/OFF",
+                                    "Toggle Auto Finish for Boss Battles ON/OFF",
+                                    "MAP Character Portrait ON/OFF",
+                                    "Particle Effects ON/OFF",
+                                    "Delete image (used when there is a remaining picture)",
+                                    "It's nothing"
                                 ],
                                 5,
                                 0,
@@ -28141,7 +28141,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【Carbuncle】If you turn it on, boss battles will\nbe skipped and you will proceed as if you have\nwon."
+                                "【Carbuncle】If you turn it on, boss battles will be\nskipped and you will proceed as if you have won."
                             ]
                         },
                         {
@@ -28694,7 +28694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Masamune】We need to hurry to the\nrepresentative's office."
+                                "【Masamune】We need to hurry to the representative's\noffice."
                             ]
                         },
                         {
@@ -28860,7 +28860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Masamune】We need to hurry to the\nrepresentative's office."
+                                "【Masamune】We need to hurry to the representative's\noffice."
                             ]
                         },
                         {
@@ -29026,7 +29026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Masamune】We need to hurry to the\nrepresentative's office."
+                                "【Masamune】We need to hurry to the representative's\noffice."
                             ]
                         },
                         {
@@ -29392,7 +29392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Black-suited Student】Only authorized students\nare allowed to enter here."
+                                "【Black-suited Student】Only authorized students are\nallowed to enter here."
                             ]
                         },
                         {
@@ -29584,7 +29584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Sylvester von Weisshwaik] Indeed, I am Sylvester\nvon Weisshwaik, a noble of the Kingdom of\nPrussia."
+                                "[Sylvester von Weisshwaik] Indeed, I am Sylvester\nvon Weisshwaik, a noble of the Kingdom of Prussia."
                             ]
                         },
                         {
@@ -29732,7 +29732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Sylvester von Weisshwaik] You'll be amazed by\nhow incredible it is."
+                                "[Sylvester von Weisshwaik] You'll be amazed by how\nincredible it is."
                             ]
                         },
                         {
@@ -33482,7 +33482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Amelia】 I'll search for any signs of demons,\njust in case."
+                                "【Amelia】 I'll search for any signs of demons, just\nin case."
                             ]
                         },
                         {
@@ -33823,7 +33823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Elena】 So you were saved and fell in love,\nright?"
+                                "【Elena】 So you were saved and fell in love, right?"
                             ]
                         },
                         {
@@ -33878,7 +33878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Elena】 Hmm, so it's okay for Amelia to date\nother guys?"
+                                "【Elena】 Hmm, so it's okay for Amelia to date other\nguys?"
                             ]
                         },
                         {
@@ -34040,7 +34040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Elena】 If you say things like that, she might\nget snatched away right away, you know."
+                                "【Elena】 If you say things like that, she might get\nsnatched away right away, you know."
                             ]
                         },
                         {
@@ -34274,7 +34274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Elena】 Amelia, having sex with another guy...\nand moaning in pleasure as she squirts..."
+                                "【Elena】 Amelia, having sex with another guy... and\nmoaning in pleasure as she squirts..."
                             ]
                         },
                         {
@@ -34312,7 +34312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Elena】 Saying things like 'I love it because\nit's bigger than Masamune's dick'..."
+                                "【Elena】 Saying things like 'I love it because it's\nbigger than Masamune's dick'..."
                             ]
                         },
                         {
@@ -34453,7 +34453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Masamune】 (After everything is over, I'll\nconfess again... Please wait until then)"
+                                "【Masamune】 (After everything is over, I'll confess\nagain... Please wait until then)"
                             ]
                         },
                         {

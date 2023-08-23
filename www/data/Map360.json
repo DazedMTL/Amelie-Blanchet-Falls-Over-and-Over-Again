@@ -5508,7 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll make use of the passage you created as\nwell."
+                                "I'll make use of the passage you created as well."
                             ]
                         },
                         {
@@ -5557,8 +5557,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "魔導書を読んで闇魔法を習得する",
-                                    "やめる"
+                                    "Read the grimoire to learn dark magic",
+                                    "Stop"
                                 ],
                                 1,
                                 -1,
@@ -6208,8 +6208,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "魔導書を読んで光魔法を習得する",
-                                    "やめる"
+                                    "Learn light magic by reading the grimoire",
+                                    "Stop"
                                 ],
                                 1,
                                 -1,
@@ -7391,7 +7391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Masamune】 Hmm... There's still something\ninside."
+                                "【Masamune】 Hmm... There's still something inside."
                             ]
                         },
                         {
@@ -7563,8 +7563,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "覗く",
-                                    "覗かない"
+                                    "Peek",
+                                    "I won't peek"
                                 ],
                                 1,
                                 0,
@@ -7783,8 +7783,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "覗く",
-                                    "覗かない"
+                                    "Peek",
+                                    "I won't peek"
                                 ],
                                 1,
                                 0,
@@ -8003,8 +8003,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "覗く",
-                                    "覗かない"
+                                    "Peek",
+                                    "I won't peek"
                                 ],
                                 1,
                                 0,
@@ -8223,8 +8223,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "覗く",
-                                    "覗かない"
+                                    "Peek",
+                                    "I won't peek"
                                 ],
                                 1,
                                 0,
@@ -8443,8 +8443,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "覗く",
-                                    "覗かない"
+                                    "Peek",
+                                    "I won't peek"
                                 ],
                                 1,
                                 0,

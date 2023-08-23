@@ -13124,8 +13124,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13340,8 +13340,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15831,7 +15831,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Store Clerk at the Purchasing\nDepartment】Welcome!"
+                                "【Store Clerk at the Purchasing Department】Welcome!"
                             ]
                         },
                         {
@@ -17107,9 +17107,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "次に進むべき道を教えてもらう",
-                                    "設定を変える",
-                                    "なんでもない"
+                                    "Please tell me the path to proceed next",
+                                    "Change the settings",
+                                    "It's nothing"
                                 ],
                                 2,
                                 0,
@@ -17157,12 +17157,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "雑魚戦闘を自動で終わらすON/OFF",
-                                    "ボス戦闘を自動で終わらすON/OFF",
-                                    "MAP立ち絵ON/OFF",
-                                    "パーティクル演出ON/OFF",
-                                    "画像を消す（ピクチャが残っている時に使用）",
-                                    "なんでもない"
+                                    "Toggle auto finish for weak battles ON/OFF",
+                                    "Toggle Auto Finish for Boss Battles",
+                                    "MAP Character Portrait ON/OFF",
+                                    "Particle effects ON/OFF",
+                                    "Remove the image (use when there is a remaining picture)",
+                                    "It's nothing"
                                 ],
                                 5,
                                 0,
@@ -17306,7 +17306,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【Carbuncle】If you turn it ON, boss battles will\nbe skipped and considered as victories, allowing\nyou to proceed."
+                                "【Carbuncle】If you turn it ON, boss battles will be\nskipped and considered as victories, allowing you\nto proceed."
                             ]
                         },
                         {
@@ -18490,7 +18490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Masamune】Should we use the teleportation stone\nwe registered when we went there before? It was at\nthe entrance of B2, right?"
+                                "【Masamune】Should we use the teleportation stone we\nregistered when we went there before? It was at\nthe entrance of B2, right?"
                             ]
                         },
                         {
@@ -18512,9 +18512,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -18757,10 +18757,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Stop"
                                 ],
                                 3,
                                 0,
@@ -18885,11 +18885,11 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Stop"
                                 ],
                                 4,
                                 0,
@@ -19030,12 +19030,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Stop"
                                 ],
                                 5,
                                 0,
@@ -19364,8 +19364,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "エレナと一緒に突入",
-                                    "やめる"
+                                    "Infiltrating together with Elena",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -19386,12 +19386,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,
@@ -19754,12 +19754,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,
@@ -20303,7 +20303,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Bulletin Board: To prevent colds, let's\nthoroughly wash our hands, gargle, or use\npurification magic."
+                                "Bulletin Board: To prevent colds, let's thoroughly\nwash our hands, gargle, or use purification magic."
                             ]
                         },
                         {
@@ -20479,7 +20479,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Bulletin Board: To prevent colds, let's\nthoroughly wash our hands, gargle, or use\npurification magic."
+                                "Bulletin Board: To prevent colds, let's thoroughly\nwash our hands, gargle, or use purification magic."
                             ]
                         },
                         {

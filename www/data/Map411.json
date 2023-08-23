@@ -14610,9 +14610,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ探索を続ける",
-                                    "終わりにして部屋に戻る",
-                                    "入り口に戻る"
+                                    "Continue the exploration",
+                                    "Let's finish and return to the room",
+                                    "Return to the entrance"
                                 ],
                                 0,
                                 0,
@@ -16659,7 +16659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Masamune】 It might be a trap. Show it to me for\na moment."
+                                "【Masamune】 It might be a trap. Show it to me for a\nmoment."
                             ]
                         },
                         {
@@ -16690,7 +16690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Amelia】 Oh, Masamune-kun, you're such a\nworrier."
+                                "【Amelia】 Oh, Masamune-kun, you're such a worrier."
                             ]
                         },
                         {
@@ -17115,17 +17115,17 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【Amelia】 ...  【エレナ】  「なんだか、気になるわね...」"
-                            ]
-                        },
-                        {
                             "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Somehow, it's bothering me..."
                             ]
                         },
                         {
@@ -17586,7 +17586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Amelia】 I haven't done anything yet... Mm,\nmm..."
+                                "【Amelia】 I haven't done anything yet... Mm, mm..."
                             ]
                         },
                         {
@@ -17909,7 +17909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Amelia】 I wonder if it'll excite you... How\nabout it?"
+                                "【Amelia】 I wonder if it'll excite you... How about\nit?"
                             ]
                         },
                         {
@@ -17988,7 +17988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Amelia】 It's okay... It's my fault for picking\nup the bag..."
+                                "【Amelia】 It's okay... It's my fault for picking up\nthe bag..."
                             ]
                         },
                         {
@@ -19211,7 +19211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Daikon】Bu-bu-bu! (I'm not a mandrake, I'm\nDaikon! I'm not an enemy...)"
+                                "【Daikon】Bu-bu-bu! (I'm not a mandrake, I'm Daikon!\nI'm not an enemy...)"
                             ]
                         },
                         {

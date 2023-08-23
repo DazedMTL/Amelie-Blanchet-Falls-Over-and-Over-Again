@@ -13124,8 +13124,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13340,8 +13340,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14943,7 +14943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Store Clerk at the Purchasing\nDepartment】Welcome!"
+                                "【Store Clerk at the Purchasing Department】Welcome!"
                             ]
                         },
                         {
@@ -16032,9 +16032,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "次に進むべき道を教えてもらう",
-                                    "設定を変える",
-                                    "なんでもない"
+                                    "Please tell me the path to proceed next",
+                                    "Change the settings",
+                                    "It's nothing"
                                 ],
                                 2,
                                 0,
@@ -16082,12 +16082,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "雑魚戦闘を自動で終わらすON/OFF",
-                                    "ボス戦闘を自動で終わらすON/OFF",
-                                    "MAP立ち絵ON/OFF",
-                                    "パーティクル演出ON/OFF",
-                                    "画像を消す（ピクチャが残っている時に使用）",
-                                    "なんでもない"
+                                    "Toggle auto finish for weak battles ON/OFF",
+                                    "Toggle Auto Finish for Boss Battles",
+                                    "MAP Character Portrait ON/OFF",
+                                    "Particle effects ON/OFF",
+                                    "Remove image (use when a picture is remaining)",
+                                    "It's nothing"
                                 ],
                                 5,
                                 0,
@@ -16231,7 +16231,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【Carbuncle】If you turn it on, boss battles will\nbe skipped and you will proceed as if you have\nwon."
+                                "【Carbuncle】If you turn it on, boss battles will be\nskipped and you will proceed as if you have won."
                             ]
                         },
                         {
@@ -17190,7 +17190,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【Masamune】Should we use the teleportation stone\nwe registered when we went there before? It was\nthe entrance to B2, right?"
+                                "【Masamune】Should we use the teleportation stone we\nregistered when we went there before? It was the\nentrance to B2, right?"
                             ]
                         },
                         {
@@ -17256,9 +17256,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -17965,7 +17965,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Bulletin Board: To prevent colds, let's\nthoroughly wash our hands, gargle, or use\npurification magic."
+                                "Bulletin Board: To prevent colds, let's thoroughly\nwash our hands, gargle, or use purification magic."
                             ]
                         },
                         {
@@ -18141,7 +18141,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Bulletin Board: To prevent colds, let's\nthoroughly wash our hands, gargle, or use\npurification magic."
+                                "Bulletin Board: To prevent colds, let's thoroughly\nwash our hands, gargle, or use purification magic."
                             ]
                         },
                         {
@@ -19201,7 +19201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Amelia] Could it be that tonight, you're\nplanning to masturbate with me?"
+                                "[Amelia] Could it be that tonight, you're planning\nto masturbate with me?"
                             ]
                         },
                         {

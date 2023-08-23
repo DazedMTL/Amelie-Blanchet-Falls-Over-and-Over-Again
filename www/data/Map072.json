@@ -6903,9 +6903,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ探索を続ける",
-                                    "終わりにして部屋に戻る",
-                                    "入り口に戻る"
+                                    "Continue the exploration",
+                                    "I'll call it a day and return to my room",
+                                    "Return to the entrance"
                                 ],
                                 0,
                                 0,
@@ -7498,7 +7498,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【Masamune】We just need to drink these two. Are\nyou okay with it...?"
+                                "【Masamune】We just need to drink these two. Are you\nokay with it...?"
                             ]
                         },
                         {
@@ -9337,8 +9337,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "起動する",
-                                    "なにもしない"
+                                    "Activate",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -10243,7 +10243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Sayoko】Hehe, that's right. Having sex isn't a\nbad thing."
+                                "【Sayoko】Hehe, that's right. Having sex isn't a bad\nthing."
                             ]
                         },
                         {
@@ -11199,7 +11199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Wise-looking Goblin】Please... I have no\nintention to fight."
+                                "【Wise-looking Goblin】Please... I have no intention\nto fight."
                             ]
                         },
                         {

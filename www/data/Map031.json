@@ -3270,8 +3270,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "どかして入る",
-                                    "なにもしない"
+                                    "Please move aside and let me in",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -3301,7 +3301,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【Masamune】This might be the final battle. We\ncan't redo it anymore, but is that okay?"
+                                "【Masamune】This might be the final battle. We can't\nredo it anymore, but is that okay?"
                             ]
                         },
                         {
@@ -3323,8 +3323,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "戻る"
+                                    "Move forward",
+                                    "Go back"
                                 ],
                                 1,
                                 -1,
@@ -6167,7 +6167,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "牢屋から脱出できる魔道具がないか聞く"
+                                    "I want to ask if there is any magical tool to escape from the prison"
                                 ],
                                 -1,
                                 0,

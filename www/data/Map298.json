@@ -2665,8 +2665,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "EDを飛ばす",
-                                    "飛ばさない"
+                                    "Skipping the ending",
+                                    "Don't skip it"
                                 ],
                                 1,
                                 0,
@@ -3018,8 +3018,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "物語を終える",
-                                    "最終決戦の前に戻る"
+                                    "End the story",
+                                    "Return before the final battle"
                                 ],
                                 -1,
                                 -1,

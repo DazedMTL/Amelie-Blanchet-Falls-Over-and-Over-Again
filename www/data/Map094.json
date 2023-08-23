@@ -3110,7 +3110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Guide Girl Student】I'm sorry, but right now\nwe're in a waiting state. There's only one cast\nmember at the moment..."
+                                "【Guide Girl Student】I'm sorry, but right now we're\nin a waiting state. There's only one cast member\nat the moment..."
                             ]
                         },
                         {
@@ -3792,8 +3792,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "覗く",
-                                    "覗かない"
+                                    "Peeking",
+                                    "Do not peek"
                                 ],
                                 1,
                                 0,

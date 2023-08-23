@@ -5396,8 +5396,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "工房に入る",
-                                    "入らない"
+                                    "Enter the workshop",
+                                    "Not going in"
                                 ],
                                 1,
                                 0,
@@ -5958,9 +5958,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "工房に入る",
-                                    "工房１階層出口に入る",
-                                    "入らない"
+                                    "Enter the workshop",
+                                    "Enter the exit on the first floor of the workshop",
+                                    "Not going in"
                                 ],
                                 1,
                                 -1,
@@ -7000,10 +7000,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "工房に入る",
-                                    "工房１階層出口に入る",
-                                    "工房２階層出口に入る",
-                                    "入らない"
+                                    "Enter the workshop",
+                                    "Enter the exit on the first floor of the workshop",
+                                    "Enter the second floor exit of the workshop",
+                                    "Not going in"
                                 ],
                                 2,
                                 -1,
@@ -8522,11 +8522,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "工房に入る",
-                                    "工房１階層出口に入る",
-                                    "工房２階層出口に入る",
-                                    "工房３階層出口に入る",
-                                    "入らない"
+                                    "Enter the workshop",
+                                    "Enter the exit on the first floor of the workshop",
+                                    "Enter the second floor exit of the workshop",
+                                    "Enter the exit on the 3rd floor of the workshop",
+                                    "Not going in"
                                 ],
                                 3,
                                 -1,

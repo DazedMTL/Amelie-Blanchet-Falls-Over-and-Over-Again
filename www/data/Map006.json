@@ -13124,8 +13124,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13340,8 +13340,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17629,7 +17629,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Store Clerk at the Purchasing\nDepartment】Welcome!"
+                                "【Store Clerk at the Purchasing Department】Welcome!"
                             ]
                         },
                         {
@@ -19604,7 +19604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Carbuncle】I am a Carbuncle kept at the academy.\nI am skilled in fortune-telling magic, so if\nyou're ever in need, feel free to ask me."
+                                "【Carbuncle】I am a Carbuncle kept at the academy. I\nam skilled in fortune-telling magic, so if you're\never in need, feel free to ask me."
                             ]
                         },
                         {
@@ -19635,7 +19635,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Carbuncle】Let's change various settings as\nwell."
+                                "【Carbuncle】Let's change various settings as well."
                             ]
                         },
                         {
@@ -19709,9 +19709,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "次に進むべき道を教えてもらう",
-                                    "設定を変える",
-                                    "なんでもない"
+                                    "Please tell me which path I should take next",
+                                    "Change the settings",
+                                    "It's nothing"
                                 ],
                                 2,
                                 0,
@@ -19759,12 +19759,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "雑魚戦闘を自動で終わらすON/OFF",
-                                    "ボス戦闘を自動で終わらすON/OFF",
-                                    "MAP立ち絵ON/OFF",
-                                    "パーティクル演出ON/OFF",
-                                    "画像を消す（ピクチャが残っている時に使用）",
-                                    "なんでもない"
+                                    "Toggle Auto-End for Weak Battles ON/OFF",
+                                    "Toggle Auto-End Boss Battles ON/OFF",
+                                    "MAP Character Portrait ON/OFF",
+                                    "Particle Effects ON/OFF",
+                                    "Erase the image (use when the picture is still remaining)",
+                                    "It's nothing"
                                 ],
                                 5,
                                 0,
@@ -19908,7 +19908,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【Carbuncle】If you turn it ON, boss battles will\nbe skipped and considered as victories."
+                                "【Carbuncle】If you turn it ON, boss battles will be\nskipped and considered as victories."
                             ]
                         },
                         {
@@ -21092,7 +21092,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Masamune】Should we use the teleportation stone\nwe registered when we went there before? It was\nthe entrance to B2, right?"
+                                "【Masamune】Should we use the teleportation stone we\nregistered when we went there before? It was the\nentrance to B2, right?"
                             ]
                         },
                         {
@@ -21114,9 +21114,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -21359,10 +21359,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "やめる"
+                                    "Entrance B1",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Stop"
                                 ],
                                 3,
                                 0,
@@ -21487,11 +21487,11 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Stop"
                                 ],
                                 4,
                                 0,
@@ -21632,12 +21632,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Stop"
                                 ],
                                 5,
                                 0,
@@ -21966,8 +21966,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "エレナと一緒に突入",
-                                    "やめる"
+                                    "Infiltrating together with Elena",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -21988,12 +21988,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,
@@ -22356,12 +22356,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,
@@ -22682,12 +22682,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,
@@ -23224,12 +23224,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "Entrance B1",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,
@@ -23550,12 +23550,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,
@@ -24579,8 +24579,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "探索はもういい",
-                                    "まだ校内を見て回る"
+                                    "I'm done with the exploration",
+                                    "Still exploring the school grounds"
                                 ],
                                 1,
                                 1,
@@ -28323,7 +28323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Magic Research Club Member】Do you need\nsomething?"
+                                "【Magic Research Club Member】Do you need something?"
                             ]
                         },
                         {
@@ -28338,8 +28338,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "キャバレーに行きたい",
-                                    "なんでもない"
+                                    "I want to go to a cabaret",
+                                    "It's nothing"
                                 ],
                                 1,
                                 0,
@@ -28369,7 +28369,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Magic Research Club Member】Do you have a pass?\nIf so, you may proceed. First, there is an\nentrance fee of 1000G."
+                                "【Magic Research Club Member】Do you have a pass? If\nso, you may proceed. First, there is an entrance\nfee of 1000G."
                             ]
                         },
                         {
@@ -28622,7 +28622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Magic Research Club Member】Do you need\nsomething?"
+                                "【Magic Research Club Member】Do you need something?"
                             ]
                         },
                         {
@@ -28645,9 +28645,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "キャバレーに行きたい",
-                                    "巨根クラブに行きたい",
-                                    "なんでもない"
+                                    "I want to go to a cabaret",
+                                    "I want to go to the Big Cock Club",
+                                    "It's nothing"
                                 ],
                                 2,
                                 0,
@@ -28677,7 +28677,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【Magic Research Club Member】Do you have a pass?\nIf so, you may proceed. First, there is an\nentrance fee of 1000G."
+                                "【Magic Research Club Member】Do you have a pass? If\nso, you may proceed. First, there is an entrance\nfee of 1000G."
                             ]
                         },
                         {
@@ -28981,8 +28981,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "キャバレーに行きたい",
-                                    "なんでもない"
+                                    "I want to go to a cabaret",
+                                    "It's nothing"
                                 ],
                                 1,
                                 0,
@@ -29012,7 +29012,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【Magic Research Club Member】Do you have a pass?\nIf so, you may proceed. First, there is an\nentrance fee of 1000G."
+                                "【Magic Research Club Member】Do you have a pass? If\nso, you may proceed. First, there is an entrance\nfee of 1000G."
                             ]
                         },
                         {
@@ -30453,7 +30453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Bulletin Board: To prevent colds, let's\nthoroughly wash our hands, gargle, or use\npurification magic."
+                                "Bulletin Board: To prevent colds, let's thoroughly\nwash our hands, gargle, or use purification magic."
                             ]
                         },
                         {
@@ -30762,7 +30762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Bulletin Board: To prevent colds, let's\nthoroughly wash our hands, gargle, or use\npurification magic."
+                                "Bulletin Board: To prevent colds, let's thoroughly\nwash our hands, gargle, or use purification magic."
                             ]
                         },
                         {
@@ -31130,8 +31130,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "乗る",
-                                    "すぐに退く"
+                                    "Ride",
+                                    "Retreat immediately"
                                 ],
                                 1,
                                 0,
@@ -31755,7 +31755,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Masamune] (Amelia's panties being seen by\nanother guy...)"
+                                "[Masamune] (Amelia's panties being seen by another\nguy...)"
                             ]
                         },
                         {
@@ -32423,8 +32423,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "乗る",
-                                    "すぐに退く"
+                                    "Ride",
+                                    "Retreat immediately"
                                 ],
                                 1,
                                 0,
@@ -32945,7 +32945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Male Student] Hey, everyone, take a look.\nThey're wearing perverted panties."
+                                "[Male Student] Hey, everyone, take a look. They're\nwearing perverted panties."
                             ]
                         },
                         {
@@ -33172,7 +33172,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Masamune] Ah... I understand. I'm not bothered\nby it."
+                                "[Masamune] Ah... I understand. I'm not bothered by\nit."
                             ]
                         },
                         {
@@ -33675,8 +33675,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "乗る",
-                                    "すぐに退く"
+                                    "Ride",
+                                    "Retreat immediately"
                                 ],
                                 1,
                                 0,
@@ -34015,7 +34015,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Masamune] (Amelia's panties... w-what is\nthis...)"
+                                "[Masamune] (Amelia's panties... w-what is this...)"
                             ]
                         },
                         {
@@ -34631,7 +34631,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Amelia] Could it be that tonight, you're\nplanning to masturbate with me?"
+                                "[Amelia] Could it be that tonight, you're planning\nto masturbate with me?"
                             ]
                         },
                         {
@@ -36311,7 +36311,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【Student】Hey... I'm not naked! Put on your\nclothes properly!"
+                                "【Student】Hey... I'm not naked! Put on your clothes\nproperly!"
                             ]
                         },
                         {
@@ -36460,7 +36460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Professor】I let the four witch executives\nescape. It was such a great opportunity."
+                                "【Professor】I let the four witch executives escape.\nIt was such a great opportunity."
                             ]
                         },
                         {
@@ -36683,7 +36683,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【Student】Hey... I'm not naked! Put on your\nclothes properly!"
+                                "【Student】Hey... I'm not naked! Put on your clothes\nproperly!"
                             ]
                         },
                         {

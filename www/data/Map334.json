@@ -5941,7 +5941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Professor Hoffman] Don't let your guard down.\nThe magic research presentation is coming up soon,\nyou know."
+                                "[Professor Hoffman] Don't let your guard down. The\nmagic research presentation is coming up soon, you\nknow."
                             ]
                         },
                         {
@@ -7133,7 +7133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Olivia】The punishment for the Magic Research\nClub is too lenient..."
+                                "【Olivia】The punishment for the Magic Research Club\nis too lenient..."
                             ]
                         },
                         {
@@ -7472,7 +7472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【3rd Year Senpai】Let's deepen your relationship\non this occasion."
+                                "【3rd Year Senpai】Let's deepen your relationship on\nthis occasion."
                             ]
                         },
                         {
@@ -7503,7 +7503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Olivia】It's not like I'm interested or\nanything."
+                                "【Olivia】It's not like I'm interested or anything."
                             ]
                         },
                         {
@@ -8568,8 +8568,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,

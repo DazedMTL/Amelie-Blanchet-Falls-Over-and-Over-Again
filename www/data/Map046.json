@@ -13537,9 +13537,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ探索を続ける",
-                                    "終わりにして部屋に戻る",
-                                    "入り口に戻る"
+                                    "Continue the exploration",
+                                    "I'll finish up and return to my room",
+                                    "Return to the entrance"
                                 ],
                                 0,
                                 0,
@@ -14451,11 +14451,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Hステータスについて",
-                                    "属性について",
-                                    "魔法について",
-                                    "吹き出しについて",
-                                    "やっぱりいい"
+                                    "About H status",
+                                    "About attributes",
+                                    "About magic",
+                                    "About speech bubbles",
+                                    "It's still good"
                                 ],
                                 4,
                                 0,
@@ -14516,7 +14516,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Description Monkey】You can switch pages using\nthe ←→ keys on the keyboard."
+                                "【Description Monkey】You can switch pages using the\n←→ keys on the keyboard."
                             ]
                         },
                         {
@@ -14848,7 +14848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Description Monkey】There may be a mark above\nyour head. Light bulbs are hints or settings.\nExclamation marks are events that progress the\nscenario."
+                                "【Description Monkey】There may be a mark above your\nhead. Light bulbs are hints or settings.\nExclamation marks are events that progress the\nscenario."
                             ]
                         },
                         {
@@ -22824,7 +22824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Masamune] I've become quite strong too, you\nknow. How about my water magic?"
+                                "[Masamune] I've become quite strong too, you know.\nHow about my water magic?"
                             ]
                         },
                         {
@@ -22886,7 +22886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Masamune] Well, yeah. Even though it's magic\nthat Amelia taught me."
+                                "[Masamune] Well, yeah. Even though it's magic that\nAmelia taught me."
                             ]
                         },
                         {

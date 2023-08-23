@@ -6050,7 +6050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's been two weeks since I used the potent\nmagic, and I haven't had an erection."
+                                "It's been two weeks since I used the potent magic,\nand I haven't had an erection."
                             ]
                         },
                         {
@@ -6206,7 +6206,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Leon] But there is a solution using the Theory\nof Tohelena, right?"
+                                "[Leon] But there is a solution using the Theory of\nTohelena, right?"
                             ]
                         },
                         {
@@ -6230,7 +6230,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Masamune】 What is that theory... I've never\nheard of it."
+                                "【Masamune】 What is that theory... I've never heard\nof it."
                             ]
                         },
                         {
@@ -6323,17 +6323,17 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "[Skeleton Head] ...  【Masamune】\nスケルトンヘド、何か知てるのか？"
-                            ]
-                        },
-                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Skeleton Head, do you know something?"
                             ]
                         },
                         {

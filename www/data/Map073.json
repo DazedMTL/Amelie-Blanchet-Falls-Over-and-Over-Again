@@ -38583,9 +38583,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ探索を続ける",
-                                    "終わりにして部屋に戻る",
-                                    "入り口に戻る"
+                                    "Continue the exploration",
+                                    "I'll finish up and return to my room",
+                                    "Return to the entrance"
                                 ],
                                 0,
                                 0,
@@ -50899,7 +50899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Sayoko】 There are many sexually frustrated\npeople here. Anyone will easily have sex with\nyou."
+                                "【Sayoko】 There are many sexually frustrated people\nhere. Anyone will easily have sex with you."
                             ]
                         },
                         {

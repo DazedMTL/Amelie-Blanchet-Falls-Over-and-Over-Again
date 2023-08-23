@@ -29010,9 +29010,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "まだ探索を続ける",
-                                    "終わりにして部屋に戻る",
-                                    "入り口に戻る"
+                                    "Continue the exploration",
+                                    "Let's finish and return to the room",
+                                    "Return to the entrance"
                                 ],
                                 0,
                                 0,
@@ -30994,8 +30994,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ささげる",
-                                    "断る"
+                                    "Offer",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
@@ -32724,7 +32724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Masamune】 Good. I'll support you as much as I\ncan too."
+                                "【Masamune】 Good. I'll support you as much as I can\ntoo."
                             ]
                         },
                         {
@@ -32879,7 +32879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Amelia】 We're just classmates who get along\nwell. Elena and I are close, you know."
+                                "【Amelia】 We're just classmates who get along well.\nElena and I are close, you know."
                             ]
                         },
                         {
@@ -32955,7 +32955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Amelia】 That... was just a little errand.\nNothing more."
+                                "【Amelia】 That... was just a little errand. Nothing\nmore."
                             ]
                         },
                         {
@@ -32986,7 +32986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Masamune】 (It's really nothing between the two\nof them, right?)"
+                                "【Masamune】 (It's really nothing between the two of\nthem, right?)"
                             ]
                         },
                         {
@@ -33048,7 +33048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Elena】 The reason we broke up was also because\nof cheating."
+                                "【Elena】 The reason we broke up was also because of\ncheating."
                             ]
                         },
                         {
@@ -33248,7 +33248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Elena】 You can tell just by looking at his\nface."
+                                "【Elena】 You can tell just by looking at his face."
                             ]
                         },
                         {
@@ -33362,17 +33362,17 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【Elena】 ...  【アメリ】  「エレナ、どうしたの？黙てるなんて珍しいわ」"
-                            ]
-                        },
-                        {
                             "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Elena, what's wrong? It's unusual for you to be\nsilent."
                             ]
                         },
                         {
@@ -33434,7 +33434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【Elena】 If you were cheating, I just wanted you\nto stop."
+                                "【Elena】 If you were cheating, I just wanted you to\nstop."
                             ]
                         },
                         {
@@ -33730,7 +33730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Olivia] I've looked this far, but it seems like\nI haven't found what I was looking for."
+                                "[Olivia] I've looked this far, but it seems like I\nhaven't found what I was looking for."
                             ]
                         },
                         {
@@ -33761,7 +33761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Masamune] Speaking of which, why were you\nlooking for the president's room?"
+                                "[Masamune] Speaking of which, why were you looking\nfor the president's room?"
                             ]
                         },
                         {
@@ -34057,7 +34057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Olivia] ...  Note: The ellipsis (...) indicates\na pause or silence in the dialogue."
+                                "[Olivia] ...  Note: The ellipsis (...) indicates a\npause or silence in the dialogue."
                             ]
                         },
                         {
@@ -34181,7 +34181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Olivia] Just becoming stronger through\nlegitimate means."
+                                "[Olivia] Just becoming stronger through legitimate\nmeans."
                             ]
                         },
                         {
@@ -34274,7 +34274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Olivia] Because I realized that I can become\nthis strong without breaking any taboos."
+                                "[Olivia] Because I realized that I can become this\nstrong without breaking any taboos."
                             ]
                         },
                         {

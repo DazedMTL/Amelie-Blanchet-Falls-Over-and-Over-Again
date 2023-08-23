@@ -13124,8 +13124,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -13340,8 +13340,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -15500,7 +15500,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Store Clerk at the Purchasing\nDepartment】Welcome!"
+                                "【Store Clerk at the Purchasing Department】Welcome!"
                             ]
                         },
                         {
@@ -16930,9 +16930,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "次に進むべき道を教えてもらう",
-                                    "設定を変える",
-                                    "なんでもない"
+                                    "Please tell me the path to proceed next",
+                                    "Change the settings",
+                                    "It's nothing"
                                 ],
                                 2,
                                 0,
@@ -16980,12 +16980,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "雑魚戦闘を自動で終わらすON/OFF",
-                                    "ボス戦闘を自動で終わらすON/OFF",
-                                    "MAP立ち絵ON/OFF",
-                                    "パーティクル演出ON/OFF",
-                                    "画像を消す（ピクチャが残っている時に使用）",
-                                    "なんでもない"
+                                    "Toggle auto finish for weak battles ON/OFF",
+                                    "Toggle Auto Finish for Boss Battles ON/OFF",
+                                    "MAP Character Portrait ON/OFF",
+                                    "Particle effects ON/OFF",
+                                    "Remove image (use when there is a remaining picture)",
+                                    "It's nothing"
                                 ],
                                 5,
                                 0,
@@ -17129,7 +17129,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【Carbuncle】If you turn it on, boss battles will\nbe skipped and you will proceed as if you have\nwon."
+                                "【Carbuncle】If you turn it on, boss battles will be\nskipped and you will proceed as if you have won."
                             ]
                         },
                         {
@@ -18313,7 +18313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Masamune】Should we use the teleportation stone\nwe registered when we went there before? It was\nthe entrance to B2, right?"
+                                "【Masamune】Should we use the teleportation stone we\nregistered when we went there before? It was the\nentrance to B2, right?"
                             ]
                         },
                         {
@@ -18335,9 +18335,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Stop"
                                 ],
                                 2,
                                 0,
@@ -18580,10 +18580,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Stop"
                                 ],
                                 3,
                                 0,
@@ -18708,11 +18708,11 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Stop"
                                 ],
                                 4,
                                 0,
@@ -18853,12 +18853,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "やめる"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Stop"
                                 ],
                                 5,
                                 0,
@@ -19187,8 +19187,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "エレナと一緒に突入",
-                                    "やめる"
+                                    "Infiltrating together with Elena",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -19209,12 +19209,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "B1入口",
-                                    "B2入口",
-                                    "B3入口",
-                                    "B3出口",
-                                    "B4入口",
-                                    "魔法研部室"
+                                    "B1 Entrance",
+                                    "B2 Entrance",
+                                    "Entrance B3",
+                                    "Exit B3",
+                                    "Entrance B4",
+                                    "Magic Research Club Room"
                                 ],
                                 -1,
                                 0,
@@ -20419,7 +20419,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Bulletin Board: To prevent colds, let's\nthoroughly wash our hands, gargle, or use\npurification magic."
+                                "Bulletin Board: To prevent colds, let's thoroughly\nwash our hands, gargle, or use purification magic."
                             ]
                         },
                         {
@@ -20595,7 +20595,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Bulletin Board: To prevent colds, let's\nthoroughly wash our hands, gargle, or use\npurification magic."
+                                "Bulletin Board: To prevent colds, let's thoroughly\nwash our hands, gargle, or use purification magic."
                             ]
                         },
                         {
@@ -20821,8 +20821,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "乗る",
-                                    "すぐに退く"
+                                    "Ride",
+                                    "Retreat immediately"
                                 ],
                                 1,
                                 0,
@@ -21209,7 +21209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Male Student] You're wearing cute panties,\naren't you?"
+                                "[Male Student] You're wearing cute panties, aren't\nyou?"
                             ]
                         },
                         {
@@ -21391,7 +21391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Male Student] Before that, let me burn this\nimage into my eyes a little longer."
+                                "[Male Student] Before that, let me burn this image\ninto my eyes a little longer."
                             ]
                         },
                         {
@@ -21446,7 +21446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Masamune] (Amelia's panties being seen by\nanother man...)"
+                                "[Masamune] (Amelia's panties being seen by another\nman...)"
                             ]
                         },
                         {
@@ -22114,8 +22114,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "乗る",
-                                    "すぐに退く"
+                                    "Ride",
+                                    "Retreat immediately"
                                 ],
                                 1,
                                 0,
@@ -22636,7 +22636,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Male Student] Hey, everyone, take a look.\nThey're wearing perverted panties."
+                                "[Male Student] Hey, everyone, take a look. They're\nwearing perverted panties."
                             ]
                         },
                         {
@@ -22863,7 +22863,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Masamune] Ah... I understand. I'm not bothered\nby it."
+                                "[Masamune] Ah... I understand. I'm not bothered by\nit."
                             ]
                         },
                         {
@@ -23366,8 +23366,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "乗る",
-                                    "すぐに退く"
+                                    "Ride",
+                                    "Retreat immediately"
                                 ],
                                 1,
                                 0,
@@ -23706,7 +23706,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Masamune] (Amelia's panties... w-what is\nthis...)"
+                                "[Masamune] (Amelia's panties... w-what is this...)"
                             ]
                         },
                         {
@@ -24236,7 +24236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Amelia] Hehe, Masamune-kun, you're way too\neasily surprised."
+                                "[Amelia] Hehe, Masamune-kun, you're way too easily\nsurprised."
                             ]
                         },
                         {
@@ -24322,7 +24322,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "[Amelia] Could it be that tonight, you're\nplanning to masturbate with me?"
+                                "[Amelia] Could it be that tonight, you're planning\nto masturbate with me?"
                             ]
                         },
                         {

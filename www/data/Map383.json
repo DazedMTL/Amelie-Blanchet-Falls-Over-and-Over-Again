@@ -4434,17 +4434,17 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【Skeleton Head】 ...  【トミ】  「スケルトンヘド、何か考えてるの？」"
-                            ]
-                        },
-                        {
                             "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Skeleton Head, are you thinking about something?"
                             ]
                         },
                         {
@@ -4557,7 +4557,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【Skeleton Head】 You're thinking positively,\naren't you?"
+                                "【Skeleton Head】 You're thinking positively, aren't\nyou?"
                             ]
                         },
                         {
