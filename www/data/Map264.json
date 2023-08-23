@@ -6511,7 +6511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送石に登録した"
+                                "Registered on the teleportation stone."
                             ]
                         },
                         {
@@ -7037,7 +7037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「開かないようだ」"
+                                "It seems to be locked."
                             ]
                         },
                         {
@@ -7920,14 +7920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「日和」"
+                                "Hiyo"
                             ]
                         },
                         {
@@ -7958,14 +7958,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[000]"
+                                "\\>【Hiyo】\\m[32]\\z[000]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「香心さん。魔法陣の件、調べておきました」"
+                                "Koushin-san, I've looked into the matter of the\nmagic circle."
                             ]
                         },
                         {
@@ -7989,21 +7989,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[001]"
+                                "\\>【Hiyo】\\m[32]\\z[001]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「結論から言うと、魔法研に魔法陣はありません"
+                                "To cut to the chase, there was no magic circle in\nthe Magic Research Club."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  でした」"
+                                ""
                             ]
                         },
                         {
@@ -8027,21 +8027,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[002]"
+                                "\\>【Hiyo】\\m[32]\\z[002]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ですが、悪魔の召喚に関する魔導書が見つかり"
+                                "However, I found a grimoire about summoning\ndemons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ました」"
+                                ""
                             ]
                         },
                         {
@@ -8058,21 +8058,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（前のループと同じだ。これで魔法研は休部に"
+                                "(It's the same as the previous loop. With this,\nthe Magic Research Club will be disbanded)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  なる）」"
+                                ""
                             ]
                         },
                         {
@@ -8089,21 +8089,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（ホフマンの工房は転送石を登録してるから、"
+                                "(Since Professor Hoffman's workshop has registered\nteleportation stones, I went to check it out\nmyself)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  俺の方で見に行った）」"
+                                ""
                             ]
                         },
                         {
@@ -8120,14 +8120,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（だけど魔法陣はなかった）」"
+                                "(But there was no magic circle)"
                             ]
                         },
                         {
@@ -8144,21 +8144,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（ループしていることをわかってるから、同じ"
+                                "(Since I know that we're in a loop, it seems like\nI won't be taking the same action)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  行動はしないみたいだ）」"
+                                ""
                             ]
                         },
                         {
@@ -8182,21 +8182,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[003]"
+                                "\\>【Hiyo】\\m[32]\\z[003]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「報告は以上です。貴重な情報をありがとうござ"
+                                "That's all for my report. Thank you for the\nvaluable information."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いました」"
+                                ""
                             ]
                         },
                         {
@@ -8213,14 +8213,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こっちこそ、調べてくれてありがとう」"
+                                "Thank you for investigating as well."
                             ]
                         },
                         {
@@ -8244,14 +8244,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[004]"
+                                "\\>【Hiyo】\\m[32]\\z[004]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「オリビア副会長なら部屋にいますよ」"
+                                "Vice President Olivia is in the room."
                             ]
                         },
                         {
@@ -8275,21 +8275,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[005]"
+                                "\\>【Hiyo】\\m[32]\\z[005]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「転入したばかりで副会長に気に入られるなんて"
+                                "I wonder what I did to be liked by the Vice\nPresident so soon after transferring in."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  、一体なにをしたんでしょうか」"
+                                ""
                             ]
                         },
                         {
@@ -8306,21 +8306,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにもしてないよ。俺もよくわからず呼び出さ"
+                                "I didn't do anything. I was called without knowing\nwhy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  れたから」"
+                                ""
                             ]
                         },
                         {
@@ -8344,21 +8344,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[006]"
+                                "\\>【Hiyo】\\m[32]\\z[006]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それでも、副会長が人を呼び出すなんてこれま"
+                                "Even so, the Vice President has never called\nsomeone before."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  でありませんでした」"
+                                ""
                             ]
                         },
                         {
@@ -8382,14 +8382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[007]"
+                                "\\>【Hiyo】\\m[32]\\z[007]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わたしも、香心さんのことが気になります」"
+                                "I'm also curious about Kaishin-san."
                             ]
                         },
                         {
@@ -8406,14 +8406,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あんまりからかわないでくれ……」"
+                                "Please don't tease me too much..."
                             ]
                         },
                         {
@@ -8437,14 +8437,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[008]"
+                                "\\>【Hiyo】\\m[32]\\z[008]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふ……」"
+                                "Hehe..."
                             ]
                         },
                         {

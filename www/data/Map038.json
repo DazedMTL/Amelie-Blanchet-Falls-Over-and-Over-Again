@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "男子棟",
+    "displayName": "Boys' Dormitory",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -12773,14 +12773,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "This isn't my room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ここは自分の部屋じゃないな」"
+                                ""
                             ]
                         },
                         {
@@ -13342,14 +13342,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Now is not the time to enter."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今は入っている場合じゃない」"
+                                ""
                             ]
                         },
                         {
@@ -13889,14 +13889,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Let's go into the room today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日は部屋に入ろう」"
+                                ""
                             ]
                         },
                         {
@@ -14038,14 +14038,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここが君の部屋だ」"
+                                "This is your room."
                             ]
                         },
                         {
@@ -14062,21 +14062,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「寮の部屋はすべて二人部屋だ。後のことはルー"
+                                "All the rooms in the dormitory are double rooms.\nPlease ask your roommate about the rest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ムメイトに聞いてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -14093,14 +14093,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わかりました」"
+                                "Understood."
                             ]
                         },
                         {
@@ -14422,14 +14422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここが君の部屋だ」"
+                                "This is your room."
                             ]
                         },
                         {
@@ -14446,14 +14446,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……」"
+                                "「......」"
                             ]
                         },
                         {
@@ -14641,21 +14641,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（どうして今日に限って、こんなにデジャブを"
+                                "(Why do I feel such a strong sense of déjà vu\ntoday?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  感じるんだ）」"
+                                ""
                             ]
                         },
                         {
@@ -14861,14 +14861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Let's go into the room today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日は部屋に入ろう」"
+                                ""
                             ]
                         },
                         {
@@ -15027,14 +15027,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Let's go into the room today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日は部屋に入ろう」"
+                                ""
                             ]
                         },
                         {
@@ -15193,14 +15193,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Let's go into the room today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日は部屋に入ろう」"
+                                ""
                             ]
                         },
                         {
@@ -15359,14 +15359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Let's go into the room today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日は部屋に入ろう」"
+                                ""
                             ]
                         },
                         {
@@ -16092,21 +16092,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここは男子棟だね。女子厳禁だよ、たとえ恋人"
+                                "This is the boys' dormitory. Girls are strictly\nprohibited, even if they're your girlfriend."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  だとしても」"
+                                ""
                             ]
                         },
                         {
@@ -16123,14 +16123,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも連れ込んでるやつは中にはいるんだろ」"
+                                "But there are people who bring girls inside,\nright?"
                             ]
                         },
                         {
@@ -16147,14 +16147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、それはノーコメントかな」"
+                                "Umm, I have no comment on that."
                             ]
                         },
                         {
@@ -16171,21 +16171,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもバレたらハウスマスターにすっごく怒ら"
+                                "But if we get caught, the housemaster will be\nreally angry."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  れるんだから」"
+                                ""
                             ]
                         },
                         {
@@ -16202,21 +16202,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっと、それで上にまっすぐ進んだらお風呂場"
+                                "Um, if you go straight up from there, you'll find\nthe bathroom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  があるよ」"
+                                ""
                             ]
                         },
                         {
@@ -16233,21 +16233,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「入れる時間が決められてるから、気をつけない"
+                                "Be careful because there's a designated time for\nentering."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  とね」"
+                                ""
                             ]
                         },
                         {
@@ -16264,28 +16264,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あと他の部屋に遊びに行ってもいいけど、就寝"
+                                "You can go play in other rooms, but remember that\nbedtime is at 22:00, so make sure to come back\nbefore then."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  時間は２２時だから、それまでに戻ってこない"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  といけないよ」"
+                                ""
                             ]
                         },
                         {
@@ -16491,14 +16491,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Let's go into the room today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日は部屋に入ろう」"
+                                ""
                             ]
                         },
                         {
@@ -16633,14 +16633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャチャマル】"
+                                "【Chachamaru】Kuuun"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くーん」"
+                                ""
                             ]
                         },
                         {
@@ -16775,28 +16775,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Chachamaru, is that a recording stone! I\ndon't know where you found it, but please stop\nfilming my bathing scene!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「チャチャマル、それは記録石か！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どこで拾ってきたのか知らないが、俺の入浴シーンを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　映すのはやめてくれ！」"
+                                ""
                             ]
                         },
                         {
@@ -16931,21 +16931,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【闇購買部】"
+                                "【Dark Purchasing Club】I am running the purchasing\nclub in the boys' dormitory. Only when the\nprevious manager is not around."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「俺は男子棟で購買部を経営している。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　先公が居ない時だけな」"
+                                ""
                             ]
                         },
                         {
@@ -16962,14 +16962,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【闇購買部】"
+                                "【Dark Purchasing Club】We're currently out of\nstock, so please come back another time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今は品切れ中だから、また今度来てくれ」"
+                                ""
                             ]
                         },
                         {
@@ -17037,14 +17037,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにか欲しい物があるかい？」"
+                                "Is there something you desire?"
                             ]
                         },
                         {
@@ -17094,14 +17094,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あんたは……」"
+                                "You..."
                             ]
                         },
                         {
@@ -17118,21 +17118,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「闇購買部だ。普通の購買部では取引されてない"
+                                "This is the Dark Purchase Department. We provide\nitems that are not available in regular purchasing\ndepartments."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  ものを用意している」"
+                                ""
                             ]
                         },
                         {
@@ -17149,14 +17149,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「闇なのに結構堂々としてるな」"
+                                "Even though it's dark, you're quite bold."
                             ]
                         },
                         {
@@ -17173,14 +17173,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「先公がきたらやばい物は隠すから問題ない」"
+                                "We hide anything dangerous when the boss comes, so\nthere's no problem."
                             ]
                         },
                         {
@@ -17292,21 +17292,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ん？　こんな記録石持ってたか……"
+                                "Huh? Did I have this kind of record stone... well,\nnever mind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　まぁいいや」"
+                                ""
                             ]
                         },
                         {
@@ -17333,21 +17333,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Shop Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やぁ、いい商品が入荷したんだけど見ていかな"
+                                "Hey, we got some good products in stock. Wanna\ntake a look?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いかい」"
+                                ""
                             ]
                         },
                         {
@@ -17364,14 +17364,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだ？」"
+                                "What is it?"
                             ]
                         },
                         {
@@ -17388,14 +17388,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法研のハメ撮り記録石だ」"
+                                "It's a magic research pussy recording stone."
                             ]
                         },
                         {
@@ -17412,14 +17412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハメ……記録石ってなんだよ」"
+                                "Huh... What's a recording stone?"
                             ]
                         },
                         {
@@ -17436,14 +17436,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法で撮った映像を記録しておける魔道具だ」"
+                                "It's a magical tool that can record videos taken\nwith magic."
                             ]
                         },
                         {
@@ -17460,21 +17460,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「記録石を使えば、過去の映像をいつでも見るこ"
+                                "With the recording stone, you can watch past\nvideos anytime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  とが出来るんだ」"
+                                ""
                             ]
                         },
                         {
@@ -17491,14 +17491,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなのがあるのか。すごいな」"
+                                "So there's something like that. That's amazing."
                             ]
                         },
                         {
@@ -17515,21 +17515,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法研はそれを使って、エッチな記録石を卸し"
+                                "The Magic Research Department is wholesaling\nnaughty recording stones using it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  てくれてるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -17546,21 +17546,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今回はなかなかの傑作でな。めちゃくちゃ美人"
+                                "This time, it's quite a masterpiece. She's an\nincredibly beautiful girl with big breasts."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  でおっぱいもでかい子だ」"
+                                ""
                             ]
                         },
                         {
@@ -17577,14 +17577,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「買わなきゃ損だぜ」"
+                                "You'll regret it if you don't buy it."
                             ]
                         },
                         {
@@ -17601,21 +17601,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……女の子の方は了承してるのか。ここの生徒"
+                                "...I wonder if the girl is aware. What kind of\nstudent is she here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  なんだろ」"
+                                ""
                             ]
                         },
                         {
@@ -17632,21 +17632,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法研は問題ないって言っている。俺からはそ"
+                                "The Magic Research Department says there's no\nproblem. I won't pursue it any further."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  れ以上追求はしない」"
+                                ""
                             ]
                         },
                         {
@@ -17663,14 +17663,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫なのかよ……」"
+                                "Is everything alright...?"
                             ]
                         },
                         {
@@ -17687,21 +17687,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それでどうするんだ？　学院内じゃ、なかなか"
+                                "So, what are you going to do? It's not easy to get\nyour hands on some material for self-pleasure\nwithin the academy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  オナネタは手に入らないぜ」"
+                                ""
                             ]
                         },
                         {
@@ -17718,14 +17718,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「少し考えさせてくれ」"
+                                "Let me think for a moment."
                             ]
                         },
                         {
@@ -17809,14 +17809,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにか欲しい物があるかい？」"
+                                "Is there something you desire?"
                             ]
                         },
                         {
@@ -17909,21 +17909,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ん？　こんな記録石持ってたか……"
+                                "Huh? Did I have this kind of record stone... well,\nnever mind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　まぁいいや」"
+                                ""
                             ]
                         },
                         {
@@ -17950,14 +17950,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やぁ、また良い商品が入荷したよ」"
+                                "Hey, we've got some good merchandise in stock\nagain."
                             ]
                         },
                         {
@@ -17974,21 +17974,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「君はお得意様になってくれそうだから、待って"
+                                "I've been waiting for you to become a valued\ncustomer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  たんだ」"
+                                ""
                             ]
                         },
                         {
@@ -18005,14 +18005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「また……」"
+                                "Again..."
                             ]
                         },
                         {
@@ -18029,14 +18029,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今度のはガッツリ本番シーンがある記録石だ」"
+                                "This time, it's a record stone with a hardcore\nscene."
                             ]
                         },
                         {
@@ -18053,14 +18053,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「女の子の方は……」"
+                                "As for the girls..."
                             ]
                         },
                         {
@@ -18077,14 +18077,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「前売った記録石と同じだ」"
+                                "It's the same as the record stone we sold before."
                             ]
                         },
                         {
@@ -18101,14 +18101,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ……」"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -18125,14 +18125,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうする？」"
+                                "What will you do?"
                             ]
                         },
                         {
@@ -18149,14 +18149,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「買わせてくれ」"
+                                "Let me buy it."
                             ]
                         },
                         {
@@ -18173,14 +18173,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（他の男に渡す訳にはいかない）」"
+                                "(I can't just give it to another man)"
                             ]
                         },
                         {
@@ -18264,14 +18264,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにか欲しい物があるかい？」"
+                                "Is there something you desire?"
                             ]
                         },
                         {
@@ -18353,14 +18353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Shop Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにか欲しい物があるかい？」"
+                                "Is there something you desire?"
                             ]
                         },
                         {
@@ -18410,14 +18410,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あんたは……」"
+                                "You..."
                             ]
                         },
                         {
@@ -18434,21 +18434,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「闇購買部だ。普通の購買部では取引されてない"
+                                "This is the Dark Purchase Department. We have\nprepared items that are not available in regular\nstores."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  ものを用意している」"
+                                ""
                             ]
                         },
                         {
@@ -18465,14 +18465,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「闇なのに結構堂々としてるな」"
+                                "Even though it's dark, you're quite bold."
                             ]
                         },
                         {
@@ -18489,14 +18489,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【闇購買部の店員】"
+                                "\\>【Dark Purchase Department Clerk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「先公がきたらやばい物は隠すから問題ない」"
+                                "We'll hide any dangerous items if the boss comes,\nso don't worry."
                             ]
                         },
                         {
@@ -18613,28 +18613,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】There's a rumor that there's a secret\npassage connecting the boys' dormitory and the\ngirls' dormitory, which has been around for\ndecades. Although no one has actually found the\npassage."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「男子寮と女子寮をつなぐ秘密の通路があるって言う"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　噂は、何十年も前からあるみたいだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もっとも通路を見つけたヤツはいないけどな」"
+                                ""
                             ]
                         },
                         {
@@ -18718,21 +18718,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I wonder if it's true that if you join\nthe Magic Research Club, you can have a mixer in\nthe girls' room..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「魔法研に入れば女子の部屋で合コン出来るって噂"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　本当なのかな……」"
+                                ""
                             ]
                         },
                         {
@@ -18809,7 +18809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子棟の空室を探索しますか？"
+                                "Would you like to explore the vacant rooms in the\nboys' dormitory?"
                             ]
                         },
                         {
@@ -19330,45 +19330,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスメイト】"
+                                "【Classmate】 Masamune, it seems like there's a\nejaculation competition today. Are you\nparticipating?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「正宗、今日射精大会が開かれるみたいだけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  出るのか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「なんだよそれ……」"
+                                ""
                             ]
                         },
                         {
@@ -19385,38 +19361,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスメイト】"
+                                "【Masamune】 What is that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そっか、正宗は初めてか。なら出ておけよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【クラスメイト】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「結構楽しいし、優勝賞品もあるからな」"
+                                ""
                             ]
                         },
                         {
@@ -19433,45 +19385,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Classmate】 I see, Masamune, if it's your first\ntime, you should participate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「えぇ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【クラスメイト】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「まぁ、俺はでないけど。今日は絶対王者が参加"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  するみたいだし」"
+                                ""
                             ]
                         },
                         {
@@ -19488,14 +19409,93 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Classmate】 It's quite fun, and there's also a\nprize for the winner."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「一体なにするんだよ」"
+                                "【Masamune】 Huh..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Classmate】 Well, I'm not participating, but it\nseems like the reigning champion will be joining\ntoday."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 What the hell are they doing?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19888,28 +19888,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】In Caledonia, there are various secret\ndungeons. For example, the underground ruins of\nthe chapel... Leopold's workshop that he left\nbehind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「カレドニーにはいろんな秘密のダンジョンがある。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　たとえば、礼拝堂の地下遺跡……レオポルドが残した"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　工房」"
+                                ""
                             ]
                         },
                         {
@@ -19926,28 +19926,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】If you're curious, it's worth trying to\nsearch for them. But remember, curfew at the dorm\nis at 10 o'clock. Going past that will become a\nbig problem."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「きになるのなら探してみると良い。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　でも寮の門限は10時だ。それをすぎると"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　大問題になるよ」"
+                                ""
                             ]
                         },
                         {

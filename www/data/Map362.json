@@ -4771,14 +4771,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Huh... it's not moving."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あれ……動かない」"
+                                ""
                             ]
                         },
                         {
@@ -5020,14 +5020,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 W-What is it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「わっ……なんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -5092,14 +5092,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "【Sylvester von Weisshwaik】 Haa, haa, haa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「はぁ、はぁ、はぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -5116,21 +5116,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "【Sylvester von Weisshwaik】 I am Sylvester von\nWeisshwaik, a noble of the Kingdom of Prussia."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「わたくしはプルーセン王国の貴族、シルベスタ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  ー・フォン・ヴァイスシュヴァイクだ」"
+                                ""
                             ]
                         },
                         {
@@ -5156,38 +5156,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "【Sylvester von Weisshwaik】 I've come to repel the\npervert."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「変態を撃退しに来た」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「なんだと！」"
+                                ""
                             ]
                         },
                         {
@@ -5204,38 +5180,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Skeleton Head】 What did you say!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「別に俺たちは……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「（変態なことを否定できない！）」"
+                                ""
                             ]
                         },
                         {
@@ -5252,38 +5204,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "【Masamune】 It's not like we..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「やはり変態か。今すぐ引き返すのだ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「さすれば今回だけは見逃してやろう」"
+                                ""
                             ]
                         },
                         {
@@ -5300,14 +5228,86 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Masamune】 (I can't deny the perverted things!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "  「……あるのか」"
+                                "【Sylvester von Weisshwaik】 So you're a pervert\nafter all. I'll turn back right away."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "【Sylvester von Weisshwaik】 Then I'll let it slide\nthis time."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "【Skeleton Head】 ...Is that so?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5333,38 +5333,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "【Sylvester von Weisshwaik】 What?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「なに？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「見られたら困るものが、この奥にあるのか！」"
+                                ""
                             ]
                         },
                         {
@@ -5381,38 +5357,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Skeleton Head】 Is there something here that I\ndon't want to be seen?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「お前……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「な、なにもない。でも引き返すがいい！」"
+                                ""
                             ]
                         },
                         {
@@ -5429,14 +5381,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "【Masamune】 You..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「ここはわたくしの実験場なのだから」"
+                                ""
                             ]
                         },
                         {
@@ -5453,14 +5405,62 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "【Sylvester von Weisshwaik】 T-There's nothing\nhere. But you should turn back!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "  「いいか。警告はしたからな。次はないと思え」"
+                                "【Sylvester von Weisshwaik】 This is my laboratory,\nyou see."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "【Sylvester von Weisshwaik】 Listen. I've already\ngiven you a warning. Don't expect another one."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5633,45 +5633,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【レオン】"
+                                "【Leon】 What on earth was that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「一体なんだったんだ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【レオン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「プルーセン王国の貴族って言ってたけど、そん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  な子いたかな」"
+                                ""
                             ]
                         },
                         {
@@ -5688,38 +5657,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Leon】 Did they say there was a noble from the\nKingdom of Prussia? I wonder if such a person\nexists."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「うーん、顔は見覚えあるような気がするけど」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「くくっ、正宗。さっき帰るといったのは冗談だ」"
+                                ""
                             ]
                         },
                         {
@@ -5736,14 +5688,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Tommy】 Hmm, I feel like I recognize that face."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「行くぞ！　宝を探しに！」"
+                                ""
                             ]
                         },
                         {
@@ -5760,14 +5712,62 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Skeleton Head】 Hehe, Masamune. It was just a\njoke when I said I was going home earlier."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "  「こいつ……」"
+                                "【Skeleton Head】 Let's go! We're going to search\nfor treasure!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "【Masamune】 This person..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6647,21 +6647,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分用メモ"
+                                "I hid a switch on the back of my personal memo\npainting. Do not press it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "絵画にの裏にスイッチを隠した。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "押してはいけない。"
+                                ""
                             ]
                         },
                         {
@@ -6738,7 +6738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰かの日記"
+                                "Someone's diary"
                             ]
                         },
                         {
@@ -6755,7 +6755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕はフォトン・グラフパードを許すことはできない。"
+                                "I cannot forgive Photon Graphpad."
                             ]
                         },
                         {
@@ -6772,38 +6772,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一部では盗撮魔法の始祖と拝められてるが、ただの"
+                                "In some circles, they are revered as the founder\nof voyeuristic magic, but they are just\ncriminals."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "犯罪者だ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも女子の着替えを覗いてはいるが、なかなか証"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拠をださない。"
+                                ""
                             ]
                         },
                         {
@@ -6820,7 +6796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おかげで先生からの追求を逃れている。"
+                                "I always peek at girls changing, but I never\nmanage to gather any evidence."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6837,14 +6820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしそれも今日まで、紆余曲折合って彼を退学処"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分にすることに成功した。"
+                                "Thanks to that, I have managed to escape from\nProfessor Hoffman's pursuit."
                             ]
                         },
                         {
@@ -6861,7 +6837,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼のミスは、僕を本気にさせたことだろう。"
+                                "However, after various twists and turns, we have\nsuccessfully managed to expel him from the school."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6878,14 +6861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶対に手を出してはいけない存在に手を出してしま"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "った。"
+                                "His mistake probably made me serious."
                             ]
                         },
                         {
@@ -6902,7 +6878,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし問題はまだ解決していない。"
+                                "I ended up getting involved with someone I should\nnever have gotten involved with."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6919,7 +6902,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チャチャマルのために、なにかできることはないか……。"
+                                "However, the problem has not been resolved yet."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Is there anything I can do for Chachamaru...?"
                             ]
                         },
                         {
@@ -6936,45 +6936,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分用メモ"
+                                "The password to activate the Memo Lever for\npersonal use is A cat has nine lives. By moving\nthe lever to the right, you can go from the center\nto the left room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レバーを動かすためのパスワードは『A cat has nine lives』"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レバーを右に動かすことで、中央から左の部屋に行ける。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「チャチャマルの名前が……一体誰の日記なんだ」"
+                                ""
                             ]
                         },
                         {
@@ -6991,38 +6967,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【トミー】"
+                                "【Masamune】 Whose diary is this with Chachamaru's\nname on it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「OBっぽいけど、ここを作った人の日記かな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「それにしても、なにがあったんだろ」"
+                                ""
                             ]
                         },
                         {
@@ -7039,21 +6991,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Tommy】 Seems like it belongs to an alumnus, but\nmaybe it's the diary of the person who created\nthis place."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「フォトン・グラフパードって名前に聞き覚えは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ？」"
+                                ""
                             ]
                         },
                         {
@@ -7070,45 +7015,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】 By the way, I wonder what happened?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「うーん、ないかなぁ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「まだなにも分からずか……先に進もうって、ど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  うしたスケルトンヘッド」"
+                                ""
                             ]
                         },
                         {
@@ -7125,45 +7039,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Masamune】 Does the name Photon Graphpard sound\nfamiliar to you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「この日記を書いた人がこの通路を作ったのなら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  、かなりまずい」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「え……」"
+                                ""
                             ]
                         },
                         {
@@ -7180,21 +7070,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Tommy】 Hmm, I wonder if there's anything..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「こんな正義の人、絶対に女子棟に繋がる道なん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  て作らない……」"
+                                ""
                             ]
                         },
                         {
@@ -7211,38 +7094,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 I still don't understand anything...\nWhat's the plan, Skeleton Head?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「終わりだ……帰ろう」"
+                                ""
                             ]
                         },
                         {
@@ -7259,14 +7125,148 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Skeleton Head】 If the person who wrote this\ndiary created this passage, it's quite\ntroublesome."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「パスワードも知れたし、先に進むぞ」"
+                                "【Masamune】 Huh..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Skeleton Head】 A person of justice like this\nwould never create a path that leads to the girls'\ndormitory..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 ..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Skeleton Head】 It's over... Let's go home."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 We know the password, so let's move\nforward."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7354,7 +7354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰かの日記"
+                                "Someone's diary"
                             ]
                         },
                         {
@@ -7371,7 +7371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕はフォトン・グラフパードを許すことはできない。"
+                                "I cannot forgive Photon Graphpad."
                             ]
                         },
                         {
@@ -7388,38 +7388,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一部では盗撮魔法の始祖と拝められてるが、ただの"
+                                "In some circles, they are revered as the founder\nof voyeuristic magic, but they are just\ncriminals."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "犯罪者だ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも女子の着替えを覗いてはいるが、なかなか証"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拠をださない。"
+                                ""
                             ]
                         },
                         {
@@ -7436,7 +7412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おかげで先生からの追求を逃れている。"
+                                "I always peek at girls changing, but I never\nmanage to gather any evidence."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7453,14 +7436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしそれも今日まで、紆余曲折合って彼を退学処"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分にするこに成功した。"
+                                "Thanks to that, I have managed to escape from\nProfessor Hoffman's pursuit."
                             ]
                         },
                         {
@@ -7477,7 +7453,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼のミスは、僕を本気にさせたことだろう。"
+                                "However, up until today, after various twists and\nturns, we have successfully managed to expel him\nfrom school."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7494,14 +7477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶対に手を出してはいけない存在に手を出してしま"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "った。"
+                                "His mistake probably made me serious."
                             ]
                         },
                         {
@@ -7518,7 +7494,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし問題はまだ解決していない。"
+                                "I ended up getting involved with someone I\nabsolutely shouldn't have gotten involved with."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7535,7 +7518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チャチャマルのために、なにかできることはないか……。"
+                                "However, the problem has not been resolved yet."
                             ]
                         },
                         {
@@ -7552,21 +7535,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分用メモ"
+                                "Is there anything I can do for Chachamaru...?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レバーを動かすためのパスワードは『A cat has nine lives』"
+                                "The password to activate the Memo Lever for\npersonal use is A cat has nine lives. By moving\nthe lever to the right, you can go from the center\nto the left room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レバーを右に動かすことで、中央から左の部屋に行ける。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7643,14 +7643,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【野良猫】"
+                                "【Stray Cat】Meow"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「にゃおーん」"
+                                ""
                             ]
                         },
                         {
@@ -7922,14 +7922,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】It won't open..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「開かない……」"
+                                ""
                             ]
                         },
                         {

@@ -3454,14 +3454,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すべてを忘れて外に出ますか？"
+                                "Will you forget everything and go outside?\n(Progress will be reset)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（進捗はリセットされます）"
+                                ""
                             ]
                         },
                         {
@@ -4706,45 +4706,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "[Leon] There's nothing special here. Just some\nsmall talk, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「特になにもないね。いるのはチャチャマルくら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いか」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「今日も可愛いな。オスだからって関係ないぞ」"
+                                ""
                             ]
                         },
                         {
@@ -4761,38 +4737,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャチャマル】"
+                                "[Skeleton Head] You're cute today too. It doesn't\nmatter that you're male."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「にゃーん……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「おい、やめろよ」"
+                                ""
                             ]
                         },
                         {
@@ -4809,14 +4761,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "[Chachamaru] Meow..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「冗談だ」"
+                                "[Masamune] Hey, stop it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Skeleton Head] Just kidding."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4970,14 +4970,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャチャマル】"
+                                "[Chachamaru] Meow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「にゃーん」"
+                                ""
                             ]
                         },
                         {
@@ -5024,14 +5024,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] What is it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -5101,38 +5101,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "[Skeleton Head] A magic circle! Can Chachamaru\nuse magic?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「魔法陣が！　チャチャマルは魔法が使えるのか」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【レオン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「そんな猫聞いたことないよ」"
+                                ""
                             ]
                         },
                         {
@@ -5149,21 +5125,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "[Leon] I've never heard of a cat like that\nbefore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「チャチャマルはただのハワード寮で飼ってる猫だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  魔法なんて使えないよ」"
+                                ""
                             ]
                         },
                         {
@@ -5180,14 +5149,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Leon] Chachamaru is just a cat that we keep in\nthe Howard Dormitory. It can't use magic or\nanything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「じゃあ、今のはなんだ……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5204,14 +5180,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "[Masamune] Then, what was that just now..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「わからないが、とにかく追いかけるぞ」"
+                                "[Skeleton Head] I don't know, but I'll chase\nafter them anyway."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5395,14 +5395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 I wonder what this room is. Is it just\nan empty room...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なんだろうなこの部屋。ただの空室なのか……」"
+                                ""
                             ]
                         },
                         {
@@ -5788,14 +5788,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】 Hey, Masamune. Did you hear the\nrumors and come here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「よぉ、正宗も噂を聞きつけてきたのか」"
+                                ""
                             ]
                         },
                         {
@@ -5843,45 +5843,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Oh, it's you guys again... What kind\nof rumor is it this time? If it's about cute\nmonsters, spare me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「またお前らか……次はどんな噂だ。可愛い魔物"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ならもう勘弁だ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「違う、違う。もっといい噂だ」"
+                                ""
                             ]
                         },
                         {
@@ -5898,21 +5874,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】 No, no. It's a much better\nrumor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なんでも、ハワード寮には、男子棟と女子棟を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  繋ぐ秘密の道があるらしい」"
+                                ""
                             ]
                         },
                         {
@@ -5929,38 +5898,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Skeleton Head】 Apparently, there is a secret\npassage that connects the men's dormitory and the\nwomen's dormitory in Howard House."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なに……」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「昔生徒が抜け道を作ったんだってな」"
+                                ""
                             ]
                         },
                         {
@@ -5977,21 +5929,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Masamune】 What...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「それを見つければ、女子の日常を覗き放題って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  わけだ」"
+                                ""
                             ]
                         },
                         {
@@ -6008,45 +5953,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Skeleton Head】 I heard that students made a\nsecret passage in the past."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……普通に犯罪だろ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ボクもそう言って止めたんだけど、聞かなくっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  て」"
+                                ""
                             ]
                         },
                         {
@@ -6063,45 +5977,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】 If you find it, you'll be able to\nfreely peek into the daily lives of the girls."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「当たり前だ！　女子部屋を覗くなんて男のロマ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ンだろ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ただの変態だ」"
+                                ""
                             ]
                         },
                         {
@@ -6118,38 +6008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 ...Isn't that just a crime?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「犯罪に付き合う気はないぞ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【レオン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「僕も同感だ。でも気になるよね」"
+                                ""
                             ]
                         },
                         {
@@ -6166,38 +6032,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "【Tommy】 I also tried to stop them from doing\nthat, but they didn't listen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「本当にそんな通路が存在するのか」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「それは確かに……」"
+                                ""
                             ]
                         },
                         {
@@ -6214,45 +6063,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "【Skeleton Head】 Of course! Peeking into the\ngirls' room is a man's romance, isn't it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「だって抜け道に詳しいトミーでも、全く存在を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  知らないんだからね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「そんなのあったら、速攻で先生に潰されるから」"
+                                ""
                             ]
                         },
                         {
@@ -6269,38 +6094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Just a pervert."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「じゃあないんじゃないのか」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ある！」"
+                                ""
                             ]
                         },
                         {
@@ -6317,45 +6118,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Masamune】 I have no intention of getting\ninvolved in a crime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「女子棟を覗きたいなんて誰もが思うことだ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「この長い歴史のある学院で、誰も実行しなかっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  たはずがない」"
+                                ""
                             ]
                         },
                         {
@@ -6372,38 +6142,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Leon】 I agree. But it's still intriguing, isn't\nit?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「天才がきっといるはずだ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「変態だって……」"
+                                ""
                             ]
                         },
                         {
@@ -6420,21 +6166,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Leon】 Is there really such a passage?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「まぁ、探すだけ探してみるか。あれば先生に言"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  えばいいしな」"
+                                ""
                             ]
                         },
                         {
@@ -6451,45 +6190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Masamune】 That is certainly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「言うなよ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【レオン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「とりあえず怪しいのはここかな。この部屋、ず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  っと空室なんだよね」"
+                                ""
                             ]
                         },
                         {
@@ -6506,45 +6214,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "【Leon】 Even Tommy, who knows a lot about secret\npassages, has no idea of its existence."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「部屋は高等部に上がる時に、また新しい部屋を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  決めるんだけどここはずっと人気がなくて」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【レオン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「角部屋だからいいと思うんだけどな」"
+                                ""
                             ]
                         },
                         {
@@ -6561,45 +6245,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Tommy】 If something like that exists, the\nprofessor would crush it immediately."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そんなレオンも選ばなかったんだな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【レオン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「あー、そうだね。なんでだったけ、もう覚えて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ないよ」"
+                                ""
                             ]
                         },
                         {
@@ -6616,14 +6269,361 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Masamune】 Isn't that the case?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「とにかく探してみるぞ」"
+                                "【Skeleton Head】 I have it!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Skeleton Head】 Everyone wants to peek into the\ngirls' dormitory."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Skeleton Head】 In this long-standing academy,\nthere's no way nobody has done it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Skeleton Head】 There must be a genius."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 Even perverts..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 Well, let's just search for it. If it\nexists, we can just tell the professor."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Skeleton Head】 Don't say that!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Leon】 For now, this room seems suspicious. It's\nbeen vacant for a while."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Leon】 When you move up to the upper division,\nyou get to choose a new room, but this one has\nnever been popular."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Leon】 I think it's fine because it's a corner\nroom."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 So even Leon didn't choose this room,\nhuh?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Leon】 Ah, yeah. I don't remember why anymore."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Skeleton Head】 Let's search for it anyway."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6689,14 +6689,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　サブダンジョン"
+                                "Sub Dungeon ~The Secret Path Connecting the Boys'\nand Girls' Dormitories~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  　　　　　　~男子棟と女子棟を繋ぐ秘密の道~"
+                                ""
                             ]
                         },
                         {

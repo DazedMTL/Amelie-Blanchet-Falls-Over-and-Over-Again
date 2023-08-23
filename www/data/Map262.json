@@ -13085,14 +13085,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【メイジー・アッカリー】"
+                                "【Maisy Ackley】I'm sleepy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ねむい……」"
+                                ""
                             ]
                         },
                         {
@@ -13109,14 +13109,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【メイジー・アッカリー】"
+                                "【Maisy Ackley】Would you like to receive healing\nmagic?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「回復魔法を受けてくかい？」"
+                                ""
                             ]
                         },
                         {
@@ -13214,59 +13214,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【メイジー・アッカリー】"
+                                "【Maisy Ackley】Hello, I'm Maisy Ackley. Feel free\nto call me Maisy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「こんにちわ。私はメイジー・アッカリーだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　気軽にメイジーって呼んでくれたまえ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "【メイジー・アッカリー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「こう見えても３年生なんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　ここで治癒魔法の練習のために、怪我をした生徒の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　面倒を見てるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -13283,14 +13245,52 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【メイジー・アッカリー】"
+                                "【Maisy Ackley】Even though I may not look like it,\nI'm actually a third-year student. I'm here taking\ncare of injured students for the sake of\npracticing healing magic."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「君も回復してほしかったら、いつでも言ってくれ」"
+                                "【Maisy Ackley】If you ever want to be healed, just\nlet me know anytime."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13325,14 +13325,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【メイジー・アッカリー】"
+                                "【Maisy Ackley】Would you like to receive healing\nmagic?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「回復魔法を受けてくかい？」"
+                                ""
                             ]
                         },
                         {
@@ -13558,14 +13558,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（妊娠で服が入らないとは言え、この格好は……）」"
+                                "(Even though I can't fit into my clothes because\nof pregnancy, this outfit...)"
                             ]
                         },
                         {
@@ -13596,14 +13596,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【オリビア】\\m[41]\\z[019]"
+                                "\\>【Olivia】\\m[41]\\z[019]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「君たち」"
+                                "You all"
                             ]
                         },
                         {
@@ -13620,14 +13620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「オリビア副会長……」"
+                                "Vice President Olivia..."
                             ]
                         },
                         {
@@ -13651,14 +13651,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【オリビア】\\m[41]\\z[020]"
+                                "\\>【Olivia】\\m[41]\\z[020]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さっきは大変だったみたいだね」"
+                                "It seems like it was tough earlier, huh?"
                             ]
                         },
                         {
@@ -13682,21 +13682,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【オリビア】\\m[41]\\z[021]"
+                                "\\>【Olivia】\\m[41]\\z[021]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私のことを探していたみたいだけど、ちょうど"
+                                "It seems like you were looking for me, but I was\nactually out on an off-campus training."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  校外実習に出てたの」"
+                                ""
                             ]
                         },
                         {
@@ -13713,14 +13713,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだったんですね」"
+                                "I see, is that so?"
                             ]
                         },
                         {
@@ -13737,14 +13737,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「副会長さえ居れば……」"
+                                "As long as the vice president is here..."
                             ]
                         },
                         {
@@ -13775,14 +13775,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[10]\\z[071]"
+                                "\\>【Amelia】\\m[10]\\z[071]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……」"
+                                "「......」"
                             ]
                         },
                         {
@@ -13806,21 +13806,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[10]\\z[072]"
+                                "\\>【Amelia】\\m[10]\\z[072]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう行こ。見てもらうなら早いほうが良いと思"
+                                "Let's go already. I think it's better to get it\nover with quickly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  うし」"
+                                ""
                             ]
                         },
                         {
@@ -13837,14 +13837,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだな」"
+                                "That's right."
                             ]
                         },
                         {
@@ -13868,14 +13868,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【オリビア】\\m[41]\\z[022]"
+                                "\\>【Olivia】\\m[41]\\z[022]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それと、君はあとで生徒会室に来て」"
+                                "And also, come to the student council room later."
                             ]
                         },
                         {
@@ -13892,14 +13892,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺がですか……わかりました」"
+                                "Is it me...? Understood."
                             ]
                         },
                         {
@@ -13923,14 +13923,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【オリビア】\\m[41]\\z[023]"
+                                "\\>【Olivia】\\m[41]\\z[023]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃあ」"
+                                "Well then,"
                             ]
                         },
                         {
@@ -14229,21 +14229,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（生徒会についていろいろ聞きたいことがあっ"
+                                "(I had some things I wanted to ask about the\nstudent council, so this is perfect timing.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  たからちょうどいいか）」"
+                                ""
                             ]
                         },
                         {
@@ -14298,14 +14298,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[10]\\z[073]"
+                                "\\>【Amelia】\\m[10]\\z[073]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いつの間に気に入られたの？」"
+                                "When did you become so fond of me?"
                             ]
                         },
                         {
@@ -14353,14 +14353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなことはないと思うけど」"
+                                "I don't think that's the case, though."
                             ]
                         },
                         {
@@ -14384,14 +14384,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[10]\\z[074]"
+                                "\\>【Amelia】\\m[10]\\z[074]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふーん……」"
+                                "Hmm..."
                             ]
                         },
                         {
@@ -14847,14 +14847,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "You must not go to the main hall right now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今は大ホールに行っては駄目だ」"
+                                ""
                             ]
                         },
                         {
@@ -15797,14 +15797,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【購買部の店員】"
+                                "【Store Clerk at the Purchasing Department】I'm\nsleepy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ねむい……」"
+                                ""
                             ]
                         },
                         {
@@ -15831,14 +15831,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【購買部の店員】"
+                                "【Store Clerk at the Purchasing\nDepartment】Welcome!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「いらっしゃい！」"
+                                ""
                             ]
                         },
                         {
@@ -16006,7 +16006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大ホール」"
+                                "Grand Hall"
                             ]
                         },
                         {
@@ -17009,14 +17009,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】What can I do for you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「なにかようか？」"
+                                ""
                             ]
                         },
                         {
@@ -17043,21 +17043,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】I am a transformed Carbuncle from the\nacademy. I am skilled in fortune-telling magic, so\nfeel free to ask me if you're lost."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「私は学院で変われているカーバンクルだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　占いの魔法が得意だから、道に困ったら聞くといい」"
+                                ""
                             ]
                         },
                         {
@@ -17074,14 +17074,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】Let's change up some other settings\ntoo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「他にもいろんな設定を変えてやろう」"
+                                ""
                             ]
                         },
                         {
@@ -17192,21 +17192,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】If you turn it ON, simply colliding\nwith enemies will be considered a victory.\nHowever, you won't receive any items."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ONにすると敵と衝突しただけで勝利扱いになるぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　アイテムはもらえないがな」"
+                                ""
                             ]
                         },
                         {
@@ -17306,14 +17306,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】If you turn it ON, boss battles will\nbe skipped and considered as victories, allowing\nyou to proceed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ONにするとボス戦闘がスキップされて、勝利扱いで進むぞ」"
+                                ""
                             ]
                         },
                         {
@@ -17413,21 +17413,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】When turned ON, a character portrait\nwill automatically be displayed on the map after\nthe event is over."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ONにするとイベントが終わった時に自動的にマップで立ち絵"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　が表示されるぞ」"
+                                ""
                             ]
                         },
                         {
@@ -17527,28 +17527,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】When turned ON, particle effects will\nbe cut. You can also cut other effects such as\nblurring in the menu options."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ONにするとパーティクル演出がカットされるぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　メニューのオプションからも、上下のぼやかす演出などを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　カットすることができるな」"
+                                ""
                             ]
                         },
                         {
@@ -18042,7 +18042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今は地下の魔法研部室に向かわないと」"
+                                "I have to go to the underground magic research\nclub room now."
                             ]
                         },
                         {
@@ -18313,14 +18313,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】I can't go now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「今は行けない」"
+                                ""
                             ]
                         },
                         {
@@ -18490,21 +18490,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Should we use the teleportation stone\nwe registered when we went there before? It was at\nthe entrance of B2, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「前に行った時に登録した転送石に飛ぶか。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　B2の入口だったよな」"
+                                ""
                             ]
                         },
                         {
@@ -20066,14 +20066,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今回はさっそく動き始めるか」"
+                                "Shall we start moving right away this time?"
                             ]
                         },
                         {
@@ -20090,14 +20090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やっぱり怪しいのは魔法研の部室だよな」"
+                                "The suspicious place is definitely the Magic\nResearch Club room, right?"
                             ]
                         },
                         {
@@ -20114,14 +20114,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「前回は探知魔法でバレたが、今回はわかってる」"
+                                "We got caught last time because of the detection\nmagic, but this time we know."
                             ]
                         },
                         {
@@ -20138,14 +20138,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「絶対大丈夫だ」"
+                                "It'll definitely be fine."
                             ]
                         },
                         {
@@ -20303,21 +20303,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "掲示板"
+                                "Bulletin Board: To prevent colds, let's\nthoroughly wash our hands, gargle, or use\npurification magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "『風邪予防のために、手洗いうがい、もしくは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　浄化魔法を徹底しましょう』"
+                                ""
                             ]
                         },
                         {
@@ -20374,7 +20374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]掲示板の裏も読んでくれてる人、居るかな？"
+                                "\\c[10] I wonder if there are people who are also\nreading the back of the bulletin board?"
                             ]
                         },
                         {
@@ -20479,21 +20479,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "掲示板"
+                                "Bulletin Board: To prevent colds, let's\nthoroughly wash our hands, gargle, or use\npurification magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "『風邪予防のために、手洗いうがい、もしくは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　浄化魔法を徹底しましょう』"
+                                ""
                             ]
                         },
                         {
@@ -20550,7 +20550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]掲示板の裏も読んでくれてる人、居るかな？"
+                                "\\c[10] I wonder if there's anyone who reads the\nback of the bulletin board?"
                             ]
                         },
                         {
@@ -20647,28 +20647,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】The school store sells everything, from\nrecovery items to condoms. They take care of\neveryone who needs them, including those who have\ngirlfriends."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「購買部なら回復アイテムでもなんでも売ってるぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　頼めばコンドームもくれるから、彼女が出きらた"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　みんなお世話になってるな」"
+                                ""
                             ]
                         },
                         {
@@ -20803,21 +20803,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【教員】"
+                                "【Professor】That detestable Samuel Church... If\nthey do something, they will immediately blow up\nthe chapel."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「忌々しいサミュエル教会め……。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なにかしたら、すぐにでも礼拝堂を消し飛ばしてくれる」"
+                                ""
                             ]
                         },
                         {

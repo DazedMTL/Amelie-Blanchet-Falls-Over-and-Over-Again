@@ -4339,38 +4339,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ポーラ】"
+                                "[Paula] Hehe, here I go~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ふふ、いただき～」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「魔導書がっ……」"
+                                ""
                             ]
                         },
                         {
@@ -4387,14 +4363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "[Masamune] The grimoire..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「でかした、ポーラ！」"
+                                ""
                             ]
                         },
                         {
@@ -4411,14 +4387,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "[Sylvester von Weisshwaik] Well done, Paula!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「魔導書を奪いやがった！　この卑怯者！」"
+                                "[Skeleton Head] You stole the grimoire! You\ncoward!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4488,45 +4488,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "[Sylvester von Weisshwaik] This is also part of\nthe strategy. I appreciate you guiding us to the\nlocation of the treasure."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「これも戦略だ。宝の在り処まで案内してくれて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  感謝する」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「くそ……すぐに奪い返すぞ」"
+                                ""
                             ]
                         },
                         {
@@ -4543,21 +4519,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "[Skeleton Head] Damn it... I'll take it back\nright away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そんなことさせるか。さぁポーラ、魔導書をこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  っちに」"
+                                ""
                             ]
                         },
                         {
@@ -4574,14 +4543,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ポーラ】"
+                                "[Sylvester von Weisshwaik] I won't let you do\nthat. Now, Paula, bring the grimoire over here."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「んー、やっぱりこれ……」"
+                                "[Paula] Hmm, this one after all..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5222,38 +5222,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] W-What!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「な、なんだ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【レオン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「先生がどうして……」"
+                                ""
                             ]
                         },
                         {
@@ -5270,14 +5246,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "[Leon] Why is Professor Hoffman..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「動くな！」"
+                                "[Melissa-sensei] Don't move!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5303,14 +5303,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ポーラ】"
+                                "[Paula] Wow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「わお……」"
+                                ""
                             ]
                         },
                         {
@@ -5420,14 +5420,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
+                                "[Principal] Binding Magic!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「拘束魔法！」"
+                                ""
                             ]
                         },
                         {
@@ -5555,14 +5555,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ポーラ】"
+                                "[Paula] Ah\\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あん\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -5579,14 +5579,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "[Skeleton Head] What's happening here!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なにが起こってるんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -5634,45 +5634,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "[Sylvester von Weisshwaik] Paula! Hey, what are\nyou doing?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ポーラ！　おい、なにをするのだ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メリッサ先生】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「シルベスター、そいつはカレドニーの生徒では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ない」"
+                                ""
                             ]
                         },
                         {
@@ -5689,14 +5658,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "[Melissa-sensei] Sylvester, that person is not a\nstudent of Caledony."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「え……」"
+                                "[Sylvester von Weisshwaik] Huh..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5744,45 +5744,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ポーラ】"
+                                "[Paula] Ah, so you found out after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あー、やっぱりバレてたんだね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メリッサ先生】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「当然だ。まさかここまでうまくいくとは思わな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  かったが」"
+                                ""
                             ]
                         },
                         {
@@ -5799,45 +5768,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Melissa-sensei] Of course. I didn't expect\nthings to go so smoothly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「どういうことですか」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「こやつは我々が探していた、魔法使いの犯罪組"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  織のメンバーだ」"
+                                ""
                             ]
                         },
                         {
@@ -5854,21 +5799,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ポーラ】"
+                                "[Masamune] What's going on?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「犯罪組織だなんて……『４人の魔女』は、魔法"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  使いのための組織なのに」"
+                                ""
                             ]
                         },
                         {
@@ -5885,45 +5823,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "[Principal] This person is a member of the\ncriminal organization of wizards that we have been\nsearching for."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そんな……」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【ポーラ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ふふっ、騙してごめんね。私の本当の名前はメ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ディア……四人の魔女の幹部なの」"
+                                ""
                             ]
                         },
                         {
@@ -5940,45 +5854,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "[Paula] A criminal organization... But the 'Four\nWitches' is an organization for witches."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「醜悪の魔女メディアは、カレドニーの卒業生じ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ゃ」"
+                                ""
                             ]
                         },
                         {
@@ -5995,45 +5885,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
+                                "[Sylvester von Weisshwaik] No way..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「だから我々の手で捕まえようと、エサをまいた」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「それが四人の魔女が探している、絶倫魔法の魔"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  導書の噂じゃ」"
+                                ""
                             ]
                         },
                         {
@@ -6050,45 +5909,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "[Paula] Hehe, sorry for deceiving you. My real\nname is Media... I'm one of the executives of the\nFour Witches."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「え……それってつまり」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「このダンジョンは、学院がメディアを捕まえる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ために作ったダミーだ」"
+                                ""
                             ]
                         },
                         {
@@ -6105,21 +5940,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
+                                "[Sylvester von Weisshwaik] ...  Note: Since the\ncontext does not provide any specific information\nabout the speaker's gender, I have used gender-\nneutral language in the translation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「四人の魔女のメンバーが学院にスパイを送り込"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  んでいるのは知っていたからの」"
+                                ""
                             ]
                         },
                         {
@@ -6136,38 +5964,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "[Principal] The hideous witch Media is a graduate\nof Caledony."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「じゃあ、絶倫魔法はないってことか！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「もちろんじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -6184,38 +5995,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "[Principal] That's why we scattered bait to catch\nher ourselves."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そんなぁ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メリッサ先生】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「まさかお前たちまで入るなんてな」"
+                                ""
                             ]
                         },
                         {
@@ -6232,52 +6019,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "[Principal] That's the rumor of the invincible\nmagic grimoire that the Four Witches are searching\nfor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「噂を流して四人の魔女が好んで使っている魔法で入れ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  るようにしておいたんだが」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「メディア、大人しく投降するんじゃ。ワシも元"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  生徒を傷つけたくはない」"
+                                ""
                             ]
                         },
                         {
@@ -6294,14 +6050,258 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メディア】"
+                                "[Skeleton Head] Eh... Does that mean..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「ふふっ、もう勝ったつもりでいるんだ？」"
+                                "[Principal] This dungeon was created by the\nacademy as a decoy to capture Media."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Principal] I knew that members of the Four\nWitches were sending spies into the academy."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Skeleton Head] So, that means there's no\ninvincible magic after all!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Principal] Of course."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Skeleton Head] Oh no..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Melissa-sensei] I can't believe you all would\nenter as well."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Melissa-sensei] I spread rumors and made it\npossible to enter using the magic that the Four\nWitches prefer."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Principal] Media, surrender quietly. I don't\nwant to harm my former student either."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Media] Hehe, do you already think you've won?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6363,45 +6363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "[Sylvester von Weisshwaik] Paula..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ポーラ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メディア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ふふ、まだその名前で呼んでくれるの。でもそ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  れ偽名だから」"
+                                ""
                             ]
                         },
                         {
@@ -6418,45 +6387,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "【Media】 Hehe, you still call me by that name. But\nit's a fake name."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「全部ウソなんだろ……ポーラは……わたくしの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ために協力してくれるって……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メリッサ先生】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「おい、近づくな」"
+                                ""
                             ]
                         },
                         {
@@ -6473,45 +6418,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "[Sylvester von Weisshwaik] It's all a lie...\nPaula... she said she would cooperate with me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「魔法は困っている人を救うためにあるって、ポ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ーラも同意してくれたじゃないか」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メディア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「全部ウソ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -6528,38 +6449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "[Melissa-sensei] Hey, don't come any closer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「っ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メディア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「魔法はね、破壊するためにあるの」"
+                                ""
                             ]
                         },
                         {
@@ -6576,52 +6473,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メディア】"
+                                "【Sylvester von Weisshwaik】 Paula agreed that\nmagic exists to help those in need, didn't she?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「気に入らない物、気に入らないルール……気に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  入らない人間」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メディア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「本来どうしようもできないことを、魔法が覆し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  てくれる」"
+                                ""
                             ]
                         },
                         {
@@ -6638,38 +6504,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メディア】"
+                                "[Media] It's all a lie."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あなただって、攻撃魔法を沢山使えるじゃない」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「これはっ……破壊するためじゃ……」"
+                                ""
                             ]
                         },
                         {
@@ -6686,21 +6528,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メディア】"
+                                "[Sylvester von Weisshwaik] ...  Note: Since the\ngender of Sylvester von Weisshwaik is specified as\nmale, I used gender-specific pronouns in this\ntranslation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「くだらない言い訳。さっきだって私に攻撃する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  命令をしたくせに」"
+                                ""
                             ]
                         },
                         {
@@ -6717,45 +6552,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "[Media] Magic, you see, exists to destroy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「でも、本気で倒すつもりじゃなくて……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メディア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「そう。まぁ、どうでもいいけどね。あなたは騙"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  しやすそうだから利用しただけだし」"
+                                ""
                             ]
                         },
                         {
@@ -6772,38 +6576,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メディア】"
+                                "[Media] Things I don't like, rules I don't\nlike... and people I don't like."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「一人でダンジョンに潜るのは面倒だったから」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「……」"
+                                ""
                             ]
                         },
                         {
@@ -6820,45 +6607,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
+                                "[Media] Magic can cover things that are\noriginally impossible to do."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「話は終わりじゃ……魔法協会に引き渡すまでの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  間、寝てて貰おう」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メディア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ふふっ、この程度の魔法で拘束したつもり？」"
+                                ""
                             ]
                         },
                         {
@@ -6875,14 +6638,251 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
+                                "[Media] You can use a lot of offensive magic too,\nyou know."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「なにっ……」"
+                                "[Sylvester von Weisshwaik] This... is not for\ndestruction..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Media] Pathetic excuses. Just a while ago, you\nordered me to attack."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Sylvester von Weisshwaik] But, I don't intend to\ndefeat you seriously..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Media] Yeah, well, it doesn't really matter. I\njust used you because you seemed easy to deceive."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Media] I found it troublesome to explore the\ndungeon alone."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Sylvester von Weisshwaik] ...  Note: Since the\ngender of Sylvester von Weisshwaik is specified as\nmale, I used gender-specific pronouns in this\ntranslation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Principal] The conversation is over... Until I\nhand you over to the Magic Association, get some\nrest."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Media] Hehe, do you think you can restrain me\nwith this level of magic?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Principal] What...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6996,52 +6996,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メディア】"
+                                "[Media] Dealing with this many people is\ntroublesome, so maybe I'll just cause a commotion\nand escape."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「この人数を相手にするのは面倒だから、適当に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  暴れて逃げようかな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メリッサ先生】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「くっ……拘束魔法は完璧だったはずなのにっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  …」"
+                                ""
                             ]
                         },
                         {
@@ -7058,45 +7027,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メディア】"
+                                "[Melissa-sensei] Ugh... The binding magic should\nhave been perfect..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「最初から全部バレバレなの\\I[12]　先生たちの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  驚く顔が見たかったから付き合ってあげただけ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メディア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「対策さえしていれば、防げない魔法じゃないよ」"
+                                ""
                             ]
                         },
                         {
@@ -7113,14 +7058,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "[Media] I just went along with it because I\nwanted to see the surprised faces of you teachers\nwho were so obvious from the beginning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「馬鹿な……くっ、醜悪の魔女め！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7137,14 +7089,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メディア】"
+                                "[Media] As long as you have countermeasures, it's\nnot a magic that can't be prevented."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「その名前で私を呼ぶな……特級風魔法！」"
+                                "[Melissa-sensei] Idiot... Damn, you ugly witch!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Media] Don't call me by that name... Special\nClass Wind Magic!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7184,14 +7184,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Oh no... Tommy, hide behind me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「まずいっ……トミーたちは俺の後ろに隠れろ」"
+                                ""
                             ]
                         },
                         {
@@ -7208,14 +7208,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【トミー】"
+                                "[Tommy] Wow~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「わ～～！」"
+                                ""
                             ]
                         },
                         {
@@ -7263,14 +7263,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "[Skeleton Head] Hey, you too!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「おい、お前も！」"
+                                ""
                             ]
                         },
                         {
@@ -7287,14 +7287,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "【Sylvester von Weisshwaik】 Ah, ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あ、あぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -7356,14 +7356,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "[Skeleton Head] What are you doing!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なにやってるんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -7380,14 +7380,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メディア】"
+                                "[Media] I'll destroy everything for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「全部破壊してあげる\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -7695,14 +7695,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Skeleton Head..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「スケルトンヘッド……」"
+                                ""
                             ]
                         },
                         {
@@ -7781,14 +7781,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "[Leon] The mask..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「仮面が……」"
+                                ""
                             ]
                         },
                         {
@@ -7848,21 +7848,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "[Skeleton Head] It seems like I made it in time\nwith the Beastification Magic... Guh... ..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「獣化魔法は間に合ったみたいだな……ぐふっ…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  …」"
+                                ""
                             ]
                         },
                         {
@@ -7932,38 +7932,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "【Sylvester von Weisshwaik】 You are..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あなたは……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「どうして……」"
+                                ""
                             ]
                         },
                         {
@@ -7980,21 +7956,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Sylvester von Weisshwaik】 Why..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「二度も俺なんかに助けられるなんて、相当どん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  くさい子だ」"
+                                ""
                             ]
                         },
                         {
@@ -8011,14 +7980,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シルベスター・フォン・ヴァイスシュヴァイク】"
+                                "[Skeleton Head] To be saved by someone like me\ntwice, you must be quite a clumsy child."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「王子……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8035,14 +8011,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Sylvester von Weisshwaik】 Prince..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「えぇ……！」"
+                                "【Masamune】 Eh...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8114,14 +8114,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
+                                "[Principal] They managed to escape..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「逃げられたか……」"
+                                ""
                             ]
                         },
                         {
@@ -8138,21 +8138,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "[Teacher Melissa] I thought everything was going\nwell, but I never expected to be caught... Why on\nearth..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「うまく行ったと思ったんですが、まさかバレて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いたなんて……一体どうして」"
+                                ""
                             ]
                         },
                         {

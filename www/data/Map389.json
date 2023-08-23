@@ -4307,14 +4307,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 The box won't open again..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「また箱が……開かない」"
+                                ""
                             ]
                         },
                         {
@@ -4343,14 +4343,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【宝箱】"
+                                "【Treasure Chest】 I have a question!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「問題です！」"
+                                ""
                             ]
                         },
                         {
@@ -4367,14 +4367,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【宝箱】"
+                                "【Treasure Chest】 Which of the following is the\nregion with the highest concentration of magic\npower?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「魔力が一番濃い地域は、次のうちどれでしょう」"
+                                ""
                             ]
                         },
                         {
@@ -4426,14 +4426,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【宝箱】"
+                                "【Treasure Chest】 That's correct! Please take\nwhat's inside the box."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「正解です！　箱の中身をお取りください」"
+                                ""
                             ]
                         },
                         {
@@ -4561,45 +4561,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Another question... But it would have\nbeen easy if I had attended the class."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「また問題……でも授業を受けていれば簡単だっ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  たな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「うん。教科書を見て問題を作ったみたい」"
+                                ""
                             ]
                         },
                         {
@@ -4616,38 +4592,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Tommy】 Yeah, I made the questions by looking at\nthe textbook."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「解きごたえがないぜ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「スケルトンヘッド君はわかってたの？」"
+                                ""
                             ]
                         },
                         {
@@ -4664,14 +4616,62 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】 There's no challenge to this."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "  「このくらいならわかるからな！」"
+                                "【Tommy】 Did you know, Skeleton Head?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "【Skeleton Head】 I can understand this much!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4753,14 +4753,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【宝箱】"
+                                "【Treasure Chest】 Missed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「はずれ！」"
+                                ""
                             ]
                         },
                         {
@@ -4790,14 +4790,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【宝箱】"
+                                "【Treasure Chest】 Missed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「はずれ！」"
+                                ""
                             ]
                         },
                         {

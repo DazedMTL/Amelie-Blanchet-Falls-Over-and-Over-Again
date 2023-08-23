@@ -3564,7 +3564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "画面端で折り返しON"
+                                "Wrap around at the edge of the screen, ON."
                             ]
                         },
                         {
@@ -3612,7 +3612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "画面端で折り返しOFF"
+                                "Wrap around at the edge of the screen, OFF."
                             ]
                         },
                         {

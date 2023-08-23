@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "食堂",
+    "displayName": "Cafeteria",
     "encounterList": [],
     "encounterStep": 30,
     "height": 29,
@@ -5273,14 +5273,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「朝食は案外普通だな」"
+                                "Breakfast is surprisingly normal."
                             ]
                         },
                         {
@@ -5297,21 +5297,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だいたいシリアルかトーストだよ。あとソーセ"
+                                "It's mostly cereal or toast. Sometimes we also\nhave sausages and poached eggs."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ージとポーチドエッグなんかも出るね」"
+                                ""
                             ]
                         },
                         {
@@ -5328,21 +5328,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それなら問題なさそうだ。あまりグレートラン"
+                                "If that's the case, then it shouldn't be a\nproblem. I didn't have a great impression of the\nmeals in the Grand Kingdom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ド王国の食事にいい印象は持ってなかったから」"
+                                ""
                             ]
                         },
                         {
@@ -5359,14 +5359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あはは……」"
+                                "Ahaha..."
                             ]
                         },
                         {
@@ -5383,21 +5383,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「とはいえ、俺もこの国に来てから４年くらい経"
+                                "Well, it's been about four years since I came to\nthis country, so I've become somewhat accustomed\nto it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  つから、いい加減なれてきたけどな」"
+                                ""
                             ]
                         },
                         {
@@ -5414,14 +5414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それはよかった……って、もうこんな時間！」"
+                                "That's good... Wait, it's already this late!"
                             ]
                         },
                         {
@@ -5438,14 +5438,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「案内してたから、もうすぐ朝礼の時間だよ」"
+                                "I was guiding, so it's almost time for the morning\nassembly."
                             ]
                         },
                         {
@@ -5462,14 +5462,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「正宗君はボクと同じ2-Aなんだよね」"
+                                "Masamune-kun is in the same class as me, 2-A."
                             ]
                         },
                         {
@@ -5486,14 +5486,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「教室は２階だから、急いで向かわないと」"
+                                "The classroom is on the second floor, so we need\nto hurry and head there."
                             ]
                         },
                         {

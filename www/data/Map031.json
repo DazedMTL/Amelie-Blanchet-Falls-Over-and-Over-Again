@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "魔道具研究会",
+    "displayName": "Magic Tool Research Club",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -3219,14 +3219,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あとは調べてないのはこの奥くらいか」"
+                                "The only thing left unexplored is this inner part."
                             ]
                         },
                         {
@@ -3243,21 +3243,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ここは魔道具研究会だったよな。クロエしか部"
+                                "This was supposed to be the Magic Tool Research\nClub, right? Chloe was the only member, though."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  員がいなかったはずだけど」"
+                                ""
                             ]
                         },
                         {
@@ -3301,21 +3301,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】This might be the final battle. We\ncan't redo it anymore, but is that okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「これが最後の戦いになるかもしれない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　もうやり直すことはできないが問題ないか」"
+                                ""
                             ]
                         },
                         {
@@ -3442,14 +3442,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】(I'm not ready yet...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「（まだ準備ができていない……）」"
+                                ""
                             ]
                         },
                         {
@@ -3466,7 +3466,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "決戦は３日目以降でないと行けません。"
+                                "The final battle can only take place on the third\nday or later."
                             ]
                         },
                         {
@@ -4040,14 +4040,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここは何部だ？　なにか置いてある」"
+                                "What club is this? Is there something here?"
                             ]
                         },
                         {
@@ -4109,14 +4109,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これは……魔道具か？　ずいぶん質がいいな」"
+                                "Is this... a magical tool? It's of quite good\nquality."
                             ]
                         },
                         {
@@ -4226,14 +4226,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんなの見たことない」"
+                                "I've never seen anything like this before."
                             ]
                         },
                         {
@@ -4250,14 +4250,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どちら様っすか！？」"
+                                "Who might you be!?"
                             ]
                         },
                         {
@@ -4305,14 +4305,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、悪い。勝手に入ってきて」"
+                                "Ah, sorry. I entered without permission."
                             ]
                         },
                         {
@@ -4329,14 +4329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「初めて見る人っすね。もしかして入部希望とか」"
+                                "You're someone I've never seen before. Are you\nperhaps interested in joining the club?"
                             ]
                         },
                         {
@@ -4353,21 +4353,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや、違うんだ。俺は転入してきたばかりで、"
+                                "No, that's not it. I just transferred here and\nwanted to take a look around."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  少し見学がしたくて」"
+                                ""
                             ]
                         },
                         {
@@ -4384,21 +4384,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ、噂の転入生っすね。そういうことならじ"
+                                "Ah, so you're the rumored transfer student. In\nthat case, feel free to take a good look around."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  っくり見ていいっすよ」"
+                                ""
                             ]
                         },
                         {
@@ -4415,14 +4415,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「噂になってるのか」"
+                                "So it's become a rumor, huh?"
                             ]
                         },
                         {
@@ -4439,14 +4439,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、転入生なんて珍しいっすからね」"
+                                "Oh, it's rare to have a transfer student, you\nknow."
                             ]
                         },
                         {
@@ -4463,21 +4463,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、自分は一年のクロエ・シェリーっす。魔道"
+                                "Ah, I'm Chloe Sherry, a first-year student. I'm\nthe president of the Magic Tools Research Club."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  具研究会の会長っす」"
+                                ""
                             ]
                         },
                         {
@@ -4494,14 +4494,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「会長って言っても、部員は一人だけっすけどね」"
+                                "Even though I say president, there's only one\nmember in the club."
                             ]
                         },
                         {
@@ -4518,14 +4518,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔道具……ってことはこれは君が作ったのか？」"
+                                "Magic tools... Does that mean you made this?"
                             ]
                         },
                         {
@@ -4542,14 +4542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もちろん」"
+                                "Of course."
                             ]
                         },
                         {
@@ -4566,14 +4566,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それはすごいな」"
+                                "That's amazing."
                             ]
                         },
                         {
@@ -4630,14 +4630,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え！　本当っすか！」"
+                                "Eh! Is that true?"
                             ]
                         },
                         {
@@ -4654,21 +4654,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「驚くようなことじゃないだろ。このペンダント"
+                                "It's not something surprising. Just by looking at\nthis pendant, you can tell it has power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  とか、見ただけで力があるとわかる」"
+                                ""
                             ]
                         },
                         {
@@ -4685,14 +4685,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺でも魔力を感じるよ」"
+                                "I can feel the magical power too."
                             ]
                         },
                         {
@@ -4709,21 +4709,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それは水のペンダントっす！　つけるだけで水"
+                                "That's a water pendant! Just by wearing it, it\nhelps with water magic!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  魔法の手助けをしてくれるっす！」"
+                                ""
                             ]
                         },
                         {
@@ -4740,14 +4740,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よかったら差し上げるっすよ」"
+                                "If you'd like, I can give it to you."
                             ]
                         },
                         {
@@ -4764,14 +4764,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いいのか」"
+                                "Is it okay?"
                             ]
                         },
                         {
@@ -4799,21 +4799,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いやー、魔道具を褒められたのなんて"
+                                "Oh my, it's the first time someone has praised my\nmagical tool."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  入って初めてっす」"
+                                ""
                             ]
                         },
                         {
@@ -4830,14 +4830,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんなに良いものを作ってるのにな」"
+                                "Even though I'm making such good things."
                             ]
                         },
                         {
@@ -4854,14 +4854,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法使いは魔道具に頼るのを嫌うので」"
+                                "Magicians dislike relying on magical tools."
                             ]
                         },
                         {
@@ -4878,21 +4878,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔道具を使うのは才能のない証拠だって。杖以"
+                                "Using magical tools is proof of lacking talent.\nTools other than staffs are unpopular."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  外の道具は人気がないっす」"
+                                ""
                             ]
                         },
                         {
@@ -4909,14 +4909,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「たしかにそういう考えの人は多いな」"
+                                "Indeed, there are many people with such thoughts."
                             ]
                         },
                         {
@@ -4933,28 +4933,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（でも実戦だとそんなこと言ってられない。こ"
+                                "(But in actual combat, you can't say such things.\nIf this is distributed to the magic unit, it will\nbe a significant increase in firepower.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  れが魔法部隊に配られたら大きな戦力アップに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  なるだろう）」"
+                                ""
                             ]
                         },
                         {
@@ -4971,21 +4971,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺は素晴らしい発明だと思う。きっと将来、も"
+                                "I think it's a brilliant invention. I'm sure it\nwill be even more appreciated in the future."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  っと評価されることになるよ」"
+                                ""
                             ]
                         },
                         {
@@ -5002,21 +5002,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「嬉しいっす……今まで頑張ってきてよかったっ"
+                                "I'm happy... I'm glad I've worked hard until now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  す」"
+                                ""
                             ]
                         },
                         {
@@ -5033,14 +5033,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そこまで喜ぶか……」"
+                                "Are you that happy..."
                             ]
                         },
                         {
@@ -5066,14 +5066,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「先輩……いや、兄貴！」"
+                                "Senpai... No, big brother!"
                             ]
                         },
                         {
@@ -5090,14 +5090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「兄貴って……」"
+                                "Big brother..."
                             ]
                         },
                         {
@@ -5114,21 +5114,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ウチの発明を評価してくれた初めての人っす！"
+                                "You're the first person to appreciate our\ninvention! I want to call you big brother!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  兄貴って呼ばせて欲しいっす」"
+                                ""
                             ]
                         },
                         {
@@ -5145,14 +5145,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、別にいいけど」"
+                                "Well, it's not a big deal."
                             ]
                         },
                         {
@@ -5169,14 +5169,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やったー！」"
+                                "Yay!"
                             ]
                         },
                         {
@@ -5193,14 +5193,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もちろん入部するんすよね」"
+                                "Of course, you're joining the club, right?"
                             ]
                         },
                         {
@@ -5217,14 +5217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや、しない」"
+                                "No, I won't."
                             ]
                         },
                         {
@@ -5272,14 +5272,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇー！」"
+                                "Ehh?!"
                             ]
                         },
                         {
@@ -5296,21 +5296,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪いけど、まだ入学したばかりだからな……ち"
+                                "Sorry, but I just started school... I have some\nthings to take care of."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ょっとやることもあるし」"
+                                ""
                             ]
                         },
                         {
@@ -5358,14 +5358,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そういうことなら仕方ないっす」"
+                                "If that's the case, then I guess there's no\nhelping it."
                             ]
                         },
                         {
@@ -5382,14 +5382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いつでも来ていいっすからね」"
+                                "You can come anytime, okay?"
                             ]
                         },
                         {
@@ -5406,14 +5406,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、ちなみにあの装置も使っていいっすよ」"
+                                "Oh, by the way, you can use that device too."
                             ]
                         },
                         {
@@ -5461,14 +5461,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにこれ」"
+                                "What's this?"
                             ]
                         },
                         {
@@ -5485,14 +5485,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これがウチの一番の発明です」"
+                                "This is our greatest invention."
                             ]
                         },
                         {
@@ -5509,21 +5509,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「材料を入れれば、勝手に魔道具が出来上がるん"
+                                "If you put in the ingredients, a magic tool will\nbe completed on its own."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  す」"
+                                ""
                             ]
                         },
                         {
@@ -5540,14 +5540,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「嘘だろ……」"
+                                "You're kidding..."
                             ]
                         },
                         {
@@ -5564,21 +5564,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「神童クロエ・シェリーをなめてもらっちゃ"
+                                "I wouldn't appreciate it if you underestimated\nprodigy Chloe Sherry."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  困るっす」"
+                                ""
                             ]
                         },
                         {
@@ -5595,28 +5595,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本来なら材料に魔力を込めながら合成しないと"
+                                "Normally, you have to infuse magic into the\ningredients while synthesizing, but this does it\nall automatically."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いけないんすが、これは全部自動でやってくれ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  るっす」"
+                                ""
                             ]
                         },
                         {
@@ -5633,21 +5633,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もちろん複雑なのは作れないっすが、そこの炎"
+                                "Of course, I can't make anything too complicated,\nbut I can make something like that pendant with\nthe flame."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  のペンダントくらいなら作れるっす」"
+                                ""
                             ]
                         },
                         {
@@ -5664,21 +5664,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「杖も作れるので、材料があったら使ってみてく"
+                                "Since I can also make staffs, please try using the\ningredients if you have them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ださい」"
+                                ""
                             ]
                         },
                         {
@@ -5695,14 +5695,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これはレシピっす」"
+                                "This is a recipe."
                             ]
                         },
                         {
@@ -5739,21 +5739,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔道具図鑑って言って、ウチの親戚が書いたも"
+                                "Speaking of the Magic Tool Encyclopedia, it's\nsomething my relative wrote."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  のっす」"
+                                ""
                             ]
                         },
                         {
@@ -5770,21 +5770,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「他にもあるみたいなんで、見つけたら拾ってく"
+                                "If you find any others, please pick them up."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ださい」"
+                                ""
                             ]
                         },
                         {
@@ -5801,14 +5801,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もっといろんなものが作れるようになるっすよ」"
+                                "I'll be able to make more different things."
                             ]
                         },
                         {
@@ -5998,14 +5998,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔道具生成釜は自由に使っていいっすよ」"
+                                "You're free to use the magic item creation pot."
                             ]
                         },
                         {
@@ -6073,21 +6073,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「兄貴ー！　魔道具生成装置は自由に使っていい"
+                                "Big brother! You can freely use the magic tool\ncreation device, you know!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  っす」"
+                                ""
                             ]
                         },
                         {
@@ -6104,14 +6104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「助かるよ」"
+                                "I'm saved."
                             ]
                         },
                         {
@@ -6128,14 +6128,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、それと魔道具で聞きたいことがあるんだが」"
+                                "Oh, and there's something I want to ask using the\nmagic tool."
                             ]
                         },
                         {
@@ -6152,14 +6152,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい、なんでも聞いてほしいっす」"
+                                "Yes, I want you to ask me anything."
                             ]
                         },
                         {
@@ -6207,21 +6207,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そのくらいならあるっす。欲しいならあげるっ"
+                                "If it's just that much, I have it. If you want it,\nI'll give it to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  すよ」"
+                                ""
                             ]
                         },
                         {
@@ -6260,14 +6260,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとう」"
+                                "Thank you"
                             ]
                         },
                         {
@@ -6344,14 +6344,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クロエ】"
+                                "\\>【Chloe】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔道具生成釜は自由に使っていいっすよ」"
+                                "You're free to use the magic item creation pot."
                             ]
                         },
                         {

@@ -13196,21 +13196,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リン・ルェイリー】"
+                                "【Lin Leary】I don't receive any allowance, so life\nis tough. For a poor student to earn money,\nthere's no choice but to do bad things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ウチは仕送りがないから生活がつらいよー。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　貧乏学生が稼ぐには、悪いことするしかないよ」"
+                                ""
                             ]
                         },
                         {
@@ -13289,45 +13289,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【リン・ルェイリー】"
+                                "【Lin Leirley】Hey, hey, do you want to buy\nsomething that boys would be happy with?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ねぇねぇ君。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　男子が喜ぶ良いものを売ってるんだけど、買ってかない？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「なんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -13344,38 +13320,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【リン・ルェイリー】"
+                                "【Masamune】What is it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「それは、女の子のパンツだよ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「え、先輩のパンツですか！」"
+                                ""
                             ]
                         },
                         {
@@ -13392,21 +13344,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【リン・ルェイリー】"
+                                "【Lin Leirley】It's girls' panties!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そんなわけないよ！　ウチはどれだけお金なくても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　売りはしないから」"
+                                ""
                             ]
                         },
                         {
@@ -13423,21 +13368,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【リン・ルェイリー】"
+                                "【Masamune】Huh, are they Senpai's panties?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「でも家が貧乏で仕送りがないから困ってるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　買ってくれない？　いい匂いするよ」"
+                                ""
                             ]
                         },
                         {
@@ -13454,21 +13392,83 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Lin Leirley】That's not true! Even if we don't\nhave much money, we won't sell those."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「誰のパンツなんですか……。　"
+                                "【Lin Leirley】But my family is poor and I don't\nhave any allowance, so I'm in trouble. Won't you\nbuy it? It smells really nice."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　どうしようかな……」"
+                                "【Masamune】Whose panties are they... What should I\ndo..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13507,21 +13507,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【リン・ルェイリー】"
+                                "【Lin Leirley】Yay! Since you're handsome, I'll\nlower it to 1000G for you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「やったー！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　君イケメンだから１０００Gにまけてあげるよ！」"
+                                ""
                             ]
                         },
                         {
@@ -13569,14 +13569,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】It's quite expensive... I don't even\nknow the original price."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「普通に高い……。ていうか元の値段知らないし」"
+                                ""
                             ]
                         },
                         {
@@ -13593,21 +13593,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【リン・ルェイリー】"
+                                "【Lin Leirley】As expected, girls' underwear sells\nwell. Maybe I should steal some casual clothes\nnext."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「やっぱ女の子の下着は売れるんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　次は私服でも盗んでこようかな」"
+                                ""
                             ]
                         },
                         {
@@ -13712,14 +13712,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Did I do something bad?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「まずいことしちゃったかな」"
+                                ""
                             ]
                         },
                         {
@@ -13736,7 +13736,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "闇購買部に新商品が入荷されました！"
+                                "New products have arrived at the Dark Purchase\nClub!"
                             ]
                         },
                         {
@@ -13775,14 +13775,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【リン・ルェイリー】"
+                                "【Lin Leirley】Oh no-"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「そんなー」"
+                                ""
                             ]
                         },
                         {
@@ -13799,21 +13799,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】These are definitely stolen panties,\nright! You shouldn't do bad things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「絶対盗んだパンツですよね！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　悪いことはしちゃダメですよ」"
+                                ""
                             ]
                         },
                         {
@@ -13857,21 +13857,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【リン・ルェイリー】"
+                                "【Lin Leirley】We don't have any allowance, so life\nis tough. For a poor student like me, the only way\nto earn money is by doing bad things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ウチは仕送りがないから生活がつらいよー。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　貧乏学生が稼ぐには、悪いことするしかないよ」"
+                                ""
                             ]
                         },
                         {
@@ -14601,14 +14601,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Is now a good time?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今はいいか」"
+                                ""
                             ]
                         },
                         {
@@ -15496,7 +15496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送石に登録した"
+                                "Registered on the teleportation stone."
                             ]
                         },
                         {
@@ -15860,21 +15860,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リン・ルェイリー】"
+                                "【Lin Leirley】I've got something good~ You can\nonly get it here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「良いもの仕入れたよ～"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ここでしか手に入らないよ」"
+                                ""
                             ]
                         },
                         {
@@ -17071,21 +17071,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】This is a VIP-only room. You can\njust enjoy listening."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ここはVIP専用の部屋だ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お前は音だけ聞いて楽しんでろ」"
+                                ""
                             ]
                         },
                         {
@@ -17160,21 +17160,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】This is a VIP-only room. You can\njust listen and enjoy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ここはVIP専用の部屋だ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お前は音だけ聞いて楽しんでろ」"
+                                ""
                             ]
                         },
                         {
@@ -17242,21 +17242,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】This is a VIP-only room. You can\njust enjoy listening."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ここはVIP専用の部屋だ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お前は音だけ聞いて楽しんでろ」"
+                                ""
                             ]
                         },
                         {
@@ -17324,21 +17324,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】This is a VIP-only room. You can\njust listen and enjoy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ここはVIP専用の部屋だ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お前は音だけ聞いて楽しんでろ」"
+                                ""
                             ]
                         },
                         {
@@ -17524,14 +17524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】Next is my turn. I'm looking\nforward to it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「次は俺の番だ。たのしみだなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -17599,14 +17599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】Next is my turn. I'm looking\nforward to it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「次は俺の番だ。たのしみだなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -17674,14 +17674,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】Next is my turn. I'm looking\nforward to it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「次は俺の番だ。たのしみだなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -17749,14 +17749,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】Next is my turn. I'm looking\nforward to it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「次は俺の番だ。たのしみだなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -18155,21 +18155,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】What's wrong? Do you also feel\nlike doing something naughty?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「どうしたの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もしかしてあんたもエッチなことしたい感じ？」"
+                                ""
                             ]
                         },
                         {
@@ -18208,21 +18208,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】Hmm, in that case, should I be the\none to entertain you? Try taking off your\nclothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「んー、ならお姉さんが相手してあげようかな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　服脱いでみて」"
+                                ""
                             ]
                         },
                         {
@@ -18270,38 +18270,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】Hehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ぷっ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【女子の先輩】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「冗談に決まってるでしょ。あははっ……」"
+                                ""
                             ]
                         },
                         {
@@ -18318,21 +18294,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】It's obviously a joke. Ahaha..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「本当に脱いでる！"
+                                "【Female Senior】You're really taking off your\nclothes! You're quite the perverted kid, huh~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あんた、とんだエロガキだねぇ～」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18454,21 +18454,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】What's wrong? Do you also feel\nlike doing something naughty?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「どうしたの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もしかしてあんたもエッチなことしたい感じ？」"
+                                ""
                             ]
                         },
                         {
@@ -18507,21 +18507,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】Hmm, in that case, should I be the\none to entertain you? Try taking off your\nclothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「んー、ならお姉さんが相手してあげようかな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　服脱いでみて」"
+                                ""
                             ]
                         },
                         {
@@ -18569,38 +18569,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】Hehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ぷっ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【女子の先輩】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「冗談に決まってるでしょ。あははっ……」"
+                                ""
                             ]
                         },
                         {
@@ -18617,21 +18593,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】It's obviously a joke, right?\nAhaha..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「本当に脱いでる！"
+                                "【Female Senior】You're really taking off your\nclothes! You're quite the perverted kid, huh~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あんた、とんだエロガキだねぇ～」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18753,21 +18753,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】What's wrong? Do you also feel\nlike doing something naughty?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「どうしたの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もしかしてあんたもエッチなことしたい感じ？」"
+                                ""
                             ]
                         },
                         {
@@ -18806,21 +18806,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】Hmm, in that case, should I be the\none to entertain you? Try taking off your\nclothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「んー、ならお姉さんが相手してあげようかな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　服脱いでみて」"
+                                ""
                             ]
                         },
                         {
@@ -18868,38 +18868,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】Hehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ぷっ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【女子の先輩】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「冗談に決まってるでしょ。あははっ……」"
+                                ""
                             ]
                         },
                         {
@@ -18916,21 +18892,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】It's obviously a joke. Ahaha..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「本当に脱いでる！"
+                                "【Female Senior】You're really taking off your\nclothes! You're quite the perverted kid, huh~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あんた、とんだエロガキだねぇ～」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19052,21 +19052,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】What's wrong? Do you also feel\nlike doing something naughty?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「どうしたの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もしかしてあんたもエッチなことしたい感じ？」"
+                                ""
                             ]
                         },
                         {
@@ -19105,21 +19105,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】Hmm, in that case, should I be the\none to entertain you? Why don't you try taking off\nyour clothes?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「んー、ならお姉さんが相手してあげようかな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　服脱いでみて」"
+                                ""
                             ]
                         },
                         {
@@ -19167,38 +19167,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】Hehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ぷっ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【女子の先輩】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「冗談に決まってるでしょ。あははっ……」"
+                                ""
                             ]
                         },
                         {
@@ -19215,21 +19191,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】It's obviously a joke, right?\nAhaha..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「本当に脱いでる！"
+                                "【Female Senior】You're really taking off your\nclothes! You're quite the perverted kid, huh~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あんた、とんだエロガキだねぇ～」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19462,14 +19462,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】Don't come near here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ここに近寄るな」"
+                                ""
                             ]
                         },
                         {
@@ -19831,14 +19831,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】Don't come near here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ここに近寄るな」"
+                                ""
                             ]
                         },
                         {
@@ -20179,21 +20179,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子の先輩】"
+                                "【Male Senior】Indeed, it's magic. Magic solves\neverything. Especially those who can use healing\nmagic are valuable, so we must treasure them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「やはり魔法だ。魔法はすべてを解決する。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　特に治癒魔法を使える人は貴重だから、大事にするんだ」"
+                                ""
                             ]
                         },
                         {
@@ -20219,21 +20219,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男子の先輩】"
+                                "【Male Senior】By the way, in your second year,\nyou'll be able to receive a blowjob from Amelia-\nchan. I'm seriously jealous."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「てか、２年ってアメリちゃんにフェラしてもらえるんでしょ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　マジうらやましーわ」"
+                                ""
                             ]
                         },
                         {
@@ -20719,21 +20719,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子の先輩】"
+                                "【Male Senior】Sometimes I hear voices coming from\nthat vacant classroom over there. Could it be a\nghost...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そこの空き教室からたまに声がすることがあるんだよね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もしかして幽霊……」"
+                                ""
                             ]
                         },
                         {
@@ -20776,14 +20776,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男子の先輩】"
+                                "【Male Senior】Erotic underwear... Are you also a\nmember of the Magic Research Club?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「エロい下着……君も魔法研なのか」"
+                                ""
                             ]
                         },
                         {
@@ -20827,14 +20827,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【男子の先輩】"
+                                "【Male Senior】Erotic clothing... Are you also a\nmember of the Magic Research Club?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「エロい服……君も魔法研なのか」"
+                                ""
                             ]
                         },
                         {
@@ -20928,14 +20928,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【男子の先輩】"
+                                "【Male Senior】Walking around naked... Are you also\na member of the Magic Research Club?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「裸でうろつくなんて……君も魔法研なのか」"
+                                ""
                             ]
                         },
                         {
@@ -21063,21 +21063,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子の先輩】"
+                                "【Male Senior】It's interesting when you\noccasionally go to the love hotel in Howard\nDormitory and someone is using it, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ハワード寮のラブホテル、偶に行くと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　誰か使ってるから面白いよね」"
+                                ""
                             ]
                         },
                         {
@@ -21094,14 +21094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子の先輩】"
+                                "【Male Senior】Since the door can't be locked, you\ncan freely peep on people having sex."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「鍵がかけられないから、セックス盗み見放題だよ」"
+                                ""
                             ]
                         },
                         {
@@ -21144,14 +21144,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男子の先輩】"
+                                "【Male Senior】Erotic underwear... Are you also\npart of the Magic Research Club?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「エロい下着……君も魔法研なのか」"
+                                ""
                             ]
                         },
                         {
@@ -21195,14 +21195,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【男子の先輩】"
+                                "【Male Senior】Erotic clothing... Are you also part\nof the Magic Research Club?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「エロい服……君も魔法研なのか」"
+                                ""
                             ]
                         },
                         {
@@ -21296,14 +21296,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【男子の先輩】"
+                                "【Male Senior】Walking around naked... Are you also\npart of the Magic Research Club?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「裸でうろつくなんて……君も魔法研なのか」"
+                                ""
                             ]
                         },
                         {
@@ -21440,21 +21440,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】There are a lot of history books\nin the large library. It would be good to go and\nsee if you're interested."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「大図書館には歴史の本が沢山あるよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　気になったら見に行くといいね」"
+                                ""
                             ]
                         },
                         {
@@ -21497,14 +21497,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】You're also dressed quite\npervertedly, aren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「あなたも相当変態な格好してるけど」"
+                                ""
                             ]
                         },
                         {
@@ -21548,14 +21548,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】You're also dressed quite\npervertedly, aren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「あなたも相当変態な格好してるけど」"
+                                ""
                             ]
                         },
                         {
@@ -21649,14 +21649,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】You're also dressed quite\npervertedly, aren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「あなたも相当変態な格好してるけど」"
+                                ""
                             ]
                         },
                         {
@@ -21784,21 +21784,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】I heard Professor Hoffman\nmuttering about putting slime in the anus, it's\nreally gross."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ホフマン先生がアナルにスライム入れるとか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　つぶやいてたんだけど、ほんときもい」"
+                                ""
                             ]
                         },
                         {
@@ -21841,14 +21841,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】You're also dressed quite\nperverted, aren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「あなたも相当変態な格好してるけど」"
+                                ""
                             ]
                         },
                         {
@@ -21892,14 +21892,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】You're also dressed quite\nperverted, aren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「あなたも相当変態な格好してるけど」"
+                                ""
                             ]
                         },
                         {
@@ -21993,14 +21993,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】You're also dressed quite\nperverted, aren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「あなたも相当変態な格好してるけど」"
+                                ""
                             ]
                         },
                         {
@@ -22144,14 +22144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ネコ】"
+                                "【Cat】Meow"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ぎゃおーん」"
+                                ""
                             ]
                         },
                         {
@@ -22235,28 +22235,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Ah, I want to get closer to Olivia. I\nwant to eat together, but I've never seen her in\nthe cafeteria."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あー、オリビアともっと仲良くなりたい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　一緒にご飯食べたいけど、食堂で見かけたこと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　一度もないんだよな」"
+                                ""
                             ]
                         },
                         {
@@ -22273,14 +22273,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I want to talk about doll magic in the\nstudent council room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「生徒会室にある人形魔法のこととか話したいよー」"
+                                ""
                             ]
                         },
                         {
@@ -22323,14 +22323,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I mean, what amazing underwear... It's\nso erotic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ていうか、なんですごい下着……エロいな」"
+                                ""
                             ]
                         },
                         {
@@ -22374,14 +22374,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I mean, what amazing clothes... They're\nso sexy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「ていうか、なんですごい服……エロいな」"
+                                ""
                             ]
                         },
                         {
@@ -22475,14 +22475,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I mean, why naked... It's so erotic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「ていうか、なんで裸……エロいな」"
+                                ""
                             ]
                         },
                         {

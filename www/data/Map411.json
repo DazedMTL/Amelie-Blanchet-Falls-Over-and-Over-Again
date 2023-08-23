@@ -12986,14 +12986,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「開かないな」"
+                                "It won't open."
                             ]
                         },
                         {
@@ -13024,14 +13024,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】I wonder if it's locked with magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「魔法で鍵がかけられてるのかな」"
+                                ""
                             ]
                         },
                         {
@@ -13055,14 +13055,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】Or... is there some kind of mechanism?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それとも……なにか仕掛けがあるとか」"
+                                ""
                             ]
                         },
                         {
@@ -13079,14 +13079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだな。少し探してみるか」"
+                                "Yeah, I guess I'll look around a bit."
                             ]
                         },
                         {
@@ -13214,14 +13214,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「扉が空いた」"
+                                "The door is open."
                             ]
                         },
                         {
@@ -13238,14 +13238,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「（ここは強い魔物がいないみたいだ。助かった）」"
+                                "(It seems there are no strong monsters here.\nThat's a relief.)"
                             ]
                         },
                         {
@@ -13276,14 +13276,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【アメリ】\\m[3]\\z[032]"
+                                "\\>【Amelia】\\m[3]\\z[032]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「まだ先がありそうだけど、もう就寝時間だね」"
+                                "It seems like there's still a long way to go, but\nit's already bedtime."
                             ]
                         },
                         {
@@ -13307,14 +13307,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【アメリ】\\m[3]\\z[033]"
+                                "\\>【Amelia】\\m[3]\\z[033]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「さすがに戻らないと」"
+                                "I should probably go back."
                             ]
                         },
                         {
@@ -13331,14 +13331,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「あぁ、まだ。今日はこの辺にしておこう」"
+                                "Ah, not yet. Let's call it a day around here."
                             ]
                         },
                         {
@@ -13355,14 +13355,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「それに、まだなにかの魔法がかけられてるみたいだ」"
+                                "Besides, it seems like some kind of magic is still\ncast on it."
                             ]
                         },
                         {
@@ -13379,14 +13379,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「（儀式まではそこまで余裕がない）」"
+                                "(There's not much time left until the ritual.)"
                             ]
                         },
                         {
@@ -13403,21 +13403,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「（でも無理してすべてが水の泡になるよりマシ"
+                                "(But it's better than forcing everything and\nending up with nothing)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  だ）」"
+                                ""
                             ]
                         },
                         {
@@ -13434,14 +13434,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダンジョンに進むには、儀式学の授業２を受ける必要が"
+                                "To proceed into the dungeon, you need to take\nRitual Studies Class 2."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "あります。"
+                                ""
                             ]
                         },
                         {
@@ -13481,14 +13481,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「よし、今日も頑張ろう」"
+                                "Alright, let's do our best today."
                             ]
                         },
                         {
@@ -13515,14 +13515,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「開かない。仕掛けがないか探してみるか」"
+                                "It won't open. Shall we look for any mechanisms?"
                             ]
                         },
                         {
@@ -13559,14 +13559,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「開かない。仕掛けがないか探してみるか」"
+                                "It won't open. Shall we look for any mechanisms?"
                             ]
                         },
                         {
@@ -13644,14 +13644,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まだ開かないな」"
+                                "It's not open yet."
                             ]
                         },
                         {
@@ -13668,14 +13668,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンに進むには、儀式学の授業２を受ける必要が"
+                                "To proceed into the dungeon, you need to take\nRitual Studies Class 2."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あります。"
+                                ""
                             ]
                         },
                         {
@@ -14518,7 +14518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンの転送石に登録した"
+                                "Registered on the dungeon teleportation stone."
                             ]
                         },
                         {
@@ -14595,14 +14595,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Shall we call it a day?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日はもう終わりにしようか」"
+                                ""
                             ]
                         },
                         {
@@ -16635,14 +16635,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Hmm, something has fallen from a bag."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ん、なにか袋が落ちてる」"
+                                ""
                             ]
                         },
                         {
@@ -16659,14 +16659,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 It might be a trap. Show it to me for\na moment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「罠かもしれない。ちょっと見せてみろ」"
+                                ""
                             ]
                         },
                         {
@@ -16690,14 +16690,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Oh, Masamune-kun, you're such a\nworrier."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「もう、正宗君は心配性だなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -16726,179 +16726,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 It's natural to be cautious... Ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「警戒するのは当然だ……あっ……」"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "スキット 表情 アメリ f 6"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「大丈夫！？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「袋が爆発して……粉がっ……けほけほっ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「でも大丈夫だ。特に問題はない」"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "スキット 表情 アメリ f 1"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ならよかった……」"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "スキット 表情 アメリ f 13"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ごめん、私が油断したせいで」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「大丈夫……んっ……」"
+                                ""
                             ]
                         },
                         {
@@ -16922,45 +16757,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Are you okay!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「どうしたの、なにかあった……って」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「（ちんこがギンギンに勃起してる……だめだ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  勝手にムラムラしてくる）」"
+                                ""
                             ]
                         },
                         {
@@ -16977,21 +16781,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 The bag exploded... and there's\npowder... cough, cough..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（もしかして今の粉は興奮させる薬か！）」"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "スキット 表情 アメリ f 9"
+                                ""
                             ]
                         },
                         {
@@ -17008,93 +16805,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Masamune】 But don't worry. There's no particular\nproblem."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「エッチなこと考えてる……わけじゃないよね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「当たり前だ……多分、今の粉を吸ったから」"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "スキット 表情 アメリ f 13"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「だよね……ごめんね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「このくらいなら大丈夫だ。先に進もう」"
+                                ""
                             ]
                         },
                         {
@@ -17118,45 +16836,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 That's a relief..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「……少し動きづらいかもしれないな」"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "スキット 表情 アメリ f 19"
+                                "スキット 表情 アメリ f 13"
                             ]
                         },
                         {
@@ -17173,21 +16867,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 I'm sorry, it's my fault for letting my\nguard down."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「当然でしょ……」"
+                                "【Masamune】 I'm fine... mmm..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "スキット 表情 アメリ f 9"
+                                "スキット 表情 アメリ f 6"
                             ]
                         },
                         {
@@ -17204,45 +16922,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 What's wrong, did something happen...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……仕方ない。私の責任でもあるから」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「仕方ないって……え！」"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "スキット 表情 アメリ f 19"
+                                ""
                             ]
                         },
                         {
@@ -17259,38 +16946,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Masamune】 (My dick is getting rock hard... No,\nthis is bad, I'm getting horny on my own)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「出したら収まるでしょ。お姉さんがしてあげる」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「う、うそ……」"
+                                ""
                             ]
                         },
                         {
@@ -17307,14 +16977,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 (Could it be that the powder just now\nwas an aphrodisiac!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（アメリが……俺のを……）」"
+                                ""
                             ]
                         },
                         {
@@ -17338,14 +17008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 You're not thinking about something\nnaughty... right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ただの処理だから……」"
+                                ""
                             ]
                         },
                         {
@@ -17362,14 +17032,124 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Of course... Maybe it's because I\ninhaled that powder just now."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
+                                "スキット 表情 アメリ f 13"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「したことあるのか」"
+                                "【Amelia】 That's right... I'm sorry."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 This should be fine. Let's continue."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
+                                "スキット 表情 アメリ f 1"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Amelia】 ...  【エレナ】  「なんだか、気になるわね...」"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 ...I might be a little uncomfortable\nmoving."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17393,21 +17173,241 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Of course..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
+                                "スキット 表情 アメリ f 9"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「ないよ……ていうか恥ずかしいからあんまり聞"
+                                "【Amelia】 ...It can't be helped. It's partly my\nresponsibility too."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  かないで……正宗君は黙って出せば良いんだから」"
+                                "【Masamune】 It can't be helped... Huh!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
+                                "スキット 表情 アメリ f 19"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Amelia】 If you release it, it should calm down.\nI'll do it for you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 N-No way..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 (Amelia... touching mine...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
+                                "スキット 表情 アメリ f 9"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Amelia】 It's just a routine task..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 Have you done it before?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
+                                "スキット 表情 アメリ f 19"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Amelia】 No... I mean, it's embarrassing, so\nplease don't ask too much... Masamune-kun, you\nshould just stay quiet and let it out."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17459,45 +17459,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 (Amelia is touching my penis...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（アメリが俺のちんこを……）」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「うわぁ……熱い……おちんちんて、こんな風に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  なるんだ……」"
+                                ""
                             ]
                         },
                         {
@@ -17514,38 +17483,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Amelia】 Wow... It's so hot... I didn't know a\npenis could become like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あ……」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「大丈夫？」"
+                                ""
                             ]
                         },
                         {
@@ -17562,38 +17514,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あぁ、気持ちいい……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「まだなにもしてないんだけど……ん、ん……」"
+                                ""
                             ]
                         },
                         {
@@ -17610,21 +17538,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Are you okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「もうお汁たれてる……すごい匂い……はぁ、は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -17641,21 +17562,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Masamune】 Ah, it feels good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「正宗君のクセに、結構凶暴なんだね……もっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  可愛いのかと思ってた……」"
+                                ""
                             ]
                         },
                         {
@@ -17672,45 +17586,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Amelia】 I haven't done anything yet... Mm,\nmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なんだよそれ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「こんなに脈打っちゃって……お姉さんでも、変"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  な気分になっちゃう……」"
+                                ""
                             ]
                         },
                         {
@@ -17727,38 +17610,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 You're already dripping... the smell is\namazing... haa, haa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「はぁ、はぁ……うまく出来てる？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「あぁ……最高だ……」"
+                                ""
                             ]
                         },
                         {
@@ -17775,45 +17641,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Masamune-kun, despite being so\nforceful... I thought you would be more cute..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なら早く出して小さくしてくれると助かるな…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  …」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「わかってるっ……くっ……」"
+                                ""
                             ]
                         },
                         {
@@ -17830,21 +17672,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Masamune】 What is that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「おちんちん……ビクついてる……はぁ、はぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  …」"
+                                ""
                             ]
                         },
                         {
@@ -17861,38 +17696,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 It's pulsating so much... Even as an\nolder sister, it makes me feel strange..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「シコシコ……シコシコ……」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「なんだよそれ……」"
+                                ""
                             ]
                         },
                         {
@@ -17909,38 +17727,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Haa, haa... Am I doing it well?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「興奮するかなって……どう？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「それは……するけど……あっ……」"
+                                ""
                             ]
                         },
                         {
@@ -17957,21 +17751,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Masamune】 Ah... It's the best..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「さっきよりも汁がたれてる……もう出しちゃっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  て……」"
+                                ""
                             ]
                         },
                         {
@@ -17988,21 +17775,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 If you could release it quickly and make\nit smaller, that would be helpful..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「大丈夫……私が袋を拾ったのが悪いんだから…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  …」"
+                                ""
                             ]
                         },
                         {
@@ -18019,14 +17806,227 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 I know... ah..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「あっ……」"
+                                "【Amelia】 The penis... it's twitching... haa,\nhaa..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Amelia】 Stroke, stroke... Stroke, stroke..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 What is that..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Amelia】 I wonder if it'll excite you... How\nabout it?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 That is... I'll do it... Ah..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Amelia】 The juices are dripping even more than\nbefore... I can't hold it in anymore..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Amelia】 It's okay... It's my fault for picking\nup the bag..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Masamune】 Ah..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18066,38 +18066,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Mmm... It's coming out..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「んっ……出てる……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「あぁっ、くっ……」"
+                                ""
                             ]
                         },
                         {
@@ -18114,14 +18090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Masamune】 Ah...ku..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「わー、気持ちよさそう……そんなによかった？」"
+                                ""
                             ]
                         },
                         {
@@ -18138,21 +18114,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Amelia】 Wow, it looks so pleasurable... Was it\nthat good?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「それは……よかった……アメリの小さなすべす"
+                                "【Masamune】 That... was... good... Amelia's small,\ndelicate hands..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  べの手が……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18190,21 +18190,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 I-I didn't ask for your thoughts... It's\nembarrassing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「か、感想までは訊いてないよっ……恥ずかしい"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  って……」"
+                                ""
                             ]
                         },
                         {
@@ -18228,14 +18228,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Let's forget about this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「このことはお互い忘れよ」"
+                                ""
                             ]
                         },
                         {
@@ -18259,38 +18259,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 It's just an accident..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ただの事故だから……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「あ、あぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -18307,14 +18283,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Ah, ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（とてもじゃないけど忘れられないけどな）」"
+                                ""
                             ]
                         },
                         {
@@ -18331,7 +18307,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "射精させた総量が2ml増えた！"
+                                "【Masamune】 (There's no way I can forget it)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The total amount of ejaculate increased by 2ml!"
                             ]
                         },
                         {
@@ -19211,28 +19211,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダイコン】"
+                                "【Daikon】Bu-bu-bu! (I'm not a mandrake, I'm\nDaikon! I'm not an enemy...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ぶぶぶ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　（俺はマンドラゴラじゃないダイコンだ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　敵じゃないっ……）」"
+                                ""
                             ]
                         },
                         {
@@ -19249,28 +19249,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダイコン】"
+                                "【Daikon】Bu-bu...bu-bu... (As proof, I'll give you\na hint on how to open the door. The color of the\ncandle flame can be changed with magic.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ぶぶっ、ぶぶ……。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　（その証拠に扉の開け方のヒントを教えてやる。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　ロウソクの火は魔力で色を変えられるんだ）"
+                                ""
                             ]
                         },
                         {

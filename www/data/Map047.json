@@ -8289,7 +8289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「笹ねずみを捕まえた！」"
+                                "I caught a bamboo rat!"
                             ]
                         },
                         {
@@ -8678,21 +8678,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【説明サル】"
+                                "【Description Monkey】Have you ever seen a lucky\nbutterfly? It seems that touching it will fully\nrestore HP and MP."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「幸運を呼ぶ蝶々を見たことはあるか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　触れるとHPとMPが全回復するらしい」"
+                                ""
                             ]
                         },
                         {
@@ -8796,7 +8796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "HPとMPが全回復した！"
+                                "HP and MP have been fully restored!"
                             ]
                         },
                         {
@@ -8892,7 +8892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "HPとMPが全回復した！"
+                                "HP and MP have been fully restored!"
                             ]
                         },
                         {

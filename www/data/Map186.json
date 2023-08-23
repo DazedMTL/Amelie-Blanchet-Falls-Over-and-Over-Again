@@ -4561,14 +4561,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Something's happening..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なにかある……」"
+                                ""
                             ]
                         },
                         {
@@ -4714,14 +4714,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【カニ】"
+                                "[Crab] ...  Note: The text in brackets indicates\nthe speaker's name or identity. In this case, it\nis a character named Crab."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……」"
+                                ""
                             ]
                         },
                         {
@@ -4760,14 +4760,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【カニ】"
+                                "[Crab] Huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ハァ？」"
+                                ""
                             ]
                         },
                         {

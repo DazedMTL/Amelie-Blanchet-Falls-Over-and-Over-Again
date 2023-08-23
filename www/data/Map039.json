@@ -4874,14 +4874,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男子生徒】"
+                                "[Male Student] Haa!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  「はぁ！」"
+                                ""
                             ]
                         },
                         {
@@ -4955,45 +4955,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] What are you doing in a place like\nthis?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「こんな場所でなにしてるんだ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【男子生徒】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「女子は朝風呂の習慣があるんだ。そして俺は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  盗撮魔法の天才」"
+                                ""
                             ]
                         },
                         {
@@ -5010,14 +4979,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男子生徒】"
+                                "[Male Student] Girls have a morning bath\ntradition. And I am a genius at magical\nvoyeurism."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「これ以上の説明はいらないな」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5034,14 +5010,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "[Male Student] I don't need any more\nexplanation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "  「盗撮してるのか……」"
+                                "[Masamune] Are you secretly taking pictures...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5070,14 +5070,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男子生徒】"
+                                "[Male Student] You can watch too. Haa!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「お前も見ていけ。はぁ！」"
+                                ""
                             ]
                         },
                         {
@@ -5094,14 +5094,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Hey, don't do whatever you want."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「ちょっと勝手に」"
+                                ""
                             ]
                         },
                         {
@@ -5246,14 +5246,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男子生徒】"
+                                "[Male Student] Haa!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  「はぁ！」"
+                                ""
                             ]
                         },
                         {
@@ -5327,14 +5327,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] You again..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「またお前……」"
+                                ""
                             ]
                         },
                         {
@@ -5363,38 +5363,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男子生徒】"
+                                "[Male Student] Let's go, haa! Nice to meet you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「いくぞ、はぁ！　よろしくお願いします！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「なんだそれ……」"
+                                ""
                             ]
                         },
                         {
@@ -5411,14 +5387,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男子生徒】"
+                                "[Masamune] What's that..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "  「盗撮道は、礼に始まり礼に終わる！」"
+                                "[Male Student] The path of voyeurism begins and\nends with courtesy!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5563,14 +5563,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【男子生徒】"
+                                "[Male Student] Haa!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  「はぁ！」"
+                                ""
                             ]
                         },
                         {
@@ -5644,14 +5644,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] They're here again..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「また居る……」"
+                                ""
                             ]
                         },
                         {
@@ -5680,14 +5680,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男子生徒】"
+                                "[Male Student] Let's go, haa! Nice to meet you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「いくぞ、はぁ！　よろしくお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -5704,14 +5704,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Nice to meet you! Please take care of\nme!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「よろしくお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -6118,7 +6118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お風呂に入るために着替えますか？"
+                                "Do you change clothes to take a bath?"
                             ]
                         },
                         {
@@ -6519,14 +6519,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふぅ……気持ちいい」"
+                                "Ah... feels good"
                             ]
                         },
                         {
@@ -6543,14 +6543,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あははっ……エロすぎ」"
+                                "Ahaha... It's too erotic."
                             ]
                         },
                         {
@@ -6598,14 +6598,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ん……隣から声が……」"
+                                "Hmm... I hear a voice from next door..."
                             ]
                         },
                         {
@@ -6622,21 +6622,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「（男の声だったよな……でも隣は女子の風呂だ"
+                                "(It was a male voice... but the next door is the\ngirls' bath...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  ……）」"
+                                ""
                             ]
                         },
                         {
@@ -6653,14 +6653,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「気のせいか……」"
+                                "Is it just my imagination..."
                             ]
                         },
                         {
@@ -6677,14 +6677,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「（ちょっとだけ、耳をすましてみよう）」"
+                                "(Let me listen carefully for a moment)"
                             ]
                         },
                         {

@@ -13085,14 +13085,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【メイジー・アッカリー】"
+                                "【Maisy Ackley】I'm sleepy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ねむい……」"
+                                ""
                             ]
                         },
                         {
@@ -13109,14 +13109,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【メイジー・アッカリー】"
+                                "【Maisy Ackley】Would you like to receive healing\nmagic?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「回復魔法を受けてくかい？」"
+                                ""
                             ]
                         },
                         {
@@ -13214,59 +13214,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【メイジー・アッカリー】"
+                                "【Maisy Ackley】Hello, I'm Maisy Ackley. Feel free\nto call me Maisy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「こんにちわ。私はメイジー・アッカリーだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　気軽にメイジーって呼んでくれたまえ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "【メイジー・アッカリー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「こう見えても３年生なんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　ここで治癒魔法の練習のために、怪我をした生徒の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　面倒を見てるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -13283,14 +13245,52 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【メイジー・アッカリー】"
+                                "【Maisy Ackley】Even though I may not look like it,\nI'm actually a third-year student. I'm here taking\ncare of injured students for the sake of\npracticing healing magic."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「君も回復してほしかったら、いつでも言ってくれ」"
+                                "【Maisy Ackley】If you ever want to be healed, just\nlet me know anytime."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13325,14 +13325,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【メイジー・アッカリー】"
+                                "【Maisy Ackley】Would you like to receive healing\nmagic?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「回復魔法を受けてくかい？」"
+                                ""
                             ]
                         },
                         {
@@ -13586,14 +13586,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ハンナ】"
+                                "[Hannah] Magic is full of mysterious things,\nisn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「まったく、魔法は不思議なことだらけだ」"
+                                ""
                             ]
                         },
                         {
@@ -13617,21 +13617,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ハンナ】"
+                                "[Hannah] But, I wonder if Masamune's efforts have\nbeen somewhat conveyed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「だが、これで正宗の頑張りも多少は伝わったか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  な」"
+                                ""
                             ]
                         },
                         {
@@ -13655,14 +13655,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ハンナ】"
+                                "[Hannah] That's good."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「よかったな」"
+                                ""
                             ]
                         },
                         {
@@ -13693,7 +13693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Afterシナリオ　END"
+                                "After Scenario END"
                             ]
                         },
                         {
@@ -14170,14 +14170,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "You must not go to the main hall right now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今は大ホールに行っては駄目だ」"
+                                ""
                             ]
                         },
                         {
@@ -14895,14 +14895,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】The door is locked and won't open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「鍵がかかっていて開かない」"
+                                ""
                             ]
                         },
                         {
@@ -15219,14 +15219,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【購買部の店員】"
+                                "【Store Clerk at the Purchasing Department】I'm\nsleepy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ねむい……」"
+                                ""
                             ]
                         },
                         {
@@ -15253,14 +15253,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【購買部の店員】"
+                                "【Store Clerk at the Purchasing\nDepartment】Welcome!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「いらっしゃい！」"
+                                ""
                             ]
                         },
                         {
@@ -15995,7 +15995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大ホール」"
+                                "Grand Hall"
                             ]
                         },
                         {
@@ -16847,14 +16847,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】What can I do for you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「なにかようか？」"
+                                ""
                             ]
                         },
                         {
@@ -16881,45 +16881,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】I am a Carbuncle kept at the academy.\nI am skilled in fortune-telling magic, so if\nyou're ever in need, feel free to ask me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「私は学院で飼われているカーバンクルだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　占いの魔法が得意だから、道に困ったら聞くといい」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【カーバンクル】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「他にもいろんな設定を変えてやろう」"
+                                ""
                             ]
                         },
                         {
@@ -16936,21 +16912,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】Let's change various settings as\nwell."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「それとこれをあげよう。"
+                                "【Carbuncle】Here, take this. It's good to use when\nyou're in trouble."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　困った時に使うと良い」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17071,21 +17071,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】If you turn it ON, simply colliding\nwith enemies will be considered a victory.\nHowever, you won't receive any items."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ONにすると敵と衝突しただけで勝利扱いになるぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　アイテムはもらえないがな」"
+                                ""
                             ]
                         },
                         {
@@ -17185,14 +17185,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】If you turn it ON, boss battles will\nbe skipped and considered as victories."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ONにするとボス戦闘がスキップされて、勝利扱いで進むぞ」"
+                                ""
                             ]
                         },
                         {
@@ -17292,21 +17292,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】When you turn it ON, a character\nportrait will automatically be displayed on the\nmap after an event is finished."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ONにするとイベントが終わった時に自動的にマップで立ち絵"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　が表示されるぞ」"
+                                ""
                             ]
                         },
                         {
@@ -17406,28 +17406,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【カーバンクル】"
+                                "【Carbuncle】When you turn it ON, particle effects\nwill be cut. You can also cut other effects such\nas blurring in the menu options."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ONにするとパーティクル演出がカットされるぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　メニューのオプションからも、上下のぼやかす演出などを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　カットすることができるな」"
+                                ""
                             ]
                         },
                         {
@@ -17921,7 +17921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今は地下の魔法研部室に向かわないと」"
+                                "I have to go to the underground magic research\nclub room now."
                             ]
                         },
                         {
@@ -18192,14 +18192,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】I can't go now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「今は行けない」"
+                                ""
                             ]
                         },
                         {
@@ -18369,21 +18369,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Should we use the teleportation stone\nwe registered when we went there before? It was at\nthe entrance of B2, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「前に行った時に登録した転送石に飛ぶか。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　B2の入口だったよな」"
+                                ""
                             ]
                         },
                         {
@@ -21436,7 +21436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今は地下の魔法研部室に向かわないと」"
+                                "I have to go to the underground magic research\nclub room now."
                             ]
                         },
                         {
@@ -21586,7 +21586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今は地下の魔法研部室に向かわないと」"
+                                "I have to go to the underground magic research\nclub room now."
                             ]
                         },
                         {
@@ -21714,14 +21714,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今回はさっそく動き始めるか」"
+                                "Shall we start moving right away this time?"
                             ]
                         },
                         {
@@ -21738,14 +21738,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やっぱり怪しいのは魔法研の部室だよな」"
+                                "The suspicious place is still the Magic Research\nClub room, right?"
                             ]
                         },
                         {
@@ -21762,14 +21762,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「前回は探知魔法でバレたが、今回はわかってる」"
+                                "We got caught last time because of the detection\nmagic, but this time we know."
                             ]
                         },
                         {
@@ -21786,14 +21786,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「絶対大丈夫だ」"
+                                "It'll definitely be fine."
                             ]
                         },
                         {
@@ -21963,7 +21963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今は地下の魔法研部室に向かわないと」"
+                                "I have to go to the underground magic research\nclub room now."
                             ]
                         },
                         {
@@ -22113,7 +22113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今は地下の魔法研部室に向かわないと」"
+                                "I have to go to the underground magic research\nclub room now."
                             ]
                         },
                         {
@@ -22279,7 +22279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今は地下の魔法研部室に向かわないと」"
+                                "I have to go to the underground magic research\nclub room now."
                             ]
                         },
                         {
@@ -22429,7 +22429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今は地下の魔法研部室に向かわないと」"
+                                "I have to go to the underground magic research\nclub room now."
                             ]
                         },
                         {
@@ -22565,45 +22565,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【上半身裸の生徒】"
+                                "【Topless Student】Woah!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うおー」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【上半身裸の生徒】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「好きな女の子に告白するために筋トレ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しまくってるんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -22620,21 +22589,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【上半身裸の生徒】"
+                                "【Topless Student】I've been working out like crazy\nto confess to the girl I like!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「でもその子、パンツを盗まれたらしくて、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　告白どころじゃない！」"
+                                ""
                             ]
                         },
                         {
@@ -22651,14 +22620,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【上半身裸の生徒】"
+                                "【Topless Student】But that girl had her panties\nstolen, so confessing is out of the question!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「一体どうすればいいんだ！」"
+                                "【Topless Student】What on earth should I do!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -22733,14 +22733,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【上半身裸の生徒】"
+                                "【Topless Student】Woah!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うおー」"
+                                ""
                             ]
                         },
                         {
@@ -22757,14 +22757,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【上半身裸の生徒】"
+                                "【Topless Student】I guess I have no choice but to\nconfess!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「もう告白するしかないのか！」"
+                                ""
                             ]
                         },
                         {
@@ -22839,28 +22839,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【上半身裸の生徒】"
+                                "【Topless Student】Woah! The confession was a\nsuccess! I got a girlfriend!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うおー！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　告白が成功したー！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　彼女ができたぞー！」"
+                                ""
                             ]
                         },
                         {
@@ -22877,21 +22877,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【上半身裸の生徒】"
+                                "【Topless Student】It seems like you managed to\nretrieve her panties. Thank you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「君が彼女のパンツを取り返してくれたらしいな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ありがとう！」"
+                                ""
                             ]
                         },
                         {
@@ -22917,21 +22917,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【上半身裸の生徒】"
+                                "【Topless Student】This is a thank you. Please\naccept it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「これはお礼だ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　受け取ってくれ」"
+                                ""
                             ]
                         },
                         {
@@ -23105,38 +23105,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【First-year girl】Shiru-chan... I just can't leave\nit alone."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「シルちゃん……なんか放っておけないのよね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【１年の女子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「性格とか、一人で研究してるところが昔の自分に似てて……」"
+                                ""
                             ]
                         },
                         {
@@ -23153,14 +23129,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【First-year girl】Her personality and the way she\ndoes research alone reminds me of my past self..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、今のは聞かなかったことにしてください」"
+                                "【First-year girl】Ah, please pretend you didn't\nhear that just now."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -23348,21 +23348,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I have to be a judge for the ejaculation\ncompetition next time. It's such a hassle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今度、射精大会の審査員しないといけないんだよね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　面倒だなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -23405,14 +23405,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Underwear ero..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「下着エロ……」"
+                                ""
                             ]
                         },
                         {
@@ -23456,14 +23456,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】What happened to the school uniform...\nIt's such a dangerous outfit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「制服はどうしたの……やばい服だね」"
+                                ""
                             ]
                         },
                         {
@@ -23557,14 +23557,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Oh... naked..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「うわ……裸……」"
+                                ""
                             ]
                         },
                         {
@@ -23699,28 +23699,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I heard the transfer student already\nbecame Jackson senpai's prey. It seems they were\nrepeatedly ejaculated inside their mouth through\nfellatio. How erotic~\\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「転入生、さっそくジャクソン先輩の餌食になったんだって。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　フェラで何回も口内射精されたらしいよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エロ～\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -23763,14 +23763,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Erotic underwear..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「下着エロ……」"
+                                ""
                             ]
                         },
                         {
@@ -23814,14 +23814,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】What happened to your uniform... it's a\ndangerous outfit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「制服はどうしたの……やばい服だね」"
+                                ""
                             ]
                         },
                         {
@@ -23915,14 +23915,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Oh... naked..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「うわ……裸……」"
+                                ""
                             ]
                         },
                         {
@@ -24057,21 +24057,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I have to be a judge for the ejaculation\ncompetition next time. It's such a hassle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今度、射精大会の審査員しないといけないんだよね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　面倒だなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -24114,14 +24114,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Underwear ero..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「下着エロ……」"
+                                ""
                             ]
                         },
                         {
@@ -24165,14 +24165,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】What happened to the school uniform...\nIt's such a dangerous outfit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「制服はどうしたの……やばい服だね」"
+                                ""
                             ]
                         },
                         {
@@ -24266,14 +24266,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Oh... naked..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「うわ……裸……」"
+                                ""
                             ]
                         },
                         {

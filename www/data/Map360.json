@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "女子棟の屋根裏",
+    "displayName": "Girls' Dormitory Attic",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4783,14 +4783,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】The door is locked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「鍵がかかってる」"
+                                ""
                             ]
                         },
                         {
@@ -5103,21 +5103,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Is this... another novel? Could it be\nthe continuation of the one I found before?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「これは……また小説か。もしかしてこの前見つ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  けたやつの続き？」"
+                                ""
                             ]
                         },
                         {
@@ -5141,21 +5141,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Why is this here... Oh, there's also a\npaper with a password written on it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なんでこんなところに……あ、パスワードがメ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  モされてる紙も入ってる」"
+                                ""
                             ]
                         },
                         {
@@ -5172,21 +5172,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Um, is the password 'Rats desert a\nsinking ship.'?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「えっとパスワードは『Rats desert a sinking "
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ship.』か」"
+                                ""
                             ]
                         },
                         {
@@ -5426,7 +5426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォトン・グラフパードの手記"
+                                "Photon Graphpad's Memoirs"
                             ]
                         },
                         {
@@ -5443,7 +5443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バーミラのやつ、こんな通路を作ってやがって。"
+                                "That Barmila, creating such a passage."
                             ]
                         },
                         {
@@ -5460,38 +5460,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺の計画を邪魔するだけじゃなく、通報まですると"
+                                "Not only are you interfering with my plans, but\nyou even went as far as reporting me. You're not\neven worthy of being compared to a magician."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "は魔法使いの風上にも置けない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが、俺は政府のバカどもに大人しく捕まるほど間"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抜けではない。"
+                                ""
                             ]
                         },
                         {
@@ -5508,7 +5484,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前が作った通路も利用させてもらうぜ。"
+                                "However, I am not foolish enough to be caught\nquietly by the government idiots."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5525,14 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてもしこの部屋を見つけたものが居たら、俺の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力を分けてやろう。"
+                                "I'll make use of the passage you created as\nwell."
                             ]
                         },
                         {
@@ -5549,7 +5525,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きっと気に入ってくれるぜ。"
+                                "And if someone were to find this room, I will\nshare my power with them."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I'm sure you'll like it."
                             ]
                         },
                         {
@@ -5616,7 +5616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "深淵魔法を習得した！"
+                                "Acquired Abyssal Magic!"
                             ]
                         },
                         {
@@ -5664,21 +5664,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 There doesn't seem to be any\ninformation that connects to the culprit of\nLeviathan, so for now, let's keep this place a\nsecret."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「レビヤタンの犯人に繋がりそうな情報はなかっ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  たし、とりあえずこの場所は秘密にしておくか」"
+                                ""
                             ]
                         },
                         {
@@ -5695,21 +5695,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　　　サブダンジョン"
+                                "Sub Dungeon ~The Secret Passage Connecting the\nBoys' and Girls' Dormitories~ CLEAR"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  　　　　　　~男子棟と女子棟を繋ぐ秘密の道~"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　　　　　CLEAR"
+                                ""
                             ]
                         },
                         {
@@ -6104,7 +6104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バーミラ・ウィルフォースの日記"
+                                "The Diary of Vermeer Wilford"
                             ]
                         },
                         {
@@ -6121,38 +6121,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに宝物庫を作り、僕の大切な物を保管すること"
+                                "I decided to create a treasure vault here and\nstore my precious belongings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "にした。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕が卒業する時にここにあるものも持っていくつも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "りだが、光魔法の魔導書だけはおいていこうと思う"
+                                ""
                             ]
                         },
                         {
@@ -6169,14 +6145,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このダンジョンを制覇した知恵と勇気のあるものに"
+                                "When I graduate, I plan to take everything here\nwith me, but I think I'll leave behind only the\nbook of light magic spells."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "託したい。"
+                                ""
                             ]
                         },
                         {
@@ -6193,14 +6169,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※この魔導書を読むともう片方の魔導書はなくなり"
+                                "I want to entrust this dungeon to someone with\nwisdom and courage who can conquer it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  ます。"
+                                "※When you read this grimoire, the other grimoire\nwill disappear."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6267,7 +6267,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "天穹魔法を習得した！"
+                                "Learned Celestial Magic!"
                             ]
                         },
                         {
@@ -6315,21 +6315,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 There doesn't seem to be any\ninformation that leads to the culprit of\nLeviathan, so for now, let's keep this place a\nsecret."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「レビヤタンの犯人に繋がりそうな情報はなかっ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  たし、とりあえずこの場所は秘密にしておくか」"
+                                ""
                             ]
                         },
                         {
@@ -6346,21 +6346,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　　　サブダンジョン"
+                                "Sub-Dungeon ~The Secret Path Connecting the Boys'\nand Girls' Dormitories~ CLEAR"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  　　　　　　~男子棟と女子棟を繋ぐ秘密の道~"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　　　　　CLEAR"
+                                ""
                             ]
                         },
                         {
@@ -7214,14 +7214,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 What is this room... I can hear voices\ncoming from a hole."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なんだこの部屋……穴から声が」"
+                                ""
                             ]
                         },
                         {
@@ -7343,38 +7343,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 This is a girls' room!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「これは女子の部屋！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「本当にあったのか、覗き穴が！」"
+                                ""
                             ]
                         },
                         {
@@ -7391,14 +7367,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Did it really happen, a peephole!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「ん……まだ奥になにかある」"
+                                "【Masamune】 Hmm... There's still something\ninside."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7548,14 +7548,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Whose room is this... I wonder? Maybe\nI'll take a peek."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ここは一体誰の部屋なんだ……ちょっと覗いてみるか」"
+                                ""
                             ]
                         },
                         {
@@ -7663,14 +7663,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】...No one's here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「……誰もいないな」"
+                                ""
                             ]
                         },
                         {
@@ -7768,14 +7768,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Whose room is this... I wonder? Maybe\nI'll take a peek."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ここは一体誰の部屋なんだ……ちょっと覗いてみるか」"
+                                ""
                             ]
                         },
                         {
@@ -7883,14 +7883,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】...No one's here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「……誰もいないな」"
+                                ""
                             ]
                         },
                         {
@@ -7988,14 +7988,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Whose room is this... I wonder? Maybe\nI'll take a peek."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ここは一体誰の部屋なんだ……ちょっと覗いてみるか」"
+                                ""
                             ]
                         },
                         {
@@ -8103,14 +8103,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】...No one's here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「……誰もいないな」"
+                                ""
                             ]
                         },
                         {
@@ -8208,14 +8208,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Whose room is this... I wonder? Maybe\nI'll take a peek."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ここは一体誰の部屋なんだ……ちょっと覗いてみるか」"
+                                ""
                             ]
                         },
                         {
@@ -8323,14 +8323,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】...No one's here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「……誰もいないな」"
+                                ""
                             ]
                         },
                         {
@@ -8428,14 +8428,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Whose room is this... I wonder? Maybe\nI'll take a peek."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ここは一体誰の部屋なんだ……ちょっと覗いてみるか」"
+                                ""
                             ]
                         },
                         {
@@ -8543,14 +8543,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】...No one's here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「……誰もいないな」"
+                                ""
                             ]
                         },
                         {

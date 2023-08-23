@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "禁書庫",
+    "displayName": "Forbidden Library",
     "encounterList": [],
     "encounterStep": 30,
     "height": 31,
@@ -8182,14 +8182,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんな場所があったんだ」"
+                                "I didn't know there was a place like this."
                             ]
                         },
                         {
@@ -8206,14 +8206,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもただの小説がなんで禁書扱いなんだ」"
+                                "But why is a mere novel treated as a banned book?"
                             ]
                         },
                         {
@@ -8244,21 +8244,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[021]"
+                                "\\>【Leviathan】\\m[50]\\z[021]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪魔と人間が恋をする話など、教会が許すはず"
+                                "The church would never allow a story where a demon\nand a human fall in love."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ないだろう」"
+                                ""
                             ]
                         },
                         {
@@ -8282,14 +8282,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[022]"
+                                "\\>【Leviathan】\\m[50]\\z[022]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本を書いた作者は捕まって投獄されたらしい」"
+                                "It seems that the author who wrote the book was\ncaught and imprisoned."
                             ]
                         },
                         {
@@ -8306,14 +8306,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど……」"
+                                "I see..."
                             ]
                         },
                         {
@@ -8337,14 +8337,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[023]"
+                                "\\>【Leviathan】\\m[50]\\z[023]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「では、本の最終巻を探すんだ」"
+                                "Then, let's search for the final volume of the\nbook."
                             ]
                         },
                         {
@@ -8524,14 +8524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レビヤタン】"
+                                "【Mysterious Girl Leviathan】I'm searching for the\nfinal volume of the book."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「本の最終巻を探すんだ」"
+                                ""
                             ]
                         },
                         {
@@ -8644,14 +8644,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あった」"
+                                "I found it."
                             ]
                         },
                         {
@@ -8883,14 +8883,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】I have no business with you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こっちに用はない」"
+                                ""
                             ]
                         },
                         {

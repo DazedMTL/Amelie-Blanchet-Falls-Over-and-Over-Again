@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大図書館",
+    "displayName": "Great Library",
     "encounterList": [],
     "encounterStep": 30,
     "height": 31,
@@ -8449,7 +8449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "授業を飛ばしますか？"
+                                "Do you want to skip class?"
                             ]
                         },
                         {
@@ -8537,21 +8537,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【マムフィールド先生】"
+                                "\\>【Professor Mumfield】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えー、前回の授業は大変申し訳ありませんでし"
+                                "Um, I apologize for the previous class."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  た」"
+                                ""
                             ]
                         },
                         {
@@ -8568,14 +8568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【マムフィールド先生】"
+                                "\\>【Professor Mumfield】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「反省し、授業の内容はいつもどおりに戻します」"
+                                "I reflect on it and will return to the usual\ncontent of the class."
                             ]
                         },
                         {
@@ -8592,14 +8592,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クラスのギャル】"
+                                "\\>【Class Gal】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えー」"
+                                "Eh?"
                             ]
                         },
                         {
@@ -8616,21 +8616,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒Ａ】"
+                                "\\>【Male Student A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しょうがないだろ。またアメリちゃんが孕まさ"
+                                "It can't be helped. Amelia-chan might get pregnant\nagain."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  れるかもしれないし」"
+                                ""
                             ]
                         },
                         {
@@ -8647,14 +8647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒Ｂ】"
+                                "\\>【Male Student B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くふふっ……」"
+                                "Hehehe..."
                             ]
                         },
                         {
@@ -8685,14 +8685,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[10]\\z[105]"
+                                "\\>【Amelia】\\m[10]\\z[105]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……」"
+                                "「......」"
                             ]
                         },
                         {
@@ -8709,14 +8709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【マムフィールド先生】"
+                                "\\>【Professor Mumfield】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私語は慎んでください」"
+                                "Please refrain from talking."
                             ]
                         },
                         {
@@ -8733,21 +8733,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【マムフィールド先生】"
+                                "\\>【Professor Mumfield】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それでは、地獄帝国についてのレポートを作成"
+                                "Now, I would like you to create a report about the\nHell Empire."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  していただきます」"
+                                ""
                             ]
                         },
                         {
@@ -8764,14 +8764,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【マムフィールド先生】"
+                                "\\>【Professor Mumfield】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「内容についてですが……」"
+                                "Regarding the content..."
                             ]
                         },
                         {
@@ -8788,21 +8788,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アメリ、俺たちは鍵を開ける魔法について調べ"
+                                "Amelia, let's investigate the magic of unlocking\ndoors."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  よう」"
+                                ""
                             ]
                         },
                         {
@@ -8819,14 +8819,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔導書は沢山あるって言ってたし」"
+                                "They said there are a lot of grimoires."
                             ]
                         },
                         {
@@ -8850,14 +8850,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[10]\\z[106]"
+                                "\\>【Amelia】\\m[10]\\z[106]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだね。私も役に立たないと」"
+                                "That's right. I also need to be useful."
                             ]
                         },
                         {
@@ -9221,14 +9221,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【司書】"
+                                "【Librarian】Please be quiet in the library."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「と、図書室では静かにしてくださいね」"
+                                ""
                             ]
                         },
                         {

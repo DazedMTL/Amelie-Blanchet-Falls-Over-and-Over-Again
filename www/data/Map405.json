@@ -2239,14 +2239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】I sense something unpleasant..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なにか嫌な気配がする……」"
+                                ""
                             ]
                         },
                         {
@@ -2284,38 +2284,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "嫌な気配を感じる場合は、近くにユニークモンスターが"
+                                "If you sense something unpleasant, there is a\nunique monster nearby."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "居ます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ユニークモンスターは他のモンスターよりも強く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戦闘をスキップすることが出来ません。"
+                                ""
                             ]
                         },
                         {
@@ -2332,7 +2308,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また、倒すことで良い報酬を得られることが出来ます。"
+                                "Unique monsters are stronger than other monsters\nand cannot be skipped in battle."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Furthermore, you can obtain good rewards by\ndefeating them."
                             ]
                         },
                         {

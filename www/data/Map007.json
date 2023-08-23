@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "グラウンド",
+    "displayName": "Ground",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6623,21 +6623,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】There are regular clubs, not just magic\nones. Though we can't participate in national\ntournaments!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「魔法だけじゃなくて普通の部活だってあるんだぜ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　全国大会には出られないけどな！」"
+                                ""
                             ]
                         },
                         {
@@ -6721,21 +6721,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】There's a bet, so it's perfect for\nearning pocket money."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「賭けがあるからな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　小遣い稼ぎにはちょうどいいよ」"
+                                ""
                             ]
                         },
                         {
@@ -6819,28 +6819,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Magicians who play sports are generally\nskilled in body enhancement magic. Normal\nmagicians are usually weak, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「スポーツをする魔法使いは、大体身体強化の"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　魔法が得意なんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　普通の魔法使いはだいたいひ弱だからな」"
+                                ""
                             ]
                         },
                         {
@@ -6924,21 +6924,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] We're keeping an eye out for\nexhibitionists since they often show up. If you\nsee one, please be careful too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よく露出狂が出るので、いないか見張ってるんです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　見かけたら、あなたたちも注意してくださいね」"
+                                ""
                             ]
                         },
                         {
@@ -6981,21 +6981,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] Wait, you're not an exhibitionist!\nPlease put on some clothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「って、あなたが露出狂じゃない！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　服を着なさい」"
+                                ""
                             ]
                         },
                         {
@@ -7039,21 +7039,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] Wait, you're not an exhibitionist!\nPlease put on proper clothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「って、あなたが露出狂じゃない！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　ちゃんとした服を着なさい」"
+                                ""
                             ]
                         },
                         {
@@ -7147,21 +7147,21 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] Wait, you're not an exhibitionist!\nPlease put on some clothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「って、あなたが露出狂じゃない！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "　服を着なさい」"
+                                ""
                             ]
                         },
                         {

@@ -4159,38 +4159,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】What is this?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なんだこれは」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うねうねしてて気持ち悪いね」"
+                                ""
                             ]
                         },
                         {
@@ -4207,21 +4183,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Amelia】It's creepy how it wriggles."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くっ、邪魔で先に進めない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうやってどかすんだ」"
+                                ""
                             ]
                         },
                         {
@@ -4238,14 +4207,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Ugh, I can't proceed because it's in\nthe way. How am I supposed to move it?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これを処理できるものは持ってないか？」"
+                                "【Masamune】Does anyone have something to deal with\nthis?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4303,14 +4303,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【触手】"
+                                "【Tentacle】Squirm!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ぴーー！」"
+                                ""
                             ]
                         },
                         {
@@ -4334,14 +4334,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Alright, now I can pass through."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「よし、これで通れるな」"
+                                ""
                             ]
                         },
                         {
@@ -4376,14 +4376,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】This is impossible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「これじゃむりだな」"
+                                ""
                             ]
                         },
                         {
@@ -4521,52 +4521,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【知能のあるゴブリン】"
+                                "【Intelligent Goblin】Who are you? Outsiders,\nleave."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なんだお前。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　部外者は出て行け」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【知能のあるゴブリン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしかして先に進みたいの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　バカそうなお前たちにはむりだろうな」"
+                                ""
                             ]
                         },
                         {
@@ -4583,14 +4552,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【知能のあるゴブリン】"
+                                "【Intelligent Goblin】Do you want to proceed? It's\nprobably impossible for foolish-looking people\nlike you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ヒントがほしければ僕と戦って勝手みろ」"
+                                "【Intelligent Goblin】If you want a hint, fight me\nand prove yourself."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4629,14 +4629,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【知能のあるゴブリン】"
+                                "【Intelligent Goblin】Don't be too generous."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「あまりおごるなよ」"
+                                ""
                             ]
                         },
                         {
@@ -4724,21 +4724,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【知能のあるゴブリン】"
+                                "【Intelligent Goblin】Hmm... You're quite skilled.\nIt turns out I was the one being generous."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「くっ……なかなかやるな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　おごっていたのは僕の方だった」"
+                                ""
                             ]
                         },
                         {
@@ -4755,28 +4755,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【知能のあるゴブリン】"
+                                "【Intelligent Goblin】I guess I have no choice but\nto tell you. To dissolve the monster blocking the\ndoor, you need to pour sour fruit that grows\noutside."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「仕方ない教えてやろう。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ドアを塞いでいる魔物を溶かすには、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　外に生えているすっぱい果実をかければいい」"
+                                ""
                             ]
                         },
                         {
@@ -4869,14 +4869,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【知能のあるゴブリン】"
+                                "【Intelligent Goblin】That's a wise decision."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「賢明な判断だ」"
+                                ""
                             ]
                         },
                         {
@@ -4965,21 +4965,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【知能のあるゴブリン】"
+                                "【Intelligent Goblin】To dissolve the monster\nblocking the door, you just need to pour sour\nfruit that grows outside."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ドアを塞いでいる魔物を溶かすには、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　外に生えているすっぱい果実をかければいい」"
+                                ""
                             ]
                         },
                         {

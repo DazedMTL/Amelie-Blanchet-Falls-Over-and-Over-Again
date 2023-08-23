@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "オリビアの部屋",
+    "displayName": "Olivia's room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -2208,14 +2208,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Would you like to join us,\nOlivia?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「オリビアもしませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -2246,14 +2246,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 I won't do that kind of thing... like\nexposing myself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「またその話……露出ならしないって」"
+                                ""
                             ]
                         },
                         {
@@ -2270,14 +2270,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Oh, it feels really good, you\nknow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「えー、すっごくきもちいいのですよ」"
+                                ""
                             ]
                         },
                         {
@@ -2301,38 +2301,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Just let it slide, and be grateful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「見逃してあげるだけ、感謝して」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【女子の先輩】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「残念ですわ……」"
+                                ""
                             ]
                         },
                         {
@@ -2349,14 +2325,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 That's unfortunate..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「絶対きもちいいのに」"
+                                "【Female Senior】 It must feel really good, you\nknow."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2380,14 +2380,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 I don't understand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「理解できない」"
+                                ""
                             ]
                         },
                         {
@@ -2404,21 +2404,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 But today, I've prepared a\nsurprise to let Olivia experience the allure of\nexhibitionism."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「でも、今日はオリビアにも露出の魅力を知って"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  もらおうと、サプライズを用意したんです」"
+                                ""
                             ]
                         },
                         {
@@ -2442,14 +2442,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 ...I have a bad feeling about this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……嫌な予感しかしないんだけど」"
+                                ""
                             ]
                         },
                         {
@@ -2466,14 +2466,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 It's almost time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「もうそろそろですよ」"
+                                ""
                             ]
                         },
                         {
@@ -2638,14 +2638,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Wha..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「な……」"
+                                ""
                             ]
                         },
                         {
@@ -2662,21 +2662,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【First-year Girl】 President Aila... As promised,\nI came to the room naked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「アイラ会長っ……約束通り、部屋から裸で来ま"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  した」"
+                                ""
                             ]
                         },
                         {
@@ -2702,45 +2702,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【First-year Girl】 Haa... haa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「はぁ\\I[12]　はぁっ\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【女子の先輩】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「シエラさん、よくできました。とっても気持ち"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  よかったでしょう」"
+                                ""
                             ]
                         },
                         {
@@ -2757,21 +2726,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【Female Senior】 Sierra, well done. It must have\nfelt really good, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「はいっ……誰かに見られないかと思うとドキド"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  キして……おまんこの汁が止まりません！」"
+                                ""
                             ]
                         },
                         {
@@ -2788,14 +2757,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【First-year Girl】 Yes... Whenever I think someone\nmight see me, my heart races... and my pussy\njuices won't stop flowing!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「ふふ、正直でいい子ですね」"
+                                "【Female Senior】 Hehe, you're such an honest\nchild."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2819,14 +2819,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Aila... what are you doing?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「アイラ……なにしてるの」"
+                                ""
                             ]
                         },
                         {
@@ -2843,21 +2843,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 It's an exhibition play. Don't\nyou want to try it, Olivia?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「露出プレイです。オリビアもしてみたいと思い"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -2881,52 +2881,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 This is unbelievable... or rather, it's\nagainst the school rules. Don't you also want to\navoid getting involved in this kind of thing?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ありえない……というか、校則違反。君もこん"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  なことに付き合わないの」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【１年の女子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「露出クラブにおいて、アイラ会長の命令は絶対"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ですので」"
+                                ""
                             ]
                         },
                         {
@@ -2943,14 +2912,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【First-year Girl】 In the Exhibition Club,\nPresident Aila's orders are absolute."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「それに……すごく、興奮します」"
+                                "【First-year Girl】 And... it's really exciting."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2974,14 +2974,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Haa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「はぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -2998,21 +2998,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Hey, why don't you give it a try?\nIf it doesn't feel good, I won't invite you\nagain."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ね、してみませんか？　これで気持ちよくなれ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  なかったら二度と誘いませんから」"
+                                ""
                             ]
                         },
                         {
@@ -3036,14 +3036,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 ..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……」"
+                                ""
                             ]
                         },
                         {
@@ -3060,21 +3060,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【First-year Girl】 Haa... Haa... If someone were\nto see me, I might cum..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「はぁ\\I[12]　はぁ\\I[12]　見られたら、イキそ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  うです\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -3098,14 +3098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 So you won't invite me anymore, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「これでもう誘わないんだね」"
+                                ""
                             ]
                         },
                         {
@@ -3122,14 +3122,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 If it doesn't feel good, I won't\ninvite you again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「気持ちよくならなかったら誘いません」"
+                                ""
                             ]
                         },
                         {
@@ -3153,38 +3153,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 It's fine because it definitely won't\nhappen. This is the end."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「絶対ならないからいいよ。これで終わりだから」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【女子の先輩】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「やりましたわ」"
+                                ""
                             ]
                         },
                         {
@@ -3201,14 +3177,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 We did it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「それでは裸になってください」"
+                                "【Female Senior】 Now, please undress."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3232,14 +3232,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 ......Just so you know, we won't go\noutside the room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……言っておくけど、部屋の外にはでないから」"
+                                ""
                             ]
                         },
                         {
@@ -3256,14 +3256,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Just inside the room is enough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「部屋の中だけでも十分です」"
+                                ""
                             ]
                         },
                         {
@@ -3287,21 +3287,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Well, I'm just changing clothes and\ntaking off my clothes, so it's not that different\nfrom usual..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「別に着替えで服脱いでるから、そんなにいつも"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  と変わらないけど……」"
+                                ""
                             ]
                         },
                         {
@@ -3325,14 +3325,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Hmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ん……」"
+                                ""
                             ]
                         },
                         {
@@ -3423,14 +3423,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【First-year Girl】 The Vice President's naked..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「副会長の裸っ……」"
+                                ""
                             ]
                         },
                         {
@@ -3461,38 +3461,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Don't stare at me like that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そんなにジロジロ見ないで……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【女子の先輩】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「見なければ意味がありませんわ」"
+                                ""
                             ]
                         },
                         {
@@ -3509,14 +3485,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 There's no point if you don't\nlook."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「それにしても、きれいな体です……」"
+                                "【Female Senior】 By the way, you have a beautiful\nbody..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3540,45 +3540,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 It's normal... Besides, you're used to\nseeing me in the bath, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「普通だって……それに、お風呂で見慣れてるで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  しょ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【女子の先輩】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「オリビアはタオルで隠してるじゃないですか」"
+                                ""
                             ]
                         },
                         {
@@ -3595,14 +3571,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Olivia, you're hiding with a\ntowel, aren't you?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「本当は洗いっことかしたいのですが」"
+                                "【Female Senior】 I actually want to take a\nshower."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3626,14 +3626,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Embarrassing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「恥ずかしい……」"
+                                ""
                             ]
                         },
                         {
@@ -3650,21 +3650,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Hehe, then Sienna-san, please\nshout out your thoughts on Olivia's body in a loud\nvoice."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ふふっ、それではシエナさん。大きな声でオリ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ビアの体の感想を叫んでください」"
+                                ""
                             ]
                         },
                         {
@@ -3688,14 +3688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「え……」"
+                                ""
                             ]
                         },
                         {
@@ -3712,21 +3712,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【First-year Girl】 Yes... Olivia Vice President's\npussy is shaved and beautiful!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「はい……\\{オリビア副会長のおまんこは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　パイパンで綺麗です！\\}」"
+                                ""
                             ]
                         },
                         {
@@ -3750,14 +3750,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Wh-why are you shouting..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「な、なに叫んで……」"
+                                ""
                             ]
                         },
                         {
@@ -3774,21 +3774,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【First-year Girl】 I couldn't help but want to\nlick your smooth loli pussy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「\\{ツルツルのロリまんこで、思わず舐めた"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　くなりました！\\}」"
+                                ""
                             ]
                         },
                         {
@@ -3812,45 +3812,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Stop, it's echoing all the way to the\nhallway..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「やめて、廊下まで響いてるからっ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【１年の女子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「\\{ちっぱいも可愛くて、ピンク色のきれい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　な乳首がすごくいいです！\\}」"
+                                ""
                             ]
                         },
                         {
@@ -3867,21 +3836,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【廊下の声】"
+                                "【First-year Girl】 Small breasts are cute too, and\nthe pretty pink nipples are really nice!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「クスクス……オリビアたち、部屋でなにしてん"
+                                "【Voice in the hallway】 Hehe... I wonder what\nOlivia and the others are doing in the room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  のかな」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3905,45 +3905,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Well, this is the worst..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「さ、最悪……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【女子の先輩】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「はい、よくできました。それではそこでオナニ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ーして待っていてください」"
+                                ""
                             ]
                         },
                         {
@@ -3960,21 +3929,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【Female Senior】 Yes, well done. Now please\nmasturbate and wait there."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「はい！　んっ、あぁっ\\I[12]　はぁっ\\I[12]　"
+                                "【First-year Girl】 Yes! Nn, ah... haa... haa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  はぁっ\\I[12]」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3998,14 +3998,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Ira... Do you always do this?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「アイラ……いつもこんなことしてるの」"
+                                ""
                             ]
                         },
                         {
@@ -4022,14 +4022,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Yes, it looks very pleasurable,\ndoesn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「えぇ、すごく気持ちよさそうでしょう」"
+                                ""
                             ]
                         },
                         {
@@ -4053,14 +4053,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 ...I think it would be better to quit\nthe club."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……クラブ抜けたほうが良いと思うけど」"
+                                ""
                             ]
                         },
                         {
@@ -4077,21 +4077,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 You still don't understand... but\nyour pussy is a little wet, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「まだ理解していただけませんか……でも、おま"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  んこは少し湿っていますね」"
+                                ""
                             ]
                         },
                         {
@@ -4127,14 +4127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Mmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「んっ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -4213,38 +4213,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 It's been a while, let's touch\neach other\\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「久しぶりに、触りあいしましょう\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【１年の女子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「昔はしていたんですか！　はぁ、はぁ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -4261,14 +4237,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【First-year Girl】 Did you used to do it in the\npast! Haa, haa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「えぇ、中等部の頃からルームメイトですから」"
+                                ""
                             ]
                         },
                         {
@@ -4285,21 +4261,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Yes, we've been roommates since\nmiddle school."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「最初の頃は、こうやっておまんこをいじり合っ"
+                                "【Female Senior】 In the beginning, we used to play\nwith each other's pussies like this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  てたんですよ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4323,21 +4323,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Ah, nnn... Back then, I didn't really\nunderstand things that were too sexual..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あっ、んっ……あの頃は、あまりエッチなこ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ととかよくわかってなかったからっ……」"
+                                ""
                             ]
                         },
                         {
@@ -4361,52 +4361,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 It's embarrassing, so please stop...\nngh, ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「恥ずかしいからっ、やめてっ……んっ、んぁっ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【女子の先輩】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「女の子しか居ないんですから、恥ずかしくあり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ませんよ」"
+                                ""
                             ]
                         },
                         {
@@ -4423,14 +4392,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Since there are only girls here,\nthere's no need to be embarrassed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「みんなで一緒にオナニーしましょう\\I[12]」"
+                                "【Female Senior】 Let's all masturbate together,\neveryone\\I[12]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4454,14 +4454,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Ah, ngh, fuah, ahh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あっ、んっ、ふあっ、あぁっ……」"
+                                ""
                             ]
                         },
                         {
@@ -4478,21 +4478,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Your voice is still cute as\never... Please touch mine too, \\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「相変わらず可愛い声ですね……私のも触ってく"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ださい\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -4516,52 +4516,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 N-No... Ah, ah... Please... stop..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「や、やだっ……あっ、んぁっ、ふあぁっ……そ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  れ、やめてっ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【女子の先輩】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「だめです……してくれないと、クリちゃん、沢"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  山いじめますよ」"
+                                ""
                             ]
                         },
                         {
@@ -4578,21 +4547,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【Female Senior】 No... If you don't do it, I'll\ntease your clit a lot, you know."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「うわぁ、すごいですっ……あっ、きもちいいっ"
+                                "【First-year Girl】 Wow, that's amazing... Ah, it\nfeels good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4616,21 +4616,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 I understand... I'll touch you too...\nMm, ah, ahh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「わかった……私も触るからっ……んっ、んぁっ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  、あぁっ……」"
+                                ""
                             ]
                         },
                         {
@@ -4647,14 +4647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Ah, it feels good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あっ、きもちいいっ……」"
+                                ""
                             ]
                         },
                         {
@@ -4678,14 +4678,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Ah, ngh, mmm, ahhh~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あっ、んっ、んんっ、んん～～～っ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -4709,45 +4709,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Ah, you already came. Your orgasm\nface is cute too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あ、もうイッてしまったんですね。イキ顔も可"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  愛いです」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【１年の女子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「私も、イキますっ！」"
+                                ""
                             ]
                         },
                         {
@@ -4764,14 +4740,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【１年の女子】"
+                                "【First-year Girl】 I'm going to cum too!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「んほぉぉっ\\I[12]」"
+                                "【First-year Girl】 Nhoohh~"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4795,14 +4795,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 Haa, haa... You're so noisy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「はぁ、はぁ……うるさい」"
+                                ""
                             ]
                         },
                         {
@@ -4819,14 +4819,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 Hehe, but you liked it, didn't\nyou?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ふふっ、でも気に入ってくれましたよね」"
+                                ""
                             ]
                         },
                         {
@@ -4850,14 +4850,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "【Olivia】 The exhibitionist club... will be\ndisbanded."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「露出クラブは……解散ね」"
+                                ""
                             ]
                         },
                         {
@@ -4874,14 +4874,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子の先輩】"
+                                "【Female Senior】 That's too much!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あんまりですわ！？」"
+                                ""
                             ]
                         },
                         {
@@ -5051,14 +5051,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 I wonder if the girls' dormitory is\nmore chaotic than the boys' dormitory...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「女子棟って男子棟より乱れてないか……？」"
+                                ""
                             ]
                         },
                         {

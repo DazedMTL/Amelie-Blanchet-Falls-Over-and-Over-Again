@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "中庭",
+    "displayName": "Courtyard",
     "encounterList": [],
     "encounterStep": 30,
     "height": 24,
@@ -4829,14 +4829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Here!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おら！」"
+                                ""
                             ]
                         },
                         {
@@ -4876,28 +4876,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】What do you think of my magic circle?\nThe size of the magic circle represents the\nmagnitude of magical power, so the bigger it is,\nthe more skilled a magician I am."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「どうだ俺の魔法陣は。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　魔法陣は魔力の大きさだから、大きければ大きいほど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　優秀な魔法使いってことだ」"
+                                ""
                             ]
                         },
                         {
@@ -4972,28 +4972,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】It seems that the criminal who broke\ninto the school last night has been arrested.\nScary, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「昨日の夜、学内に侵入された犯罪者が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　逮捕されたらしいよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　怖いね」"
+                                ""
                             ]
                         },
                         {
@@ -5077,21 +5077,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Oh wind, become the vessel of a free\nsoul that soars through the sky, granting great\nexpanses and unknown possibilities!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「風よ、空を駆け抜ける自由な魂を宿し、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　大いなる広がりと未知なる可能性を与えてくれるものとなれ！」"
+                                ""
                             ]
                         },
                         {
@@ -5108,21 +5108,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】...I've come up with a good incantation.\nIt's a bit long, but chanting is important to\nelevate the mood."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……いい感じの呪文が出来たな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　少し長いが、気分を高めるためにも詠唱は大事だ」"
+                                ""
                             ]
                         },
                         {
@@ -5273,14 +5273,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ねずみ】"
+                                "【Mouse】Don't talk to me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「話しかけるんじゃない」"
+                                ""
                             ]
                         },
                         {
@@ -5355,14 +5355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ねずみ】"
+                                "【Mouse】Hey, brother. Are you going to watch too?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よぉ、兄弟。お前も見ていくんだ」"
+                                ""
                             ]
                         },
                         {
@@ -5490,21 +5490,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】N-No... my panties... they're... ahh, it\nfeels so cool..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「な、ない……私のパンツが……。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うぅ、スースーする……」"
+                                ""
                             ]
                         },
                         {
@@ -5521,21 +5521,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I'm sure a guy stole them. Seriously the\nworst."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「絶対男子が盗んだんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほんと最低」"
+                                ""
                             ]
                         },
                         {
@@ -5582,45 +5582,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Um... this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「あの……これ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "【生徒】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「なに……って、それ私のパンツ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　どうしてあなたが持ってるの……」"
+                                ""
                             ]
                         },
                         {
@@ -5637,21 +5606,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Student】What... wait, those are my panties...\nwhy do you have them..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「女子の先輩で盗んで売ってる人が居て、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　買……返してもらったんだ」"
+                                ""
                             ]
                         },
                         {
@@ -5668,14 +5637,45 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Masamune】There was a senior girl who was\nstealing and selling them, so I bought... and\nreturned them."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「そうなんだ……ありがとう」"
+                                "【Student】Is that so... Thank you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5702,38 +5702,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Since I've been going commando all this\ntime, let me wear them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ずっとノーパンだから、履かせてもらうね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あ、あぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -5750,21 +5726,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Masamune】Ah, ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「でも女子が盗んでたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　絶対男子だと思ってた」"
+                                ""
                             ]
                         },
                         {
@@ -5781,21 +5750,52 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】But it was the girls who were stealing\nthem. I thought it was definitely a boy."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「これからは気をつけないと。"
+                                "【Student】I have to be more careful from now on.\nThank you. I was about to start hating all the\nboys."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ありがと。男子全員のことが嫌いになるところだった」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5905,21 +5905,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I bought new panties. Boys will never be\nforgiven."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「新しいパンツ買っちゃった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　男子は絶対許さない」"
+                                ""
                             ]
                         },
                         {
@@ -5966,45 +5966,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Um... this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「あの……これ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "【生徒】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「なに……って、それ私のパンツじゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　なんであなたが持ってるの！」"
+                                ""
                             ]
                         },
                         {
@@ -6021,38 +5990,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Student】What... Wait, those are my panties! Why\ndo you have them?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「それは……先輩から買って……」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "【生徒】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「はぁ？　パンツ買ったの……ほんとキモ」"
+                                ""
                             ]
                         },
                         {
@@ -6069,21 +6021,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Masamune】Um... I bought them from Senpai..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「マジキモい……あっち行って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　もういらないから」"
+                                ""
                             ]
                         },
                         {
@@ -6100,14 +6045,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Huh? You bought panties... That's really\ngross."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「これだから男子は最低なのよ」"
+                                ""
                             ]
                         },
                         {
@@ -6124,14 +6069,69 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Student】Seriously disgusting... Go away! I don't\nneed them anymore."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「……」"
+                                "【Student】This is why boys are the worst."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "【Masamune】......"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6239,14 +6239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Don't worry, I'm wearing underwear."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「パンツ履いてるから安心ね」"
+                                ""
                             ]
                         },
                         {
@@ -6330,21 +6330,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I violated the transfer student in the\nMagic Research Club. I thoroughly developed their\nanus too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「魔法研で転入生を犯したんだよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アナルまでみっちり開発してやったぜ」"
+                                ""
                             ]
                         },
                         {
@@ -6387,14 +6387,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Hey, do you want to be violated while\ndressed like that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「おい、そんな格好して犯してほしいのか？」"
+                                ""
                             ]
                         },
                         {
@@ -6438,14 +6438,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Hey, do you want to be violated while\ndressed like that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「おい、そんな格好して犯してほしいのか？」"
+                                ""
                             ]
                         },
                         {
@@ -6539,14 +6539,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Hey, do you want to be violated while\ndressed like that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「おい、そんな格好して犯してほしいのか？」"
+                                ""
                             ]
                         },
                         {
@@ -6681,21 +6681,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I want to violate the busty transfer\nstudent... Nah, never mind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「巨乳の転入生を犯したいなぁ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いや、なんでもない」"
+                                ""
                             ]
                         },
                         {
@@ -6738,14 +6738,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Hey, do you want to be violated dressed\nlike that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「おい、そんな格好して犯してほしいのか？」"
+                                ""
                             ]
                         },
                         {
@@ -6789,14 +6789,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Hey, do you want to be violated dressed\nlike that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「おい、そんな格好して犯してほしいのか？」"
+                                ""
                             ]
                         },
                         {
@@ -6890,14 +6890,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Hey, do you want to be violated dressed\nlike that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「おい、そんな格好して犯してほしいのか？」"
+                                ""
                             ]
                         },
                         {

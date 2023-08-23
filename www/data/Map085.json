@@ -6210,14 +6210,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上級炎魔法の魔導書を見つけた！"
+                                "Masamune found a grimoire of advanced fire magic!\nMasamune learned the spell Flame Bullet!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "正宗は『魔炎弾』を習得した！"
+                                ""
                             ]
                         },
                         {

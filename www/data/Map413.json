@@ -20328,21 +20328,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】It won't open. Is Professor Hoffman\ncasting a spell? If it's a curse spell, we won't\nbe able to handle it. What should we do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「開かない。ホフマンが魔法をかけてるのか。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　呪い魔法なら対応できないな。どうするか」"
+                                ""
                             ]
                         },
                         {
@@ -20359,14 +20359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンに進むには、呪い魔法の授業３を受ける必要が"
+                                "To proceed into the dungeon, you need to take\nCurse Magic Class 3."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あります。"
+                                ""
                             ]
                         },
                         {
@@ -22967,7 +22967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンの転送石に登録した"
+                                "Registered on the dungeon teleportation stone."
                             ]
                         },
                         {
@@ -23044,14 +23044,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Shall we call it a day?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日はもう終わりにしようか」"
+                                ""
                             ]
                         },
                         {
@@ -24826,21 +24826,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ブタ】"
+                                "【Pig】Oink oink (I hate this place's owner,\nProfessor Hoffman, because his feet stink)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ブヒブヒ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　（ここの主のホフマンは足が臭いから嫌いだわ）」"
+                                ""
                             ]
                         },
                         {
@@ -24924,28 +24924,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【トンソク】"
+                                "【Tonosoku】Oink oink (That pig bastard Hoffman\ngave me a weird name. That's why I can't get\nmarried no matter how much time passes)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ブヒブヒ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　（ホフマンのブタ野郎。私に変な名前つけやがって。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　だからいつまで経っても結婚できないんだ）」"
+                                ""
                             ]
                         },
                         {
@@ -25049,7 +25049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "HPとMPが全回復した！"
+                                "HP and MP have been fully restored!"
                             ]
                         },
                         {
@@ -25145,7 +25145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "HPとMPが全回復した！"
+                                "HP and MP have been fully restored!"
                             ]
                         },
                         {
@@ -25341,14 +25341,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Is this... a trap?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「これは……トラップか」"
+                                ""
                             ]
                         },
                         {
@@ -25379,21 +25379,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 It seems to be a type of barrier that\ntraps. It's nothing major, I'll break it easily."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「結界で閉じ込めるタイプのものだな。大したこ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  とはないこのくらいすぐに壊そう」"
+                                ""
                             ]
                         },
                         {
@@ -25447,14 +25447,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 Hmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ん……」"
+                                ""
                             ]
                         },
                         {
@@ -25471,14 +25471,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Rain... no, something is coming out of\nthe tree."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「雨……じゃない、木からなにか出てる」"
+                                ""
                             ]
                         },
                         {
@@ -25509,14 +25509,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 What is this... my clothes are\nmelting..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なにこれっ……服が溶けて……」"
+                                ""
                             ]
                         },
                         {
@@ -25756,14 +25756,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 ..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……」"
+                                ""
                             ]
                         },
                         {
@@ -25787,21 +25787,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 A tree that sprays liquid that melts\nclothes... I've never seen anything like this\nbefore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「布を溶かす液体を噴出する木か……初めて見た"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  な」"
+                                ""
                             ]
                         },
                         {
@@ -25832,14 +25832,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 What a despicable trap."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「最低な仕掛けだよ」"
+                                ""
                             ]
                         },
                         {
@@ -25863,21 +25863,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 Typical of Professor Hoffman... Well, I\ndon't really care about my clothes. Let's move\nforward..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「実にホフマンらしい……まぁ、服くらいどうで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  もいい。先に進むぞ……」"
+                                ""
                             ]
                         },
                         {
@@ -25901,14 +25901,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 Hmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ん……」"
+                                ""
                             ]
                         },
                         {
@@ -25932,14 +25932,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Huh... my body..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あれ……体が」"
+                                ""
                             ]
                         },
                         {
@@ -25956,14 +25956,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 (What is this...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（なんだこれ……）」"
+                                ""
                             ]
                         },
                         {
@@ -25994,14 +25994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Elena】 I'm getting really horny."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「めっちゃムラムラする」"
+                                ""
                             ]
                         },
                         {
@@ -26025,21 +26025,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 It seems to have an aphrodisiac effect.\nMasamune's penis is fully erect."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「媚薬効果もあるようだ。正宗のペニスなんてフ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ル勃起してるぞ」"
+                                ""
                             ]
                         },
                         {
@@ -26063,38 +26063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Elena】 It's true, hehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ほんとだー、くふふっ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「しょ、しょうがないだろ」"
+                                ""
                             ]
                         },
                         {
@@ -26111,14 +26087,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Masamune】 W-Well, it can't be helped, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「……とりあえず、替えの服を来て進も」"
+                                "【Amelia】 For now, let's change into spare clothes\nand continue."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -26142,14 +26142,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 Can we fight in this state?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「このままの状態で戦えるか？」"
+                                ""
                             ]
                         },
                         {
@@ -26173,14 +26173,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 ..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……」"
+                                ""
                             ]
                         },
                         {
@@ -26204,14 +26204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Elena】 Maybe Elena can't... I want to cum once,\nthough."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「エレナは無理かも……一回イッておきたいかな」"
+                                ""
                             ]
                         },
                         {
@@ -26235,14 +26235,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 Me too. Masamune, of course, feels the\nsame way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「わたしもだ。正宗ももちろんそうだろ」"
+                                ""
                             ]
                         },
                         {
@@ -26259,14 +26259,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 ...Well"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……まぁ」"
+                                ""
                             ]
                         },
                         {
@@ -26290,14 +26290,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 I can endure it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「わたしは我慢出来るよ……」"
+                                ""
                             ]
                         },
                         {
@@ -26321,21 +26321,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 What is the person who's dripping pussy\njuice from their pussy saying?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「一番まんこから汁を垂らしてるヤツがなにを言"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ってるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -26359,14 +26359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「っ……」"
+                                ""
                             ]
                         },
                         {
@@ -26390,21 +26390,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Elena】 Everyone masturbating together? If we all\ndo it, it shouldn't be embarrassing, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「全員でオナニーするっていうのは？　みんなで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  するなら恥ずかしくないっしょ」"
+                                ""
                             ]
                         },
                         {
@@ -26428,14 +26428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Eh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「えぇ！」"
+                                ""
                             ]
                         },
                         {
@@ -26459,14 +26459,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 I don't mind being with Masamune."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「わたしは正宗とするのでもいいがな」"
+                                ""
                             ]
                         },
                         {
@@ -26483,14 +26483,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 W-What are you saying?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「な、なに言ってるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -26514,14 +26514,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 That's not good!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そんなのだめだよ！」"
+                                ""
                             ]
                         },
                         {
@@ -26545,14 +26545,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Elena】 Then there's only masturbation, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ならオナニーしかないね」"
+                                ""
                             ]
                         },
                         {
@@ -26576,21 +26576,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 I guess there's no helping it...\nMasamune, look the other way and do it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「しょうがない……よね。正宗君はあっち向いて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  してよ」"
+                                ""
                             ]
                         },
                         {
@@ -26607,14 +26607,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Ah, ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あ、あぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -26683,14 +26683,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 (It's a shame I can't watch, but oh\nwell)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（見られないのは残念だけど、仕方ない）」"
+                                ""
                             ]
                         },
                         {
@@ -26707,21 +26707,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Elena】 It's fine if you want to watch... Mm,\nah... This aphrodisiac is amazing... It might be\nthe most excited I've ever been from\nmasturbating."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「別に見ていいのに……ん、はぁ……すごい媚薬"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ……今までのオナニーで一番興奮してるかも」"
+                                ""
                             ]
                         },
                         {
@@ -26745,38 +26745,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 Ah... it feels good... ah, ngh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あぁ……きもちいいぞ……あっ、んっ\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「はぁ、はぁ……」"
+                                ""
                             ]
                         },
                         {
@@ -26793,21 +26769,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Amelia】 Haa, haa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（後ろでみんなしてるんだよな……くっ、エロ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  すぎる……）」"
+                                ""
                             ]
                         },
                         {
@@ -26824,14 +26793,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Masamune】 (Everyone's doing it behind me...\nDamn, it's too erotic...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「ねぇ、なにか妄想してるの」"
+                                "【Elena】 Hey, are you fantasizing about\nsomething?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -26855,21 +26855,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 Ah, I remember the most pleasurable sex\nI've ever had."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あぁ、今までで一番気持ちよかったセックスを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  思い出している」"
+                                ""
                             ]
                         },
                         {
@@ -26886,14 +26886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Elena】 Huh, what kind?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「え、どんなの？」"
+                                ""
                             ]
                         },
                         {
@@ -26917,52 +26917,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 It was when I had a group sex with a\nteacher for the first time... I made them go into\nheat with a love potion and forced them to attack\nme."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「初めて教員と乱交した時だ……魔法薬で発情さ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  せて、無理やり襲わせたんだ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【小夜子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「気の弱い教員なんかは、謝罪しながら射精して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  いたな」"
+                                ""
                             ]
                         },
                         {
@@ -26979,38 +26948,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 Weak-willed teachers like that were\nejaculating while apologizing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あの時は一晩で１０回は中出しされた」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【エレナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「うわぁ……エグ」"
+                                ""
                             ]
                         },
                         {
@@ -27027,14 +26979,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Sayoko】 I was creampied at least 10 times that\nnight."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「はぁっ、はぁっ……んんっ……」"
+                                "【Elena】 Uwah... Egh"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Amelia】 Haa, haa... nnn..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -27058,38 +27058,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 Elena, what was your best sex like?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「エレナの一番良かったセックスはどんなのだ？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【エレナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「やっぱりレオンとのセックスかな」"
+                                ""
                             ]
                         },
                         {
@@ -27106,21 +27082,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Elena】 I guess it would be sex with Leon after\nall."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「中等部にちょっとだけ付き合ってたんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  あの時からマジでうまかったし」"
+                                ""
                             ]
                         },
                         {
@@ -27137,45 +27106,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Elena】 I was dating someone in middle school,\nand since then, they were really good at it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ちんこもデカくて固くて……マジで何回もイカ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  された」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「くっ……」"
+                                ""
                             ]
                         },
                         {
@@ -27192,38 +27137,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Elena】 His dick was big and hard... I seriously\ncame multiple times."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あ、正宗ビクビクしてる。もうイキそ？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「あっ、くっ……」"
+                                ""
                             ]
                         },
                         {
@@ -27240,21 +27168,93 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Masamune】 Kuh..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「エレナのエッチな話で興奮しちゃった？　我慢"
+                                "【Elena】 Ah, Masamune is trembling. Are you about\nto cum?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  せずにイッちゃえ」"
+                                "【Masamune】 Ah, ugh..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Elena】 Did Elena's naughty story turn you on?\nDon't hold back, just cum."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -27278,14 +27278,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Aah...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あぁっ……！」"
+                                ""
                             ]
                         },
                         {
@@ -27309,14 +27309,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 So Masamune is the best... hehe, you're\nquick."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「正宗が一番か……くくっ、早いな」"
+                                ""
                             ]
                         },
                         {
@@ -27333,14 +27333,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 I-It's inevitable to feel this way\nafter hearing such a story..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「こ、こんな話聞かされたら仕方ないだろっ……」"
+                                ""
                             ]
                         },
                         {
@@ -27364,45 +27364,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 Well, I guess so. I'm about to cum\ntoo... Ah, ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「まぁ、そうだな。わたしもイキそうだっ……あ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  っ、あぁっ\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【エレナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「エレナもっ……あっ……んん～～っ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -27419,14 +27395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Elena】 Elena too... Ah... Mmm~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あぁっ、んっ……はぁっ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -27443,21 +27419,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "【Amelia】 Aah... ngh... haa..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「ふぁっ……あっ、あぁ……ふぁ……気持ちよか"
+                                "【Elena】 Ah...ahh...ahh...it felt good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  った……」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -27481,14 +27481,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 Phew... This kind of thing isn't bad\neither."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ふぅ……こういうのも悪くないな」"
+                                ""
                             ]
                         },
                         {
@@ -27512,38 +27512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Ah, haah, haaah...! Mmmn..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あぁっ、はぁっ、はぁぁっ……！　んんっ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【エレナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「おぉ、潮噴いてる……」"
+                                ""
                             ]
                         },
                         {
@@ -27560,14 +27536,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Elena】 Oh, you're squirting..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「はぁっ、はぁっ……言わないで……んんっ……」"
+                                ""
                             ]
                         },
                         {
@@ -27584,14 +27560,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Amelia】 Haaah, haaah... Don't say it... Mmmn..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「（アメリの潮噴き……）」"
+                                "【Masamune】 (Amelia's squirting...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -27615,21 +27615,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 Did everyone cum? Although it feels like\nAmelia had the most orgasms."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「これで全員イッたか。もっとも、アメリだけ回"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  数が多い気がするが」"
+                                ""
                             ]
                         },
                         {
@@ -27646,21 +27646,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 N-No, that's not true... I-I only came\nonce, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そ、そんなことないよっ……ちゃんと、一回だ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  けだから」"
+                                ""
                             ]
                         },
                         {
@@ -27684,14 +27684,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】 I see, hehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そうか、くくっ……」"
+                                ""
                             ]
                         },
                         {
@@ -27708,14 +27708,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Enough, stop with the weird jokes..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「もう、変な冗談はやめてよ……」"
+                                ""
                             ]
                         },
                         {
@@ -27812,14 +27812,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オナニー回数が1増えた！"
+                                "Masturbation count increased by 1! Orgasm count\nincreased by 3!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "絶頂回数が3増えた！"
+                                ""
                             ]
                         },
                         {

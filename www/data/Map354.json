@@ -5104,14 +5104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】The door is locked and won't open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「鍵がかかっていて開かない」"
+                                ""
                             ]
                         },
                         {
@@ -5527,38 +5527,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Is this the key? This makes it the\nthird one."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「鍵か。これで３つめだな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「そしてここにも記録石が」"
+                                ""
                             ]
                         },
                         {
@@ -5575,21 +5551,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "【Masamune】 And here is another Record Stone."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「これでメリッサ先生になにが起きてるのか、"
+                                "【Leon】 With this, we might be able to understand\nwhat's happening to Professor Melissa."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  わかるかもしれない」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5757,14 +5757,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スライム】"
+                                "【Slime】The treasure chest won't appear unless you\nset it on fire, su"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「炎をつけないと宝箱はでないスラ」"
+                                ""
                             ]
                         },
                         {

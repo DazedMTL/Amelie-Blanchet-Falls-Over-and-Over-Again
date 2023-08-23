@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "職員室",
+    "displayName": "Staff room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -3040,21 +3040,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【教師】"
+                                "【Teacher】Ah, even though I may not look like it,\nI am actually a physical education teacher. Sorry\nabout that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、こう見えても体育教師なんです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんかすみません」"
+                                ""
                             ]
                         },
                         {
@@ -3138,21 +3138,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【教師】"
+                                "【Teacher】To make students understand the\nprinciples of the world. That is education."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「世の理をすべて理解させること。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それが教育です」"
+                                ""
                             ]
                         },
                         {
@@ -3236,28 +3236,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【教師】"
+                                "【Professor】There are magic spells that should not\nbe used besides forbidden magic. For example,\nvoyeurism magic and invisibility magic. Using them\nwould be a crime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「禁忌の魔法以外にも使ってはいけない魔法はあるんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　たとえば盗撮魔法や透明化魔法だ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　使ったら犯罪だぞ」"
+                                ""
                             ]
                         },
                         {
@@ -3341,21 +3341,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
+                                "【Principal】I hope everything goes well if the\nfour witches really..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「まさか４人の魔女が本当に……。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うまくいけばいいがの」"
+                                ""
                             ]
                         },
                         {
@@ -3398,14 +3398,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【校長】"
+                                "【Principal】Amelia, please put on your clothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「アメリ君……服を着なさい」"
+                                ""
                             ]
                         },
                         {
@@ -3449,14 +3449,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【校長】"
+                                "【Principal】Amelia, please put on your clothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「アメリ君……服を着なさい」"
+                                ""
                             ]
                         },
                         {
@@ -3550,14 +3550,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【校長】"
+                                "【Principal】Amelia... please put on your clothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「アメリ君……服を着なさい」"
+                                ""
                             ]
                         },
                         {
@@ -3692,14 +3692,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【教員】"
+                                "【Teacher】She was a quiet student during her time\nat school, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「彼女は在学中、おとなしい生徒だったんだがのう」"
+                                ""
                             ]
                         },
                         {
@@ -3742,14 +3742,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【校長】"
+                                "【Principal】Amelia, please put on your clothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「アメリ君……服を着なさい」"
+                                ""
                             ]
                         },
                         {
@@ -3793,14 +3793,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【校長】"
+                                "【Principal】Amelia, please put on your clothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「アメリ君……服を着なさい」"
+                                ""
                             ]
                         },
                         {
@@ -3894,14 +3894,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【校長】"
+                                "【Principal】Amelia, please put on your clothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「アメリ君……服を着なさい」"
+                                ""
                             ]
                         },
                         {

@@ -4400,21 +4400,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【黒服の生徒】"
+                                "【Black-suited Student】Welcome. The use by males\nis not allowed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いらっしゃいませ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　男性の利用は不可となっております」"
+                                ""
                             ]
                         },
                         {

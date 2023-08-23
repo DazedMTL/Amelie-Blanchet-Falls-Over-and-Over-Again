@@ -6748,21 +6748,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Olivia] Today, I need your help with some office\nwork. There are requests coming in from the club\nactivities."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「今日は事務の仕事を手伝ってもらう。部活から"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  の申請とか来てるから」"
+                                ""
                             ]
                         },
                         {
@@ -6779,14 +6779,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] I understand, but... it feels kind of\nclose."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「わかりましたけど……なんか近い」"
+                                ""
                             ]
                         },
                         {
@@ -6810,14 +6810,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Olivia] There shouldn't be any problem... Huh,\nyou have quite a muscular build."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「問題はないでしょ……ん、結構筋肉あるんだね」"
+                                ""
                             ]
                         },
                         {
@@ -6834,14 +6834,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Because I train."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「鍛えてますから」"
+                                ""
                             ]
                         },
                         {
@@ -6872,14 +6872,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Sayoko] Hey hey, what's the sudden rush?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「おいおい、急にどうしたんだ」"
+                                ""
                             ]
                         },
                         {
@@ -6896,21 +6896,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] I want to hear about that. Suddenly\ngetting all touchy-feely..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「それはこっちが聞きたいです。急にベタベタし"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  始めて……」"
+                                ""
                             ]
                         },
                         {
@@ -6934,14 +6934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Olivia] Did you dislike it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「嫌だった？」"
+                                ""
                             ]
                         },
                         {
@@ -6958,14 +6958,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] I don't dislike it, but..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「嫌ではないですが」"
+                                ""
                             ]
                         },
                         {
@@ -6989,45 +6989,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Sayoko] It feels like you're suddenly starting\nto get all touchy-feely."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なんかいきなりおっぱじめそうな雰囲気だな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「生徒会室でいきなりするか……って小夜子に言"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  っても無駄か」"
+                                ""
                             ]
                         },
                         {
@@ -7044,14 +7013,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Doing it suddenly in the student\ncouncil room... even if I say that to Sayoko, it's\npointless."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「でも本当にどうしたんですか？」"
+                                "[Masamune] But seriously, what's going on?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7075,14 +7075,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Olivia] Because you were really cool yesterday."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「昨日の、とてもかっこよかったから」"
+                                ""
                             ]
                         },
                         {
@@ -7106,21 +7106,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Olivia] You were able to knock Jackson away with\na single blow, you're stronger than me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ジャクソンを一撃ではねのけてたし、君は私よ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  り強い」"
+                                ""
                             ]
                         },
                         {
@@ -7144,14 +7144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Olivia] It's only natural to fall in love."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「好きになるのは当然」"
+                                ""
                             ]
                         },
                         {
@@ -7168,14 +7168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] I-I love you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「す、好きって……」"
+                                ""
                             ]
                         },
                         {
@@ -7199,14 +7199,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Sayoko] Oh, I've never seen Olivia like this\nbefore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「おぉ、こんなオリビア初めてみた」"
+                                ""
                             ]
                         },
                         {
@@ -7230,21 +7230,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Olivia] You're the first person I've met who's\nstronger than me, other than my mom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「自分より強い人なんて、ママ以外で初めて出会"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  った」"
+                                ""
                             ]
                         },
                         {
@@ -7261,14 +7261,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] No, I think Olivia senpai is\nstronger."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「いや、オリビア先輩の方が強いと思いますが」"
+                                ""
                             ]
                         },
                         {
@@ -7292,14 +7292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Sayoko] Well, if it's what the person themselves\nsay, then it's fine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「まぁ、本人が言うんだからいいだろ」"
+                                ""
                             ]
                         },
                         {
@@ -7323,14 +7323,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Sayoko] Let me be a little spoiled."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ちょっとくらい甘えさせてやれ」"
+                                ""
                             ]
                         },
                         {
@@ -7347,14 +7347,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] It's not a big deal..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「別にいいけど……」"
+                                ""
                             ]
                         },
                         {
@@ -7378,21 +7378,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Olivia] Come to think of it, I wasn't praised\nfor taking on Eryngol alone."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そういえば、エリゴールを一人で相手したのに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  褒められてない」"
+                                ""
                             ]
                         },
                         {
@@ -7409,14 +7409,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] ...Thank you very much."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……ありがとうございます」"
+                                ""
                             ]
                         },
                         {
@@ -7440,14 +7440,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Olivia] That's all..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「それだけ……」"
+                                ""
                             ]
                         },
                         {
@@ -7464,14 +7464,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] No, I'm really grateful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「いや、すごく感謝してますよ」"
+                                ""
                             ]
                         },
                         {
@@ -7495,14 +7495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Olivia] Then you should at least pat my head."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なら頭くらい撫でるべき」"
+                                ""
                             ]
                         },
                         {
@@ -7519,14 +7519,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] No way..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そんな……」"
+                                ""
                             ]
                         },
                         {
@@ -7550,14 +7550,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] (So this is Olivia senpai... she's\ncute)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（これがあのオリビア先輩……かわいい）」"
+                                ""
                             ]
                         },
                         {
@@ -7581,14 +7581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Sayoko] Olivia, you're being unfair. I want to\nbe spoiled too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「オリビアだけずるいぞ。わたしもだ」"
+                                ""
                             ]
                         },
                         {
@@ -7605,14 +7605,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] H-Hey, you two..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ちょ、二人共っ……」"
+                                ""
                             ]
                         },
                         {
@@ -7636,7 +7636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//CG小夜子胸当ててくっつく、オリビア撫でる"
+                                "//Sayoko clings to Masamune and Olivia strokes her"
                             ]
                         },
                         {
@@ -7653,38 +7653,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Olivia] Mmm... Move your hands properly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「んっ……ちゃんと手を動かして」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【小夜子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「お、たしかに筋肉があるな。エロい体だ」"
+                                ""
                             ]
                         },
                         {
@@ -7701,38 +7677,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Sayoko] Oh, you do have muscles. You have a sexy\nbody."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なにしてるんだよ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【小夜子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「このくらいでうろたえるな。童貞じゃあるまい」"
+                                ""
                             ]
                         },
                         {
@@ -7749,38 +7701,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Masamune] What are you doing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「でもわたしの胸には興奮していいぞ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「う……」"
+                                ""
                             ]
                         },
                         {
@@ -7797,38 +7725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Sayoko] Don't get flustered over something like\nthis. You're not a virgin, are you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「撫で撫で……ママにしてもらって以来……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【オリビア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「落ち着く……」"
+                                ""
                             ]
                         },
                         {
@@ -7845,38 +7749,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Sayoko] But you can get excited over my\nbreasts."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……本当に甘えん坊だったんですね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【オリビア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「このくらい普通のこと」"
+                                ""
                             ]
                         },
                         {
@@ -7893,38 +7773,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そんなことありませんよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【小夜子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「おい、わたしの胸の感想はまだか」"
+                                ""
                             ]
                         },
                         {
@@ -7941,38 +7797,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Olivia] Stroke, stroke... Ever since Mama did it\nfor me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あー……柔らかいよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【小夜子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「適当に流すな。服を脱ぐぞ」"
+                                ""
                             ]
                         },
                         {
@@ -7989,38 +7821,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Olivia] Calm down..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「やめろよ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【小夜子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「いいだろ。今はフリーなんだから」"
+                                ""
                             ]
                         },
                         {
@@ -8037,7 +7845,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//終わり"
+                                "[Masamune] ...You really were a spoiled child,\nhuh?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8054,14 +7869,199 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Olivia] This is just normal."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「フリーだけど、しばらく恋はいいよ」"
+                                "[Masamune] That's not true."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Sayoko] Hey, have you given your thoughts on my\nbreasts yet?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Masamune] Ah... They're so soft."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Sayoko] Don't brush it off. Take off your\nclothes."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Masamune] Stop it!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Sayoko] It's fine. I'm free right now, after\nall."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "//End"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Masamune] I'm free, so it's okay to fall in love\nfor a while."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8092,14 +8092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Sayoko] Love? What are you misunderstanding?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「恋？　なにを勘違いしている」"
+                                ""
                             ]
                         },
                         {
@@ -8123,14 +8123,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Sayoko] Just friends. We also have sex though."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ただのフレンドだ。セックスもするがな」"
+                                ""
                             ]
                         },
                         {
@@ -8147,14 +8147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] This person..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「こいつ……」"
+                                ""
                             ]
                         },
                         {
@@ -8178,14 +8178,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Sayoko] Olivia is also good, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「オリビアもいいよな」"
+                                ""
                             ]
                         },
                         {
@@ -8216,21 +8216,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【オリビア】"
+                                "[Olivia] It's fine if you do it with moderation.\nBut don't treat me like a magical experiment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「節度を持ってするのならいいよ。魔法研みたい"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  なのはだめだけど」"
+                                ""
                             ]
                         },
                         {
@@ -8254,14 +8254,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Sayoko] Then it's not a problem."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なら問題ない」"
+                                ""
                             ]
                         },
                         {
@@ -8278,14 +8278,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] There's no moderation, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「節度なんかないだろ」"
+                                ""
                             ]
                         },
                         {
@@ -8309,14 +8309,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Sayoko] If we use protection, it should be okay\nto have an orgy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ある。ゴムをすれば乱交まではOKだろ」"
+                                ""
                             ]
                         },
                         {
@@ -8333,14 +8333,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Don't engage in group sex!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「乱交するなよ！」"
+                                ""
                             ]
                         },
                         {

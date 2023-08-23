@@ -3186,14 +3186,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】I need to check the fireplace."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「暖炉を調べないと」"
+                                ""
                             ]
                         },
                         {
@@ -3842,14 +3842,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Um, I remember that you can access the\nhidden room by examining the fireplace."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えっと、隠し部屋は暖炉を調べるといけるんだったな」"
+                                ""
                             ]
                         },
                         {

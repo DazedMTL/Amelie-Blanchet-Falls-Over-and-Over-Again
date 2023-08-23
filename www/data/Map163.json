@@ -2692,14 +2692,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「来週には魔法研究発表会がある」"
+                                "There will be a magic research presentation next\nweek."
                             ]
                         },
                         {
@@ -2716,21 +2716,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「知ってるとは思うが、学外からも多くの人が見"
+                                "I assume you already know, but many people from\noutside the school will come to see it, so make\nsure to prepare properly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  に来るからしっかりと準備するように」"
+                                ""
                             ]
                         },
                         {
@@ -2747,21 +2747,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「以上で朝礼は終わりだ。この後は全校集会があ"
+                                "That concludes the morning assembly. After this,\nthere will be a school-wide gathering, so please\nhead to the main hall."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  るから、大ホールに向かってくれ」"
+                                ""
                             ]
                         },
                         {

@@ -4843,14 +4843,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】The door is locked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「鍵がかかっている」"
+                                ""
                             ]
                         },
                         {
@@ -4990,14 +4990,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】The door is locked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「鍵がかかっている」"
+                                ""
                             ]
                         },
                         {
@@ -5192,14 +5192,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】It doesn't react even if I ride it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「乗っても反応しない……」"
+                                ""
                             ]
                         },
                         {
@@ -5394,14 +5394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】It doesn't react even if I ride it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「乗っても反応しない……」"
+                                ""
                             ]
                         },
                         {
@@ -5529,21 +5529,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分用メモ"
+                                "I made a switch with a hardness that even a cat\ncan't press to hide important things for myself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大事なものを隠すために猫では押せない硬さの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチを作った。"
+                                ""
                             ]
                         },
                         {
@@ -5560,14 +5560,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし硬すぎて自分でも踏めない。"
+                                "But it's too hard that I can't even step on it\nmyself. If I want to press it, the only option\nwould be to drop something heavy on top of it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "押すなら重い物を上から落とすしかないだろう。"
+                                ""
                             ]
                         },
                         {
@@ -5716,7 +5716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バーミラ・ウィルフォースの日記"
+                                "The Diary of Vermeer Wilford"
                             ]
                         },
                         {
@@ -5733,31 +5733,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォトン・グラフパードを捕まえ、退学させること"
+                                "I was able to catch Photon Graphpard and expel\nthem."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はできた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心できるはずなんだが、本当にそうだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -5774,14 +5757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼は変身魔法が得意だった……いや、考え過ぎか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう忘れよう。"
+                                "I should be able to feel at ease, but is that\nreally the case?"
                             ]
                         },
                         {
@@ -5798,31 +5774,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チャチャマルとココのために、女子棟と繋がる通路"
+                                "He was skilled in transformation magic... No,\nmaybe I'm overthinking. Let's forget about it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を作った。これでいつでも会うことが出来る。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二匹ともすごく喜んでくれている。それだけで十分だ。"
+                                ""
                             ]
                         },
                         {
@@ -5839,38 +5798,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入口は僕の部屋に作った。チャチャマルしか開けら"
+                                "I made a passage connecting the girls' dormitory\nfor Chachamaru and Coco. Now we can meet anytime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "れない魔法陣だから安心だ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも来年以降はどうしよう。存在がバレれば、通路"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "を壊されるかもしれない。"
+                                ""
                             ]
                         },
                         {
@@ -5887,21 +5822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまり良くないが、この部屋を選びたくなくなる魔"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "法を使用しておこうか。それならずっと空室だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気づかれないだろう。"
+                                "Both of them are really happy. That alone is\nenough."
                             ]
                         },
                         {
@@ -5918,7 +5839,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もし人が侵入した時のために、結界魔法もかけておく。"
+                                "The entrance was made in my room. It's a magic\ncircle that only Chachamaru can open, so it's\nreassuring."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5935,31 +5863,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結界魔法を解くには、僕が作った魔法をかけるしか"
+                                "But what should we do from next year onwards? If\nour existence is exposed, the passage might be\ndestroyed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰にもバレないように、ここに魔導書を保存しておく。"
+                                ""
                             ]
                         },
                         {
@@ -5976,21 +5887,110 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それとついでに宝物庫のパスワードも忘れないよう"
+                                "I could use a spell that makes this room less\ndesirable. That way, it will remain vacant and\nhopefully go unnoticed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にメモしておこう。"
+                                "I will also cast a barrier spell just in case\nsomeone intrudes."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パスワードは『curiosity  killed the cat』"
+                                "To undo the barrier magic, there is no choice but\nfor me to cast the spell I created."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "To ensure that no one finds out, I will store the\ngrimoire here."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "And by the way, let's make sure not to forget the\npassword for the treasure vault. The password is\n'curiosity killed the cat'."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6014,21 +6014,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 This person wrote the password and how\nto unlock it in their diary, but they're too\ncareless..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「この人日記にパスワードも解き方も書いてある"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  けど、無用心すぎるだろ……」"
+                                ""
                             ]
                         },
                         {
@@ -6045,21 +6045,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 So this is the grimoire... They're a\ngood person, but not very smart it seems."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「魔導書ってこれか……いい人だけど賢くはなさ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  そうだ」"
+                                ""
                             ]
                         },
                         {
@@ -6253,14 +6253,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 I'll make sure to remember it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「俺が覚えておくか」"
+                                ""
                             ]
                         },
                         {
@@ -6289,7 +6289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岩結界破壊魔法が使えるようになった！"
+                                "I've become able to use the Rock Barrier\nDestruction Magic!"
                             ]
                         },
                         {
@@ -6306,45 +6306,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】 By the way, this passage was a secret\nroute for Chachamaru and Coco to meet, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「それにしても、チャチャマルとココがこっそり"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  出会うための通路だったんだね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「作った人はいい人だよ」"
+                                ""
                             ]
                         },
                         {
@@ -6361,21 +6337,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Tommy】 The person who made it is a good person."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そうだな。これに見習って、スケルトンヘッド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  も心を入れ替えるんだな」"
+                                ""
                             ]
                         },
                         {
@@ -6392,45 +6361,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Masamune】 That's right. Let's learn from this\nand have Skeleton Head change their ways too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「まだだ。まだ諦めない」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「どんな男にもスケベ心はあるからな。最後まで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  探索だ！」"
+                                ""
                             ]
                         },
                         {
@@ -6447,14 +6392,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "【Skeleton Head】 Not yet. I won't give up."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「やれやれ……」"
+                                "【Skeleton Head】 Every man has a perverted heart.\nLet's explore until the end!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Leon】 Oh well..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6533,7 +6533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バーミラ・ウィルフォースの日記"
+                                "The Diary of Vermeer Wilford"
                             ]
                         },
                         {
@@ -6550,31 +6550,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォトン・グラフパードを捕まえ、退学させること"
+                                "I was able to catch Photon Graphpard and expel\nthem."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はできた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心できるはずなんだが、本当にそうだろうか。"
+                                ""
                             ]
                         },
                         {
@@ -6591,14 +6574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼は変身魔法が得意だった……いや、考え過ぎか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう忘れよう。"
+                                "I should be able to feel at ease, but is that\nreally the case?"
                             ]
                         },
                         {
@@ -6615,31 +6591,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チャチャマルとココのために、女子棟と繋がる通路"
+                                "He was skilled in transformation magic... No,\nmaybe I'm overthinking. Let's forget about it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "を作った。これでいつでも会うことが出来る。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二匹ともすごく喜んでくれている。それだけで十分だ。"
+                                ""
                             ]
                         },
                         {
@@ -6656,38 +6615,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入口は僕の部屋に作った。チャチャマルしか開けら"
+                                "I made a passage connecting the girls' dormitory\nfor Chachamaru and Coco. Now we can meet anytime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "れない魔法陣だから安心だ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも来年以降はどうしよう。存在がバレれば、通路"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "を壊されるかもしれない。"
+                                ""
                             ]
                         },
                         {
@@ -6704,21 +6639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまり良くないが、この部屋を選びたくなくなる魔"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "法を使用しておこうか。それならずっと空室だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気づかれないだろう。"
+                                "Both of them are really happy. That alone is\nenough."
                             ]
                         },
                         {
@@ -6735,7 +6656,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もし人が侵入した時のために、結界魔法もかけておく。"
+                                "The entrance was made in my room. It's a magic\ncircle that only Chachamaru can open, so it's\nreassuring."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6752,31 +6680,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結界魔法を解くには、僕が作った魔法をかけるしか"
+                                "But what should we do after next year? If our\nexistence is exposed, the passage might be\ndestroyed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰にもバレないように、ここに魔導書を保存しておく。"
+                                ""
                             ]
                         },
                         {
@@ -6793,21 +6704,110 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それとついでに宝物庫のパスワードも忘れないよう"
+                                "I could use a spell that makes this room less\ndesirable. That way, it will remain vacant and\nhopefully go unnoticed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にメモしておこう。"
+                                "I'll also cast a barrier spell just in case\nsomeone intrudes."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パスワードは『curiosity  killed the cat』"
+                                "To undo the barrier magic, there is no choice but\nfor me to cast the spell I created."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "To ensure that no one notices, I will store the\ngrimoire here."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "And by the way, let's make sure not to forget the\npassword for the treasure vault. The password is\n'curiosity killed the cat'."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

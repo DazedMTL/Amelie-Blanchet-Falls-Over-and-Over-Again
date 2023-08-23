@@ -5132,14 +5132,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】It seems like this key doesn't fit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「この鍵は合わないみたいだ」"
+                                ""
                             ]
                         },
                         {
@@ -5178,14 +5178,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】The key is locked and won't open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「鍵がかかっていて開かない」"
+                                ""
                             ]
                         },
                         {
@@ -6224,21 +6224,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魔法研の生徒】"
+                                "【Student of the Magic Research Club】Burn! Burn!\nFire magic solves everything!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「燃えろ！　燃えろ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　火炎魔法はすべてを解決する！」"
+                                ""
                             ]
                         },
                         {
@@ -6255,21 +6255,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魔法研の生徒】"
+                                "【Student of the Magic Research Club】Hey, be\ncareful! You're getting in the way of our magic\nexperiment, so go somewhere else."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おい、危ないぞ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　魔法実験の邪魔だからどこかに行け」"
+                                ""
                             ]
                         },
                         {

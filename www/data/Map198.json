@@ -3395,45 +3395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Ugh... the ritual has already begun."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くっ……もう儀式が始まってしまった」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日が儀式の日だが、こんなに早いなんて……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　俺が余計なことをしたせいか……」"
+                                ""
                             ]
                         },
                         {
@@ -3450,14 +3419,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Today is the day of the ritual, but\nit's already this early... Did I do something\nunnecessary to cause this..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「また……失敗した」"
+                                "【Masamune】I failed again..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3688,21 +3688,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】(I've returned to the morning of the\nfirst day. This time, I'll do it. First, it's time\nfor class.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「（一日目の朝まで戻ってきた。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今回はやるぞ。まずは授業だ）」"
+                                ""
                             ]
                         },
                         {
@@ -3719,14 +3719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】(I'll take care of what happened in the\nprevious loop later.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「（前の周回で起こったことは、後で済ませておくか）」"
+                                ""
                             ]
                         },
                         {
@@ -3752,14 +3752,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "前回のストーリーのフラグは維持されます。"
+                                "The flags from the previous story will be\nmaintained. (With some exceptions)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（一部は除く）"
+                                ""
                             ]
                         },
                         {

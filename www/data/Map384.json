@@ -4106,14 +4106,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 There's a box... Hm, it won't open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「箱がある……ん、開かない」"
+                                ""
                             ]
                         },
                         {
@@ -4142,14 +4142,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【宝箱】"
+                                "【Treasure Chest】 Here's a question."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「問題です」"
+                                ""
                             ]
                         },
                         {
@@ -4166,21 +4166,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【宝箱】"
+                                "【Treasure Chest】 What do you think is the limit\nof magic that humans can use?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「人が使える魔法の限界は、次のうちどれでしょ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  う」"
+                                ""
                             ]
                         },
                         {
@@ -4220,14 +4220,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【宝箱】"
+                                "【Treasure Chest】 Missed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「はずれ！」"
+                                ""
                             ]
                         },
                         {
@@ -4274,14 +4274,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【宝箱】"
+                                "【Treasure Chest】 Correct! Please take the\ncontents of the box."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「正解です！　箱の中身をお取りください」"
+                                ""
                             ]
                         },
                         {
@@ -4409,45 +4409,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 So this is the trial of the\ndungeon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「これがダンジョンの試練か……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【レオン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「なんだか随分簡単だね。ここまでの道のりも楽"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  だったし」"
+                                ""
                             ]
                         },
                         {
@@ -4464,45 +4433,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Leon】 It seems quite easy. The path so far has\nbeen enjoyable as well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「ダンジョンは制作者のセンスが出るからね」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「レオポルトさんは、あんまり作るのが得意じゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  なかったのかもしれない」"
+                                ""
                             ]
                         },
                         {
@@ -4519,14 +4464,69 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Tommy】 The dungeon shows the creator's sense,\nyou know."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "  「楽に越したことはないけどな」"
+                                "【Tommy】 Leopold-san might not have been very good\nat creating things."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "【Masamune】 There's nothing better than taking it\neasy."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4608,14 +4608,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【宝箱】"
+                                "【Treasure Chest】 Missed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「はずれ！」"
+                                ""
                             ]
                         },
                         {
@@ -5128,21 +5128,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【リス】"
+                                "【Risu】Hello! Holoholo (Wow! Don't suddenly appear\nlike that)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ホロ！　ホロホロ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　（わぁ！　いきなり現れるんじゃないよ）」"
+                                ""
                             ]
                         },
                         {

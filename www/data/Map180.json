@@ -14310,7 +14310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この先、立入禁止」"
+                                "No entry beyond this point"
                             ]
                         },
                         {
@@ -14387,7 +14387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法基礎の実習室」"
+                                "Magic Fundamentals Practice Room"
                             ]
                         },
                         {
@@ -14464,7 +14464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「呪い魔法の実習室」"
+                                "Cursed Magic Practice Room"
                             ]
                         },
                         {
@@ -15435,7 +15435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「男子トイレ」"
+                                "Men's restroom"
                             ]
                         },
                         {
@@ -15512,7 +15512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「女子トイレ」"
+                                "Women's restroom"
                             ]
                         },
                         {
@@ -15733,7 +15733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「儀式学の実習室」"
+                                "Ritual Practice Room"
                             ]
                         },
                         {
@@ -15834,14 +15834,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[5]\\z[003]"
+                                "\\>【Amelia】\\m[5]\\z[003]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう女の子と仲良くなったんだね」"
+                                "So you've become friends with another girl, huh?"
                             ]
                         },
                         {
@@ -15858,14 +15858,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え、あぁ……エレナのことか」"
+                                "Huh, ah... Are you talking about Elena?"
                             ]
                         },
                         {
@@ -15882,14 +15882,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「別に話をしてただけだ」"
+                                "We were just talking, that's all."
                             ]
                         },
                         {
@@ -15913,14 +15913,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[5]\\z[004]"
+                                "\\>【Amelia】\\m[5]\\z[004]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも結構盛り上がってるみたいだったし」"
+                                "But it seemed like you were having a lot of fun."
                             ]
                         },
                         {
@@ -15937,21 +15937,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そりゃ転入生だから色々聞きたいことはあるだ"
+                                "Well, she's a transfer student, so there are\nthings I want to ask her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ろ」"
+                                ""
                             ]
                         },
                         {
@@ -15975,14 +15975,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[5]\\z[005]"
+                                "\\>【Amelia】\\m[5]\\z[005]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだけど、ちょっと意外だった」"
+                                "Yeah, but it was a bit surprising."
                             ]
                         },
                         {
@@ -16006,14 +16006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[5]\\z[006]"
+                                "\\>【Amelia】\\m[5]\\z[006]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「正宗君って無愛想なところあるし」"
+                                "Masamune, you can be quite unsociable sometimes."
                             ]
                         },
                         {
@@ -16037,14 +16037,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[5]\\z[007]"
+                                "\\>【Amelia】\\m[5]\\z[007]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私以外の子とあんな風に話せるんだ」"
+                                "You can talk to other girls like that."
                             ]
                         },
                         {
@@ -16061,14 +16061,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……嫉妬してるのか」"
+                                "...Are you jealous?"
                             ]
                         },
                         {
@@ -16092,14 +16092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[5]\\z[008]"
+                                "\\>【Amelia】\\m[5]\\z[008]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「違うよ」"
+                                "That's not it."
                             ]
                         },
                         {
@@ -16116,14 +16116,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもむすっとしてたし」"
+                                "But you were pouting."
                             ]
                         },
                         {
@@ -16147,14 +16147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[5]\\z[009]"
+                                "\\>【Amelia】\\m[5]\\z[009]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「してない。むしろ喜んでたんだよ」"
+                                "I didn't. In fact, I was happy."
                             ]
                         },
                         {
@@ -16178,14 +16178,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[5]\\z[010]"
+                                "\\>【Amelia】\\m[5]\\z[010]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「みんなと馴染めそうで安心」"
+                                "I feel relieved that I can get along with\neveryone."
                             ]
                         },
                         {
@@ -16202,14 +16202,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「母親か……」"
+                                "Mother..."
                             ]
                         },
                         {
@@ -16297,21 +16297,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「後でクロエに会っておかないとな。魔道具は"
+                                "I have to meet Chloe later. She's quite skilled\nwith magical tools."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  かなり使える」"
+                                ""
                             ]
                         },
                         {
@@ -16328,14 +16328,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（それより、今はエレナと仲良くなることが優先だ）」"
+                                "(But for now, getting along with Elena is a\npriority.)"
                             ]
                         },
                         {
@@ -16352,21 +16352,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（方法は……今のところマカロンくらいしかな"
+                                "(For now... the only method I have is macarons.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いな）」"
+                                ""
                             ]
                         },
                         {
@@ -16383,21 +16383,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（校内で手に入るのか……購買部にはなかった気がするが。"
+                                "(I wonder if I can get it on campus... I don't\nthink the school store had it. No... I remember\nseeing it in the dormitory kitchen...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　いや……たしか寮のキッチンで……）」"
+                                ""
                             ]
                         },
                         {

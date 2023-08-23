@@ -7291,7 +7291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送石に登録した"
+                                "Registered on the teleportation stone."
                             ]
                         },
                         {
@@ -7562,14 +7562,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【性魔法部連合の男】"
+                                "【Male member of the Sex Magic Department Union】Is\nit a desired material?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ほしい素材でもあるのかい？」"
+                                ""
                             ]
                         },
                         {
@@ -8801,7 +8801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「開かないようだ」"
+                                "It seems to be locked."
                             ]
                         },
                         {
@@ -8907,14 +8907,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「探してもどこにも居ない」"
+                                "I can't find her anywhere."
                             ]
                         },
                         {
@@ -8931,21 +8931,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そもそも、この階に隠れる場所なんてある"
+                                "Is there even a place to hide on this floor?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  のか」"
+                                ""
                             ]
                         },
                         {
@@ -8976,21 +8976,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[041]"
+                                "\\>【Hiyo】\\m[32]\\z[041]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「可能性があるとすれば、転送用の魔法陣で移動"
+                                "If there is a possibility, maybe she used a\nteleportation magic circle to move."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  したとかでしょうか」"
+                                ""
                             ]
                         },
                         {
@@ -9007,14 +9007,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもそんなものはなかったし」"
+                                "But there was no such thing."
                             ]
                         },
                         {
@@ -9038,14 +9038,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[042]"
+                                "\\>【Hiyo】\\m[32]\\z[042]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まだ調べてない部屋が一つありますが」"
+                                "There is still one room that we haven't searched\nyet."
                             ]
                         },
                         {
@@ -9062,14 +9062,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここか……一体なんの部屋なんだ？」"
+                                "Is this... what kind of room is this?"
                             ]
                         },
                         {
@@ -9093,21 +9093,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[043]"
+                                "\\>【Hiyo】\\m[32]\\z[043]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただの空き部屋です。鍵が壊れていて開かない"
+                                "It's just an empty room. The key is broken and it\nwon't open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ようですが」"
+                                ""
                             ]
                         },
                         {
@@ -9124,14 +9124,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「怪しいな。調べてみるか」"
+                                "This is suspicious. Shall we investigate?"
                             ]
                         },
                         {
@@ -9176,14 +9176,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「開いた！」"
+                                "It's open!"
                             ]
                         },
                         {
@@ -9200,14 +9200,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「生徒会の奥にあった仕掛けと同じだ」"
+                                "It's the same mechanism as the one in the student\ncouncil room."
                             ]
                         },
                         {
@@ -9231,14 +9231,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[32]\\z[044]"
+                                "\\>【Hiyo】\\m[32]\\z[044]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「壊れていたわけではなかったんですね」"
+                                "So it wasn't broken after all."
                             ]
                         },
                         {
@@ -9562,14 +9562,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】I don't have any use for it now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今は用はない」"
+                                ""
                             ]
                         },
                         {
@@ -9877,7 +9877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「開かないようだ」"
+                                "It seems to be locked."
                             ]
                         },
                         {
@@ -10288,21 +10288,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここが部室棟か……思ったよりごちゃごちゃし"
+                                "So this is the club building... It's more\ncluttered than I thought."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  てる」"
+                                ""
                             ]
                         },
                         {
@@ -10319,21 +10319,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まだ授業が終わったばかりだからか、人もいな"
+                                "Maybe because classes just ended, there's no one\nhere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いし」"
+                                ""
                             ]
                         },
                         {
@@ -10453,14 +10453,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん、今誰かいたような。少し話を聞いてみるか」"
+                                "Hmm, I feel like someone was here just now. Maybe\nI should try asking them a few questions."
                             ]
                         },
                         {
@@ -10717,21 +10717,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】Hey, I can see if you have\na naughty curse on you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「やぁ、ボクはエッチな呪いがついているか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　みることが出来るんだ」"
+                                ""
                             ]
                         },
                         {
@@ -10748,14 +10748,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】Would you like me to show\nyou that girl over there?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よかったらそっちの女の子のをみてあげようか？」"
+                                ""
                             ]
                         },
                         {
@@ -10805,14 +10805,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】It's Amelia-chan, right?\nWhat you have attached to you..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「アメリちゃんだね。君に付いてるのは……」"
+                                ""
                             ]
                         },
                         {
@@ -10839,14 +10839,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】Obscene Mark"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「淫紋」"
+                                ""
                             ]
                         },
                         {
@@ -10894,14 +10894,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】Curse of the Piercings"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ピアスの呪い」"
+                                ""
                             ]
                         },
                         {
@@ -10949,14 +10949,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】Modified Busty"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「改造爆乳」"
+                                ""
                             ]
                         },
                         {
@@ -11004,14 +11004,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】Developed pussy"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「開発済みまんこ」"
+                                ""
                             ]
                         },
                         {
@@ -11059,14 +11059,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】Blowjob Maniac"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「フェラ狂い」"
+                                ""
                             ]
                         },
                         {
@@ -11114,14 +11114,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】Weak Nipples"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ザコ乳首」"
+                                ""
                             ]
                         },
                         {
@@ -11169,14 +11169,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】Weak pussy"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ザコまんこ」"
+                                ""
                             ]
                         },
                         {
@@ -11224,14 +11224,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】Developed anus"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「開発済みアナル」"
+                                ""
                             ]
                         },
                         {
@@ -11279,14 +11279,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】Perverted Girl"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「ドスケベ女」"
+                                ""
                             ]
                         },
                         {
@@ -11335,14 +11335,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】Nothing in particular."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「特にないね」"
+                                ""
                             ]
                         },
                         {
@@ -11359,14 +11359,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】I'm glad..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「よかった……」"
+                                ""
                             ]
                         },
                         {
@@ -11404,45 +11404,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】This is about it. Wow,\nyou're such a pervert."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「このくらいか。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　いやぁ、ド変態だね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「……」"
+                                ""
                             ]
                         },
                         {
@@ -11459,14 +11435,38 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【アメリ】"
+                                "【Masamune】......"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「エッチな女の子でごめんね……」"
+                                "【Amelia】I'm sorry for being a naughty girl..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11493,14 +11493,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【触手部の生徒】"
+                                "【Tentacle Club Student】This is about it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「このくらいか」"
+                                ""
                             ]
                         },
                         {
@@ -11517,14 +11517,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】......"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「……」"
+                                ""
                             ]
                         },
                         {
@@ -11866,14 +11866,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】The door is locked and won't open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「鍵がかかっていて開かない」"
+                                ""
                             ]
                         },
                         {
@@ -11953,14 +11953,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】The door is locked and won't open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「鍵がかかっていて開かない」"
+                                ""
                             ]
                         },
                         {
@@ -12008,45 +12008,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【？？？】"
+                                "【Mysterious Girl Leviathan】Ah, ah,\naahhhn......\\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「あっ、あっ、あぁんんっ……\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "【男子生徒】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「まさかこんな可愛いことやれるなんてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　金を払ったかいがあったぜ！」"
+                                ""
                             ]
                         },
                         {
@@ -12063,28 +12032,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アナル開発度が10上がった！"
+                                "【Male Student】I never thought I'd be able to do\nsomething this cute. It was worth paying the\nmoney!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "淫乱度が5上がった！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "絶頂回数が2増えた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "射精させた総量が5ml増えた！"
+                                ""
                             ]
                         },
                         {
@@ -12101,28 +12063,66 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アナル挿入回数が1増えた！"
+                                "Anal development level increased by 10! Lewdness\nlevel increased by 5! Number of climaxes increased\nby 2! Total amount of ejaculations increased by\n5ml!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "潮吹き回数が2増えた！"
+                                "The number of anal insertions has increased by 1!\nThe number of squirting orgasms has increased by\n2! The number of times I took the initiative has\nincreased by 1! The number of times I engaged in\nprostitution has increased by 1!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "自分からした回数が1増えた！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "売春回数が1増えた！"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12353,14 +12353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】The door is locked and won't open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「鍵がかかっていて開かない」"
+                                ""
                             ]
                         },
                         {
@@ -12682,21 +12682,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エロ被服部の男】"
+                                "【Eroge Costume Department Man】Hehehe, this place\nis also where girls engage in prostitution. It's\nusually around 3000G per session."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ、ここは女子が売春をする場所でもあるのさ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　だいたい一発3000Gくらいだな」"
+                                ""
                             ]
                         },
                         {
@@ -12771,21 +12771,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エロ被服部の男】"
+                                "【Eroge Costume Department Man】Hehehe, this place\nis also a spot where girls engage in prostitution.\nIt seems like someone is using it right now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ、ここは女子が売春をする場所でもあるのさ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今も誰かが使ってるみたいだ」"
+                                ""
                             ]
                         },
                         {
@@ -12802,14 +12802,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エロ被服部の男】"
+                                "【Eroge Costume Department Man】The inside is\nlocked, so only the user can enter."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「中は鍵がかかってるから、使用者しか入れないぞ」"
+                                ""
                             ]
                         },
                         {
@@ -12893,14 +12893,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子生徒】"
+                                "[Female Student] I need to earn money for my\nboyfriend..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「彼氏のためにお金稼がないと……」"
+                                ""
                             ]
                         },
                         {
@@ -12917,21 +12917,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子生徒】"
+                                "[Female Student] You know... I'm sorry, but you\nmight not be my type. I can't just do it with\nanyone, after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「君は……ごめん、好みじゃないかも。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さすがに誰とでもするわけじゃないよ」"
+                                ""
                             ]
                         },
                         {
@@ -13015,21 +13015,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女子生徒】"
+                                "[Female Student] My down there feels itchy. Ah,\nit's getting tingly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なんかアソコが痒いなぁ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あームラムラする」"
+                                ""
                             ]
                         },
                         {
@@ -13057,21 +13057,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子生徒】"
+                                "[Female Student] Someone has been using the room\nall the time. Can you open it and check inside?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「てか部屋誰かがずっと使ってんだけど。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　君、鍵あけて中見てきてよ」"
+                                ""
                             ]
                         },
                         {
@@ -13088,14 +13088,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【女子生徒】"
+                                "[Female Student] If it's the key, it should be on\nthe shelf in the staff room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「鍵なら職員室の棚にあるからさ」"
+                                ""
                             ]
                         },
                         {
@@ -13200,21 +13200,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】This is the Magic Book Club. We gather\nmagic books and conduct research on magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ここは魔導書部だよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　魔導書を集めて魔法の研究をしてるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -13252,21 +13252,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】This is the Magic Book Club. We gather\nmagic books and conduct research on magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ここは魔導書部だよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　魔導書を集めて魔法の研究をしてるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -13304,28 +13304,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】We gather magic books and conduct research\non magic, but it doesn't mean we can use magic. We\njust watch, hehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「魔導書を集めて魔法の研究をしてるけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　魔法が使えるわけじゃないよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ただ見てるだけ、えへへ……」"
+                                ""
                             ]
                         },
                         {
@@ -13363,28 +13363,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】We gather magic books and conduct research\non magic, but it doesn't mean we can use magic. We\njust watch, hehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「魔導書を集めて魔法の研究をしてるけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　魔法が使えるわけじゃないよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ただ見てるだけ、えへへ……」"
+                                ""
                             ]
                         },
                         {
@@ -13422,21 +13422,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】Hole-digging magic... I wish I could use\nit. It would be so convenient, wouldn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「穴掘り魔法かぁ……使えるようになりたいな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　絶対便利だよね」"
+                                ""
                             ]
                         },
                         {
@@ -13532,21 +13532,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】Digging magic is convenient, isn't it? But\nmaybe it's still too early for me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「穴掘り魔法、便利だよねぇ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　でもまだ僕には早いかも」"
+                                ""
                             ]
                         },
                         {
@@ -13584,21 +13584,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】Digging magic is convenient, isn't it? But\nmaybe it's still too early for me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「穴掘り魔法、便利だよねぇ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　でもまだ僕には早いかも」"
+                                ""
                             ]
                         },
                         {
@@ -13636,21 +13636,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】Um, this is the Magic Grimoire Club. We\ngather grimoires and conduct research on magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「えっと、ここは魔導書部だよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　魔導書を集めて魔法の研究をしてるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -13688,21 +13688,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】Um, this is the Magic Grimoire Club. We\ngather grimoires and conduct research on magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「えっと、ここは魔導書部だよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　魔導書を集めて魔法の研究をしてるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -13740,14 +13740,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】I want to be able to use digging magic..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「穴掘り魔法……使えるようになりたいなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -13843,21 +13843,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】Um, this is the Magic Book Club. We gather\nmagic books and conduct research on magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「えっと、ここは魔導書部だよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　魔導書を集めて魔法の研究をしてるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -13895,21 +13895,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】This is the Magic Book Club. We gather\nmagic books and conduct research on magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ここは魔導書部だよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　魔導書を集めて魔法の研究をしてるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -13947,28 +13947,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】We gather magic books and conduct research\non magic, but it doesn't mean we can use magic. We\njust observe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「魔導書を集めて魔法の研究をしてるけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　魔法が使えるわけじゃないよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ただ見てるだけ」"
+                                ""
                             ]
                         },
                         {
@@ -14006,28 +14006,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】We gather magic books and conduct research\non magic, but it doesn't mean we can use magic. We\njust observe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「魔導書を集めて魔法の研究をしてるけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　魔法が使えるわけじゃないよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ただ見てるだけ」"
+                                ""
                             ]
                         },
                         {
@@ -14065,21 +14065,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】I want to be able to use hole-digging\nmagic. It would be so convenient, don't you\nthink?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「穴掘り魔法……使えるようになりたいな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　絶対便利だよね」"
+                                ""
                             ]
                         },
                         {
@@ -14268,14 +14268,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Did the man who was here end up\nfinishing it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ここに居た男、結局完成したのか？」"
+                                ""
                             ]
                         },
                         {
@@ -14292,14 +14292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 I hear something. Should I take a\nquick peek?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なにか声がする。ちょっとだけ覗いてみるか」"
+                                ""
                             ]
                         },
                         {
@@ -14412,14 +14412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 I hear a voice..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「声がする……」"
+                                ""
                             ]
                         },
                         {
@@ -14452,38 +14452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Ohhh, ohhhh, oohhh\\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「んおぉぉっ、おほぉぉおっ\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ぐるじいけどっ、ぎもぢいぃぃっ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -14500,45 +14476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 It's so tight and feels so good!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「イクイクイクぅぅっ\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【元魔法研の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ほら、まだまだイケるよね。アナル壊れるまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  弄ってあげるから」"
+                                ""
                             ]
                         },
                         {
@@ -14555,14 +14500,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 I'm cumming, cumming, cuuummming!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「だめですぅっ\\I[12]　おほぉぉぉぉっ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -14579,14 +14524,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Former Magic Researcher】 Come on, we can still\ngo on. I'll play with you until your anus breaks."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「うんち穴っ、完全に開発されちゃいましたぁっ\\I[12]」"
+                                "【Amelia】 No, it's no good! Ohhhhhh!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Amelia】 My asshole, it's completely developed~"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14610,21 +14610,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アナル開発度が10上がった！"
+                                "Anal development level increased by 10! Lewdness\nlevel increased by 5! Number of climaxes increased\nby 3!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "淫乱度が5上がった！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "絶頂回数が3増えた！"
+                                ""
                             ]
                         },
                         {
@@ -14801,14 +14801,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【元魔法研の男】"
+                                "【Former Magic Researcher】 Ugh, it was so close to\nbeing completed..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「くー、もう少しで完成しそうなのに……」"
+                                ""
                             ]
                         },
                         {
@@ -14825,21 +14825,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【元魔法研の男】"
+                                "【Former Magic Researcher】 If only this is\ncompleted... I should be able to return to the\nMagic Research Institute."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「これさえ完成すれば……俺はまた魔法研に戻れ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  るはずだ」"
+                                ""
                             ]
                         },
                         {
@@ -14907,14 +14907,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【元魔法研の男】"
+                                "【Former Magic Researcher】 Ugh, it was so close to\nbeing completed..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「くー、もう少しで完成しそうなのに……」"
+                                ""
                             ]
                         },
                         {
@@ -14931,21 +14931,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【元魔法研の男】"
+                                "【Former Magic Researcher】 If only this is\ncompleted... I should be able to return to the\nMagic Research Institute."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「これさえ完成すれば……俺はまた魔法研に戻れ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  るはずだ」"
+                                ""
                             ]
                         },
                         {
@@ -14984,45 +14984,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 What happened?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「なにかあったんですか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【元魔法研の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「いや、実はくだらない実験ばかりしていたら魔"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  法研から追い出されてしまってね」"
+                                ""
                             ]
                         },
                         {
@@ -15039,21 +15008,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【元魔法研の男】"
+                                "【Former Magic Researcher】 Well, actually, I was\nexpelled from the Magic Research Institute because\nI was only doing pointless experiments."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「それでもう一度魔法研に入るために研究してる"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  んだ」"
+                                ""
                             ]
                         },
                         {
@@ -15070,21 +15039,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【元魔法研の男】"
+                                "【Former Magic Researcher】 I'm researching in\norder to get back into the Magic Research\nInstitute."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "  「でも素材が足りなくてね。スライムの目玉が３"
+                                "【Former Magic Researcher】 But I'm lacking the\nmaterials. If I had three slime eyeballs, it seems\nlike I could make it work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  個あれば行けそうなんだが」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15147,38 +15147,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Do you want me to give it to you since\nI have it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "  「持ってるのであげましょうか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "【元魔法研の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "  「本当か！　助かるよ」"
+                                ""
                             ]
                         },
                         {
@@ -15195,38 +15171,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【元魔法研の男】"
+                                "【Former Magic Researcher】 Is that true! That\nwould be a lifesaver."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "  「これで魔力アップ装置が制作できる」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "  「魔力アップ装置。すごそうですね」"
+                                ""
                             ]
                         },
                         {
@@ -15243,14 +15195,62 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【元魔法研の男】"
+                                "【Former Magic Researcher】 With this, I can create\na magic power enhancement device."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "  「あぁ、完成を楽しみにしてくれ」"
+                                "【Masamune】 A magic power enhancement device. It\nsounds amazing, doesn't it?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "【Former Magic Researcher】 Ah, look forward to its\ncompletion."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15344,14 +15344,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 (I don't have it...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "  「（持ってなかった……）」"
+                                ""
                             ]
                         },
                         {
@@ -15368,21 +15368,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 (No, you should prepare it yourself...\nThis person was expelled because they're\nincompetent...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "  「（いや、そんなの自分で用意しろよ……こいつ無能だ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "  から追放されたんじゃ……）」"
+                                ""
                             ]
                         },
                         {
@@ -15422,21 +15422,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 (You should prepare it yourself...\nThis person was expelled because they're\nincompetent...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  「（そんなの自分で用意しろよ……こいつ無能だ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  から追放されたんじゃ……）」"
+                                ""
                             ]
                         },
                         {
@@ -15476,14 +15476,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【元魔法研の男】"
+                                "【Former Magic Researcher】 Hmm... Hmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「うーん……うーん……」"
+                                ""
                             ]
                         },
                         {
@@ -15783,21 +15783,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エロ装飾部の女】"
+                                "[Female Member of the Erotic Decoration Club]\nUgh, who can wear clothes in this heat! Hey,\ndon't stare!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あちー、服なんて来てられっかよ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おい、見てんじゃねーぞ」"
+                                ""
                             ]
                         },
                         {
@@ -15865,21 +15865,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エロ装飾部の女】"
+                                "[Female Member of the Erotic Decoration Club] I\nhave an order for nipple piercings from the Magic\nResearch Club! We need to make them quickly!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「魔法研から乳首ピアスの注文だ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　急いで作らねーと！」"
+                                ""
                             ]
                         },
                         {
@@ -15947,21 +15947,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エロ装飾部の女】"
+                                "[Female Member of the Erotic Decoration Club] We\njust received an order for nipple piercings from\nthe Magic Research Club! Who has time for classes\nanyway!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「魔法研から乳首ピアスの注文が来てんだよ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　授業なんて出てる場合か！」"
+                                ""
                             ]
                         },
                         {
@@ -16029,21 +16029,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エロ装飾部の女】"
+                                "[Female Member of the Erotic Decoration Club] I\nwonder if there are any good designs for nipple\npiercings. Maybe something like a penis shape?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いい乳首ピアスのデザインないかなー。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やっぱちんぽ型とかかなー」"
+                                ""
                             ]
                         },
                         {
@@ -16111,28 +16111,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エロ装飾部の女】"
+                                "[Female Member of the Erotic Decoration Club] The\nbirthplace of nipple piercings is the Empire of\nHell. It is said that succubi were the ones who\nfirst created nipple piercings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「乳首ピアスの本場は地獄帝国だ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　最初の乳首ピアスはサキュバスが作ったと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　言われているからな」"
+                                ""
                             ]
                         },
                         {

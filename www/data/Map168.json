@@ -2508,7 +2508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "授業を飛ばしますか？"
+                                "Do you want to skip class?"
                             ]
                         },
                         {
@@ -2587,14 +2587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日からは実践的な儀式魔法を行う」"
+                                "Starting today, we will be practicing practical\nritual magic."
                             ]
                         },
                         {
@@ -2611,14 +2611,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「危険なものもあるから、気を抜かないように」"
+                                "Because there are dangerous things, be careful not\nto let your guard down."
                             ]
                         },
                         {
@@ -2649,21 +2649,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[17]\\z[018]"
+                                "\\>【Elena】\\m[17]\\z[018]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やっと実践だぁ。座学ばっかりで飽きてたん"
+                                "Finally, practical training. I was getting bored\nwith just theoretical lessons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  だよね」"
+                                ""
                             ]
                         },
                         {
@@ -2680,14 +2680,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「気を抜くなと言ったばかりで……」"
+                                "I just said not to let your guard down..."
                             ]
                         },
                         {
@@ -2704,14 +2704,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「では３人一組になって行ってもらう」"
+                                "Now, form groups of three and proceed."
                             ]
                         },
                         {
@@ -2728,14 +2728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今回は体を硬化させる儀式魔法だ」"
+                                "This time, it's a ritual magic to harden the body."
                             ]
                         },
                         {
@@ -2752,28 +2752,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「身体強化の魔法を使えないものでも、魔法陣を"
+                                "Even those who cannot use body strengthening magic\ncan activate it by drawing a magic circle and\nusing an offering."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  描いて供物を使うことによって発動させること"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ができる」"
+                                ""
                             ]
                         },
                         {
@@ -2797,14 +2797,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[17]\\z[019]"
+                                "\\>【Elena】\\m[17]\\z[019]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなことしないといけないの、めんどーい」"
+                                "Do I really have to do something like that? It's\nsuch a hassle."
                             ]
                         },
                         {
@@ -2821,21 +2821,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（確かに、そんなに準備が必要なら実戦向きで"
+                                "(Certainly, if that much preparation is necessary,\nit's not suitable for actual combat)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  はないな）」"
+                                ""
                             ]
                         },
                         {
@@ -2852,21 +2852,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「一人の魔力ではできない強力な魔法を、道具や"
+                                "Ritual magic is the practice of supplementing and\nactivating powerful magic that cannot be done with\na single person's magical power, using tools or\nmultiple people."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  複数人で補い発動させる。それが儀式魔法だ」"
+                                ""
                             ]
                         },
                         {
@@ -2883,14 +2883,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「最初の授業で説明しただろう」"
+                                "I explained it in the first class, didn't I?"
                             ]
                         },
                         {
@@ -2914,14 +2914,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[17]\\z[020]"
+                                "\\>【Elena】\\m[17]\\z[020]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだっけ……」"
+                                "Did I remember correctly...?"
                             ]
                         },
                         {
@@ -2938,14 +2938,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「全く……」"
+                                "Honestly..."
                             ]
                         },
                         {
@@ -2962,21 +2962,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「供物として使うのはアカガエルの目玉だ。机に"
+                                "The eyeballs of a red-eyed tree frog are used as\nan offering. I'll leave them on the desk, so come\nand get them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  置いておくから取りに来い」"
+                                ""
                             ]
                         },
                         {
@@ -3158,14 +3158,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「（放課後になったし、また地下のダンジョンに向かうか）」"
+                                "(It's after school, so should I head to the\ndungeon again?)"
                             ]
                         },
                         {

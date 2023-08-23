@@ -4523,14 +4523,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【木】"
+                                "【Ki】!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「！？」"
+                                ""
                             ]
                         },
                         {
@@ -5141,14 +5141,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】(We're about to finish this round, is\nthere any problem?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「（この周を終えることになるけど、問題ないか）」"
+                                ""
                             ]
                         },
                         {
@@ -5374,14 +5374,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】(I'm not ready yet...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「（まだ準備ができていない……）」"
+                                ""
                             ]
                         },
                         {
@@ -5398,7 +5398,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "決戦は３日目以降でないと行けません。"
+                                "The final battle must take place on the third day\nor later."
                             ]
                         },
                         {
@@ -5947,7 +5947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "HPとMPが全回復した！"
+                                "HP and MP have been fully restored!"
                             ]
                         },
                         {
@@ -6043,7 +6043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "HPとMPが全回復した！"
+                                "HP and MP have been fully restored!"
                             ]
                         },
                         {

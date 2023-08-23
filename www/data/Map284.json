@@ -8511,7 +8511,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "授業を飛ばしますか？"
+                                "Do you want to skip class?"
                             ]
                         },
                         {
@@ -8590,21 +8590,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「マーティン理事のことはオリビア先輩が調べて"
+                                "It seems that Olivia senpai will investigate about\nDirector Martin."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  くれるらしいな」"
+                                ""
                             ]
                         },
                         {
@@ -8621,21 +8621,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺たちでも生徒会長に関する情報がないか調べ"
+                                "Should we try to investigate if we have any\ninformation about the student council president?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  てみるか」"
+                                ""
                             ]
                         },
                         {
@@ -8666,14 +8666,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[10]\\z[322]"
+                                "\\>【Amelia】\\m[10]\\z[322]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだね」"
+                                "That's right."
                             ]
                         },
                         {
@@ -8697,21 +8697,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[10]\\z[323]"
+                                "\\>【Amelia】\\m[10]\\z[323]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「学院の歴史の本があるみたいだから、探してみ"
+                                "It seems like there are history books in the\nacademy, so I'll try to search for them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  る」"
+                                ""
                             ]
                         },
                         {
@@ -8728,14 +8728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ、俺は別の本を見てみる」"
+                                "Ah, I'll try looking at a different book."
                             ]
                         },
                         {
@@ -8905,21 +8905,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「アメリのところに行かないと。"
+                                "I have to go to Amelia's place. Is she still in\nthe library?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　まだ図書室にいるか」"
+                                ""
                             ]
                         },
                         {

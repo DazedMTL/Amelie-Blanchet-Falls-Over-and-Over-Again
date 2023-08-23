@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "儀式学の実習室",
+    "displayName": "Ritual Practice Room of Ritual Studies",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -2516,21 +2516,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "【Professor Melissa】Koushin, don't cause any\ntrouble. It's already troublesome enough that you\ntransferred here for free."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「香心か。面倒事は起こすなよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ただでさえ転入なんて面倒なことしてるんだから」"
+                                ""
                             ]
                         },
                         {
@@ -2598,21 +2598,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "【Professor Melissa】Koushin, don't cause any\ntrouble. It's already troublesome enough that you\ntransferred here for free."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「香心か。面倒事は起こすなよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ただでさえ転入なんて面倒なことしてるんだから」"
+                                ""
                             ]
                         },
                         {
@@ -2629,7 +2629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儀式学の授業を受ける"
+                                "Taking a ritual studies class."
                             ]
                         },
                         {
@@ -2938,21 +2938,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "【Professor Melissa】Koushin, don't cause any\ntrouble. It's already troublesome enough that you\ntransferred here for free."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「香心か。面倒事は起こすなよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ただでさえ転入なんて面倒なことしてるんだから」"
+                                ""
                             ]
                         },
                         {
@@ -2969,7 +2969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儀式学の授業を受ける"
+                                "Taking a ritual studies class."
                             ]
                         },
                         {
@@ -3278,21 +3278,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "【Professor Melissa】Koushin, don't cause any\ntrouble. It's already troublesome enough that you\ntransferred here for free."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「香心か。面倒事は起こすなよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ただでさえ転入なんて面倒なことしてるんだから」"
+                                ""
                             ]
                         },
                         {
@@ -3309,7 +3309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儀式学の授業を受ける"
+                                "Taking a ritual studies class."
                             ]
                         },
                         {
@@ -3618,14 +3618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "【Melissa-sensei】Huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ひっ……」"
+                                ""
                             ]
                         },
                         {
@@ -3642,7 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儀式学の授業を受ける"
+                                "Taking a class on ritual studies."
                             ]
                         },
                         {

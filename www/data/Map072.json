@@ -6811,7 +6811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンの転送石に登録した"
+                                "Registered on the dungeon teleportation stone."
                             ]
                         },
                         {
@@ -6888,14 +6888,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Shall we call it a day?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日はもう終わりにしようか」"
+                                ""
                             ]
                         },
                         {
@@ -7444,21 +7444,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】How do we get to the next room? This\nmirror looks suspicious."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「次の部屋にはどうやって行くんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この鏡が見るからに怪しいが」"
+                                ""
                             ]
                         },
                         {
@@ -7498,21 +7498,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】We just need to drink these two. Are\nyou okay with it...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「この2つを飲めばいいんだよな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　大丈夫か……」"
+                                ""
                             ]
                         },
                         {
@@ -7558,14 +7558,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Hmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「んっ……」"
+                                ""
                             ]
                         },
                         {
@@ -7582,14 +7582,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Haaah...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「はぁっ……！」"
+                                ""
                             ]
                         },
                         {
@@ -7637,21 +7637,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Haaah, haaah... It seems like the\nmagical device has activated. With this, we should\nbe able to proceed to the next floor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「はぁ、はぁ……魔道具が起動したみたいだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　これで次の階層に進めそう」"
+                                ""
                             ]
                         },
                         {
@@ -7713,14 +7713,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[076]"
+                                "\\>【Sayoko】\\m[35]\\z[076]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「あぁ。だがここらへんで時間だ」"
+                                "Ah, but it's about time around here."
                             ]
                         },
                         {
@@ -7737,14 +7737,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「くっ……」"
+                                "Kuh..."
                             ]
                         },
                         {
@@ -7768,21 +7768,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[077]"
+                                "\\>【Sayoko】\\m[35]\\z[077]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「焦ることはない。まだ猶予はあるだろう。悪魔"
+                                "There's no need to rush. We still have some time.\nThe summoning ritual of the demon requires a large\namount of magical power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  の召喚儀式には大量の魔力が必要だ」"
+                                ""
                             ]
                         },
                         {
@@ -7799,14 +7799,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「それならいいが……」"
+                                "If that's the case, then it's fine..."
                             ]
                         },
                         {
@@ -7823,14 +7823,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「（時間の猶予はそこまでないんだがな……）」"
+                                "(We don't have much time left...)"
                             ]
                         },
                         {
@@ -7847,14 +7847,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「なぁ、小夜子」"
+                                "Hey, Sayoko."
                             ]
                         },
                         {
@@ -7878,14 +7878,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[078]"
+                                "\\>【Sayoko】\\m[35]\\z[078]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「なんだ」"
+                                "What is it?"
                             ]
                         },
                         {
@@ -7902,21 +7902,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「実際、ホフマンが悪魔の力を欲する理由なんて"
+                                "Does Professor Hoffman actually have a reason to\ndesire the power of the demon?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  あるのか」"
+                                ""
                             ]
                         },
                         {
@@ -7940,14 +7940,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[079]"
+                                "\\>【Sayoko】\\m[35]\\z[079]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「そうだな……彼は真面目な教師だった」"
+                                "Yeah... He was a serious teacher."
                             ]
                         },
                         {
@@ -7971,21 +7971,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[080]"
+                                "\\>【Sayoko】\\m[35]\\z[080]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「それこそ、乱交パーティーには誘えないくらい"
+                                "That's something I wouldn't invite to an orgy\nparty."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  にな」"
+                                ""
                             ]
                         },
                         {
@@ -8002,14 +8002,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「信じがたい」"
+                                "Unbelievable."
                             ]
                         },
                         {
@@ -8040,14 +8040,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[201]"
+                                "\\>【Amelia】\\m[8]\\z[201]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「うん、今はエッチの授業なんてしてるし」"
+                                "Yeah, we're even having sex education classes now."
                             ]
                         },
                         {
@@ -8071,14 +8071,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[081]"
+                                "\\>【Sayoko】\\m[35]\\z[081]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「それは君たちが来てから変わったんだ」"
+                                "That's something that changed since you all came."
                             ]
                         },
                         {
@@ -8102,14 +8102,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[082]"
+                                "\\>【Sayoko】\\m[35]\\z[082]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「わたしも驚いたよ」"
+                                "I was surprised too."
                             ]
                         },
                         {
@@ -8133,14 +8133,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[083]"
+                                "\\>【Sayoko】\\m[35]\\z[083]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ただ、思い当たることが一つある」"
+                                "However, there is one thing that comes to mind."
                             ]
                         },
                         {
@@ -8157,14 +8157,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「なんだ？」"
+                                "What is it?"
                             ]
                         },
                         {
@@ -8188,21 +8188,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[084]"
+                                "\\>【Sayoko】\\m[35]\\z[084]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ホフマンはずっとハウスマスターになりたがっ"
+                                "Hoffman has always wanted to become a housemaster."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  ていたんだ」"
+                                ""
                             ]
                         },
                         {
@@ -8219,14 +8219,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ハウスマスター……ってなんだ」"
+                                "What's a housemaster?"
                             ]
                         },
                         {
@@ -8250,14 +8250,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[202]"
+                                "\\>【Amelia】\\m[8]\\z[202]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「寮の面倒をみる先生のことだよ」"
+                                "It's about the teacher who takes care of the\ndormitory."
                             ]
                         },
                         {
@@ -8274,21 +8274,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「へぇ、でもハワード寮のハウスマスターにはあ"
+                                "Hmm, but I've never heard of a housemaster at\nHoward Dormitory before."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  ったことないような」"
+                                ""
                             ]
                         },
                         {
@@ -8312,21 +8312,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[085]"
+                                "\\>【Sayoko】\\m[35]\\z[085]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ハワード寮のハウスマスターは現在、ぎっくり"
+                                "The housemaster of Howard Dormitory is currently\non sick leave due to a slipped disc."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  腰で療養中だ」"
+                                ""
                             ]
                         },
                         {
@@ -8350,21 +8350,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[086]"
+                                "\\>【Sayoko】\\m[35]\\z[086]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「もう定年も近いから、新しいハウスマスターを"
+                                "Since retirement is approaching, there are rumors\nabout selecting a new housemaster."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  選ぶという噂がある」"
+                                ""
                             ]
                         },
                         {
@@ -8381,14 +8381,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「それでホフマンがなりたがってるのか」"
+                                "So, is Hoffman the one who wants to become the\nhousemaster?"
                             ]
                         },
                         {
@@ -8412,21 +8412,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[087]"
+                                "\\>【Sayoko】\\m[35]\\z[087]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「あぁ。指導に熱心なホフマンは、直接生活を見"
+                                "Ah, Hoffman, who is enthusiastic about guidance,\nwas eager to directly observe the daily life."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  ることが出来ると意気込んでいた」"
+                                ""
                             ]
                         },
                         {
@@ -8443,14 +8443,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「セクハラしたいだけじゃないのか……」"
+                                "Isn't it just that you want to sexually harass\nme..."
                             ]
                         },
                         {
@@ -8474,21 +8474,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[088]"
+                                "\\>【Sayoko】\\m[35]\\z[088]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「前なら違うと否定できたが、今はなんとも言え"
+                                "I could have denied it if it was before, but now I\ncan't say anything for sure."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  ないな」"
+                                ""
                             ]
                         },
                         {
@@ -8512,14 +8512,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[203]"
+                                "\\>【Amelia】\\m[8]\\z[203]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「でもどうして、悪魔の力が必要になるの」"
+                                "But why do we need the power of demons?"
                             ]
                         },
                         {
@@ -8543,21 +8543,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[089]"
+                                "\\>【Sayoko】\\m[35]\\z[089]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ハウスマスターは能力の高い教師から選ばれる"
+                                "The housemaster is chosen from highly skilled\nteachers, so magical talent is necessary."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  から、魔法の才能が必要なんだ」"
+                                ""
                             ]
                         },
                         {
@@ -8581,21 +8581,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[090]"
+                                "\\>【Sayoko】\\m[35]\\z[090]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「しかしホフマンは、お世辞にも魔法の才能があ"
+                                "However, it can't be said that Hoffman has any\nmagical talent, even if we were to flatter him."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  るとはいえない」"
+                                ""
                             ]
                         },
                         {
@@ -8612,21 +8612,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「だから悪魔の力で魔力を強化しようとしてると"
+                                "So you're trying to enhance your magical power\nwith the power of demons..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  ……」"
+                                ""
                             ]
                         },
                         {
@@ -8650,14 +8650,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[091]"
+                                "\\>【Sayoko】\\m[35]\\z[091]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「あくまで予想だがな」"
+                                "It's just a speculation, but..."
                             ]
                         },
                         {
@@ -8681,14 +8681,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[204]"
+                                "\\>【Amelia】\\m[8]\\z[204]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「悪魔の力で強くなったって意味ないよ」"
+                                "Becoming stronger with the power of demons doesn't\nmean anything."
                             ]
                         },
                         {
@@ -8712,14 +8712,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[205]"
+                                "\\>【Amelia】\\m[8]\\z[205]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「絶対に許されることじゃない」"
+                                "It's definitely not something that can be\nforgiven."
                             ]
                         },
                         {
@@ -8736,21 +8736,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「そうだな……もしホフマンが本当に企んでるの"
+                                "Yeah... if Hoffman is really plotting something,\nwe can't let it continue."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  なら止めないと」"
+                                ""
                             ]
                         },
                         {
@@ -8767,14 +8767,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「じゃあ、もうそろそろ戻るか」"
+                                "Well, it's about time we head back."
                             ]
                         },
                         {
@@ -8857,14 +8857,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「この転送石は使っても大丈夫なのか」"
+                                "Is it safe to use this teleportation stone?"
                             ]
                         },
                         {
@@ -8904,14 +8904,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[206]"
+                                "\\>【Amelia】\\m[8]\\z[206]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「魔法が仕掛けられている様子はないね」"
+                                "It doesn't seem like there's any magic being cast."
                             ]
                         },
                         {
@@ -8942,21 +8942,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[092]"
+                                "\\>【Sayoko】\\m[35]\\z[092]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「しかし前回のこともある、念のため来た道を引"
+                                "However, considering what happened last time, it\nmight be a good idea to turn back and retrace our\nsteps just to be safe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  き返してもいいが」"
+                                ""
                             ]
                         },
                         {
@@ -8980,14 +8980,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[207]"
+                                "\\>【Amelia】\\m[8]\\z[207]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「反応がないから、問題ないと思う」"
+                                "Since there's no reaction, I think it's fine."
                             ]
                         },
                         {
@@ -9011,14 +9011,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[093]"
+                                "\\>【Sayoko】\\m[35]\\z[093]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「なら私も問題ない」"
+                                "Then I have no problem either."
                             ]
                         },
                         {
@@ -9035,14 +9035,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「アメリが確認したならいい……かな」"
+                                "If Amelia has confirmed it... I guess it's fine."
                             ]
                         },
                         {
@@ -9066,14 +9066,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[208]"
+                                "\\>【Amelia】\\m[8]\\z[208]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「うん」"
+                                "Yeah"
                             ]
                         },
                         {
@@ -9288,21 +9288,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Is it okay to just rush in like this? I\nwant more information about Hoffman."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「このまま突入してもいいのか。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　もっとホフマンの情報がほしい」"
+                                ""
                             ]
                         },
                         {
@@ -9319,7 +9319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "呪い魔法の授業4をクリアすると進めます。"
+                                "Clearing Curse Magic Class 4 will allow you to\nproceed."
                             ]
                         },
                         {
@@ -9679,21 +9679,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホフマンメモ"
+                                "Professor Hoffman's memo states that the cursed\ntool can be activated by entering an awakened\nstate using chamomile and pyracantha fruits."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "呪いの道具は、カモミールとピラカンサの実で"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "覚醒状態に入ることで起動できる。"
+                                ""
                             ]
                         },
                         {
@@ -10026,45 +10026,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【誇り高きユニコーン】"
+                                "【Proud Unicorn】Bumo~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ブモーー！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こいつ、こんなところにも居るのかよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どいてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -10081,14 +10050,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【誇り高きユニコーン】"
+                                "【Masamune】This person, they're here too. Please\nmove aside."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ブモーー！」"
+                                "【Proud Unicorn】Bumo~!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10119,21 +10119,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】You seem really angry. Is it because\nyou're a unicorn and can only be with virgins?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「すごく怒ってるな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やはりユニコーンだから処女じゃないとだめか」"
+                                ""
                             ]
                         },
                         {
@@ -10150,14 +10150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】All the girls here are..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ここにいる女子は全員……」"
+                                ""
                             ]
                         },
                         {
@@ -10188,14 +10188,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】I'm sorry..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ごめんね……」"
+                                ""
                             ]
                         },
                         {
@@ -10212,14 +10212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】No, it's fine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いや、別に大丈夫だ」"
+                                ""
                             ]
                         },
                         {
@@ -10243,21 +10243,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】Hehe, that's right. Having sex isn't a\nbad thing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ、そうだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　セックスをするのは悪いことじゃない」"
+                                ""
                             ]
                         },
                         {
@@ -10281,14 +10281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】It's good that Amelia finally got to lose\nher virginity."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「アメリもやっと処女を捨てられて良かったな」"
+                                ""
                             ]
                         },
                         {
@@ -10312,14 +10312,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】It's not like I wanted to be abandoned or\nanything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「別にわたしは捨てたかったわけじゃないから」"
+                                ""
                             ]
                         },
                         {
@@ -10336,14 +10336,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Yes, please don't say unnecessary\nthings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そうだ、余計なことは言わないでくれ」"
+                                ""
                             ]
                         },
                         {
@@ -10367,14 +10367,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】But it felt good, didn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「でも気持ちよかっただろ」"
+                                ""
                             ]
                         },
                         {
@@ -10398,14 +10398,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】Well... umm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それは……まぁ」"
+                                ""
                             ]
                         },
                         {
@@ -10422,14 +10422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くっ……」"
+                                ""
                             ]
                         },
                         {
@@ -10453,45 +10453,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "【Sayoko】What, could it be that Masamune is also a\nunicorn?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なんだ、もしかして正宗もユニコーンだったか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなわけない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気にしてないから」"
+                                ""
                             ]
                         },
                         {
@@ -10508,14 +10477,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【誇り高きユニコーン】"
+                                "【Masamune】That's not true. I don't mind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ブモーー！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10532,14 +10508,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Proud Unicorn】Bumo~!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「とりあえずこいつは倒すか」"
+                                "【Masamune】For now, should we defeat this person?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11199,14 +11199,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【賢そうなゴブリン】"
+                                "【Wise-looking Goblin】Please... I have no\nintention to fight."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「やめて……戦う意思は……ないよ」"
+                                ""
                             ]
                         },
                         {
@@ -11223,21 +11223,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【賢そうなゴブリン】"
+                                "【Wise-looking Goblin】I... I don't know anything.\nEverything is written in books."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「僕は……なんにもしらない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　本に……全部かいてある」"
+                                ""
                             ]
                         },
                         {
@@ -11316,21 +11316,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【知能のあるゴブリン】"
+                                "【Intelligent Goblin】To dissolve the monster\nblocking the door, you just need to pour sour\nfruit that grows outside."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ドアを塞いでいる魔物を溶かすには、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　外に生えているすっぱい果実をかければいい」"
+                                ""
                             ]
                         },
                         {

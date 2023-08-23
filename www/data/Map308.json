@@ -4310,14 +4310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【黒服の生徒】"
+                                "【Black-suited Student】Welcome."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いっらしゃいませ」"
+                                ""
                             ]
                         },
                         {
@@ -4454,14 +4454,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【受付】"
+                                "\\>【Reception】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ようこそお越しくださいました」"
+                                "Welcome, please come in."
                             ]
                         },
                         {
@@ -4492,21 +4492,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[24]\\z[040]"
+                                "\\>【Elena】\\m[24]\\z[040]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こっちの子は初めてなんだけど、お願いできる"
+                                "This is my first time with this child, but can I\nask a favor?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ？」"
+                                ""
                             ]
                         },
                         {
@@ -4523,14 +4523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【受付】"
+                                "\\>【Reception】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もちろん問題ございません」"
+                                "Of course, there is no problem."
                             ]
                         },
                         {
@@ -4547,14 +4547,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【受付】"
+                                "\\>【Reception】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お相手はこちらで決めて大丈夫でしょうか」"
+                                "Is it okay if we decide on your partner here?"
                             ]
                         },
                         {
@@ -4578,14 +4578,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[24]\\z[041]"
+                                "\\>【Elena】\\m[24]\\z[041]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん。エレナもお願いね」"
+                                "Yes, please take care of me too."
                             ]
                         },
                         {
@@ -4602,14 +4602,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【受付】"
+                                "\\>【Reception】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「かしこまりました。では、部屋でお待ち下さい」"
+                                "Understood. Please wait in the room."
                             ]
                         },
                         {
@@ -4633,14 +4633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[24]\\z[042]"
+                                "\\>【Elena】\\m[24]\\z[042]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「オッケー。行くよアメリ」"
+                                "Okay, let's go Amelia."
                             ]
                         },
                         {
@@ -4671,21 +4671,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[12]\\z[111]"
+                                "\\>【Amelia】\\m[12]\\z[111]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え、もう……ていうか、エレナちゃんと一緒な"
+                                "Huh, already... I mean, we're going together with\nElena-chan."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  んだ」"
+                                ""
                             ]
                         },
                         {
@@ -4709,14 +4709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[24]\\z[043]"
+                                "\\>【Elena】\\m[24]\\z[043]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん、あんまり部屋の数ないしね」"
+                                "Yeah, there aren't many rooms anyway."
                             ]
                         },
                         {
@@ -4740,21 +4740,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[24]\\z[044]"
+                                "\\>【Elena】\\m[24]\\z[044]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「する相手の交換も出来るから、めっちゃいいん"
+                                "You can even exchange partners, so it's really\ngreat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  だよ」"
+                                ""
                             ]
                         },
                         {
@@ -4778,14 +4778,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[12]\\z[112]"
+                                "\\>【Amelia】\\m[12]\\z[112]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へぇ……」"
+                                "Oh..."
                             ]
                         },
                         {

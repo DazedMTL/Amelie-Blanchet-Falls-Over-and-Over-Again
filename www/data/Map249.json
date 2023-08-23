@@ -4640,21 +4640,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「（今回は前回の経験があるから昨日の初日から頑張ったな。"
+                                "(I did my best from the first day yesterday\nbecause I had previous experience this time. I\nmoved around a lot and got tired, but it was to\ncatch Professor Hoffman.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　いろいろ動いて疲れたが、ホフマンを捕まえるためだ）」"
+                                ""
                             ]
                         },
                         {
@@ -4681,21 +4681,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アメリ、いい情報を得たって言ってたけど"
+                                "Amelia, you said you got some good information.\nWhat kind of information is it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  どんなのだ」"
+                                ""
                             ]
                         },
                         {
@@ -4726,21 +4726,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[400]"
+                                "\\>【Amelia】\\m[8]\\z[400]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん、みんなが集まった時に話そうと思ってた"
+                                "Yeah, I was planning to talk about it when\neveryone gathered."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  んだ」"
+                                ""
                             ]
                         },
                         {
@@ -4764,21 +4764,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[401]"
+                                "\\>【Amelia】\\m[8]\\z[401]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「前回ホフマン先生の工房に入った時、部屋につ"
+                                "When I entered Professor Hoffman's workshop last\ntime, I was able to register the teleportation\nstone that connects to the room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ながる転送石に登録することができたの」"
+                                ""
                             ]
                         },
                         {
@@ -4795,14 +4795,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本当か！」"
+                                "Is that true!"
                             ]
                         },
                         {
@@ -4833,14 +4833,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[173]"
+                                "\\>【Sayoko】\\m[35]\\z[173]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これで部屋を調べられるな」"
+                                "Now we can investigate the room."
                             ]
                         },
                         {
@@ -4864,21 +4864,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[402]"
+                                "\\>【Amelia】\\m[8]\\z[402]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん。それともう一つ、今日先生は工房には行"
+                                "Yeah. And also, I heard that Professor Hoffman\nwon't be going to the workshop today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  かないんだって」"
+                                ""
                             ]
                         },
                         {
@@ -4895,14 +4895,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうしてだ」"
+                                "Why?"
                             ]
                         },
                         {
@@ -4926,21 +4926,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[403]"
+                                "\\>【Amelia】\\m[8]\\z[403]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「授業の準備があるとか言ってた。もともと毎日"
+                                "He said he has preparations for class. It seems\nlike he's not always researching in the workshop\nanyway."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  工房で研究してるわけじゃないみたいだし」"
+                                ""
                             ]
                         },
                         {
@@ -4957,14 +4957,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それならチャンスだけど……」"
+                                "If that's the case, it's a chance but..."
                             ]
                         },
                         {
@@ -4988,14 +4988,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[174]"
+                                "\\>【Sayoko】\\m[35]\\z[174]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その情報は信用出来るのか？」"
+                                "Can we trust that information?"
                             ]
                         },
                         {
@@ -5019,14 +5019,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[404]"
+                                "\\>【Amelia】\\m[8]\\z[404]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本人が言ってたから、本当だと思うけど」"
+                                "I think it's true because he said it himself."
                             ]
                         },
                         {
@@ -5043,14 +5043,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……行こう。次の機会がいつ訪れるかわからない」"
+                                "...Let's go. We don't know when the next\nopportunity will come."
                             ]
                         },
                         {
@@ -5067,14 +5067,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「時間もそんなに残されてないと思う」"
+                                "I don't think we have much time left."
                             ]
                         },
                         {
@@ -5098,21 +5098,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[175]"
+                                "\\>【Sayoko】\\m[35]\\z[175]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだな。異変が起こり始めてから時間が経っ"
+                                "That's right. It has been some time since the\nabnormality started happening."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ている」"
+                                ""
                             ]
                         },
                         {
@@ -5136,21 +5136,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[176]"
+                                "\\>【Sayoko】\\m[35]\\z[176]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もし悪魔の召喚を考えているのなら、そろそろ"
+                                "If you're considering summoning a demon, it\nwouldn't be strange if magical power is already\ngathering."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  魔力が集まっていてもおかしくはない」"
+                                ""
                             ]
                         },
                         {
@@ -5174,14 +5174,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[405]"
+                                "\\>【Amelia】\\m[8]\\z[405]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん、行こう」"
+                                "Yeah, let's go."
                             ]
                         },
                         {
@@ -5337,7 +5337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「反応しない……」"
+                                "No response..."
                             ]
                         },
                         {
@@ -5446,7 +5446,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エレナと小夜子が合流した。"
+                                "Elena and Sayoko have joined together."
                             ]
                         },
                         {
@@ -6009,7 +6009,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エレナと小夜子が合流した。"
+                                "Elena and Sayoko have joined together."
                             ]
                         },
                         {
@@ -6488,7 +6488,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エレナと小夜子が合流した。"
+                                "Elena and Sayoko have joined together."
                             ]
                         },
                         {
@@ -7052,7 +7052,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エレナと小夜子が合流した。"
+                                "Elena and Sayoko have joined together."
                             ]
                         },
                         {
@@ -7531,7 +7531,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エレナと小夜子が合流した。"
+                                "Elena and Sayoko have joined together."
                             ]
                         },
                         {
@@ -8010,7 +8010,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エレナと小夜子が合流した。"
+                                "Elena and Sayoko have joined together."
                             ]
                         },
                         {
@@ -8575,7 +8575,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エレナと小夜子が合流した。"
+                                "Elena and Sayoko have joined together."
                             ]
                         },
                         {
@@ -9054,7 +9054,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エレナと小夜子が合流した。"
+                                "Elena and Sayoko have joined together."
                             ]
                         },
                         {
@@ -9533,7 +9533,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エレナと小夜子が合流した。"
+                                "Elena and Sayoko have joined together."
                             ]
                         },
                         {
@@ -10012,7 +10012,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "エレナと小夜子が合流した。"
+                                "Elena and Sayoko have joined together."
                             ]
                         },
                         {

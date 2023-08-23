@@ -4044,14 +4044,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【キモい魔物】"
+                                "【Creepy Monster】 Ugh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「うーー！」"
+                                ""
                             ]
                         },
                         {
@@ -4204,14 +4204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シスター・フレイヤ】"
+                                "【Sister Freya】 Heh... Ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「へぷしっ……」"
+                                ""
                             ]
                         },
                         {
@@ -4228,14 +4228,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "【Professor Melissa】 Freya...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「フレイヤっ……！」"
+                                ""
                             ]
                         },
                         {
@@ -4469,14 +4469,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【キモい魔物】"
+                                "【Creepy Monster】 Huff..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ふゅぅー……」"
+                                ""
                             ]
                         },
                         {
@@ -4493,14 +4493,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Well, the monster... it's pretty\nbig..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ま、魔物……かなりでかいぞ……」"
+                                ""
                             ]
                         },
                         {
@@ -4590,45 +4590,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】 That... even I wouldn't get hard\nfrom that"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あれは……流石に俺でも勃たない」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「言ってる場合じゃないよ！　本当に魔物出て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  きちゃった！」"
+                                ""
                             ]
                         },
                         {
@@ -4645,21 +4614,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "【Tommy】 This is no time to talk! A real monster\nhas appeared!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「騒いでいたから、近くに居たのが寄ってきた"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  んだろう」"
+                                ""
                             ]
                         },
                         {
@@ -4676,21 +4645,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "【Professor Melissa】 They probably came over\nbecause we were making a commotion nearby."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「いろいろ悪かったな。とりあえずお前たちは"
+                                "【Professor Melissa】 I'm sorry for everything. For\nnow, all of you should run away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  逃げろ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4738,38 +4738,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 What about the professor?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「先生は」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メリッサ先生】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「足止めくらいはできる」"
+                                ""
                             ]
                         },
                         {
@@ -4786,14 +4762,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "【Professor Melissa】 I can at least hold them\noff."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「大丈夫だ。時間を稼いだら、私も引く」"
+                                "【Professor Melissa】 Don't worry. Once I buy some\ntime, I'll retreat as well."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4841,14 +4841,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 (What should I do...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（どうする……）」"
+                                ""
                             ]
                         },
                         {
@@ -4908,38 +4908,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 We'll defeat it together."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「俺たちで倒すぞ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「えっ！」"
+                                ""
                             ]
                         },
                         {
@@ -4956,21 +4932,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Tommy】 Huh?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「確かに、メリッサ先生をおいて逃げることな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  んてできないな」"
+                                ""
                             ]
                         },
                         {
@@ -4987,38 +4956,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "【Skeleton Head】 Indeed, we can't just leave\nProfessor Melissa behind and run away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「同感だ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メリッサ先生】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「お前たちじゃ無理だ。いいから逃げろ」"
+                                ""
                             ]
                         },
                         {
@@ -5035,21 +4987,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "【Leon】 I agree."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「魔法の実力はないけど、女の子を放って逃げ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  るほどプライドは腐ってないよ」"
+                                ""
                             ]
                         },
                         {
@@ -5066,14 +5011,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【トミー】"
+                                "【Professor Melissa】 It's impossible for you all.\nJust run away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「う、うん……ボクも戦う。でも、どうしよう」"
+                                ""
                             ]
                         },
                         {
@@ -5090,21 +5035,76 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Leon】 I may not have any magical abilities, but\nI don't have the pride to abandon a girl and run\naway."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「大丈夫だ。みんなの力を合わせれば、十分戦"
+                                "【Tommy】 Y-Yeah... I'll fight too. But, what\nshould I do?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  える」"
+                                "【Masamune】 Don't worry. If we combine everyone's\nstrength, we can definitely fight."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5133,14 +5133,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【キモい魔物】"
+                                "【Creepy Monster】 Eek!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ぴゃぁーー！」"
+                                ""
                             ]
                         },
                         {
@@ -5187,14 +5187,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】 Even if you have the power of a\nbeast, you will only be defeated in return."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「獣の力があっても返り討ちにあうだけだ」"
+                                ""
                             ]
                         },
                         {
@@ -5231,52 +5231,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 It's Leon's Flash Magic. That monster\nhas big eyes!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「レオンのフラッシュ魔法だ。あの魔物は目が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  大きい！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「それに暗闇から来たはず、ただではすまない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  だろう」"
+                                ""
                             ]
                         },
                         {
@@ -5293,14 +5262,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【レオン】"
+                                "【Masamune】 Moreover, it came from the darkness.\nWe can't let it go unpunished."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「なるほど！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5317,14 +5293,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【レオン】"
+                                "【Leon】 I see!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "  「光魔法！」"
+                                "【Leon】 Light Magic!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5362,14 +5362,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【キモい魔物】"
+                                "【Creepy Monster】 Grrrr!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「ぐぅーー！」"
+                                ""
                             ]
                         },
                         {
@@ -5386,21 +5386,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 I flinched. My eyes won't be of any\nuse for a while. Next,..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「怯んだ。しばらくは目が使い物にならないぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　次は……」"
+                                ""
                             ]
                         },
                         {
@@ -5430,14 +5430,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】 It's impossible. Even if I summon rocks,\nI won't be able to do anything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「無理だよ、岩なんて出してもなにもできない」"
+                                ""
                             ]
                         },
                         {
@@ -5500,21 +5500,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】 Sorry, but it's impossible to\ndamage that monster after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「悪い、やっぱりあの魔物にダメージを与える"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  のは無理だ」"
+                                ""
                             ]
                         },
                         {
@@ -5551,45 +5551,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Tommy's rock magic. Please summon\nsharp rocks if possible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「トミーの岩魔法だ。できるだけ尖った岩を出"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  してくれ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「う、うん！」"
+                                ""
                             ]
                         },
                         {
@@ -5606,14 +5582,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】 Y-Yeah!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "  「岩魔法！」"
+                                "【Tommy】 Rock Magic!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5764,14 +5764,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】 What do you intend to do by\nsummoning rocks!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「岩を出してなにをするつもりだ！」"
+                                ""
                             ]
                         },
                         {
@@ -5829,45 +5829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Finally, it's the Skeleton Head's\nBeast Magic!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「最後はスケルトンヘッドの獣魔法だ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「トミーの出した岩を、思いっきり目にぶつけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  るんだ」"
+                                ""
                             ]
                         },
                         {
@@ -5884,14 +5853,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Masamune】 I'm going to smash those rocks that\nTommy summoned right into its eyes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なるほど、それなら俺のパワー不足を補える！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5908,14 +5884,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】 I see, then it can compensate for\nmy lack of power!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「獣魔法……強化！」"
+                                "【Skeleton Head】 Beast Magic... Strengthen!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6092,14 +6092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【キモい魔物】"
+                                "【Disgusting Monster】 Naaahhh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ンアーー！」"
+                                ""
                             ]
                         },
                         {
@@ -6130,38 +6130,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】 Haa, haa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「はぁ、はぁ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【レオン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「やった……」"
+                                ""
                             ]
                         },
                         {
@@ -6178,14 +6154,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【トミー】"
+                                "【Leon】 I did it..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「ボクたちだけでも魔物に勝てたよ！」"
+                                "【Tommy】 We were able to defeat the monster just\nby ourselves!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6278,45 +6278,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Ah, everyone did well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あぁ、みんなよくやった」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「協力すれば、上級魔法じゃなくたって戦える"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  んだ」"
+                                ""
                             ]
                         },
                         {
@@ -6333,14 +6302,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 If we cooperate, we can fight even\nwithout advanced magic."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「魔法は使い方次第でどうにでもなる」"
+                                "【Masamune】 Magic can be anything depending on how\nyou use it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6369,14 +6369,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "【Professor Melissa】 I'm saved. Thank you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「助かったよ。感謝する」"
+                                ""
                             ]
                         },
                         {
@@ -6393,14 +6393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シスター・フレイヤ】"
+                                "【Sister Freya】 Mmm, mmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ん、んんっ……」"
+                                ""
                             ]
                         },
                         {
@@ -6591,38 +6591,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】 Sister, are you finally awake?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「シスターもようやくお目覚めか」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【シスター・フレイヤ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「はっ！　一体どうなって」"
+                                ""
                             ]
                         },
                         {
@@ -6639,38 +6615,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "【Sister Freya】 Huh! What on earth happened?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「悪魔なら彼らが倒してくれた」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【メリッサ先生】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「もういない」"
+                                ""
                             ]
                         },
                         {
@@ -6687,45 +6639,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シスター・フレイヤ】"
+                                "【Professor Melissa】 If it's a demon, they will\ndefeat it for us."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そうでしたか……ふぅ、助かりました」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「助かりましたじゃないだろ。命の恩人になに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  か言うことはないのか」"
+                                ""
                             ]
                         },
                         {
@@ -6742,21 +6663,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シスター・フレイヤ】"
+                                "【Professor Melissa】 They're no longer here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「くっ……そもそもあなたたちが騒いだから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  …」"
+                                ""
                             ]
                         },
                         {
@@ -6773,21 +6687,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Sister Freya】 I see... Phew, I'm relieved."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「二人の喘ぎ声の方が大きかったような気がす"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  るが」"
+                                ""
                             ]
                         },
                         {
@@ -6804,45 +6711,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シスター・フレイヤ】"
+                                "【Skeleton Head】 I'm saved, aren't I? Don't you\nhave anything to say to your lifesaver?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ぐぎぎ……」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【シスター・フレイヤ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「た、助かりました……ですので、今回侵入し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  た件については不問とします」"
+                                ""
                             ]
                         },
                         {
@@ -6859,14 +6742,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シスター・フレイヤ】"
+                                "【Sister Freya】 Ugh... It's because you all caused\na commotion in the first place..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「これでいいですね！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6883,14 +6773,124 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シスター・フレイヤ】"
+                                "【Skeleton Head】 It feels like the two of them had\nlouder moans."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「行きましょうメリッサ」"
+                                "【Sister Freya】 Ugh..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Sister Freya】 Th-thank you for saving me... So,\nI will overlook the matter of your intrusion this\ntime."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Sister Freya】 This is fine, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Sister Freya】 Let's go, Melissa."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7214,45 +7214,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】 Well, it's enough. But it's a\nshock that there are no cute monsters."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ま、十分か。しかし可愛い魔物がいないのは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ショックだ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「仕方ないだろ。俺たちも出よう」"
+                                ""
                             ]
                         },
                         {
@@ -7269,21 +7245,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【トミー】"
+                                "【Masamune】 There's no helping it. Let's go too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ねぇねぇ、魔物が出てきた穴の先に、部屋が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ありそうだよ」"
+                                ""
                             ]
                         },
                         {
@@ -7300,14 +7269,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【トミー】"
+                                "【Tommy】 Hey, hey, it looks like there's a room at\nthe end of the hole where the monsters came out."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「ちょっと見てみようよ」"
+                                "【Tommy】 Let's take a look."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大図書館",
+    "displayName": "Great Library",
     "encounterList": [],
     "encounterStep": 30,
     "height": 31,
@@ -8589,21 +8589,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【司書】"
+                                "【Librarian】Th-the grand library... has been\nenchanted with special magic. Surely, the book you\nneed will be found here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だ、大図書館には……特別な魔法がかけられています。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　きっと、あなたに必要な本が見つかるはずです」"
+                                ""
                             ]
                         },
                         {
@@ -8620,14 +8620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【司書】"
+                                "【Librarian】Ah, I apologize for speaking without\npermission..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、勝手に話してすみません……」"
+                                ""
                             ]
                         },
                         {
@@ -8670,21 +8670,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Um... Amelia-san, it's not appropriate\nto dress so provocatively... Uh, well... It's\nnothing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「あと……アメリさん、あまり不埒な格好は……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　い、いえ……なんでもありません」"
+                                ""
                             ]
                         },
                         {
@@ -8728,21 +8728,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Um... Amelia-san, it's not appropriate\nto dress so provocatively... Uh, well... It's\nnothing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「あと……アメリさん、あまり不埒な格好は……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　い、いえ……なんでもありません」"
+                                ""
                             ]
                         },
                         {
@@ -8836,21 +8836,21 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】Um... Amelia-san, it's not appropriate\nto dress so provocatively... Uh, well... It's\nnothing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「あと……アメリさん、あまり不埒な格好は……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "　い、いえ……なんでもありません」"
+                                ""
                             ]
                         },
                         {
@@ -8985,14 +8985,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【司書】"
+                                "【Librarian】W-What should I do..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ど、どうすれば……」"
+                                ""
                             ]
                         },
                         {
@@ -9076,28 +9076,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】Everyone, calm down. We won't lose\nto monsters. Let's keep trying a little longer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「みんな落ち着くんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　俺たちなら魔物になんか負けない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もう少し頑張ろう」"
+                                ""
                             ]
                         },
                         {
@@ -9159,21 +9159,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スケルトンヘッド】"
+                                "【Skeleton Head】Masaomi, please take care of the\nclub room building. Rescue Amelia for us."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「正宗たちは部室棟の方を頼む。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アメリを助け出してくれ」"
+                                ""
                             ]
                         },
                         {
@@ -9257,14 +9257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスのギャル】"
+                                "[Class Gal] I'm scared..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「怖いよ……」"
+                                ""
                             ]
                         },
                         {
@@ -9348,21 +9348,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】I've never seen a monster like that\nbefore... It reminds me that this is the front\nline of war."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あんな魔物始めてみた……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ここが戦争の最前線だってことを思い出したよ」"
+                                ""
                             ]
                         },
                         {
@@ -9446,14 +9446,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】Even weak girls are cute."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「弱ってる女の子も可愛いな」"
+                                ""
                             ]
                         },
                         {
@@ -9537,14 +9537,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マムフィールド先生】"
+                                "[Professor Mumfield] Oh my..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あわわ……」"
+                                ""
                             ]
                         },
                         {
@@ -10257,38 +10257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【フェラチオ学園の店員】"
+                                "[Fellatio Academy Clerk] Here you go, if you'd\nlike, please take a look."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「どぞー、よかったら見てってください」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【フェラチオ学園の店員】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「風俗フェラチオ学園でーす」"
+                                ""
                             ]
                         },
                         {
@@ -10305,38 +10281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Fellatio Academy Clerk] Welcome to Fellatio\nAcademy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（なんだ……こんなのやってたか？）」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「これは……」"
+                                ""
                             ]
                         },
                         {
@@ -10353,21 +10305,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【フェラチオ学園の店員】"
+                                "[Masamune] (What... I didn't know they did this\nkind of thing?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「最近できた風俗ですよ。風俗関係って魔法研が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  独占してるじゃないですか」"
+                                ""
                             ]
                         },
                         {
@@ -10384,45 +10329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【フェラチオ学園の店員】"
+                                "[Masamune] This is..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あれが許せなくって、新しく作ったんです」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【フェラチオ学園の店員】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「もうムラムラが抑えられなくなってきて、つい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  やっちゃいました」"
+                                ""
                             ]
                         },
                         {
@@ -10439,45 +10353,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【フェラチオ学園の店員】"
+                                "[Fellatio Academy Clerk] This is a recently\nopened adult entertainment establishment. Magic\nresearch has monopolized the adult entertainment\nindustry, haven't they?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「まず最初に会員登録してもらいます。そしたら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いつでも入りたい放題ですよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「図書館でなにしてるんだ……」"
+                                ""
                             ]
                         },
                         {
@@ -10494,14 +10384,124 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【フェラチオ学園の店員】"
+                                "[Fellatio Academy Clerk] I couldn't forgive that,\nso I created this new place."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「それじゃあ登録しますね。あ、500Gです」"
+                                "[Fellatio Academy Clerk] I couldn't hold back my\narousal anymore, and I ended up doing it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Fellatio Academy Clerk] First, we'll need you to\nregister as a member. Once you do that, you'll\nhave unlimited access whenever you want."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Masamune] What are you doing at the library..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Fellatio Academy Clerk] Alright, then let's\nproceed with the registration. Oh, it will be\n500G."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10548,38 +10548,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] I never said anything about\nregistering..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「登録するなんて言ってないのに……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【フェラチオ学園の店員】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「では中にお入りください」"
+                                ""
                             ]
                         },
                         {
@@ -10596,21 +10572,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【フェラチオ学園の店員】"
+                                "[Fellatio Academy Clerk] Please enter inside."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「まだ女性キャストは少ないんですけど、可愛い"
+                                "[Fellatio Academy Clerk] We still have few female\ncast members, but there are cute ones."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  子が居ますので」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10834,14 +10834,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【フェラチオ学園の店員】"
+                                "[Fellatio Academy Clerk] Welcome to the Fellatio\nAcademy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「風俗フェラチオ学園でーす」"
+                                ""
                             ]
                         },
                         {
@@ -10925,21 +10925,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] There should have been a lewd magic-\nrelated grimoire around here somewhere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ここらへんにスケベな魔法に関する魔導書が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あったはずなんだけどなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -10982,14 +10982,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] Wait... in the library, in underwear!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「って……図書館で下着姿！」"
+                                ""
                             ]
                         },
                         {
@@ -11033,14 +11033,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] Wait... in the library, wearing lewd\nclothes!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「って……図書館でドスケベ服！」"
+                                ""
                             ]
                         },
                         {
@@ -11134,14 +11134,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] Wait... why naked!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「って……なんで裸！」"
+                                ""
                             ]
                         },
                         {
@@ -11285,28 +11285,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】I am the library committee member. I\nabsolutely won't allow couples who hide in the\nbookshelves and kiss or anything like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「私は図書委員です。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　本棚に隠れてキスとかしてるカップルは、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　絶対に許しませんから」"
+                                ""
                             ]
                         },
                         {
@@ -11349,21 +11349,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】W-What are you doing dressed like that!\nPlease come out and say it right away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「って……なんて格好でいるんですか！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　今すぐ出て言ってください」"
+                                ""
                             ]
                         },
                         {
@@ -11407,21 +11407,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】W-What are you doing dressed like that!\nPlease come out and say it right away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「って……なんて格好でいるんですか！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　今すぐ出て言ってください」"
+                                ""
                             ]
                         },
                         {
@@ -11515,21 +11515,21 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【生徒】"
+                                "【Student】W-What are you doing dressed like that!\nPlease come out and say it right away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「って……なんて格好でいるんですか！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "　今すぐ出て言ってください」"
+                                ""
                             ]
                         },
                         {
@@ -11673,21 +11673,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] There are so many interesting history\nbooks, but there are few people who use the\nlibrary."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「面白い歴史の本とか沢山あるのに、大図書館を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　利用する人って少ないのよね」"
+                                ""
                             ]
                         },
                         {
@@ -11704,21 +11704,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] Maybe it's because there are only\npeople who are either playing or completely\nabsorbed in their own research."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「遊んでる人か自分の研究に熱中してる人しか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いないからかな」"
+                                ""
                             ]
                         },
                         {
@@ -11761,14 +11761,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] Um... You're wearing some kind of\nperverted underwear, aren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「って……あなた変態みたいな下着つけてるのね」"
+                                ""
                             ]
                         },
                         {
@@ -11812,14 +11812,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] Um... You're wearing some kind of\nperverted outfit, aren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "「って……あなた変態みたいな服着てるのね」"
+                                ""
                             ]
                         },
                         {
@@ -11913,14 +11913,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【生徒】"
+                                "[Student] Wait... You're not wearing any clothes,\nyou pervert."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 6,
                             "parameters": [
-                                "「って……あなた服を着ないなんて変態なのね」"
+                                ""
                             ]
                         },
                         {
@@ -12057,14 +12057,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『グレートランド王国と悪魔の戦争について』"
+                                "About the War between the Greatland Kingdom and\nthe Demons by magical historian Arnaldo Croix."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法歴史学者　アナルド・クローチェ"
+                                ""
                             ]
                         },
                         {
@@ -12103,45 +12103,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グレートランド王国はユーラ州に位置する島国である。"
+                                "The Greatland Kingdom is an island nation located\nin the state of Yula. It is known as the most\nadvanced in magical research and also has the\nhighest number of demon appearances."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "世界で最も魔法の研究が進んでいて、また悪魔の出現"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "も最も多い。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最初の魔法使い『エンヘド・ソロモ』も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "グレートランド王国出身である。"
+                                ""
                             ]
                         },
                         {
@@ -12158,45 +12134,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "悪魔との戦争は神歴800年から続いていて、もちろん"
+                                "The first magician, Enhed. Solomon, is also from\nthe Greatland Kingdom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "最初の信仰もグレートランド王国。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "神から天具をもらい戦うものを勇者と呼び、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔法を使って戦うものを魔法使いと呼んだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "シスターは強い信仰心によって、奇跡を起こすことが出来る。"
+                                ""
                             ]
                         },
                         {
@@ -12213,7 +12158,62 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦争の開始から千年経つが、いまだ終わる気配はない。"
+                                "The war with the demons has been ongoing since the\nyear 800 in the Divine Calendar, and of course,\nthe first believers were also from the Greatland\nKingdom."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Those who fight using the divine tools received\nfrom the gods are called heroes, and those who\nfight using magic are called magicians. Sisters\nare able to perform miracles through their strong\nfaith."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "A thousand years have passed since the start of\nthe war, but there is still no sign of it ending."
                             ]
                         },
                         {
@@ -12313,14 +12313,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『最初の魔法使い』"
+                                "The First Magician Magical Historian Analdo\nCroche"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法歴史学者　アナルド・クローチェ"
+                                ""
                             ]
                         },
                         {
@@ -12359,45 +12359,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "魔法使いの始まりは神歴900年まで遡る。"
+                                "The beginning of magic dates back to the year 900\nin the Divine Calendar. It is said that the first\nmagician, Gnoth Magos, made a contract with a\ndemon and used magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "最初の魔法使い『グノース・マゴス』が、悪魔と契約して"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔法を使用したと言われている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "グノース・マゴスは七大魔王の一人、ベリアルを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "倒した勇者パーティーに所属していた。"
+                                ""
                             ]
                         },
                         {
@@ -12414,45 +12390,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女の魔法使いへの貢献は凄まじく、"
+                                "Gnoth Magos belonged to a hero party that defeated\none of the Seven Great Demon Kings, Belial."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔法協会の設立にも関わっている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最古の魔法の多くが彼女の生み出したものであり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "天才と呼ばれていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかしそれゆえ、サミュエル教会から疎まれてしまう。"
+                                ""
                             ]
                         },
                         {
@@ -12469,14 +12414,69 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最終的に捕まって処刑されてしまうが、"
+                                "Her contributions to the magician community were\ntremendous, and she was also involved in the\nestablishment of the Magic Association."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女の死体を見たものは居ないと言われている。"
+                                "Many of the oldest magics were created by her, and\nshe was called a genius. However, because of that,\nshe was disliked by the Samuel Church."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "It is said that in the end, she was captured and\nexecuted, but no one has claimed to have seen her\ncorpse."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12576,14 +12576,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『魔法について』"
+                                "About Magic - Mage Maya Nestra"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法使い　マヤ・ネストラ"
+                                ""
                             ]
                         },
                         {
@@ -12622,59 +12622,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "魔法とは、悪魔の使う術である。"
+                                "Magic is a technique used by demons. It is the\nability to manifest mysterious phenomena that\ncannot be achieved by human power."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "人間の力ではなし得ない不思議な現象を具現化"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "させることが出来る。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔法は魔力を使用して使用する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔力は自身の体内にあるが、大気中にも存在している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大気中に存在する魔力の方が遥かに多く、これを利用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ことが強大な魔法を使用するコツである。"
+                                ""
                             ]
                         },
                         {
@@ -12691,45 +12653,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "大気中の魔力は地獄の方が多く存在している。"
+                                "Magic is used by utilizing magical power. Magical\npower exists within one's own body, but it also\nexists in the atmosphere. The amount of magical\npower that exists in the atmosphere is far\ngreater, and utilizing this is the key to using\npowerful magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ゆえに地下に近づくほど魔力の量が多くある。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "しかし魔力は魔物を産んでしまう。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "人間の使用する魔法は、多くが悪魔が使用しているのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "解析して習得したものである。"
+                                ""
                             ]
                         },
                         {
@@ -12746,14 +12691,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まれに新しく魔法を開発することもあるが、"
+                                "The amount of magical power in the atmosphere is\ngreater in Hell. Therefore, the closer you get to\nunderground, the more abundant the amount of\nmagical power becomes. However, magical power\ngives birth to demons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "才能のある限られた者だけにしかできない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12770,7 +12722,55 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして多くが、悪魔の魔法よりはるかに劣っている。"
+                                "Human-used magic is mostly learned by analyzing\nand acquiring the magic used by demons."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Occasionally, there are those with talent who can\ndevelop new magic, but only a limited few are\ncapable of doing so."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "And most of them are far inferior to the magic\nused by demons."
                             ]
                         },
                         {
@@ -12870,14 +12870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『カレドニー魔法学院について』"
+                                "About Caledony Magic Academy by Wizard Gary\nMeizers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法使い　ゲイリー・メイザース"
+                                ""
                             ]
                         },
                         {
@@ -12916,45 +12916,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カレドニー魔法学院は創立者の初代校長エンヘド・ソロモ"
+                                "Caledony Magic Academy is the oldest magic academy\ncreated by its founder and first principal, Enhed.\nSolomon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "によって作られた最古の魔法学院である。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悪魔との戦いのために魔法使いを育成するために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "秘密裏に作られた学院。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかしサミュエル教会にばれ一時は閉鎖されることもあった。"
+                                ""
                             ]
                         },
                         {
@@ -12971,45 +12940,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後、魔法協会の説得より、国に認められた"
+                                "The academy was secretly created to train wizards\nfor the battle against demons. However, it was\ndiscovered by the Samuel Church and there were\ntimes when it was temporarily closed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "学院となる。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "学院のあるグレートランド王国は世界でもっとも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔法が盛んな地域であり、他の国から留学に来る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "生徒も多くいる。"
+                                ""
                             ]
                         },
                         {
@@ -13026,21 +12971,76 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グレートランド王国に他に『フィラム魔法女学院』"
+                                "After that, it became an academy recognized by the\ncountry through persuasion from the Magic\nAssociation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『オワドゥール魔法専門学校』があるが、どちらも姉妹校"
+                                "The Greatland Kingdom, where the academy is\nlocated, is the most prosperous region for magic\nin the world, and there are many students who come\nto study from other countries."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "となっている。"
+                                "In addition to the Greatland Kingdom, there are\nalso the Phylam Magic Girls' Academy and the\nOwadour Magic Vocational School, both of which\nhave become sister schools."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13140,14 +13140,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『悪魔について』"
+                                "About Demons by Priest Isabelle Madmarie"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "聖職者　イザベル・マッドマリー"
+                                ""
                             ]
                         },
                         {
@@ -13186,45 +13186,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "悪魔とは地獄帝国に住む、人類の敵であります。"
+                                "Demons are the enemies of humanity who reside in\nthe Empire of Hell. The information I am about to\npresent was obtained from the treacherous demon\nBarberito."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "これから書き示す情報は裏切りの悪魔『バルベリト』"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "から聞き出したものです。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※裏切りの悪魔『バルベリト』とは、勇者ミカエリスに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "捉えられ、拷問によって地獄帝国の情報を履いた愚か者です。"
+                                ""
                             ]
                         },
                         {
@@ -13241,21 +13217,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "地獄帝国には、七体の悪魔がいて、各地方を治めています。"
+                                "※The treacherous demon Barberito is a foolish\nindividual who was captured by the hero Micaelis\nand tortured to extract information about the\nEmpire of Hell."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そしてその中で最も偉い暴食王ベルゼビュートが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "現在の皇帝を務めています。"
+                                ""
                             ]
                         },
                         {
@@ -13272,52 +13241,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "悪魔の王には魔王大権と呼ばれるものがあり、"
+                                "In the Empire of Hell, there are seven demons who\ngovern different regions. Among them, the most\npowerful is the Gluttonous King Beelzebuth, who\ncurrently serves as the emperor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔王より下の悪魔を自由に命令することができます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そして魔王にしか使えない強大な魔法を所有しております。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悪魔には階級があり、世襲で継いでいきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また空席が生まれれば、力を持った悪魔が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "成り上がることもあるようです。"
+                                ""
                             ]
                         },
                         {
@@ -13334,14 +13272,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "神歴900年に勇者が傲慢王ベリアルを撃破しており、"
+                                "The Demon King possesses a power known as the\nDemon Lord Authority, which allows them to\nfreely command demons below the Demon King. They\nalso possess powerful magic that can only be used\nby the Demon King."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その座は現在も空席であると考えられています。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13358,28 +13303,83 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "知性を持たない悪魔を魔物と呼んでおり、"
+                                "Demons have ranks and they are inherited through\ngenerations. It seems that powerful demons can\nalso rise to power if vacancies arise."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "魔物は人や悪魔区別せず見境なく攻撃します。"
+                                "In the year 900 of the Divine Era, a hero defeated\nthe arrogant King Belial, and it is believed that\nthe throne has remained vacant ever since."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかし群れの主を倒し自分より強いことを示すと、"
+                                "Demons without intelligence are referred to as\nmonsters, and monsters indiscriminately attack\nhumans and demons alike. However, it is said that\nif one defeats the leader of a group and\ndemonstrates their strength, they will no longer\nbe attacked."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "襲ってこなくなると言われています。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13479,14 +13479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『珍しい状態異常について』"
+                                "About Unusual Status Ailments by Mage Maya\nNestra"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法使い　マヤ・ネストラ"
+                                ""
                             ]
                         },
                         {
@@ -13525,7 +13525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここに私が発見した状態異常を示す。"
+                                "Here I will show the status ailments that I have\ndiscovered."
                             ]
                         },
                         {
@@ -13542,45 +13542,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『過電圧』"
+                                "『Overvoltage』HP decreases by 10% each time. When\na monster enters the overvoltage state, it will\nuse unusual magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "HPが10％ずつ減っていく。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔物が過電圧状態になると、珍しい魔法を使用する。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『覚醒』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔力が1.5倍になるが、HPが削られていく。"
+                                ""
                             ]
                         },
                         {
@@ -13597,38 +13573,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『傷』"
+                                "'Awakening' increases magic power by 1.5 times,\nbut HP gradually decreases."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "HPが削られていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『魔力暴走』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "MPが削られていく。"
+                                ""
                             ]
                         },
                         {
@@ -13645,38 +13597,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『バーサーカー』"
+                                "'Wound' HP is being reduced."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "魔力が2倍になるが、防御力が下がる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『光耐性』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "光属性の攻撃がほぼ効かなくなる。"
+                                ""
                             ]
                         },
                         {
@@ -13693,38 +13621,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『謹慎』"
+                                "'Mana Rampage' MP is being depleted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "HPが大きく削られていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『深淵状態』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔力が大きく上がる。"
+                                ""
                             ]
                         },
                         {
@@ -13741,14 +13645,110 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その他、スケベな状態異常はたいてい魔力と最大MP"
+                                "'Berserker' doubles magic power, but defense\ndecreases."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "が下がっていく。"
+                                "'Light Resistance' Light attribute attacks become\nalmost ineffective."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "'Cautious' HP is greatly reduced."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "'Abyss State' Magic power greatly increases."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "In addition, most lewd status ailments usually\ncause a decrease in magic power and maximum MP."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

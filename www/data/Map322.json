@@ -8168,14 +8168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら、あったぞ」"
+                                "Look, I found it."
                             ]
                         },
                         {
@@ -8206,14 +8206,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[024]"
+                                "\\>【Leviathan】\\m[50]\\z[024]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうか……」"
+                                "I see..."
                             ]
                         },
                         {
@@ -8237,14 +8237,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[025]"
+                                "\\>【Leviathan】\\m[50]\\z[025]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……」"
+                                "「......」"
                             ]
                         },
                         {
@@ -8261,14 +8261,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……」"
+                                "「......」"
                             ]
                         },
                         {
@@ -8285,14 +8285,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「読まないのか？」"
+                                "Aren't you going to read it?"
                             ]
                         },
                         {
@@ -8316,14 +8316,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[026]"
+                                "\\>【Leviathan】\\m[50]\\z[026]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「い、今から読む。あまり急かすな」"
+                                "I-I'll read it now. Don't rush me too much."
                             ]
                         },
                         {
@@ -8382,7 +8382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人になった悪魔の王は、夫を探しに町に戻りました。"
+                                "The demon king who became human returned to town\nto search for a spouse."
                             ]
                         },
                         {
@@ -8399,38 +8399,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "簡単に見つかるとは思っていなかったでしょうが、"
+                                "You probably didn't think it would be easy to\nfind, but I'll walk around hoping to find even a\nsmall clue."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少しでも手がかりが見つかればと辺りを歩きます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし王の考えとは裏腹に、夫はすぐに見つかり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ました。"
+                                ""
                             ]
                         },
                         {
@@ -8447,38 +8423,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "探していたのは王だけではなく、夫も同じだった"
+                                "However, contrary to the king's thoughts, a spouse\nwas found immediately."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "のです。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夫は驚いて逃げ出してしまいましたが、王に対す"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "る愛は変わりません。"
+                                ""
                             ]
                         },
                         {
@@ -8495,7 +8447,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謝ってもう一度やり直そうと、妻を探していたのです。"
+                                "It wasn't just the king who was searching, but\nthe spouse as well."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8512,7 +8471,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうして二人はよりを戻しました。"
+                                "Although the husband was surprised and ran away,\ntheir love for the king remains unchanged."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8529,7 +8495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしひとつ、解決していない問題があります。"
+                                "Apologizing, they tried again and searched for a\nspouse."
                             ]
                         },
                         {
@@ -8546,7 +8512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二人の子供です。"
+                                "And so, the two of them reconciled."
                             ]
                         },
                         {
@@ -8563,14 +8529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子は孤児院に預けられていましたが、夫婦が訪ね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "た時には居ませんでした。"
+                                "However, there is one unresolved problem."
                             ]
                         },
                         {
@@ -8587,14 +8546,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後も探し続けますが、結局見つかることはあ"
+                                "They have two children."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "りません。"
+                                "The children were entrusted to an orphanage, but\nthey were not there when the couple visited."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "They continued to search afterwards, but in the\nend, they couldn't find anything."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8644,14 +8644,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え……これで終わり……」"
+                                "Eh... is this the end..."
                             ]
                         },
                         {
@@ -8694,14 +8694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[027]"
+                                "\\>【Leviathan】\\m[50]\\z[027]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、事実を書いたものだからな」"
+                                "Well, because it's something that wrote the truth."
                             ]
                         },
                         {
@@ -8725,14 +8725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[028]"
+                                "\\>【Leviathan】\\m[50]\\z[028]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それにしても……良かった」"
+                                "Nevertheless... I'm glad."
                             ]
                         },
                         {
@@ -8756,14 +8756,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[029]"
+                                "\\>【Leviathan】\\m[50]\\z[029]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「われは捨てられたわけじゃなかったのだな」"
+                                "I wasn't abandoned, after all."
                             ]
                         },
                         {
@@ -8780,14 +8780,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それって……」"
+                                "Is that...?"
                             ]
                         },
                         {
@@ -8811,14 +8811,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[030]"
+                                "\\>【Leviathan】\\m[50]\\z[030]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちゃんと両親は愛してくれていたのだ」"
+                                "My parents did love me."
                             ]
                         },
                         {
@@ -8835,14 +8835,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レビヤタン……」"
+                                "Leviathan..."
                             ]
                         },
                         {
@@ -8859,14 +8859,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もしかしてこの本の子供って……」"
+                                "Could it be that the child in this book...?"
                             ]
                         },
                         {
@@ -8890,14 +8890,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[031]"
+                                "\\>【Leviathan】\\m[50]\\z[031]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ、われだ」"
+                                "Ah, it's me."
                             ]
                         },
                         {
@@ -8921,14 +8921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[032]"
+                                "\\>【Leviathan】\\m[50]\\z[032]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本当のレビヤタンは、私の母」"
+                                "The real Leviathan is my mother."
                             ]
                         },
                         {
@@ -8952,14 +8952,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[033]"
+                                "\\>【Leviathan】\\m[50]\\z[033]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「われは悪魔の王と人間のハーフだ」"
+                                "I am the half-demon king and human."
                             ]
                         },
                         {
@@ -8983,21 +8983,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[034]"
+                                "\\>【Leviathan】\\m[50]\\z[034]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「王と名乗っておいた方がなにかと便利だと思っ"
+                                "I thought it would be convenient to introduce\nmyself as a king, so I lied."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  て、嘘をついておった」"
+                                ""
                             ]
                         },
                         {
@@ -9021,14 +9021,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[035]"
+                                "\\>【Leviathan】\\m[50]\\z[035]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「母が人になる時に使った魔法は、継承魔法」"
+                                "The magic my mother used to become human is called\ninheritance magic."
                             ]
                         },
                         {
@@ -9052,14 +9052,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[036]"
+                                "\\>【Leviathan】\\m[50]\\z[036]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「自分の子供に力を渡す魔法だ」"
+                                "It's a magic that passes power to one's child."
                             ]
                         },
                         {
@@ -9083,21 +9083,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[037]"
+                                "\\>【Leviathan】\\m[50]\\z[037]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうして私は、孤児院に居た時に突然王の魔力"
+                                "And then, when I was at the orphanage, I suddenly\ngained the power of a king and became a complete\ndemon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  を手に入れ完全な悪魔となった」"
+                                ""
                             ]
                         },
                         {
@@ -9114,14 +9114,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなことが……」"
+                                "Is that so..."
                             ]
                         },
                         {
@@ -9145,21 +9145,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[038]"
+                                "\\>【Leviathan】\\m[50]\\z[038]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その力のせいで孤児院に居られなくなり、各地"
+                                "Because of that power, I couldn't stay at the\norphanage and ended up wandering from place to\nplace."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  を転々としていたのだ」"
+                                ""
                             ]
                         },
                         {
@@ -9183,21 +9183,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[039]"
+                                "\\>【Leviathan】\\m[50]\\z[039]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「捨てられたと思っていたから、われが両親を探"
+                                "Because I thought I was abandoned, I never tried\nto search for my parents."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  すことはなかった」"
+                                ""
                             ]
                         },
                         {
@@ -9221,21 +9221,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[040]"
+                                "\\>【Leviathan】\\m[50]\\z[040]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかしある時、この本の話を聞いて真相を知り"
+                                "However, at one point, I heard about this book and\nwanted to know the truth."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  たくなったのだ」"
+                                ""
                             ]
                         },
                         {
@@ -9259,21 +9259,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[041]"
+                                "\\>【Leviathan】\\m[50]\\z[041]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「最後の巻がここにあると聞いて潜入したが、ま"
+                                "I heard that the final volume was here, so I\ninfiltrated, but I never expected to end up like\nthis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  さかこんな目にあうとはな」"
+                                ""
                             ]
                         },
                         {
@@ -9297,21 +9297,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[042]"
+                                "\\>【Leviathan】\\m[50]\\z[042]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかし、これでようやく目的を果たすことが出"
+                                "However, I can finally fulfill my purpose with\nthis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  来た」"
+                                ""
                             ]
                         },
                         {
@@ -9335,14 +9335,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[043]"
+                                "\\>【Leviathan】\\m[50]\\z[043]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よくやった正宗」"
+                                "Well done, Masamune."
                             ]
                         },
                         {
@@ -9359,14 +9359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺もレビヤタンのおかげでアメリを助けられた」"
+                                "Thanks to Leviathan, I was able to save Amelia\ntoo."
                             ]
                         },
                         {
@@ -9383,14 +9383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こちらこそありがとう」"
+                                "Thank you too."
                             ]
                         },
                         {
@@ -9414,14 +9414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[044]"
+                                "\\>【Leviathan】\\m[50]\\z[044]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うむ」"
+                                "Hmm"
                             ]
                         },
                         {
@@ -9438,14 +9438,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、まだ信じられない」"
+                                "But, I still can't believe it."
                             ]
                         },
                         {
@@ -9462,21 +9462,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レビヤタンが悪魔と人のハーフで、しかも本当"
+                                "Leviathan is a half-demon and human, and moreover,\nthe true king of demons no longer exists."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  の悪魔の王はもういないだなんて」"
+                                ""
                             ]
                         },
                         {
@@ -9500,14 +9500,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[045]"
+                                "\\>【Leviathan】\\m[50]\\z[045]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかしすべては真実だ」"
+                                "But everything is true."
                             ]
                         },
                         {
@@ -9531,21 +9531,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[046]"
+                                "\\>【Leviathan】\\m[50]\\z[046]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「われは正真正銘、レビヤタンの魔力を受け継い"
+                                "I have truly inherited the power of Leviathan."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  でおる」"
+                                ""
                             ]
                         },
                         {
@@ -9562,21 +9562,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それは魔法を見ればわかるよ。でも学生に捕ま"
+                                "You can understand that by seeing magic. But there\nare also clumsy aspects of being caught by\nstudents."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  るくらいドジなところもあるけどな」"
+                                ""
                             ]
                         },
                         {
@@ -9600,21 +9600,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[047]"
+                                "\\>【Leviathan】\\m[50]\\z[047]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、それは時を戻す魔法があるから油断してお"
+                                "T-That's because I was careless due to the\nexistence of magic that can turn back time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ったからだ」"
+                                ""
                             ]
                         },
                         {
@@ -9638,28 +9638,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[048]"
+                                "\\>【Leviathan】\\m[50]\\z[048]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「捕まったあとに数日寝ていたのと、魔力の回復"
+                                "After being caught, I slept for a few days and\nwaited for my magic power to recover, but it ended\nup taking more than a week to return."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  を待っていたら戻せる一週間を超えてしまった"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  のだ」"
+                                ""
                             ]
                         },
                         {
@@ -9683,21 +9683,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[049]"
+                                "\\>【Leviathan】\\m[50]\\z[049]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「受け継いだ魔法は数個だけだから、無理やり出"
+                                "Since I only inherited a few magic spells, I\ncouldn't force myself to use them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ることも出来なかったし」"
+                                ""
                             ]
                         },
                         {
@@ -9721,14 +9721,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[050]"
+                                "\\>【Leviathan】\\m[50]\\z[050]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「正宗と出会えてよかった」"
+                                "I'm glad I met Masamune."
                             ]
                         },
                         {
@@ -9752,14 +9752,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[051]"
+                                "\\>【Leviathan】\\m[50]\\z[051]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それで……最後にもう一つ頼みがあるんだが」"
+                                "And...there's one more thing I want to ask you in\nthe end."
                             ]
                         },
                         {
@@ -9776,14 +9776,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まだなにかあるのか」"
+                                "Is there still something else?"
                             ]
                         },
                         {
@@ -9807,14 +9807,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[052]"
+                                "\\>【Leviathan】\\m[50]\\z[052]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔力の補給だ。使いすぎてしまってな」"
+                                "I need to replenish my magic power. I've used too\nmuch."
                             ]
                         },
                         {
@@ -9838,21 +9838,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[053]"
+                                "\\>【Leviathan】\\m[50]\\z[053]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「別に悪いことをするわけじゃない、少し分けて"
+                                "I'm not doing anything bad, just give me a little\nbit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  くれ」"
+                                ""
                             ]
                         },
                         {
@@ -9869,14 +9869,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔力の補給って……え……」"
+                                "Magic power replenishment... huh..."
                             ]
                         },
                         {
@@ -9900,21 +9900,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[054]"
+                                "\\>【Leviathan】\\m[50]\\z[054]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「われともエッチしろと言っておるのだ。みなま"
+                                "I'm telling you to have sex with me. Don't let\neveryone hear it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  で言わせるな」"
+                                ""
                             ]
                         },
                         {
@@ -9931,14 +9931,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、なに言ってるんだっ……」"
+                                "W-What are you saying..."
                             ]
                         },
                         {
@@ -9962,14 +9962,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[055]"
+                                "\\>【Leviathan】\\m[50]\\z[055]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「勘違いするな。魔力が欲しいだけだからな」"
+                                "Don't misunderstand. I just want magic power,\nthat's all."
                             ]
                         },
                         {
@@ -9993,14 +9993,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[056]"
+                                "\\>【Leviathan】\\m[50]\\z[056]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だめか？」"
+                                "Is it not allowed?"
                             ]
                         },
                         {
@@ -10039,21 +10039,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「……別にいいよ。俺としてもそんなに気持ちよ"
+                                "...It's fine. Even if I don't think it'll feel\nthat good for me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  くなれないと思うけどな」"
+                                ""
                             ]
                         },
                         {
@@ -10077,21 +10077,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[059]"
+                                "\\>【Leviathan】\\m[50]\\z[059]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そんな事言うな。われは初めてだから、優しく"
+                                "Don't say such things. It's my first time, so be\ngentle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  するんだぞ」"
+                                ""
                             ]
                         },
                         {
@@ -10139,14 +10139,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[057]"
+                                "\\>【Leviathan】\\m[50]\\z[057]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ちぇ……してみたかったのに」"
+                                "Tch... I wanted to try it."
                             ]
                         },
                         {
@@ -10170,14 +10170,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[50]\\z[058]"
+                                "\\>【Leviathan】\\m[50]\\z[058]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まぁいい。本当は魔力は十分にあるからの」"
+                                "Well, it's fine. Actually, I have plenty of magic\npower."
                             ]
                         },
                         {
@@ -10194,14 +10194,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「なんだよ……」"
+                                "What the..."
                             ]
                         },
                         {

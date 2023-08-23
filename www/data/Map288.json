@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "魔法牢獄",
+    "displayName": "Magic Prison",
     "encounterList": [],
     "encounterStep": 30,
     "height": 32,
@@ -9173,14 +9173,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レビヤタン」"
+                                "Leviathan"
                             ]
                         },
                         {
@@ -9211,14 +9211,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[010]"
+                                "\\>【Leviathan】\\m[49]\\z[010]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まさむね～」"
+                                "Masamune~"
                             ]
                         },
                         {
@@ -9235,14 +9235,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだその腑抜けた声は」"
+                                "What's with that weak voice?"
                             ]
                         },
                         {
@@ -9266,14 +9266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[011]"
+                                "\\>【Leviathan】\\m[49]\\z[011]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔力が……急激に失われておる」"
+                                "My magical power... is rapidly diminishing."
                             ]
                         },
                         {
@@ -9290,14 +9290,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにっ……」"
+                                "What...?"
                             ]
                         },
                         {
@@ -9321,21 +9321,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[012]"
+                                "\\>【Leviathan】\\m[49]\\z[012]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「急に魔力を吸われる量が多くなって、回復が追"
+                                "Suddenly, the amount of magical power being\ndrained has increased, and my recovery is falling\nbehind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いついてない」"
+                                ""
                             ]
                         },
                         {
@@ -9352,14 +9352,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫なのか」"
+                                "Are you okay?"
                             ]
                         },
                         {
@@ -9383,14 +9383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[013]"
+                                "\\>【Leviathan】\\m[49]\\z[013]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まだしばらくはな。しかし長くは持たん」"
+                                "Not for much longer. But it won't last long."
                             ]
                         },
                         {
@@ -9407,14 +9407,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[014]"
+                                "\\>【Leviathan】\\m[49]\\z[014]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「できればここで決着を着けてほしいところだ」"
+                                "Ideally, I would like to settle things here."
                             ]
                         },
                         {
@@ -9431,21 +9431,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺だってそのつもりだ。相手はいろいろ仕掛け"
+                                "I intend to do the same. The opponent has set up\nvarious traps."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  てきてる」"
+                                ""
                             ]
                         },
                         {
@@ -9462,14 +9462,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう準備は終わるって」"
+                                "I'm done preparing."
                             ]
                         },
                         {
@@ -9493,14 +9493,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[015]"
+                                "\\>【Leviathan】\\m[49]\\z[015]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「われの魔力で力を得たのだろう」"
+                                "You must have gained power from my magic."
                             ]
                         },
                         {
@@ -9524,21 +9524,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[016]"
+                                "\\>【Leviathan】\\m[49]\\z[016]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だから抽出するための魔法も上手くあつかえる"
+                                "So maybe you've become skilled at handling magic\nfor the purpose of extraction."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ようになっているのかもしれん」"
+                                ""
                             ]
                         },
                         {
@@ -9555,21 +9555,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それなら、時間が経てば立つほどまずい状況に"
+                                "If that's the case, the situation will only get\nworse as time passes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  なるぞ」"
+                                ""
                             ]
                         },
                         {
@@ -9593,14 +9593,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[017]"
+                                "\\>【Leviathan】\\m[49]\\z[017]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだな……ははっ……」"
+                                "That's right... Haha..."
                             ]
                         },
                         {
@@ -9617,14 +9617,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「笑ってる場合じゃない、しっかりしろ」"
+                                "This is no time to be laughing, get a hold of\nyourself."
                             ]
                         },
                         {
@@ -9648,21 +9648,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[018]"
+                                "\\>【Leviathan】\\m[49]\\z[018]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「われは悪魔の王だ……人間なんかに魔力をとら"
+                                "I am the Demon King... There's no way I would have\nmy magical power taken by mere humans..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  れるわけ……」"
+                                ""
                             ]
                         },
                         {
@@ -9686,14 +9686,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[019]"
+                                "\\>【Leviathan】\\m[49]\\z[019]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぅ……」"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -9717,14 +9717,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[020]"
+                                "\\>【Leviathan】\\m[49]\\z[020]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかし悪いことばかりじゃない」"
+                                "But it's not all bad."
                             ]
                         },
                         {
@@ -9748,21 +9748,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[021]"
+                                "\\>【Leviathan】\\m[49]\\z[021]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「われの魔力を多く保持しているということは、"
+                                "Having a high amount of magical power means that I\ncan detect things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  探知が出来るということだ」"
+                                ""
                             ]
                         },
                         {
@@ -9779,14 +9779,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、そうか……」"
+                                "Ah, I see..."
                             ]
                         },
                         {
@@ -9810,21 +9810,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[022]"
+                                "\\>【Leviathan】\\m[49]\\z[022]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この場所は探知出来ないように作られているら"
+                                "It seems like this place has been made to be\nundetectable, but the outside is a different\nstory."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  しいが、外は別だろう」"
+                                ""
                             ]
                         },
                         {
@@ -9848,21 +9848,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[023]"
+                                "\\>【Leviathan】\\m[49]\\z[023]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪魔の気配がわかる者がいれば、ひっかかるん"
+                                "If there's someone who can sense the presence of\ndemons, won't they get caught?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  じゃないか？」"
+                                ""
                             ]
                         },
                         {
@@ -9879,14 +9879,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだ。悪魔の探知ならアメリが出来る」"
+                                "That's right. If it's about detecting demons,\nAmelia can do it."
                             ]
                         },
                         {
@@ -9903,14 +9903,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、さっそく戻って頼んでみる」"
+                                "Alright, let's go back and ask for her help right\naway."
                             ]
                         },
                         {
@@ -9965,21 +9965,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（いきなり悪魔の探知をしろなんて、怪しまれ"
+                                "(If we suddenly ask her to detect demons, she\nmight become suspicious)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  るかもしれない）」"
+                                ""
                             ]
                         },
                         {
@@ -9996,14 +9996,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（でももう手段は選んでいられない）」"
+                                "(But we don't have any other choice)"
                             ]
                         },
                         {
@@ -10020,21 +10020,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（全てバレることになったとしても、俺はアメ"
+                                "(Even if everything is exposed, I will still\nprotect Amelia)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  リを助けるんだ）」"
+                                ""
                             ]
                         },
                         {
@@ -10051,21 +10051,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（それで、俺が強くなったことをちょっとだけ"
+                                "(I would be happy if she could understand, even\njust a little, that I have become stronger)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  わかってもらえたら嬉しい）」"
+                                ""
                             ]
                         },
                         {
@@ -10201,21 +10201,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アメリのところに行かないと。"
+                                "We need to go to Amelia's place. Is she still in\nthe library?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まだ図書室にいるか」"
+                                ""
                             ]
                         },
                         {

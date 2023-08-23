@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "サミュエル礼拝堂",
+    "displayName": "Samuel Chapel",
     "encounterList": [],
     "encounterStep": 30,
     "height": 28,
@@ -4286,21 +4286,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シスター・フレイヤ】"
+                                "【Sister Freya】Abandon magic and pray to God.\nThat's the first step."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「魔法を捨て、神に祈りなさい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まずはそれからです」"
+                                ""
                             ]
                         },
                         {
@@ -4375,14 +4375,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【シスター・フレイヤ】"
+                                "【Sister Freya】......What is it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「……なんですか」"
+                                ""
                             ]
                         },
                         {
@@ -4472,38 +4472,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【シスター・フレイヤ】"
+                                "【Sister Freya】Sigh... Is it happening again?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「はぁ……またですか」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「すみません」"
+                                ""
                             ]
                         },
                         {
@@ -4520,45 +4496,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【シスター・フレイヤ】"
+                                "【Amelia】I'm sorry."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「もう次はありませんから」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　正宗君は恥ずかしいから外に居て」"
+                                ""
                             ]
                         },
                         {
@@ -4575,14 +4520,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Sister Freya】There won't be a next time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「あぁ」"
+                                ""
                             ]
                         },
                         {
@@ -4599,14 +4544,69 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Amelia】Yes... Masamune-kun, please stay outside\nbecause it's embarrassing."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「（大丈夫かな……）」"
+                                "【Masamune】Ah..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "【Masamune】(I wonder if it's okay...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4690,21 +4690,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【シスター・フレイヤ】"
+                                "【Sister Freya】Abandon magic and pray to God.\nThat's the first step."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「魔法を捨て、神に祈りなさい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　まずはそれからです」"
+                                ""
                             ]
                         },
                         {
@@ -5245,14 +5245,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Now is not the time to enter."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今は入っている場合じゃない」"
+                                ""
                             ]
                         },
                         {
@@ -5351,14 +5351,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Now is not the time to enter."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今は入っている場合じゃない」"
+                                ""
                             ]
                         },
                         {
@@ -5597,7 +5597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "礼拝堂の地下を探索しますか？"
+                                "Would you like to explore the basement of the\nchapel?"
                             ]
                         },
                         {

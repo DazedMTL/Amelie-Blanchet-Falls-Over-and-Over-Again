@@ -2499,14 +2499,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "[Teacher Melissa] Today we will have a lecture.\nMake sure to listen carefully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「今日は座学だ。しっかり聞くように」"
+                                ""
                             ]
                         },
                         {
@@ -2523,21 +2523,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "[Teacher Melissa] In battles against demons,\nthere are times when a group of around ten or more\nwizards gather and attack the enemy's base from a\ndistance using ritual magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「悪魔との戦いでは、魔法使いが十数人集まり"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  、儀式魔法で遠距離から拠点を攻撃することがある」"
+                                ""
                             ]
                         },
                         {
@@ -2568,14 +2568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] Ah, I want a familiar."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あー、使い魔ほしー」"
+                                ""
                             ]
                         },
                         {
@@ -2592,14 +2592,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] What is it all of a sudden?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なんだいきなり」"
+                                ""
                             ]
                         },
                         {
@@ -2623,21 +2623,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] After seeing my senpai using an owl as a\nfamiliar, Elena also wanted one."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「先輩がフクロウを使い魔してたの見て、エレ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ナも欲しくなったの」"
+                                ""
                             ]
                         },
                         {
@@ -2654,14 +2654,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] I see, I understand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なるほどな」"
+                                ""
                             ]
                         },
                         {
@@ -2685,21 +2685,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] Owls are still a classic choice, huh?\nMaybe Elena should make a contract with one too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「フクロウってやっぱり定番じゃん。エレナも"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  契約しよっかな」"
+                                ""
                             ]
                         },
                         {
@@ -2723,21 +2723,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] So, I want them to bring letters and such\nfrom the sky."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「それで、空から手紙とか持ってきてもらうん"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  だ」"
+                                ""
                             ]
                         },
                         {
@@ -2754,14 +2754,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Isn't it for battle...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「戦闘のためじゃないのかよ……」"
+                                ""
                             ]
                         },
                         {
@@ -2785,38 +2785,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] That's pitiful, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「可愛そうじゃん」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「なら普通にペットでいいだろ」"
+                                ""
                             ]
                         },
                         {
@@ -2833,14 +2809,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Then, a regular pet should be fine,\nright?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「だいたい、フクロウは世話が大変だぞ」"
+                                "[Masamune] By the way, taking care of an owl is\nquite difficult."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2864,14 +2864,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] Huh, is that so?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「え、そうなの？」"
+                                ""
                             ]
                         },
                         {
@@ -2888,21 +2888,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Feeding them is quite a task. You have\nto give them fresh mice or insects."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「特に餌やりだな。新鮮なネズミとか、虫をや"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  らないといけないから」"
+                                ""
                             ]
                         },
                         {
@@ -2926,14 +2926,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] Eh! That's impossible, impossible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「えぇ！　そんなの無理無理」"
+                                ""
                             ]
                         },
                         {
@@ -2957,14 +2957,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] I absolutely don't want to touch mice or\ninsects, they're gross."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ネズミも虫もキモくて絶対さわりたくないし」"
+                                ""
                             ]
                         },
                         {
@@ -2981,14 +2981,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Well then, it's impossible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「じゃあ無理だ」"
+                                ""
                             ]
                         },
                         {
@@ -3012,14 +3012,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] Tch... Then, Masamune, don't you want\none?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ちぇー……。じゃあ、正宗は欲しくない？」"
+                                ""
                             ]
                         },
                         {
@@ -3036,21 +3036,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Hmm... If I were to make a contract,\nit would probably be with a black cat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そうだな……契約するとしたらやっぱり黒猫"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  かな」"
+                                ""
                             ]
                         },
                         {
@@ -3074,38 +3074,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] How cliché."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ベタだね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「別にいいだろ」"
+                                ""
                             ]
                         },
                         {
@@ -3122,14 +3098,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] It's not a big deal."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「猫は可愛いし癒やされるからな」"
+                                "[Masamune] Cats are cute and healing, you know."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3153,14 +3153,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] No way, it's a pet!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「いやペットじゃん！」"
+                                ""
                             ]
                         },
                         {
@@ -3184,21 +3184,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] You actually said it's okay for Elena to\nhave a pet, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「よくエレナにペットでいいだろなんて言えた"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ね」"
+                                ""
                             ]
                         },
                         {
@@ -3215,21 +3215,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] No, imagining it, it would be pitiful\nto fight after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「いや、想像するとやっぱり戦うのは可愛そう"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  で」"
+                                ""
                             ]
                         },
                         {
@@ -3253,14 +3253,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] I understand, but..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「わかるけど」"
+                                ""
                             ]
                         },
                         {
@@ -3284,14 +3284,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] But in that case, dogs are also fine,\nright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「でもそれなら、犬もいいじゃん」"
+                                ""
                             ]
                         },
                         {
@@ -3308,14 +3308,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] That's right."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そうだな」"
+                                ""
                             ]
                         },
                         {
@@ -3339,21 +3339,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] If I train it well, it will even lick my\npussy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「いろいろ仕込めば、おまんこも舐めてくれる"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  し」"
+                                ""
                             ]
                         },
                         {
@@ -3370,14 +3370,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Huh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なっ！」"
+                                ""
                             ]
                         },
                         {
@@ -3401,21 +3401,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] I wonder how pleasurable it would be to\nhave a butter dog."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「バター犬ってやつ。あれどのくらい気持ちい"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いんだろ」"
+                                ""
                             ]
                         },
                         {
@@ -3432,14 +3432,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] I-I don't know..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「し、知るかよっ……」"
+                                ""
                             ]
                         },
                         {
@@ -3463,21 +3463,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] Hehe, it's cute how you get flustered\nover such dirty jokes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「くふふっ、こんな下ネタで動揺するんなんて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  かわいいね」"
+                                ""
                             ]
                         },
                         {
@@ -3501,21 +3501,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Elena] If you want, how about making Masamune\nyour pet and having him lick your pussy?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なんなら、正宗をペットにして舐めてもらお"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  っかな」"
+                                ""
                             ]
                         },
                         {
@@ -3532,14 +3532,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "[Masamune] Who would become a butter dog..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「誰がバター犬になんてなるかっ……」"
+                                ""
                             ]
                         },
                         {
@@ -3563,14 +3563,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メリッサ先生】"
+                                "[Professor Melissa] Hey, stop making lewd jokes\nduring class."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「おい、授業中に猥談をするのはやめろ」"
+                                ""
                             ]
                         },
                         {

@@ -2508,7 +2508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "授業を飛ばしますか？"
+                                "Do you want to skip class?"
                             ]
                         },
                         {
@@ -2596,14 +2596,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えー、今日は黒ミサについての授業だ」"
+                                "Well, today's class is about black masses."
                             ]
                         },
                         {
@@ -2620,14 +2620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「黒ミサは魔法ではないが、危険な儀式の一つだ」"
+                                "Black masses are not magic, but rather a dangerous\nritual."
                             ]
                         },
                         {
@@ -2644,14 +2644,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「君たちには、知識として持っていてほしい」"
+                                "I want you all to have this knowledge."
                             ]
                         },
                         {
@@ -2668,21 +2668,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その前にミサの説明を、シスター・フレイヤか"
+                                "But before that, let Sister Freya explain the\nMass."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  らしてもらう」"
+                                ""
                             ]
                         },
                         {
@@ -2713,14 +2713,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[17]\\z[011]"
+                                "\\>【Elena】\\m[17]\\z[011]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「シスターが学内に……」"
+                                "Sister is inside the school..."
                             ]
                         },
                         {
@@ -2746,14 +2746,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わたくしだって、入りたいわけではありません」"
+                                "I don't want to go in either."
                             ]
                         },
                         {
@@ -2770,14 +2770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんな悪魔の気配がする場所なんて」"
+                                "A place with such a demonic presence..."
                             ]
                         },
                         {
@@ -2801,14 +2801,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[17]\\z[012]"
+                                "\\>【Elena】\\m[17]\\z[012]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪魔なんていないし」"
+                                "There's no such thing as demons."
                             ]
                         },
                         {
@@ -2825,14 +2825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法を使う人間は悪魔みたいなものでしょう」"
+                                "People who use magic are like demons, aren't they?"
                             ]
                         },
                         {
@@ -2856,14 +2856,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[17]\\z[013]"
+                                "\\>【Elena】\\m[17]\\z[013]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにこいつ……」"
+                                "What is this..."
                             ]
                         },
                         {
@@ -2880,21 +2880,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やめろ。言い争いをさせるために呼んだわけじ"
+                                "Stop it. I didn't call you here to argue."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ゃない」"
+                                ""
                             ]
                         },
                         {
@@ -2911,14 +2911,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「失礼しました」"
+                                "I apologize."
                             ]
                         },
                         {
@@ -2942,21 +2942,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「黒ミサを知るには、まずミサのことを知らない"
+                                "To understand black mass, you must first\nunderstand mass."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  といけない」"
+                                ""
                             ]
                         },
                         {
@@ -2973,14 +2973,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そのために専門家として来てもらった」"
+                                "I called you here as an expert for that purpose."
                             ]
                         },
                         {
@@ -2997,21 +2997,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「知ってると思うが、彼女は敷地内にある礼拝堂"
+                                "I think you already know, but she is a sister who\nis in the chapel on the premises."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  にいるシスターだ」"
+                                ""
                             ]
                         },
                         {
@@ -3028,14 +3028,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「誰も来ませんけどね」"
+                                "No one is coming though."
                             ]
                         },
                         {
@@ -3052,21 +3052,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「創立時に、センテス教が布教のため立てたと言"
+                                "It is said that the Centes Church was established\nfor the purpose of spreading its teachings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  われている」"
+                                ""
                             ]
                         },
                         {
@@ -3083,14 +3083,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「意味ありませんけどね」"
+                                "It doesn't have any meaning though."
                             ]
                         },
                         {
@@ -3121,14 +3121,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[3]\\z[050]"
+                                "\\>【Amelia】\\m[3]\\z[050]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法使いは弾圧されてきましたから」"
+                                "Because magicians have been oppressed."
                             ]
                         },
                         {
@@ -3176,21 +3176,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それは間違いです。我々は正そうとしているの"
+                                "That is incorrect. We are trying to make things\nright."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  です」"
+                                ""
                             ]
                         },
                         {
@@ -3207,21 +3207,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪魔の力ではなく、神から授かった天具を使う"
+                                "We are saved by using the sacred tools bestowed\nupon us by God, not by the power of demons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ことによって我々は救われるのです」"
+                                ""
                             ]
                         },
                         {
@@ -3238,14 +3238,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「早く目を覚ましてください」"
+                                "Please wake up quickly."
                             ]
                         },
                         {
@@ -3262,14 +3262,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（過激派なのか……）」"
+                                "(Are they extremists...?)"
                             ]
                         },
                         {
@@ -3286,14 +3286,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その話はいい」"
+                                "That story is irrelevant."
                             ]
                         },
                         {
@@ -3324,14 +3324,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[17]\\z[014]"
+                                "\\>【Elena】\\m[17]\\z[014]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「先生、どうしてこんな人呼んだの」"
+                                "Teacher, why did you call such a person?"
                             ]
                         },
                         {
@@ -3348,21 +3348,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなこと言うな。こう見えても優秀なシスタ"
+                                "Don't say such things. Even though I may not look\nlike it, I am an excellent sister."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ーだ」"
+                                ""
                             ]
                         },
                         {
@@ -3379,21 +3379,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「フレイヤには個人的に交友関係があってきても"
+                                "I have personally developed a personal\nrelationship with Freya."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  らった」"
+                                ""
                             ]
                         },
                         {
@@ -3410,14 +3410,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「少しでもお互いが歩み寄れるといいと思ってな」"
+                                "I hope that we can come closer to each other, even\njust a little."
                             ]
                         },
                         {
@@ -3441,21 +3441,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[3]\\z[051]"
+                                "\\>【Amelia】\\m[3]\\z[051]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「一方的に間違っていると言われて、歩み寄る"
+                                "If I'm told that I'm unilaterally wrong, I can't\ncompromise."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ことは出来ません」"
+                                ""
                             ]
                         },
                         {
@@ -3472,21 +3472,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「生意気な子も嫌いではありません。教えがいが"
+                                "I don't dislike cheeky children. They have\nsomething to teach me, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ありますからね」"
+                                ""
                             ]
                         },
                         {
@@ -3503,14 +3503,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「メリッサも初めは強情でした」"
+                                "Melissa was stubborn at first too."
                             ]
                         },
                         {
@@ -3541,14 +3541,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今ではレズセックスする仲なんですけどね」"
+                                "Nowadays, we're in a lesbian sexual relationship,\nyou know."
                             ]
                         },
                         {
@@ -3565,14 +3565,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え！」"
+                                "Huh!"
                             ]
                         },
                         {
@@ -3589,14 +3589,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「冗談を真に受けるな」"
+                                "Don't take jokes seriously."
                             ]
                         },
                         {
@@ -3613,14 +3613,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「冗談か……」"
+                                "Is it a joke...?"
                             ]
                         },
                         {
@@ -3637,21 +3637,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くだらない話はここまでだ。ミサの説明をして"
+                                "That's enough of the nonsense. Please give us your\nexplanation, Misa."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  くれ」"
+                                ""
                             ]
                         },
                         {
@@ -3692,21 +3692,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ということで、ミサはセンテス教の中で、最も"
+                                "So, Misa is the most important ritual in the\nSentes religion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  重要な祭儀なのです」"
+                                ""
                             ]
                         },
                         {
@@ -3723,14 +3723,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zzz……」"
+                                "「Zzz......」"
                             ]
                         },
                         {
@@ -3747,14 +3747,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レオン】"
+                                "\\>【Leon】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zzz……」"
+                                "「Zzz......」"
                             ]
                         },
                         {
@@ -3771,14 +3771,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとう」"
+                                "Thank you"
                             ]
                         },
                         {
@@ -3795,14 +3795,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん、んん……」"
+                                "Mm, mmm..."
                             ]
                         },
                         {
@@ -3850,14 +3850,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本当にみなさん聞いていましたか？」"
+                                "Did everyone really listen?"
                             ]
                         },
                         {
@@ -3874,21 +3874,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「重要なのはここからだ。黒ミサの危険性を説明"
+                                "The important part starts here. Please explain the\ndangers of the Black Mass."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  してくれ」"
+                                ""
                             ]
                         },
                         {
@@ -3905,14 +3905,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ……」"
+                                "Sigh..."
                             ]
                         },
                         {
@@ -3929,14 +3929,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「黒ミサはミサとは真逆の行為です」"
+                                "The Black Mass is the complete opposite of a\nregular Mass."
                             ]
                         },
                         {
@@ -3953,14 +3953,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「神を侮辱し、悪魔を崇拝する儀式」"
+                                "A ritual that insults God and worships demons."
                             ]
                         },
                         {
@@ -3977,21 +3977,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「人が悪魔に捧げ物をする、犯罪の中の犯罪行為"
+                                "It is a criminal act within the crime of offering\nsacrifices to demons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  です」"
+                                ""
                             ]
                         },
                         {
@@ -4008,21 +4008,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もし黒ミサに参加したことが見つかれば、一生"
+                                "If it is discovered that you have participated in\nthe Black Mass, you will never be able to leave\nthe prison for the rest of your life."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  牢屋から出られることはないでしょう」"
+                                ""
                             ]
                         },
                         {
@@ -4039,14 +4039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……」"
+                                "「......」"
                             ]
                         },
                         {
@@ -4063,14 +4063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「香心、悪魔に捧げるものはなにかわかるか」"
+                                "Kaoru, do you know what is offered to demons?"
                             ]
                         },
                         {
@@ -4087,14 +4087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それは……魔力ですか？」"
+                                "Is that... magic power?"
                             ]
                         },
                         {
@@ -4111,21 +4111,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだ。黒ミサとは周囲の魔力を集め、それを"
+                                "That's right. The Black Mass is a ritual that\ngathers the surrounding magical power and offers\nit to demons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  悪魔に渡す儀式だ」"
+                                ""
                             ]
                         },
                         {
@@ -4142,14 +4142,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（なんだと……）」"
+                                "(What...)"
                             ]
                         },
                         {
@@ -4180,14 +4180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[17]\\z[015]"
+                                "\\>【Elena】\\m[17]\\z[015]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうしてそんなことするの？」"
+                                "Why would you do something like that?"
                             ]
                         },
                         {
@@ -4204,21 +4204,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪魔信仰者の考えることなど、我々に理解する"
+                                "We cannot understand the thoughts of those who\nworship demons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ことはできない」"
+                                ""
                             ]
                         },
                         {
@@ -4235,14 +4235,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わたくしも同じ意見です」"
+                                "I share the same opinion."
                             ]
                         },
                         {
@@ -4259,21 +4259,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「みなさんも絶対にしてはいけませんよ。特にあ"
+                                "Everyone must never do it. Especially you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  なた」"
+                                ""
                             ]
                         },
                         {
@@ -4297,14 +4297,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[17]\\z[016]"
+                                "\\>【Elena】\\m[17]\\z[016]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エレナ？」"
+                                "Elena?"
                             ]
                         },
                         {
@@ -4321,21 +4321,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あなたは魔法研でしたよね。魔法研は禁忌の魔"
+                                "You were in the Magic Research Club, right? The\nMagic Research Club has produced several forbidden\nsorcerers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  法使いを何人も輩出しています」"
+                                ""
                             ]
                         },
                         {
@@ -4352,14 +4352,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「絶対に禁忌は犯してはなりません」"
+                                "You must never commit taboos."
                             ]
                         },
                         {
@@ -4376,14 +4376,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それが悪魔の魔法を使う条件なのですから」"
+                                "That is the condition for using demonic magic."
                             ]
                         },
                         {
@@ -4407,21 +4407,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[17]\\z[017]"
+                                "\\>【Elena】\\m[17]\\z[017]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わかってるし。ていうか別に魔法を使うのに教"
+                                "I understand. Besides, you don't really need\npermission from the church to use magic, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  会の許可なんていらないでしょ」"
+                                ""
                             ]
                         },
                         {
@@ -4438,14 +4438,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【シスター・フレイヤ】"
+                                "\\>【Sister Freya】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんですって！」"
+                                "What did you say!"
                             ]
                         },
                         {
@@ -4462,14 +4462,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Melissa-sensei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だから揉めるなと……」"
+                                "So, don't fight..."
                             ]
                         },
                         {
@@ -4493,21 +4493,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（黒ミサ……儀式魔法だけじゃなくて、そんな"
+                                "(Black Mass... So there's not only ritual magic,\nbut also that kind of thing)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  のもあるのか）」"
+                                ""
                             ]
                         },
                         {
@@ -4524,21 +4524,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（でもどちらにしても、儀式を行うには準備が"
+                                "(But either way, preparation is necessary to\nperform a ritual)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  必要だ）」"
+                                ""
                             ]
                         },
                         {
@@ -4555,21 +4555,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（バレずに準備できる場所なんて、校内では限"
+                                "(There are probably limited places within the\nschool where we can prepare without being noticed)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  られてるだろう）」"
+                                ""
                             ]
                         },
                         {
@@ -4586,21 +4586,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（部員しか入れない魔法研の部室は怪しい。絶"
+                                "(The Magic Research Club room, which only members\ncan enter, is suspicious. I definitely need to\ninvestigate it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  対に調べ上げないといけないな）」"
+                                ""
                             ]
                         },
                         {
@@ -4806,14 +4806,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「（放課後になったし、また地下のダンジョンに向かうか）」"
+                                "(It's after school, so should I head to the\nunderground dungeon again)"
                             ]
                         },
                         {

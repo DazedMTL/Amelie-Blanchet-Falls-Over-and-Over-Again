@@ -13213,7 +13213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送石に登録した"
+                                "Registered on the teleportation stone."
                             ]
                         },
                         {
@@ -14592,7 +14592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この先、立入禁止」"
+                                "No entry beyond this point"
                             ]
                         },
                         {
@@ -14669,7 +14669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法基礎の実習室」"
+                                "Magic Fundamentals Practice Room"
                             ]
                         },
                         {
@@ -14746,7 +14746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「呪い魔法の実習室」"
+                                "Cursed Magic Practice Room"
                             ]
                         },
                         {
@@ -15681,7 +15681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「男子トイレ」"
+                                "Men's restroom"
                             ]
                         },
                         {
@@ -15758,7 +15758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「女子トイレ」"
+                                "Women's restroom"
                             ]
                         },
                         {
@@ -15875,14 +15875,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】It's not good to be with Amelia."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「アメリと一緒はまずい」"
+                                ""
                             ]
                         },
                         {
@@ -16022,7 +16022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「女子トイレには入れない」"
+                                "You can't enter the women's restroom."
                             ]
                         },
                         {
@@ -16099,7 +16099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「儀式学の実習室」"
+                                "Ritual Practice Room"
                             ]
                         },
                         {
@@ -16176,14 +16176,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（ん？　アメリが誰かと話してる）」"
+                                "(Hm? Amelia is talking to someone.)"
                             ]
                         },
                         {
@@ -16200,14 +16200,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「君かわいーねー」"
+                                "You're cute, huh?"
                             ]
                         },
                         {
@@ -16238,14 +16238,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[6]\\z[033]"
+                                "\\>【Amelia】\\m[6]\\z[033]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え……」"
+                                "Eh..."
                             ]
                         },
                         {
@@ -16276,14 +16276,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ジャクソン】"
+                                "\\>【Jackson】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「見ない顔だな」"
+                                "I don't recognize your face."
                             ]
                         },
                         {
@@ -16307,14 +16307,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[6]\\z[034]"
+                                "\\>【Amelia】\\m[6]\\z[034]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「転入生なんです。つい先日入学したばかりで」"
+                                "I'm a transfer student. I just enrolled recently."
                             ]
                         },
                         {
@@ -16338,14 +16338,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ジャクソン】"
+                                "\\>【Jackson】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ、君が噂の転入生か。名前は？」"
+                                "Ah, so you're the rumored transfer student. What's\nyour name?"
                             ]
                         },
                         {
@@ -16369,14 +16369,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[6]\\z[035]"
+                                "\\>【Amelia】\\m[6]\\z[035]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アメリ・ブランシェットです」"
+                                "I'm Amelia Blanchette."
                             ]
                         },
                         {
@@ -16393,14 +16393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アメリちゃんかぁ、いいねぇ」"
+                                "Amelia-chan, huh? That's nice."
                             ]
                         },
                         {
@@ -16417,21 +16417,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺たちは魔法研の集まりだよ。一番大きな部活"
+                                "We're a gathering of the Magic Research Club. It's\nthe biggest club activity, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  なんだけど知ってる？」"
+                                ""
                             ]
                         },
                         {
@@ -16455,21 +16455,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[6]\\z[036]"
+                                "\\>【Amelia】\\m[6]\\z[036]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えぇ、カレドニーの魔法研は学外でも有名です"
+                                "Yes, the Magic Research Club at Caledony is famous\neven outside of school."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  から」"
+                                ""
                             ]
                         },
                         {
@@ -16486,21 +16486,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだよね。有名な魔法使いを何人も輩出して"
+                                "That's right. They've produced many famous\nwizards."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  るし」"
+                                ""
                             ]
                         },
                         {
@@ -16517,14 +16517,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それにしても……おっぱいでかいね」"
+                                "By the way... your breasts are big, huh?"
                             ]
                         },
                         {
@@ -16548,14 +16548,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[6]\\z[037]"
+                                "\\>【Amelia】\\m[6]\\z[037]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え……」"
+                                "Eh..."
                             ]
                         },
                         {
@@ -16572,14 +16572,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アメリちゃん、魔法研に興味ない？」"
+                                "Amelia, aren't you interested in the Magic\nResearch Club?"
                             ]
                         },
                         {
@@ -16603,14 +16603,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[6]\\z[038]"
+                                "\\>【Amelia】\\m[6]\\z[038]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの……」"
+                                "Um..."
                             ]
                         },
                         {
@@ -16634,14 +16634,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ジャクソン】"
+                                "\\>【Jackson】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おい、今は新入部員を募集してない」"
+                                "Hey, we're not recruiting new club members right\nnow."
                             ]
                         },
                         {
@@ -16658,14 +16658,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、そうですね」"
+                                "Ah, I see."
                             ]
                         },
                         {
@@ -16682,14 +16682,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、もったいないなぁ」"
+                                "But, it's such a waste."
                             ]
                         },
                         {
@@ -16713,14 +16713,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ジャクソン】"
+                                "\\>【Jackson】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それには同感だ。くく……」"
+                                "I agree with that. Hehe..."
                             ]
                         },
                         {
@@ -16744,14 +16744,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[6]\\z[039]"
+                                "\\>【Amelia】\\m[6]\\z[039]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんの話でしょうか」"
+                                "What are you talking about?"
                             ]
                         },
                         {
@@ -16775,21 +16775,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ジャクソン】"
+                                "\\>【Jackson】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでもない。しかし特殊な学院だから、途中"
+                                "It's nothing. But since it's a special academy, if\nyou join midway, there will be a lot of things you\nwon't understand."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  から入るとわからないことだらけだろう」"
+                                ""
                             ]
                         },
                         {
@@ -16813,14 +16813,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ジャクソン】"
+                                "\\>【Jackson】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺たちがいろんなことを教えてやる」"
+                                "We'll teach you all sorts of things."
                             ]
                         },
                         {
@@ -16844,14 +16844,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ジャクソン】"
+                                "\\>【Jackson】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちなみに寮はどこだ？」"
+                                "By the way, where is the dormitory?"
                             ]
                         },
                         {
@@ -16875,14 +16875,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[6]\\z[040]"
+                                "\\>【Amelia】\\m[6]\\z[040]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハワード寮です」"
+                                "It's Howard Dormitory."
                             ]
                         },
                         {
@@ -16899,14 +16899,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺と同じだ。なら親睦会を開かないとね」"
+                                "If it's the same as me, then we should have a\nsocial gathering."
                             ]
                         },
                         {
@@ -16930,14 +16930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[6]\\z[041]"
+                                "\\>【Amelia】\\m[6]\\z[041]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんな、まだ会ったばかりですし」"
+                                "Oh, come on. We just met."
                             ]
                         },
                         {
@@ -16954,21 +16954,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いいのいいの。これから長い付き合いになるこ"
+                                "It's fine, it's fine. We'll be together for a long\ntime from now on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  とだし」"
+                                ""
                             ]
                         },
                         {
@@ -16985,14 +16985,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悩みとかあったら、なんでも聞くよ」"
+                                "If you have any worries, feel free to ask me\nanything."
                             ]
                         },
                         {
@@ -17016,14 +17016,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ジャクソン】"
+                                "\\>【Jackson】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「親睦会はハワード寮の談話室で行おう」"
+                                "Let's have the social gathering in the Howard\nDormitory's lounge."
                             ]
                         },
                         {
@@ -17047,14 +17047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ジャクソン】"
+                                "\\>【Jackson】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぜひ来てくれ」"
+                                "Please come."
                             ]
                         },
                         {
@@ -17078,14 +17078,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[6]\\z[042]"
+                                "\\>【Amelia】\\m[6]\\z[042]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ……」"
+                                "Sigh..."
                             ]
                         },
                         {
@@ -17109,21 +17109,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[6]\\z[043]"
+                                "\\>【Amelia】\\m[6]\\z[043]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（急な話だけど、どうしよう。魔法研の情報が"
+                                "(It's a sudden request, but what should I do? If\nwe can gather information about the Magic Research\nClub, we should go...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  聞き出せるのなら行くべきだけど……）」"
+                                ""
                             ]
                         },
                         {
@@ -17140,14 +17140,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒】"
+                                "\\>【Male Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちなみに何カップ？　初体験はまだ？」"
+                                "By the way, what cup size are you? Have you had\nyour first experience yet?"
                             ]
                         },
                         {
@@ -17171,14 +17171,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[6]\\z[044]"
+                                "\\>【Amelia】\\m[6]\\z[044]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すみません……そういう話は苦手で」"
+                                "I'm sorry... I'm not good with that kind of talk."
                             ]
                         },
                         {
@@ -17308,21 +17308,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【清掃員】"
+                                "[Janitor] I'm in the middle of cleaning here.\nSomeone used magic to play a prank."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こっちは清掃中なんじゃ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　魔法でいたずらした者がおってな」"
+                                ""
                             ]
                         },
                         {
@@ -17481,14 +17481,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【清掃員】"
+                                "[Janitor] We're in the middle of cleaning here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こっちは清掃中なんじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -17709,14 +17709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【清掃員】"
+                                "[Janitor] We're in the middle of cleaning here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こっちは清掃中なんじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -18291,14 +18291,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【誰かのふくろう】"
+                                "【Someone's Owl】Hoo hoo"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ほーほー」"
+                                ""
                             ]
                         },
                         {
@@ -18382,28 +18382,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスのギャル】"
+                                "【Class Gal】I wonder who I should have sex with\ntoday. I prefer someone muscular, but all the\nwizards are skinny."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日はだれとセックスしよっかなぁ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ムキムキな人がいいんだけど、魔法使いって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ヒョロガリばっかだし」"
+                                ""
                             ]
                         },
                         {
@@ -18487,14 +18487,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【他クラスのギャル】"
+                                "【Gal from another class】Hmm, I don't think you're\nmy type."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「んー、君は好みじゃないかなー」"
+                                ""
                             ]
                         },
                         {
@@ -18572,14 +18572,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（行ったことのない場所も見ておくか）」"
+                                "(Should I also see places I've never been to?)"
                             ]
                         },
                         {
@@ -18596,14 +18596,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（たしか４階と５階はまだだったな）」"
+                                "(I think the 4th and 5th floors are still left.)"
                             ]
                         },
                         {
@@ -18620,21 +18620,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「５階には部室棟があるんだったか。少し気にな"
+                                "I remember there being a club building on the 5th\nfloor. It's a little intriguing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  る」"
+                                ""
                             ]
                         },
                         {

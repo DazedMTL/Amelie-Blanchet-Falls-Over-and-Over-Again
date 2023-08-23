@@ -4631,7 +4631,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "授業を飛ばしますか？"
+                                "Do you want to skip class?"
                             ]
                         },
                         {
@@ -4710,14 +4710,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日は名前を使った呪い魔法を教える」"
+                                "Today, I will teach a curse magic that uses names."
                             ]
                         },
                         {
@@ -4734,21 +4734,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「呪い魔法の中では基本となるものだから、しっ"
+                                "Because it is fundamental in curse magic, make\nsure to listen carefully."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  かりと聞いておくように」"
+                                ""
                             ]
                         },
                         {
@@ -4765,14 +4765,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（今日は普通の授業か……良かった）」"
+                                "(Today is a normal class... That's good)"
                             ]
                         },
                         {
@@ -4789,21 +4789,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「教える魔法は、名前を紙に書いて動きを止める"
+                                "The magic I will teach is one that stops movement\nby writing names on paper."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  というものだ」"
+                                ""
                             ]
                         },
                         {
@@ -4820,21 +4820,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「とても強力だが、相手の本名を知っていないと"
+                                "It is very powerful, but it cannot be used unless\nyou know the opponent's real name."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  使えない」"
+                                ""
                             ]
                         },
                         {
@@ -4851,14 +4851,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「対悪魔用の魔法としてはいまいちだな」"
+                                "As a magic for fighting demons, it's not quite\nthere."
                             ]
                         },
                         {
@@ -4875,21 +4875,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかしこの魔法には呪い魔法の基礎が詰まって"
+                                "However, this magic is filled with the\nfundamentals of curse magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いる」"
+                                ""
                             ]
                         },
                         {
@@ -4906,21 +4906,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日はペアになって、実際に魔法を使用しても"
+                                "Today, pair up and actually use magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  らおう」"
+                                ""
                             ]
                         },
                         {
@@ -4951,14 +4951,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[30]\\z[057]"
+                                "\\>【Hiyo】\\m[30]\\z[057]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「正宗さん」"
+                                "Masamune-san"
                             ]
                         },
                         {
@@ -4975,14 +4975,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうしたんだ日和」"
+                                "What's wrong, Hiyo?"
                             ]
                         },
                         {
@@ -5006,14 +5006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[30]\\z[058]"
+                                "\\>【Hiyo】\\m[30]\\z[058]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わたしとペアを組んでもらっていいですか？」"
+                                "Can you pair up with me?"
                             ]
                         },
                         {
@@ -5030,14 +5030,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「俺と……」"
+                                "With me..."
                             ]
                         },
                         {
@@ -5061,14 +5061,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[30]\\z[059]"
+                                "\\>【Hiyo】\\m[30]\\z[059]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「また、してる振りをして欲しいんです」"
+                                "I want you to pretend again."
                             ]
                         },
                         {
@@ -5092,14 +5092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[30]\\z[060]"
+                                "\\>【Hiyo】\\m[30]\\z[060]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わたし、あまり呪い魔法は得意ではなくて……」"
+                                "I'm not very good at curse magic..."
                             ]
                         },
                         {
@@ -5116,14 +5116,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ、そうなんだ。でもいいのか」"
+                                "Ah, is that so? But is it okay?"
                             ]
                         },
                         {
@@ -5147,21 +5147,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[30]\\z[061]"
+                                "\\>【Hiyo】\\m[30]\\z[061]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「問題ありません。単位をもらうために、他の人"
+                                "No problem. I treat others well too in order to\nget good grades."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  もよくしてますから」"
+                                ""
                             ]
                         },
                         {
@@ -5178,14 +5178,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうなのか……」"
+                                "Is that so..."
                             ]
                         },
                         {
@@ -5216,14 +5216,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[265]"
+                                "\\>【Amelia】\\m[8]\\z[265]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「正宗君は他の人と組むんだね」"
+                                "Masamune-kun is teaming up with someone else, huh?"
                             ]
                         },
                         {
@@ -5240,14 +5240,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ、悪い」"
+                                "Ah, my apologies."
                             ]
                         },
                         {
@@ -5271,14 +5271,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[266]"
+                                "\\>【Amelia】\\m[8]\\z[266]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「別にいいよ。私はエレナちゃんと組むから」"
+                                "It's fine. I'll team up with Elena-chan."
                             ]
                         },
                         {
@@ -5295,14 +5295,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（相手は女か……とりあえず一安心だな）」"
+                                "(The other person is a woman... Well, at least\nthat's a relief)"
                             ]
                         },
                         {
@@ -5326,14 +5326,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[267]"
+                                "\\>【Amelia】\\m[8]\\z[267]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「動きを止めてる間に変なことしちゃだめだよ」"
+                                "You shouldn't do anything weird while stopping."
                             ]
                         },
                         {
@@ -5357,14 +5357,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[30]\\z[062]"
+                                "\\>【Hiyo】\\m[30]\\z[062]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え……」"
+                                "Eh..."
                             ]
                         },
                         {
@@ -5381,14 +5381,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや、しないから」"
+                                "No, I won't do it."
                             ]
                         },
                         {
@@ -5412,14 +5412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[30]\\z[063]"
+                                "\\>【Hiyo】\\m[30]\\z[063]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本当ですか……」"
+                                "Is that true...?"
                             ]
                         },
                         {
@@ -5436,14 +5436,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本当だから安心してくれ」"
+                                "It's true, so please rest assured."
                             ]
                         },
                         {
@@ -5467,14 +5467,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】\\m[30]\\z[064]"
+                                "\\>【Hiyo】\\m[30]\\z[064]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「良かったです。正宗さんが紳士で助かりました」"
+                                "I'm glad. Masamune-san is a gentleman and it's a\nrelief."
                             ]
                         },
                         {
@@ -5491,21 +5491,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（それにしても、小夜子と性格が違いすぎる…"
+                                "(Nevertheless, Koyako's personality is too\ndifferent...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  …）」"
+                                ""
                             ]
                         },
                         {
@@ -5522,21 +5522,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（夜になると、この姿でエッチしまくってるん"
+                                "(I wonder if she's having sex like this at night)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  だよなぁ）」"
+                                ""
                             ]
                         },
                         {
@@ -5738,14 +5738,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アメリ」"
+                                "Amelia"
                             ]
                         },
                         {
@@ -5776,14 +5776,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[268]"
+                                "\\>【Amelia】\\m[8]\\z[268]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい……なんでしょうか」"
+                                "Yes... What is it?"
                             ]
                         },
                         {
@@ -5807,14 +5807,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにか違和感があるな」"
+                                "There's something off."
                             ]
                         },
                         {
@@ -5838,14 +5838,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[269]"
+                                "\\>【Amelia】\\m[8]\\z[269]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「違和感ですか……」"
+                                "Is there something off...?"
                             ]
                         },
                         {
@@ -5862,14 +5862,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（なんだ……）」"
+                                "(What is it...)"
                             ]
                         },
                         {
@@ -5893,14 +5893,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「胸がいつもと違うような感じがする」"
+                                "I feel like there's something different about your\nchest."
                             ]
                         },
                         {
@@ -5924,14 +5924,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[270]"
+                                "\\>【Amelia】\\m[8]\\z[270]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ……」"
+                                "(...)"
                             ]
                         },
                         {
@@ -5948,14 +5948,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なに言って……」"
+                                "What are you saying..."
                             ]
                         },
                         {
@@ -5979,14 +5979,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「服を脱ぎなさい」"
+                                "Take off your clothes."
                             ]
                         },
                         {
@@ -6010,14 +6010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[271]"
+                                "\\>【Amelia】\\m[8]\\z[271]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え……」"
+                                "Eh..."
                             ]
                         },
                         {
@@ -6034,14 +6034,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おかしなことを言うのはやめてください」"
+                                "Please stop saying strange things."
                             ]
                         },
                         {
@@ -6065,21 +6065,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「邪魔をするな香心。普段より明らかに胸が膨ら"
+                                "Don't interfere, Kaishin. Your breasts are clearly\nmore swollen than usual."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  んでいる」"
+                                ""
                             ]
                         },
                         {
@@ -6103,14 +6103,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにか危険物を持ち込んでいたらどうするんだ」"
+                                "What will you do if you bring in any dangerous\nitems?"
                             ]
                         },
                         {
@@ -6127,14 +6127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなことするわけないでしょう」"
+                                "There's no way I would do such a thing."
                             ]
                         },
                         {
@@ -6151,14 +6151,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（いきなりなにを言い出すんだ）」"
+                                "(What are you suddenly talking about?)"
                             ]
                         },
                         {
@@ -6182,14 +6182,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「言うことを聞けないのか？」"
+                                "Can't you listen to what I'm saying?"
                             ]
                         },
                         {
@@ -6213,14 +6213,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[272]"
+                                "\\>【Amelia】\\m[8]\\z[272]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい……脱ぎます」"
+                                "Yes... I'll take it off."
                             ]
                         },
                         {
@@ -6237,14 +6237,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アメリっ……！」"
+                                "Amelia...!"
                             ]
                         },
                         {
@@ -6268,14 +6268,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[273]"
+                                "\\>【Amelia】\\m[8]\\z[273]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫だよ……」"
+                                "It's okay..."
                             ]
                         },
                         {
@@ -6292,14 +6292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ……」"
+                                "Kuh..."
                             ]
                         },
                         {
@@ -6316,21 +6316,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（でも、今までのことを比べたら、服を脱ぐく"
+                                "(But compared to everything that has happened so\nfar, taking off my clothes...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  らい……）」"
+                                ""
                             ]
                         },
                         {
@@ -6485,14 +6485,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[274]"
+                                "\\>【Amelia】\\m[8]\\z[274]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……」"
+                                "「......」"
                             ]
                         },
                         {
@@ -6509,14 +6509,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なっ……」"
+                                "Ah..."
                             ]
                         },
                         {
@@ -6540,14 +6540,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだその胸と下着は？」"
+                                "What's with that chest and underwear?"
                             ]
                         },
                         {
@@ -6564,14 +6564,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アメリ……」"
+                                "Amelia..."
                             ]
                         },
                         {
@@ -6588,14 +6588,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（あの下品な下着は……いや、それよりも）」"
+                                "(That vulgar underwear... no, more importantly)"
                             ]
                         },
                         {
@@ -6612,14 +6612,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（明らかに、胸が大きくなってる……）」"
+                                "(Clearly, her breasts have gotten bigger...)"
                             ]
                         },
                         {
@@ -6636,14 +6636,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（俺とした時とは……全然違う……）」"
+                                "(This is completely different from what I\nexpected...)"
                             ]
                         },
                         {
@@ -6660,14 +6660,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「胸はそんなに大きかったか？」"
+                                "Were her breasts really that big?"
                             ]
                         },
                         {
@@ -6691,14 +6691,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[275]"
+                                "\\>【Amelia】\\m[8]\\z[275]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それは……」"
+                                "That is..."
                             ]
                         },
                         {
@@ -6722,21 +6722,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もしかして、魔法で胸を大きくしたんじゃない"
+                                "Could it be that she used magic to make her\nbreasts bigger?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  のか？」"
+                                ""
                             ]
                         },
                         {
@@ -6753,14 +6753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クラスのギャル】"
+                                "\\>【Class Gal】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えー、なにそれ」"
+                                "Eh, what's that?"
                             ]
                         },
                         {
@@ -6777,21 +6777,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒Ａ】"
+                                "\\>【Male Student A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そういや、性魔法部連合に肉体改造魔法を研究"
+                                "Come to think of it, wasn't there someone in the\nSexual Magic Club Union who was researching body\nmodification magic?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  してるやつがいたっけ」"
+                                ""
                             ]
                         },
                         {
@@ -6808,14 +6808,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クラスのギャル】"
+                                "\\>【Class Gal】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それでしてもらったんだー」"
+                                "I got it done, though."
                             ]
                         },
                         {
@@ -6839,14 +6839,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[276]"
+                                "\\>【Amelia】\\m[8]\\z[276]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ち、違うよ」"
+                                "N-No, that's not it."
                             ]
                         },
                         {
@@ -6863,14 +6863,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだ。アメリがそんなことするはずない」"
+                                "That's right. Amelia wouldn't do something like\nthat."
                             ]
                         },
                         {
@@ -6887,14 +6887,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「下品なヤツらと一緒にするな」"
+                                "Don't lump me together with those vulgar guys."
                             ]
                         },
                         {
@@ -6918,14 +6918,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[277]"
+                                "\\>【Amelia】\\m[8]\\z[277]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……」"
+                                "「......」"
                             ]
                         },
                         {
@@ -6949,14 +6949,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なら、その胸はなんだ」"
+                                "Then, what about those breasts?"
                             ]
                         },
                         {
@@ -6980,14 +6980,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[278]"
+                                "\\>【Amelia】\\m[8]\\z[278]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……魔法で大きくなりました」"
+                                "...I grew them with magic."
                             ]
                         },
                         {
@@ -7004,14 +7004,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なっ……」"
+                                "Wha..."
                             ]
                         },
                         {
@@ -7035,14 +7035,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やはりそうか」"
+                                "I see, as I thought."
                             ]
                         },
                         {
@@ -7066,21 +7066,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうやってエロい体になって、男子生徒を誘惑"
+                                "So you were planning to become a seductive figure\nand tempt the male students, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  するつもりだったんだろう」"
+                                ""
                             ]
                         },
                         {
@@ -7104,14 +7104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[279]"
+                                "\\>【Amelia】\\m[8]\\z[279]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「違います……」"
+                                "That's not true..."
                             ]
                         },
                         {
@@ -7135,14 +7135,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だったらなんだその下着は！」"
+                                "Then what about that underwear!"
                             ]
                         },
                         {
@@ -7166,14 +7166,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[280]"
+                                "\\>【Amelia】\\m[8]\\z[280]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……」"
+                                "「......」"
                             ]
                         },
                         {
@@ -7197,14 +7197,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「淫紋も、全てセックスするためのものだろう」"
+                                "The lewd marks are all for the purpose of having\nsex, aren't they?"
                             ]
                         },
                         {
@@ -7228,14 +7228,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この神聖な学び舎で、なにをするつもりだ」"
+                                "What do you intend to do in this sacred place of\nlearning?"
                             ]
                         },
                         {
@@ -7252,14 +7252,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（アメリがそんなことするはずない」"
+                                "(Amelia wouldn't do something like that)"
                             ]
                         },
                         {
@@ -7276,14 +7276,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（そう信じたいのに……」"
+                                "(I want to believe that...)"
                             ]
                         },
                         {
@@ -7300,14 +7300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クラスのギャル】"
+                                "\\>【Class Gal】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まじエロー」"
+                                "Super lewd!"
                             ]
                         },
                         {
@@ -7324,14 +7324,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【男子生徒Ａ】"
+                                "\\>【Male Student A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やりてぇ……」"
+                                "I want to do it..."
                             ]
                         },
                         {
@@ -7355,14 +7355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「全く、セックスのことしか考えてないのか」"
+                                "Honestly, is sex the only thing you think about?"
                             ]
                         },
                         {
@@ -7386,14 +7386,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[281]"
+                                "\\>【Amelia】\\m[8]\\z[281]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すみません……」"
+                                "I'm sorry..."
                             ]
                         },
                         {
@@ -7417,14 +7417,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「肉体改造魔法や淫紋は、まぁいい」"
+                                "Well, as for body modification magic and erotic\nmarks, I suppose they're fine."
                             ]
                         },
                         {
@@ -7448,14 +7448,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかしその下着は校則違反だ」"
+                                "However, that underwear violates the school rules."
                             ]
                         },
                         {
@@ -7479,14 +7479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「罰として、その下着の格好で授業を受けるんだ」"
+                                "As punishment, you will attend class dressed in\nthat underwear."
                             ]
                         },
                         {
@@ -7510,14 +7510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[282]"
+                                "\\>【Amelia】\\m[8]\\z[282]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え……」"
+                                "Eh..."
                             ]
                         },
                         {
@@ -7534,14 +7534,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クラスのギャル】"
+                                "\\>【Class Gal】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「先生も変態じゃん」"
+                                "The teacher is a pervert too, huh?"
                             ]
                         },
                         {
@@ -7565,14 +7565,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにか言ったか」"
+                                "Did you say something?"
                             ]
                         },
                         {
@@ -7589,14 +7589,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クラスのギャル】"
+                                "\\>【Class Gal】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでもありませーん」"
+                                "Anything goes~"
                             ]
                         },
                         {
@@ -7620,14 +7620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[283]"
+                                "\\>【Amelia】\\m[8]\\z[283]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの……この格好でって」"
+                                "Um... dressed like this?"
                             ]
                         },
                         {
@@ -7644,21 +7644,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「当然の罰だ。これに懲りたら、そんな下着は学"
+                                "It's only natural to be punished. If you learn\nyour lesson from this, don't wear such underwear\ninside the academy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  院内で着用するんじゃない」"
+                                ""
                             ]
                         },
                         {
@@ -7682,14 +7682,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[284]"
+                                "\\>【Amelia】\\m[8]\\z[284]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、う……」"
+                                "Ah, uh..."
                             ]
                         },
                         {
@@ -7706,14 +7706,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そんなのおかしいです」"
+                                "Th-That's absurd."
                             ]
                         },
                         {
@@ -7737,14 +7737,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにか意見があるのか」"
+                                "Do you have any opinions?"
                             ]
                         },
                         {
@@ -7761,21 +7761,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ありますよ。だって、先生だってエッチなこと"
+                                "Of course. After all, even the professor teaches\nclasses about naughty things, don't they?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  する授業をしてるじゃないですか」"
+                                ""
                             ]
                         },
                         {
@@ -7792,21 +7792,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アメリが……エロい下着をつけるくらい、大し"
+                                "Amelia... I don't think she's ever done anything\nas daring as wearing sexy underwear."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  たことないでしょう」"
+                                ""
                             ]
                         },
                         {
@@ -7830,14 +7830,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私は学院の許可をもらって行っている」"
+                                "I have obtained permission from the academy to do\nso."
                             ]
                         },
                         {
@@ -7861,21 +7861,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかし派手な下着を着用するのは校則違反だ。"
+                                "However, wearing flashy underwear is against the\nschool rules. There's nothing strange about it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  なにもおかしなことはない」"
+                                ""
                             ]
                         },
                         {
@@ -7892,14 +7892,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっ……」"
+                                "Ugh..."
                             ]
                         },
                         {
@@ -7916,14 +7916,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（このダブスタくそ教師がっ……）」"
+                                "(This hypocritical shitty teacher...)"
                             ]
                         },
                         {
@@ -8062,14 +8062,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【ホフマン先生】"
+                                "\\>【Professor Hoffman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それでは授業に戻る」"
+                                "Now let's get back to the lesson."
                             ]
                         },
                         {
@@ -8086,14 +8086,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アメリ、もうこんな授業を受けるのはやめよう」"
+                                "Amelia, let's stop taking this kind of class\nanymore."
                             ]
                         },
                         {
@@ -8117,14 +8117,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[285]"
+                                "\\>【Amelia】\\m[8]\\z[285]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だめだよ」"
+                                "No, it's not allowed."
                             ]
                         },
                         {
@@ -8141,14 +8141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうして……」"
+                                "Why..."
                             ]
                         },
                         {
@@ -8172,14 +8172,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[286]"
+                                "\\>【Amelia】\\m[8]\\z[286]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「……」"
+                                "「......」"
                             ]
                         },
                         {
@@ -8196,21 +8196,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（任務のために我慢するってことか……だとし"
+                                "(Even if it means enduring it for the mission...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ても）」"
+                                ""
                             ]
                         },
                         {
@@ -8234,21 +8234,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[8]\\z[287]"
+                                "\\>【Amelia】\\m[8]\\z[287]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私は平気だから。それに校則違反だったらしょ"
+                                "I'm fine with it. Besides, if it's against the\nschool rules, there's nothing we can do."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  うがないよ」"
+                                ""
                             ]
                         },
                         {
@@ -8265,14 +8265,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あぁ……」"
+                                "Ah, ah..."
                             ]
                         },
                         {
@@ -8289,14 +8289,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（まだ俺にはアメリを守る力がないのか）」"
+                                "(Do I still not have the power to protect Amelia?)"
                             ]
                         },
                         {

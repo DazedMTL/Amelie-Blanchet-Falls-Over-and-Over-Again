@@ -3988,7 +3988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不思議な光で体力が回復した。"
+                                "My energy was restored by a mysterious light."
                             ]
                         },
                         {
@@ -5903,14 +5903,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テオ"
+                                "Theo: Are you feeling okay, Leila?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「体調は大丈夫かレイラ」"
+                                ""
                             ]
                         },
                         {
@@ -5941,45 +5941,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイラ"
+                                "Leila: Yeah. The professor said I've entered the\nstable period, so there's no problem."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「うん。先生も安定期に入ったって言ってたし、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　問題ないわ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「それはよかった」"
+                                ""
                             ]
                         },
                         {
@@ -5996,38 +5972,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれからいろいろあったけど、今は二人で幸せに"
+                                "Theo: That's good to hear."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "暮らしている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今もマンクシティの空にはマンク城が浮かんでいるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちは平穏な毎日を送っていた。"
+                                ""
                             ]
                         },
                         {
@@ -6044,14 +5996,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テオ"
+                                "After that, there were various things, but now we\nare living happily together."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「落ち着いたら、結婚式もあげたいよな」"
+                                "Even now, the Manck Castle still floats in the\nsky of Manck City, but we were living peaceful\ndays."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Theo: Once things settle down, I want to have a\nwedding, you know?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6075,14 +6075,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイラ"
+                                "Leila: Yeah. It's a once-in-a-lifetime thing, so\nI definitely want to do it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「うん。一生に一度のことだから、絶対したいわ」"
+                                ""
                             ]
                         },
                         {
@@ -6106,38 +6106,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイラ"
+                                "Leila: When I contacted my older sister, she said\nshe wants to attend the wedding."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お姉ちゃんに連絡したら、式には出席したいって言ってたし」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「それはよかった」"
+                                ""
                             ]
                         },
                         {
@@ -6154,14 +6130,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テオ"
+                                "Theo: That's good to hear."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「俺も久しぶりに会いたいしな」"
+                                "Theo: I also want to see her after a long time."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6185,38 +6185,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイラ"
+                                "Leila: Don't do anything weird, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「変なことしないでよね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テオ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「するわけないだろ」"
+                                ""
                             ]
                         },
                         {
@@ -6233,14 +6209,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テオ"
+                                "Theo: There's no way I would do that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「こんなに可愛い奥さんが居るんだから」"
+                                "Theo: Because I have such a cute wife."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6264,14 +6264,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイラ"
+                                "Leila: Hmm... \\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ん……\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -6288,14 +6288,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テオ"
+                                "Theo: Leila..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「レイラ……」"
+                                ""
                             ]
                         },
                         {
@@ -6319,14 +6319,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイラ"
+                                "Leila: Hey, if we do it, can I wear that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ねぇ、するならあれ着ていい？」"
+                                ""
                             ]
                         },
                         {
@@ -6350,14 +6350,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイラ"
+                                "Leila: I don't think the wedding will be anytime\nsoon, so I can't wait."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「式はまだ先になると思うから、我慢できないの」"
+                                ""
                             ]
                         },
                         {
@@ -9732,28 +9732,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "１週目２夜//探索終わり　トミーに話しかける（グラウンド"
+                                "1st Week, 2nd Night // After finishing the\nexploration, talk to Tommy (Grounds, Cafeteria,\nStaff Room, Main Hall, Bookstore, Chapel,\nHoffman's Office)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  、食堂、職員室、大ホール、購買部、礼拝堂、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ホフマン）"
+                                ""
                             ]
                         },
                         {
@@ -9777,14 +9777,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[051]"
+                                "\\>【Amelia】\\m[1]\\z[051]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法は呪文を言い、発動させます」"
+                                "Magic is activated by chanting spells."
                             ]
                         },
                         {
@@ -9801,21 +9801,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[052]"
+                                "\\>【Amelia】\\m[1]\\z[052]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「自分の心の中で、どのような魔法かをイメージ"
+                                "It is important to imagine what kind of magic it\nis in your own heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  することが重要です」"
+                                ""
                             ]
                         },
                         {
@@ -9832,14 +9832,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[053]"
+                                "\\>【Amelia】\\m[1]\\z[053]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「呪文はイメージの補助となります」"
+                                "Incantations serve as aids for visualization."
                             ]
                         },
                         {
@@ -9856,21 +9856,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[054]"
+                                "\\>【Amelia】\\m[1]\\z[054]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そして杖は、大気中にある魔力を集めるための"
+                                "And the staff is a tool for gathering magical\npower from the atmosphere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  補助の道具です」"
+                                ""
                             ]
                         },
                         {
@@ -9894,21 +9894,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[011]"
+                                "\\>【Elena】\\m[16]\\z[011]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//正宗たちの会話の裏で流す、エレナは少しだる"
+                                "//Elena reads with a slightly tired expression\nbehind Masamune and the others' conversation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  そうに読む"
+                                ""
                             ]
                         },
                         {
@@ -9925,28 +9925,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[012]"
+                                "\\>【Elena】\\m[16]\\z[012]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪魔との戦いが始まった神歴９００年に、最初"
+                                "Magic spread among humanity when the first\nmagician, Gnoth Magos, used it at the start of the\nbattle with demons 900 years ago in the divine\ncalendar."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  の魔法使いグノース・マゴスが使用したことで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  人類に広まりました」"
+                                ""
                             ]
                         },
                         {
@@ -9963,21 +9963,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[013]"
+                                "\\>【Elena】\\m[16]\\z[013]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「グノース・マゴスはのちに捕まり、異端者とし"
+                                "Gnoth Magos was later captured and executed as a\nheretic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  て処刑されます」"
+                                ""
                             ]
                         },
                         {
@@ -9994,28 +9994,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[014]"
+                                "\\>【Elena】\\m[16]\\z[014]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかし生き残った弟子が各地で魔法を広め、長"
+                                "However, the surviving disciples spread magic in\nvarious places and over a long period of time, it\ncame to be recognized as a power to counter\ndemons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  い時間をかけて悪魔に対抗する力として認めら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  れていきました」"
+                                ""
                             ]
                         },
                         {
@@ -10032,28 +10032,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[015]"
+                                "\\>【Elena】\\m[16]\\z[015]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法を使える人と使えない人の違いは、生まれ"
+                                "The difference between people who can use magic\nand those who cannot is said to be determined by\nthe amount of magical power they are born with."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  つきで決まっている、体内の魔力量と言われて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  います」"
+                                ""
                             ]
                         },
                         {
@@ -10070,21 +10070,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[016]"
+                                "\\>【Elena】\\m[16]\\z[016]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法は魔力を使って使用します。魔力は体内以"
+                                "Magic is used by utilizing magical power. Magical\npower exists not only within the body, but also in\nthe atmosphere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  外にも大気中に存在しています」"
+                                ""
                             ]
                         },
                         {
@@ -10101,21 +10101,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[017]"
+                                "\\>【Elena】\\m[16]\\z[017]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「場所によって魔力の濃い場所があり、一般的に"
+                                "There are places where magical power is\nconcentrated, and generally, it tends to become\nstronger as you go underground."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  地下に行くほど強くなる傾向があります」"
+                                ""
                             ]
                         },
                         {
@@ -10132,7 +10132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//■■■Chapter1「憧れと過ち」"
+                                "//■■■Chapter 1 Longing and Mistake"
                             ]
                         },
                         {
@@ -10156,38 +10156,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "[Amelia] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -10204,38 +10180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Masamune] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【日和】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -10252,38 +10204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Elena] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【オリビア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -10300,14 +10228,86 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レビヤタン】"
+                                "[Hiyo] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「」"
+                                "[Sayoko] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Olivia] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Mysterious Girl Leviathan] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10331,38 +10331,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ホフマン先生】"
+                                "[Professor Hoffman] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -10379,38 +10355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "[Tommy] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -10427,14 +10379,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジャクソン】"
+                                "[Leon] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「」"
+                                "[Skeleton Head] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Jackson] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12176,28 +12176,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "１週目２夜//探索終わり　トミーに話しかける（グラウンド"
+                                "1st Week, 2nd Night // After finishing the\nexploration, talk to Tommy (Grounds, Cafeteria,\nStaff Room, Main Hall, Bookstore, Chapel,\nHoffman's Office)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  、食堂、職員室、大ホール、購買部、礼拝堂、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ホフマン）"
+                                ""
                             ]
                         },
                         {
@@ -12221,14 +12221,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[051]"
+                                "\\>【Amelia】\\m[1]\\z[051]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法は呪文を言い、発動させます」"
+                                "Magic is activated by chanting spells."
                             ]
                         },
                         {
@@ -12245,21 +12245,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[052]"
+                                "\\>【Amelia】\\m[1]\\z[052]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「自分の心の中で、どのような魔法かをイメージ"
+                                "It is important to imagine what kind of magic it\nis in your own heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  することが重要です」"
+                                ""
                             ]
                         },
                         {
@@ -12276,14 +12276,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[053]"
+                                "\\>【Amelia】\\m[1]\\z[053]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「呪文はイメージの補助となります」"
+                                "Incantations serve as aids for visualization."
                             ]
                         },
                         {
@@ -12300,21 +12300,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[054]"
+                                "\\>【Amelia】\\m[1]\\z[054]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そして杖は、大気中にある魔力を集めるための"
+                                "And the staff is a tool for gathering magical\npower from the atmosphere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  補助の道具です」"
+                                ""
                             ]
                         },
                         {
@@ -12338,21 +12338,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[011]"
+                                "\\>【Elena】\\m[16]\\z[011]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//正宗たちの会話の裏で流す、エレナは少しだる"
+                                "//Elena reads with a slightly tired expression\nbehind Masamune and the others' conversation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  そうに読む"
+                                ""
                             ]
                         },
                         {
@@ -12369,28 +12369,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[012]"
+                                "\\>【Elena】\\m[16]\\z[012]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪魔との戦いが始まった神歴９００年に、最初"
+                                "Magic spread among humanity when the first\nmagician, Gnoth Magos, used it at the start of the\nbattle with demons 900 years ago in the divine\ncalendar."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  の魔法使いグノース・マゴスが使用したことで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  人類に広まりました」"
+                                ""
                             ]
                         },
                         {
@@ -12407,21 +12407,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[013]"
+                                "\\>【Elena】\\m[16]\\z[013]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「グノース・マゴスはのちに捕まり、異端者とし"
+                                "Gnoth Magos was later captured and executed as a\nheretic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  て処刑されます」"
+                                ""
                             ]
                         },
                         {
@@ -12438,28 +12438,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[014]"
+                                "\\>【Elena】\\m[16]\\z[014]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかし生き残った弟子が各地で魔法を広め、長"
+                                "However, the surviving disciples spread magic in\nvarious places and over a long period of time, it\ncame to be recognized as a power to counter\ndemons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  い時間をかけて悪魔に対抗する力として認めら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  れていきました」"
+                                ""
                             ]
                         },
                         {
@@ -12476,28 +12476,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[015]"
+                                "\\>【Elena】\\m[16]\\z[015]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法を使える人と使えない人の違いは、生まれ"
+                                "The difference between people who can use magic\nand those who cannot is said to be determined by\nthe amount of magical power they are born with."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  つきで決まっている、体内の魔力量と言われて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  います」"
+                                ""
                             ]
                         },
                         {
@@ -12514,21 +12514,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[016]"
+                                "\\>【Elena】\\m[16]\\z[016]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法は魔力を使って使用します。魔力は体内以"
+                                "Magic is used by utilizing magical power. Magical\npower exists not only within the body, but also in\nthe atmosphere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  外にも大気中に存在しています」"
+                                ""
                             ]
                         },
                         {
@@ -12545,21 +12545,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[017]"
+                                "\\>【Elena】\\m[16]\\z[017]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「場所によって魔力の濃い場所があり、一般的に"
+                                "There are places where magical power is\nconcentrated, and generally, it tends to become\nstronger as you go underground."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  地下に行くほど強くなる傾向があります」"
+                                ""
                             ]
                         },
                         {
@@ -12576,7 +12576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//■■■Chapter1「憧れと過ち」"
+                                "//■■■Chapter 1 Longing and Mistake"
                             ]
                         },
                         {
@@ -12600,38 +12600,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "[Amelia] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -12648,38 +12624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Masamune] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【日和】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -12696,38 +12648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Elena] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【オリビア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -12744,14 +12672,86 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レビヤタン】"
+                                "[Hiyo] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「」"
+                                "[Sayoko] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Olivia] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Mysterious Girl Leviathan] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12775,38 +12775,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ホフマン先生】"
+                                "[Professor Hoffman] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -12823,38 +12799,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "[Tommy] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -12871,14 +12823,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジャクソン】"
+                                "[Leon] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「」"
+                                "[Skeleton Head] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Jackson] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13022,14 +13022,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】I sense something unpleasant..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なにか嫌な気配がする……」"
+                                ""
                             ]
                         },
                         {
@@ -13067,38 +13067,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "嫌な気配を感じる場合は、近くにユニークモンスターが"
+                                "If you sense something unpleasant, there is a\nunique monster nearby."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "居ます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ユニークモンスターは他のモンスターよりも強く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戦闘をスキップすることが出来ません。"
+                                ""
                             ]
                         },
                         {
@@ -13115,7 +13091,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また、倒すことで良い報酬を得られることが出来ます。"
+                                "Unique monsters are stronger than other monsters\nand cannot be skipped in battle."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Furthermore, you can obtain good rewards by\ndefeating them."
                             ]
                         },
                         {
@@ -13856,14 +13856,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【】"
+                                "【】「」"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -15098,14 +15098,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】(I'm not ready yet...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「（まだ準備ができていない……）」"
+                                ""
                             ]
                         },
                         {
@@ -15122,7 +15122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "決戦は３日目以降でないと行けません。"
+                                "The final battle cannot take place until the\nthird day or later."
                             ]
                         },
                         {
@@ -15639,21 +15639,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//その他ループに分岐"
+                                "// Branching off into other loops // ●▲5-1 Free\nactivities during the day"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  //●▲5-1昼　自由行動"
+                                ""
                             ]
                         },
                         {
@@ -15670,14 +15670,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【小夜子】\\m[35]\\z[050]"
+                                "\\>【Sayoko】\\m[35]\\z[050]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「工房にはそっちの通路から行ける」"
+                                "You can go to the workshop through that corridor."
                             ]
                         },
                         {
@@ -15694,21 +15694,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//●▲4-1夜　自由行動　"
+                                "// ●▲4-1 Free activities at night // Elena sub-\nepisode, Macaron"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  //エレナサブエピ、マカロン"
+                                ""
                             ]
                         },
                         {
@@ -15725,14 +15725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[47]\\z[019]"
+                                "\\>【Leviathan】\\m[47]\\z[019]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅ、美味しかった」"
+                                "Ah, that was delicious."
                             ]
                         },
                         {
@@ -15756,28 +15756,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[19]\\z[080]"
+                                "\\>【Elena】\\m[19]\\z[080]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//サブ"
+                                "// Sub // Amelia is acting a bit strange, seems\nlike she's in heat // We're not lovers right now"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  //アメリは少し変、発情してるみたい"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  //今は恋人じゃない"
+                                ""
                             ]
                         },
                         {
@@ -15794,28 +15794,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//ダンジョン3　B3ダンジョン"
+                                "// Dungeon 3B3 Dungeon // Sub-event Erotic Trap,\neating portable food // Reached the deepest part"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  //サブイベ　エロトラップ、携帯食料食べる"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  //最奥に到達"
+                                ""
                             ]
                         },
                         {
@@ -15839,14 +15839,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[3]\\z[006]"
+                                "\\>【Amelia】\\m[3]\\z[006]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「結構美味しいね、ここの食事」"
+                                "The food here is quite delicious."
                             ]
                         },
                         {
@@ -15863,14 +15863,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「美味しいか？　普通だと思うけど」"
+                                "Is it delicious? I think it's just average."
                             ]
                         },
                         {
@@ -15887,14 +15887,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[3]\\z[007]"
+                                "\\>【Amelia】\\m[3]\\z[007]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうかな」"
+                                "Is that so?"
                             ]
                         },
                         {
@@ -15918,28 +15918,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "１週目２夜//探索終わり　トミーに話しかける（グラウンド"
+                                "1st Week, 2nd Night // After finishing the\nexploration, talk to Tommy (Grounds, Cafeteria,\nStaff Room, Main Hall, School Store, Chapel,\nProfessor Hoffman)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  、食堂、職員室、大ホール、購買部、礼拝堂、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ホフマン）"
+                                ""
                             ]
                         },
                         {
@@ -15963,14 +15963,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[051]"
+                                "\\>【Amelia】\\m[1]\\z[051]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法は呪文を言い、発動させます」"
+                                "Magic is activated by casting spells."
                             ]
                         },
                         {
@@ -15987,21 +15987,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[052]"
+                                "\\>【Amelia】\\m[1]\\z[052]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「自分の心の中で、どのような魔法かをイメージ"
+                                "It is important to imagine what kind of magic it\nis in your own heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  することが重要です」"
+                                ""
                             ]
                         },
                         {
@@ -16018,14 +16018,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[053]"
+                                "\\>【Amelia】\\m[1]\\z[053]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「呪文はイメージの補助となります」"
+                                "Spells serve as aids for imagination."
                             ]
                         },
                         {
@@ -16042,21 +16042,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[054]"
+                                "\\>【Amelia】\\m[1]\\z[054]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そして杖は、大気中にある魔力を集めるための"
+                                "And the staff is a tool for gathering magical\npower from the atmosphere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  補助の道具です」"
+                                ""
                             ]
                         },
                         {
@@ -16080,21 +16080,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[011]"
+                                "\\>【Elena】\\m[16]\\z[011]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//正宗たちの会話の裏で流す、エレナは少しだる"
+                                "//Elena reads it with a slightly tired expression,\nwhile secretly listening to Masamune and the\nothers' conversation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  そうに読む"
+                                ""
                             ]
                         },
                         {
@@ -16111,28 +16111,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[012]"
+                                "\\>【Elena】\\m[16]\\z[012]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪魔との戦いが始まった神歴９００年に、最初"
+                                "Magic spread among humanity when the first\nmagician, Gnoth Magos, used it at the start of the\nbattle with demons in the year 900 of the divine\ncalendar."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  の魔法使いグノース・マゴスが使用したことで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  人類に広まりました」"
+                                ""
                             ]
                         },
                         {
@@ -16149,21 +16149,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[013]"
+                                "\\>【Elena】\\m[16]\\z[013]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「グノース・マゴスはのちに捕まり、異端者とし"
+                                "Gnoth Magos was later captured and executed as a\nheretic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  て処刑されます」"
+                                ""
                             ]
                         },
                         {
@@ -16180,28 +16180,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[014]"
+                                "\\>【Elena】\\m[16]\\z[014]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかし生き残った弟子が各地で魔法を広め、長"
+                                "However, the surviving disciples spread magic in\nvarious places and over a long period of time, it\ncame to be recognized as a power to counter\ndemons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  い時間をかけて悪魔に対抗する力として認めら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  れていきました」"
+                                ""
                             ]
                         },
                         {
@@ -16218,28 +16218,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[015]"
+                                "\\>【Elena】\\m[16]\\z[015]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法を使える人と使えない人の違いは、生まれ"
+                                "The difference between people who can use magic\nand those who cannot is said to be determined by\nthe amount of magical power they are born with."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  つきで決まっている、体内の魔力量と言われて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  います」"
+                                ""
                             ]
                         },
                         {
@@ -16256,21 +16256,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[016]"
+                                "\\>【Elena】\\m[16]\\z[016]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法は魔力を使って使用します。魔力は体内以"
+                                "Magic is used by utilizing magical power. Magical\npower exists not only within the body, but also in\nthe atmosphere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  外にも大気中に存在しています」"
+                                ""
                             ]
                         },
                         {
@@ -16287,21 +16287,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[017]"
+                                "\\>【Elena】\\m[16]\\z[017]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「場所によって魔力の濃い場所があり、一般的に"
+                                "There are places where magical power is\nconcentrated, and generally, it tends to become\nstronger as you go underground."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  地下に行くほど強くなる傾向があります」"
+                                ""
                             ]
                         },
                         {
@@ -16325,38 +16325,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "[Amelia] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -16373,38 +16349,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Masamune] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【日和】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -16421,38 +16373,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Elena] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【オリビア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -16469,14 +16397,86 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レビヤタン】"
+                                "[Hiyo] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「」"
+                                "[Sayoko] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Olivia] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Mysterious Girl Leviathan] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16500,38 +16500,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ホフマン先生】"
+                                "[Professor Hoffman] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -16548,38 +16524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "[Tommy] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -16596,14 +16548,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジャクソン】"
+                                "[Leon] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「」"
+                                "[Skeleton Head] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Jackson] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17079,14 +17079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魅了無効魔法の魔導書を見つけた！"
+                                "Found a spellbook for Charm Immunity Magic!\nMasamune has learned Charm Immunity Magic!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "正宗は『魅了無効魔法』を習得した！"
+                                ""
                             ]
                         },
                         {
@@ -18331,28 +18331,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "１週目２夜//探索終わり　トミーに話しかける（グラウンド"
+                                "1st Week, 2nd Night // After finishing the\nexploration, talk to Tommy (Grounds, Cafeteria,\nStaff Room, Main Hall, Bookstore, Chapel,\nHoffman's Office)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  、食堂、職員室、大ホール、購買部、礼拝堂、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ホフマン）"
+                                ""
                             ]
                         },
                         {
@@ -18376,14 +18376,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[051]"
+                                "\\>【Amelia】\\m[1]\\z[051]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法は呪文を言い、発動させます」"
+                                "Magic is activated by chanting spells."
                             ]
                         },
                         {
@@ -18400,21 +18400,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[052]"
+                                "\\>【Amelia】\\m[1]\\z[052]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「自分の心の中で、どのような魔法かをイメージ"
+                                "It is important to imagine what kind of magic it\nis in your own heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  することが重要です」"
+                                ""
                             ]
                         },
                         {
@@ -18431,14 +18431,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[053]"
+                                "\\>【Amelia】\\m[1]\\z[053]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「呪文はイメージの補助となります」"
+                                "Incantations serve as aids for visualization."
                             ]
                         },
                         {
@@ -18455,21 +18455,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[1]\\z[054]"
+                                "\\>【Amelia】\\m[1]\\z[054]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そして杖は、大気中にある魔力を集めるための"
+                                "And the staff is a tool for gathering magical\npower from the atmosphere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  補助の道具です」"
+                                ""
                             ]
                         },
                         {
@@ -18493,21 +18493,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[011]"
+                                "\\>【Elena】\\m[16]\\z[011]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//正宗たちの会話の裏で流す、エレナは少しだる"
+                                "//Elena reads with a slightly tired expression\nbehind Masamune and the others' conversation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  そうに読む"
+                                ""
                             ]
                         },
                         {
@@ -18524,28 +18524,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[012]"
+                                "\\>【Elena】\\m[16]\\z[012]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪魔との戦いが始まった神歴９００年に、最初"
+                                "Magic spread among humanity when the first\nmagician, Gnoth Magos, used it at the start of the\nbattle with demons 900 years ago in the divine\ncalendar."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  の魔法使いグノース・マゴスが使用したことで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  人類に広まりました」"
+                                ""
                             ]
                         },
                         {
@@ -18562,21 +18562,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[013]"
+                                "\\>【Elena】\\m[16]\\z[013]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「グノース・マゴスはのちに捕まり、異端者とし"
+                                "Gnoth Magos was later captured and executed as a\nheretic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  て処刑されます」"
+                                ""
                             ]
                         },
                         {
@@ -18593,28 +18593,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[014]"
+                                "\\>【Elena】\\m[16]\\z[014]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかし生き残った弟子が各地で魔法を広め、長"
+                                "However, the surviving disciples spread magic in\nvarious places and over a long period of time, it\ncame to be recognized as a power to counter\ndemons."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  い時間をかけて悪魔に対抗する力として認めら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  れていきました」"
+                                ""
                             ]
                         },
                         {
@@ -18631,28 +18631,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[015]"
+                                "\\>【Elena】\\m[16]\\z[015]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法を使える人と使えない人の違いは、生まれ"
+                                "The difference between people who can use magic\nand those who cannot is said to be determined by\nthe amount of magical power they are born with."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  つきで決まっている、体内の魔力量と言われて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  います」"
+                                ""
                             ]
                         },
                         {
@@ -18669,21 +18669,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[016]"
+                                "\\>【Elena】\\m[16]\\z[016]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法は魔力を使って使用します。魔力は体内以"
+                                "Magic is used by utilizing magical power. Magical\npower exists not only within the body, but also in\nthe atmosphere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  外にも大気中に存在しています」"
+                                ""
                             ]
                         },
                         {
@@ -18700,21 +18700,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[16]\\z[017]"
+                                "\\>【Elena】\\m[16]\\z[017]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「場所によって魔力の濃い場所があり、一般的に"
+                                "There are places where magical power is\nconcentrated, and generally, it tends to become\nstronger as you go underground."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  地下に行くほど強くなる傾向があります」"
+                                ""
                             ]
                         },
                         {
@@ -18731,7 +18731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "//■■■Chapter1「憧れと過ち」"
+                                "//■■■Chapter 1 Longing and Mistake"
                             ]
                         },
                         {
@@ -18755,38 +18755,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "[Amelia] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -18803,38 +18779,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【エレナ】"
+                                "[Masamune] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【日和】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -18851,38 +18803,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【小夜子】"
+                                "[Elena] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【オリビア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -18899,14 +18827,86 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レビヤタン】"
+                                "[Hiyo] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「」"
+                                "[Sayoko] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Olivia] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Mysterious Girl Leviathan] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18930,38 +18930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ホフマン先生】"
+                                "[Professor Hoffman] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【トミー】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -18978,38 +18954,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【レオン】"
+                                "[Tommy] "
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【スケルトンヘッド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「」"
+                                ""
                             ]
                         },
                         {
@@ -19026,14 +18978,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ジャクソン】"
+                                "[Leon] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「」"
+                                "[Skeleton Head] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "[Jackson] "
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

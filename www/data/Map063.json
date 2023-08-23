@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "魔法研究室",
+    "displayName": "Magic Research Laboratory",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3115,14 +3115,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】It won't open."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「開かない」"
+                                ""
                             ]
                         },
                         {
@@ -3387,21 +3387,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】(Wait, if I just say it like this,\nit'll be a repeat of the past. I need to come up\nwith a plan or something)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「（待て、このまま言っても前の二の舞いだ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　なにか策を考えないと）」"
+                                ""
                             ]
                         },
                         {
@@ -3418,21 +3418,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】(Come to think of it, I haven't met\nChloe from the Magic Tool Research Club yet.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「（そういえば、魔法具研究会のクロエには"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　まだ会ってないな）」"
+                                ""
                             ]
                         },
                         {
@@ -3660,14 +3660,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【滾るファイアスライム】"
+                                "【Roiling Fire Slime】Hello!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「Hello！」"
+                                ""
                             ]
                         },
                         {
@@ -3691,21 +3691,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Who is this... They feel different from\nthe others. Let's deal with them quickly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なんだこいつ……他のとは違う感じがする。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さっさと処理するか」"
+                                ""
                             ]
                         },
                         {
@@ -3863,21 +3863,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ふぅ、倒せたか。日常的にこんなのと戦ってる"
+                                "Phew, I defeated it. Is it normal to be fighting\nagainst things like this on a daily basis?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  のか？」"
+                                ""
                             ]
                         },
                         {
@@ -3908,21 +3908,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【エレナ】\\m[19]\\z[081]"
+                                "\\>【Elena】\\m[19]\\z[081]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ここまで強いのはなかなかないよ。運が悪かっ"
+                                "It's not often that we encounter something this\nstrong. We were just unlucky."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  たね」"
+                                ""
                             ]
                         },
                         {
@@ -3939,14 +3939,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「運が悪かったで済ませられるか」"
+                                "Can we just chalk it up to bad luck?"
                             ]
                         },
                         {
@@ -3963,21 +3963,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ここが魔法研究室だな。とりあえず怪しいもの"
+                                "So this is the magic research lab. Let's see if\nthere's anything suspicious here for now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "  がないか探すか」"
+                                ""
                             ]
                         },
                         {
@@ -4329,14 +4329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身代わり魔法の魔導書を見つけた！"
+                                "I found a grimoire of substitution magic! Masamune\nhas learned the Substitution Magic!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "正宗は『身代わり魔法』を習得した！"
+                                ""
                             ]
                         },
                         {
@@ -4482,14 +4482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Just a gemstone..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ただの宝石か……」"
+                                ""
                             ]
                         },
                         {
@@ -4680,21 +4680,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】There are a lot of grimoires. But\nthere's nothing about demon summoning rituals."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「魔導書が沢山。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　でも悪魔の召喚儀式に関するものはないな」"
+                                ""
                             ]
                         },
                         {
@@ -4885,21 +4885,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】What is this... vibrators and\ncondoms... why are there such things?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なんだこれは……。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　バイブやコンドーム……どうしてこんなものがあるんだよ」"
+                                ""
                             ]
                         },
                         {

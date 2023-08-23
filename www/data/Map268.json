@@ -8433,14 +8433,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【マムフィールド先生】"
+                                "\\>【Professor Mumfield】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しっかりレポートを書いてくださいね」"
+                                "Please make sure to write a thorough report."
                             ]
                         },
                         {
@@ -8596,14 +8596,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【司書】"
+                                "【Librarian】Please be quiet in the library."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「と、図書室では静かにしてくださいね」"
+                                ""
                             ]
                         },
                         {
@@ -8687,14 +8687,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】"
+                                "\\>【Amelia】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えーと、鍵を開ける魔法っと……」"
+                                "Um, the magic to unlock the door..."
                             ]
                         },
                         {
@@ -8838,21 +8838,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】"
+                                "\\>【Elena】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エレナだって、やればできるんだから。"
+                                "Even Elena can do it. Just copy the text from this\nbook."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この本の文章を丸写しすればいいっしょ」"
+                                ""
                             ]
                         },
                         {
@@ -8936,14 +8936,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「Zzz……」"
+                                "「Zzz......」"
                             ]
                         },
                         {
@@ -9027,14 +9027,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レオン】"
+                                "\\>【Leon】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「僕がまだ知らないエッチな魔法が載ってないかな」"
+                                "I wonder if there are any naughty magic spells\nthat I still don't know about."
                             ]
                         },
                         {
@@ -9118,28 +9118,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【日和】"
+                                "\\>【Hiyo】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここにはいろんな本があって楽しいですね。"
+                                "There are various books here, it's fun. Masamune-\nsan, you need to write your report properly too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　正宗さんも、レポートをしっかり書かないと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　だめですよ」"
+                                ""
                             ]
                         },
                         {
@@ -9223,14 +9223,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クラスのギャル】"
+                                "\\>【Class Gal】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エレナー、あたしの分までレポート書いてー」"
+                                "Elena, write my report for me too."
                             ]
                         },
                         {
@@ -9314,21 +9314,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【スケルトンヘッド】"
+                                "\\>【Skeleton Head】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ、はぁ……こんなにもエッチな魔物が……"
+                                "Haa, haa... There's no doubt that cat-like\nmonsters are this lewd... They never disappoint."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やっぱり猫型の魔物に外れはないな」"
+                                ""
                             ]
                         },
                         {
@@ -9412,21 +9412,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【生徒】"
+                                "\\>【Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アメリちゃんが可愛いから一緒の授業選んだけど、"
+                                "I chose the same class as Amelia-chan because\nshe's cute, but the assignments are too difficult,\nit's crazy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　課題むずすぎてやべーわ」"
+                                ""
                             ]
                         },
                         {
@@ -9510,14 +9510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【生徒】"
+                                "\\>【Student】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ウェーイ！」"
+                                "Yay!"
                             ]
                         },
                         {
@@ -9964,14 +9964,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、この魔法は……」"
+                                "Oh, this magic is..."
                             ]
                         },
                         {
@@ -9988,21 +9988,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ネジ回し魔法……初めて聞くけど、こんなのが"
+                                "Screwdriver magic... I've never heard of it\nbefore, is there really such a thing?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  あるのか」"
+                                ""
                             ]
                         },
                         {
@@ -10019,21 +10019,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「普通に日常的に使うために開発された魔法らし"
+                                "It seems like this magic was developed for\neveryday use, but can it really open doors like\nthis...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いが、こんなので扉を開けられるのか……」"
+                                ""
                             ]
                         },
                         {
@@ -10050,14 +10050,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「簡単そうだし、一応習得して試してみるか」"
+                                "It looks easy, so I'll learn it and give it a try."
                             ]
                         },
                         {
@@ -10097,14 +10097,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[23]\\z[010]"
+                                "\\>【Elena】\\m[23]\\z[010]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あー、レポートなんてめんどくさい」"
+                                "Ugh, reports are such a hassle."
                             ]
                         },
                         {
@@ -10152,14 +10152,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【クラスのギャル】"
+                                "\\>【Class Gal】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だから地獄史なんてやめようって言ったのに」"
+                                "I told you to stop talking about Hell History,\ndidn't I?"
                             ]
                         },
                         {
@@ -10183,14 +10183,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[23]\\z[011]"
+                                "\\>【Elena】\\m[23]\\z[011]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だってレオンがいるし……」"
+                                "But Leon is here..."
                             ]
                         },
                         {
@@ -10214,14 +10214,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[23]\\z[012]"
+                                "\\>【Elena】\\m[23]\\z[012]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「とりあえず、さっさと終わらそ」"
+                                "Let's just finish this quickly for now."
                             ]
                         },
                         {
@@ -10245,14 +10245,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[23]\\z[013]"
+                                "\\>【Elena】\\m[23]\\z[013]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この本の内容を丸写しして……」"
+                                "I'll just copy the contents of this book..."
                             ]
                         },
                         {
@@ -10458,14 +10458,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[23]\\z[014]"
+                                "\\>【Elena】\\m[23]\\z[014]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え！」"
+                                "Eh!"
                             ]
                         },
                         {
@@ -10482,14 +10482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんだ」"
+                                "What is it?"
                             ]
                         },
                         {
@@ -10520,14 +10520,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【アメリ】\\m[10]\\z[107]"
+                                "\\>【Amelia】\\m[10]\\z[107]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法が起動してる」"
+                                "The magic is activated."
                             ]
                         },
                         {
@@ -10551,14 +10551,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[23]\\z[015]"
+                                "\\>【Elena】\\m[23]\\z[015]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うそっ……エレナは本を開いただけなのに」"
+                                "No way... I just opened the book."
                             ]
                         },
                         {
@@ -10575,21 +10575,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【トミー】"
+                                "\\>【Tommy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔導書の中には、開いただけで魔法が起動する"
+                                "Inside the grimoire, there are some that activate\nmagic just by opening it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  のがあるんだよ」"
+                                ""
                             ]
                         },
                         {
@@ -10620,14 +10620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【エレナ】\\m[23]\\z[016]"
+                                "\\>【Elena】\\m[23]\\z[016]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでそんなのが図書館にあるの！」"
+                                "Why is something like that in the library!"
                             ]
                         },
                         {
@@ -10644,14 +10644,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんの魔法なんだっ……」"
+                                "What kind of magic is this..."
                             ]
                         },
                         {

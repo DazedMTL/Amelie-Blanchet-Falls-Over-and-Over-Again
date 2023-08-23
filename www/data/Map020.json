@@ -6175,7 +6175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「鍵がかかっていて開かない」"
+                                "The door is locked and won't open."
                             ]
                         },
                         {
@@ -6725,14 +6725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 I hear something... Shall I take a\npeek?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「なにか声がする……少し覗いてみるか」"
+                                ""
                             ]
                         },
                         {

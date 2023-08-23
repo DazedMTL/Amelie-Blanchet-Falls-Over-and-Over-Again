@@ -6010,14 +6010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Wow!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うわぁ！」"
+                                ""
                             ]
                         },
                         {
@@ -6041,21 +6041,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【音声】"
+                                "【Voice】You fool. It's because you ignored my\nwarning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「愚か者め。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　わたくしの警告を無視するからだ」"
+                                ""
                             ]
                         },
                         {
@@ -6079,14 +6079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Shit... It's a trap."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「クソ……罠か」"
+                                ""
                             ]
                         },
                         {
@@ -6190,14 +6190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】Wow!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うわぁ！」"
+                                ""
                             ]
                         },
                         {
@@ -6274,7 +6274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰かの日記"
+                                "Someone's diary"
                             ]
                         },
                         {
@@ -6291,45 +6291,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法が認められないのは、魔法自体のこともあるが"
+                                "I think the reason magic is not recognized is not\nonly because of magic itself, but also because\nthere are issues with the wizards."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やはり魔法使いに問題があるのだと思う。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現に禁忌を犯したり、犯罪に魔法を使うものが沢山"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでは印象が悪くなるもの当然だ。"
+                                ""
                             ]
                         },
                         {
@@ -6346,14 +6315,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから僕は魔法を作って人の役に立とうと思う。"
+                                "In fact, there are many who violate taboos and\nuse magic for crimes. It's only natural that this\ngives a bad impression."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうすればきっと認めてもらえるはずだ"
+                                "That's why I want to create magic and help\npeople. If I do that, I should definitely be\nrecognized."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6430,14 +6430,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【野良猫】"
+                                "【Stray Cat】Meow"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くーん」"
+                                ""
                             ]
                         },
                         {

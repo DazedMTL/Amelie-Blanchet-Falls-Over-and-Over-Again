@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ギャルの部屋",
+    "displayName": "Gal's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -2266,14 +2266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Ah~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ふぁ～」"
+                                ""
                             ]
                         },
                         {
@@ -2290,14 +2290,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスのギャル】"
+                                "【Class Gal】 Hey~! Amelia, are you drinking?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「いえーい！　飲んでるアメリ？」"
+                                ""
                             ]
                         },
                         {
@@ -2321,45 +2321,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Uh, yeah... but what is this... my body\nfeels really hot."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「う、うん……でもなにこれ……すごく体が熱く"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  なってる」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【男子生徒Ａ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ただのぶどうジュースだよ」"
+                                ""
                             ]
                         },
                         {
@@ -2376,14 +2352,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student A】 It's just grape juice."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「ハワード寮歓迎会の必需品だぜ」"
+                                "【Male Student B】 It's an essential item for the\nHoward Dormitory welcome party."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2407,21 +2407,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Is that so... but if boys enter here,\nwouldn't it be bad...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そうなんだ……でもここって、男子が入ったら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  だめなんじゃ……」"
+                                ""
                             ]
                         },
                         {
@@ -2438,21 +2438,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student B】 Since we're in the Magic\nResearch Club, we have some flexibility. Don't\nworry and just enjoy yourself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「俺たちは魔法研だから、多少の融通は効くんだ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  。気にしないで楽しんでよ」"
+                                ""
                             ]
                         },
                         {
@@ -2476,14 +2476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Oh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「へぇ……」"
+                                ""
                             ]
                         },
                         {
@@ -2500,21 +2500,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Male Student A】 Well then, shall we start the\nKing's Game soon? Hehehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「んじゃあ、そろそろ王様ゲームを始めるとする"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  か。くくっ……」"
+                                ""
                             ]
                         },
                         {
@@ -2538,14 +2538,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 The King's Game?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「王様ゲームって？」"
+                                ""
                             ]
                         },
                         {
@@ -2562,21 +2562,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスのギャル】"
+                                "【Class Gal】 It's a game where we draw lots with\nnumbers and the person who becomes the king gives\norders."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「王様と番号が書かれたくじを引いて、王様にな"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  った人が、命令を出すゲームだよ」"
+                                ""
                             ]
                         },
                         {
@@ -2602,14 +2602,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスのギャル】"
+                                "【Class Gal】 The king's orders are absolute, you\nknow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「王様の命令は絶対なんだからね」"
+                                ""
                             ]
                         },
                         {
@@ -2633,45 +2633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Eh, what's that...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「えー、なにそれー……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【男子生徒Ａ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「絶対楽しいからやろうよ。準備はできてるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  くじ引いて」"
+                                ""
                             ]
                         },
                         {
@@ -2688,38 +2657,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student A】 It'll definitely be fun, so\nlet's do it. We're prepared, so draw lots."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「王様だーれだ？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【男子生徒Ａ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「俺だ！　じゃあ、２番は下着になる！」"
+                                ""
                             ]
                         },
                         {
@@ -2736,14 +2688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスのギャル】"
+                                "【Male Student B】 Who's the king?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「最初っから飛ばしすぎでしょ」"
+                                ""
                             ]
                         },
                         {
@@ -2760,21 +2712,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Male Student A】 It's me! Then, number 2 will be\nunderwear!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「もうみんな酔ってるから問題ないでしょ。そん"
+                                "【Class Gal】 You're going too far from the\nbeginning, aren't you?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  で２番は誰かな」"
+                                "【Male Student A】 Everyone's already drunk, so it\nshould be fine. So, who's number 2?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2798,14 +2798,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 W-Wait, it's me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「わ、私だ……」"
+                                ""
                             ]
                         },
                         {
@@ -2822,21 +2822,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student B】 Alright! Then, Amelia-chan,\nbecome underwear."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「よし！　じゃあ、アメリちゃんは下着になっち"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ゃって」"
+                                ""
                             ]
                         },
                         {
@@ -2860,14 +2860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Well, but it's embarrassing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「えー、でも恥ずかしいよ」"
+                                ""
                             ]
                         },
                         {
@@ -2884,21 +2884,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Male Student A】 The king's orders are absolute,\nso I'll help you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「王様の命令は絶対だからね。はい、手伝ってあ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  げる」"
+                                ""
                             ]
                         },
                         {
@@ -2922,14 +2922,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Ah, ngh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あ、んっ……」"
+                                ""
                             ]
                         },
                         {
@@ -3034,38 +3034,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 After all, this kind of thing is no\ngood..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「やっぱり、こんなのだめだよ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【クラスのギャル】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「みんなもそのうち脱いでくから、大丈夫だし」"
+                                ""
                             ]
                         },
                         {
@@ -3082,45 +3058,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスのギャル】"
+                                "【Class Gal】 Everyone will eventually take theirs\noff, so it'll be fine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ほら、次々」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【クラスのギャル】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「あ、ウチが王様だ！　えっと命令は……３番が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  １番の胸を揉む！」"
+                                ""
                             ]
                         },
                         {
@@ -3137,14 +3082,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Class Gal】 Come on, one after another."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「１番が男だったら最悪だよ！」"
+                                "【Class Gal】 Ah, I'm the king! Um, the order is...\nNumber 3, grope Number 1's chest!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Male Student A】 It would be the worst if Number\n1 is a guy!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3168,14 +3168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Ah... I'm number one..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あ……私が１番だ……」"
+                                ""
                             ]
                         },
                         {
@@ -3192,21 +3192,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student B】 No way! By the way, I'm number\n3. Well then, let's go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「まじかよ！　ちなみに３番は俺だ。それじゃあ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  、行くぞ」"
+                                ""
                             ]
                         },
                         {
@@ -3230,14 +3230,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あ……」"
+                                ""
                             ]
                         },
                         {
@@ -3261,38 +3261,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Mmm, ah... no, no... mmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「んっ、あっ……だ、だめ……んっ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【クラスのギャル】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「めっちゃエロい声出てる」"
+                                ""
                             ]
                         },
                         {
@@ -3309,14 +3285,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Class Gal】 They're making such a lewd sound."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「うぉ、すげぇおっぱい……柔けぇ」"
+                                "【Male Student B】 Whoa, amazing boobs... so soft."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3340,38 +3340,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 N-No, I can't... Ahh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「も、もうだめ……あっ、んっ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【男子生徒Ａ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「くそ、いいなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -3388,14 +3364,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student A】 Damn, I'm so jealous."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「かなりのデカさだ」"
+                                "【Male Student B】 They're quite big."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3419,14 +3419,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Mmm, mmm... ah... h-huh, it's over now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ん、んんっ……あっ……は、はい、もう終わり」"
+                                ""
                             ]
                         },
                         {
@@ -3443,14 +3443,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student B】 Phew, that was amazing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ふぅ、最高だった」"
+                                ""
                             ]
                         },
                         {
@@ -3474,45 +3474,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Haa, haa... This is too much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「はぁ、はぁ……やり過ぎだよ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【クラスのギャル】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ふふっ、おっぱい揉むくらい、ここじゃ挨拶み"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  たいなもんだし」"
+                                ""
                             ]
                         },
                         {
@@ -3529,21 +3498,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスのギャル】"
+                                "【Class Gal】 Hehe, squeezing boobs is just a way\nof saying hello here."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「あ、またウチが王様だ！　じゃあ次は、１番と"
+                                "【Class Gal】 Ah, looks like I'm the king again!\nAlright, next up, numbers 1 and 2 will kiss for 30\nseconds!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ２番が３０秒キスする！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3567,38 +3567,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Ah... me again..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あ……また私……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【男子生徒Ａ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「よし、次は俺だ」"
+                                ""
                             ]
                         },
                         {
@@ -3615,21 +3591,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student A】 Alright, it's my turn."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（くくっ、サインで番号伝えてるから、アメリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  ちゃんが狙い撃ちされてるんだぜ）」"
+                                ""
                             ]
                         },
                         {
@@ -3646,14 +3615,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student B】 (Hehe, since we're signaling the\nnumbers with signs, Amelia-chan is being\ntargeted)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（今日はたっぷり楽しませてもらうからな）」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3670,14 +3646,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスのギャル】"
+                                "【Male Student B】 (I'm going to have a lot of fun\ntoday)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「（あとでイケメン紹介してもらうしね……）」"
+                                "【Class Gal】 (I'll have him introduce me to some\nhandsome guys later...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3701,38 +3701,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Mmm, mmm... ah... h-huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「んっ、んちゅっ……んんっ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【クラスのギャル】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ふふっ、アメリマジ可愛そー」"
+                                ""
                             ]
                         },
                         {
@@ -3749,38 +3725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Class Gal】 Hehe, Amelia looks so cute."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「俺のキス、気持ちいいだろ？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アメリ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「やだっ……んっ、ちゅっ、んちゅっ……」"
+                                ""
                             ]
                         },
                         {
@@ -3797,38 +3749,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスのギャル】"
+                                "【Male Student A】 My kiss feels good, doesn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「めっちゃ嫌がられてるじゃん」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【男子生徒Ｂ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「でもまだまだ時間あるぜ」"
+                                ""
                             ]
                         },
                         {
@@ -3845,14 +3773,86 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 No... mmm, chu, mmmchu..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「やめてっ……んちゅっ、ちゅっ、ちゅっ……」"
+                                "【Class Gal】 They really hate me, don't they?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Male Student B】 But there's still plenty of\ntime."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【Amelia】 Stop it... mmmchu, chu, chu..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3876,14 +3876,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Ah...haa...it's over now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ふぁっ……はぁ……もう、終わりです」"
+                                ""
                             ]
                         },
                         {
@@ -3900,14 +3900,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Male Student A】 Has it only been 30 seconds? I\nwanted to do more."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「３０秒たったか、もっとしてたかったのに」"
+                                ""
                             ]
                         },
                         {
@@ -3931,21 +3931,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 (No... if this escalates any further...\n...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（だめ……これ以上エスカレートしちゃうと…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  …）」"
+                                ""
                             ]
                         },
                         {
@@ -3969,14 +3969,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 (But... my head feels dizzy...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（でも……頭が回らない……）」"
+                                ""
                             ]
                         },
                         {
@@ -3993,21 +3993,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student B】 No, I can't take it anymore, I'm\nalready rock hard... Should we just do it like\nthis?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「だめだ、もうギンギンに勃起しちまったよ……"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  このままやっちまうか」"
+                                ""
                             ]
                         },
                         {
@@ -4100,14 +4100,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クラスのギャル】"
+                                "【Class Gal】 Ah, it's starting as usual."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あー、いつもの始まっちゃったし」"
+                                ""
                             ]
                         },
                         {
@@ -4124,14 +4124,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Male Student A】 Yes, Amelia-chan. Let's take off\nyour underwear too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「はい、アメリちゃん。下着も脱いじゃおうね」"
+                                ""
                             ]
                         },
                         {
@@ -4155,14 +4155,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Ah... ngh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「あっ……んっ……」"
+                                ""
                             ]
                         },
                         {
@@ -4267,38 +4267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Male Student A】 Woah!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「うおー！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【クラスのギャル】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「興奮しすぎでしょ」"
+                                ""
                             ]
                         },
                         {
@@ -4315,14 +4291,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Class Gal】 You're getting too excited, aren't\nyou?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「これは仕方ないでしょ。太ももすべすべだ」"
+                                "【Male Student A】 This can't be helped. Your\nthighs are so smooth."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4346,14 +4346,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Please don't touch me... ngh, ah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「触らないでくださいっ……んっ、あっ……」"
+                                ""
                             ]
                         },
                         {
@@ -4370,21 +4370,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student B】 Your pussy is soaking wet too.\nLooks like Amelia-chan was also excited."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「おまんこもびしょびしょじゃん。やっぱアメリ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ちゃんも興奮してたんだ」"
+                                ""
                             ]
                         },
                         {
@@ -4408,14 +4408,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 No, ah, ah... ahh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「違いますっ、んっ、んんっ……あっ……」"
+                                ""
                             ]
                         },
                         {
@@ -4432,14 +4432,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student B】 Should we just cum like this?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「このまま一回イッとく？」"
+                                ""
                             ]
                         },
                         {
@@ -4463,45 +4463,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Please, really, stop... ah, nngh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「ほんとに、やめてくださいっ……あっ、んんっ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【男子生徒Ａ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「我慢できない、まず俺から挿れるからな」"
+                                ""
                             ]
                         },
                         {
@@ -4518,14 +4494,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ｂ】"
+                                "【Male Student A】 I can't hold back, so I'll be\nthe one to insert it first."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「しょうがねぇな」"
+                                "【Male Student B】 Can't be helped."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4549,21 +4549,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 No... If you continue any further, I\nwill use magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「だめですっ……これ以上するなら、魔法を使い"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ます」"
+                                ""
                             ]
                         },
                         {
@@ -4580,21 +4580,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Male Student A】 Hey hey, that's going too far.\nIt's just a game, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「おいおい、それはやりすぎでしょ。ただの遊び"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  じゃん」"
+                                ""
                             ]
                         },
                         {
@@ -4618,38 +4618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 This isn't a game... This... is a\ncrime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「遊びじゃないです……こんなの……犯罪です」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【クラスのギャル】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「酔ってんのに抵抗するなんてやるねー」"
+                                ""
                             ]
                         },
                         {
@@ -4666,14 +4642,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Class Gal】 You're resisting even though you're\ndrunk, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「はぁ……仕方ないな」"
+                                ""
                             ]
                         },
                         {
@@ -4690,21 +4666,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Male Student A】 Sigh... I guess there's no\nhelping it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「じゃあ、最後にちんこ咥えてよ。それで終わり"
+                                "【Male Student A】 Then, why don't you suck my dick\nat the end? That'll be the end of it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  にしてあげる」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4728,14 +4728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 That kind of thing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「そんなこと……」"
+                                ""
                             ]
                         },
                         {
@@ -4752,14 +4752,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Male Student A】 Can't you do it? If you don't\nwant to, we can just have sex instead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「できないの？　嫌ならセックスでもいいけど」"
+                                ""
                             ]
                         },
                         {
@@ -4783,21 +4783,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 (I don't want to cause a commotion...\nmore than doing something lewd)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「（エッチよりは……私だって騒ぎは起こしたく"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ないし）」"
+                                ""
                             ]
                         },
                         {
@@ -4821,14 +4821,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アメリ】"
+                                "【Amelia】 Just sucking it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「咥えるだけですから……」"
+                                ""
                             ]
                         },
                         {
@@ -4845,14 +4845,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒Ａ】"
+                                "【Male Student A】 Of course!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「もちろんだよ！」"
+                                ""
                             ]
                         },
                         {
@@ -4985,21 +4985,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 I can't take it anymore... I don't\nwant to see Amelia like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「もうだめだ……アメリのこんな姿みたくない…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  …」"
+                                ""
                             ]
                         },
                         {
@@ -5016,14 +5016,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 ...This is the worst."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  「……最悪だ」"
+                                ""
                             ]
                         },
                         {
@@ -5049,7 +5049,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "闇購買部に写真が入荷されました！"
+                                "Photos have arrived at the Dark Purchase Club!"
                             ]
                         },
                         {

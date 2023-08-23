@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "空き教室",
+    "displayName": "Empty classroom",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2717,7 +2717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精液と水が落ちている……。"
+                                "Semen and water are dripping..."
                             ]
                         },
                         {
@@ -2940,21 +2940,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男子生徒】"
+                                "【Male Student】Don't act all high and mighty,\nElena. You joined the Magic Research Club just to\nparticipate in orgies, didn't you? Hehe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「エレナのクセに嫌がるんじゃねーよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　乱交するために魔法研に入ったんだろ。くくっ……」"
+                                ""
                             ]
                         },
                         {

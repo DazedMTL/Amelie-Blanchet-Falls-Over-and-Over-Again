@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "魔法牢獄",
+    "displayName": "Magic Prison",
     "encounterList": [],
     "encounterStep": 30,
     "height": 32,
@@ -8558,14 +8558,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[000]"
+                                "\\>【Leviathan】\\m[49]\\z[000]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今回はなかなかいい滑り出しのようだな」"
+                                "It seems like we're off to a good start this time."
                             ]
                         },
                         {
@@ -8582,14 +8582,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ループするつもりなんてなかったけどな」"
+                                "I didn't intend to loop."
                             ]
                         },
                         {
@@ -8606,14 +8606,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、まだなにも解決してなかった」"
+                                "But, we still haven't resolved anything."
                             ]
                         },
                         {
@@ -8637,14 +8637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[001]"
+                                "\\>【Leviathan】\\m[49]\\z[001]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うむ、われもちょうど見ておった」"
+                                "Yes, I was just watching."
                             ]
                         },
                         {
@@ -8661,14 +8661,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本当か！　誰がやったのか見たか？」"
+                                "Really! Did you see who did it?"
                             ]
                         },
                         {
@@ -8692,14 +8692,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[002]"
+                                "\\>【Leviathan】\\m[49]\\z[002]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや、顔は隠しておったからわからん」"
+                                "No, their face was hidden so I couldn't tell."
                             ]
                         },
                         {
@@ -8716,14 +8716,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちっ……」"
+                                "Tch..."
                             ]
                         },
                         {
@@ -8754,14 +8754,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[003]"
+                                "\\>【Leviathan】\\m[49]\\z[003]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「使えないみたいな顔するな！」"
+                                "Don't make such a useless face!"
                             ]
                         },
                         {
@@ -8778,14 +8778,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「思ってないよ」"
+                                "I didn't mean it."
                             ]
                         },
                         {
@@ -8809,21 +8809,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[004]"
+                                "\\>【Leviathan】\\m[49]\\z[004]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「絶対嘘だ。元々は簡単に後ろからやられる正宗"
+                                "That's definitely a lie. It's Masamune's fault for\nbeing so easily attacked from behind in the first\nplace."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  が悪いだろう」"
+                                ""
                             ]
                         },
                         {
@@ -8840,21 +8840,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わかってるって……でも魔法使いに近接戦闘は"
+                                "I know... but close combat is impossible for a\nmage."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  無理だ」"
+                                ""
                             ]
                         },
                         {
@@ -8871,14 +8871,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それにしても、俺を狙う理由なんて……」"
+                                "But still, the reason for targeting me..."
                             ]
                         },
                         {
@@ -8895,14 +8895,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ホフマンの敵討ちってことは流石に考えづらい」"
+                                "It's hard to imagine seeking revenge against\nProfessor Hoffman."
                             ]
                         },
                         {
@@ -8926,14 +8926,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[005]"
+                                "\\>【Leviathan】\\m[49]\\z[005]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「人望なさそうだしな」"
+                                "You don't seem to have much popularity."
                             ]
                         },
                         {
@@ -8950,21 +8950,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「相手は生徒会長の名前をつぶやいていた。この"
+                                "The opponent was muttering the name of the student\ncouncil president. They shouldn't be in this\nacademy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  学院にはいないはずなのに」"
+                                ""
                             ]
                         },
                         {
@@ -8981,21 +8981,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もしレビヤタンの魔力を奪っているのがその生"
+                                "If it's true that the student council president is\nthe one stealing Leviathan's magical power..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  徒会長だとしたら……」"
+                                ""
                             ]
                         },
                         {
@@ -9012,21 +9012,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「記憶を引き継いでるから、魔法陣の存在は知っ"
+                                "Because I inherited the memories, I know about the\nexistence of the magic circle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  てる」"
+                                ""
                             ]
                         },
                         {
@@ -9043,21 +9043,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「魔法研から奪って、ホフマンに渡すことはでき"
+                                "Can we steal it from the Magic Research Club and\ngive it to Hoffman?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  るか」"
+                                ""
                             ]
                         },
                         {
@@ -9081,21 +9081,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[006]"
+                                "\\>【Leviathan】\\m[49]\\z[006]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「正宗が失敗したらループすることも、気づいて"
+                                "Masamune, you might not realize that if you fail,\nwe may end up in a loop."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  おるかもしれん」"
+                                ""
                             ]
                         },
                         {
@@ -9119,14 +9119,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[007]"
+                                "\\>【Leviathan】\\m[49]\\z[007]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それなら刺された理由も納得だ」"
+                                "If that's the case, then I understand the reason\nfor being stabbed."
                             ]
                         },
                         {
@@ -9143,14 +9143,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「確かに……確証はないが、繋がってはいる」"
+                                "Certainly... there is no concrete evidence, but it\nis connected."
                             ]
                         },
                         {
@@ -9167,21 +9167,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だけど一体何度もループさせて、なにを企んで"
+                                "But why are you trying to make us go through the\nloop over and over again?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  るんだ」"
+                                ""
                             ]
                         },
                         {
@@ -9198,21 +9198,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（記憶を引き継いでるのがもう一人いるのなら"
+                                "(If there is another person who retains their\nmemories, it's a pretty bad situation)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  、かなりまずい状況だ）」"
+                                ""
                             ]
                         },
                         {
@@ -9229,14 +9229,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（俺の優位性がなくなる……）」"
+                                "(I will lose my advantage...)"
                             ]
                         },
                         {
@@ -9260,14 +9260,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[008]"
+                                "\\>【Leviathan】\\m[49]\\z[008]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ともあれ、その生徒会長を探し出すしかないな」"
+                                "Anyway, we have no choice but to find that student\ncouncil president."
                             ]
                         },
                         {
@@ -9284,21 +9284,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうだな。でもいるかどうかもわからない存在"
+                                "That's right. But do we really have to search for\nan existence that we're not even sure exists..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  を探さないといけないのか……」"
+                                ""
                             ]
                         },
                         {
@@ -9322,21 +9322,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【レビヤタン】\\m[49]\\z[009]"
+                                "\\>【Leviathan】\\m[49]\\z[009]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「弱音を吐くな。正宗は私を開放するまで契約は"
+                                "Don't complain. The contract won't end until\nMasamune sets me free."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  終わらないのだから」"
+                                ""
                             ]
                         },
                         {
@@ -9353,14 +9353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わかってる……」"
+                                "I understand..."
                             ]
                         },
                         {
@@ -9377,14 +9377,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「とにかく俺を刺した犯人を見つけ出してやる」"
+                                "Anyway, I will find the person who stabbed me."
                             ]
                         },
                         {
@@ -9401,14 +9401,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（もちろん、アメリを守りながらな）」"
+                                "(Of course, while protecting Amelia)"
                             ]
                         },
                         {
@@ -9425,14 +9425,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（媚薬は回避したから、今度こそ大丈夫……）」"
+                                "(Since I avoided the aphrodisiac, this time should\nbe fine...)"
                             ]
                         },
                         {

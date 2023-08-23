@@ -4279,14 +4279,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】The blue flames are burning."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「青い炎が燃えてる」"
+                                ""
                             ]
                         },
                         {
@@ -4303,14 +4303,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】What should I do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「どうしよう」"
+                                ""
                             ]
                         },
                         {
@@ -5467,7 +5467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにかが現れる音がした"
+                                "I heard a sound of something appearing."
                             ]
                         },
                         {
@@ -5863,7 +5863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "■■■■の記録"
+                                "■■■■'s Record"
                             ]
                         },
                         {
@@ -5880,7 +5880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "完成した……あまりにもおぞましい魔法が。"
+                                "It's complete... an incredibly grotesque magic."
                             ]
                         },
                         {
@@ -5897,31 +5897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力の消費も大きいが、これだけの力があれば誰も"
+                                "Even though it consumes a lot of magical power,\nwith this much power, no one can defy me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私に逆らえない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう、虐げられる時間は終わった。"
+                                ""
                             ]
                         },
                         {
@@ -5938,14 +5921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この力を求める人が私以外にもいるのなら、魔導書"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "を授けよう。"
+                                "The time of being oppressed is over."
                             ]
                         },
                         {
@@ -5962,7 +5938,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の前で『strife』とささやくと良い。"
+                                "If there are others who seek this power besides\nme, I shall bestow upon them the grimoire."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5979,7 +5962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉の場所は……きっと魔力が導いてくれるだろう。"
+                                "It is good to whisper strife in front of the\ndoor."
                             ]
                         },
                         {
@@ -5996,7 +5979,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "同志の誕生を心から待っている。"
+                                "The location of the door... surely the magical\npower will guide us there."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I am eagerly awaiting the birth of comrades."
                             ]
                         },
                         {
@@ -6022,38 +6022,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 Is this a note indicating the\nlocation..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「これが場所を示してるメモか……」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  「でも……さっきまでと雰囲気が違うような」"
+                                ""
                             ]
                         },
                         {
@@ -6070,14 +6046,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 But... it feels different from just a\nmoment ago."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  「（これだけやけに本がボロボロだ……）」"
+                                ""
                             ]
                         },
                         {
@@ -6094,14 +6070,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【正宗】"
+                                "【Masamune】 (These books are surprisingly worn\nout...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "  「まぁいいか。暗号は覚えておこう」"
+                                "【Masamune】 Well, it's fine. Let's remember the\ncode."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

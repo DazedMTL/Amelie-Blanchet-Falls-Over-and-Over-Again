@@ -2685,14 +2685,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「質問は休み時間にしろ。朝礼の続きをする」"
+                                "Save your questions for break time. Let's continue\nwith the morning assembly."
                             ]
                         },
                         {
@@ -2709,14 +2709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【メリッサ先生】"
+                                "\\>【Professor Melissa】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「二人も席に着いてくれ」"
+                                "Please take your seats, both of you."
                             ]
                         },
                         {
@@ -2733,14 +2733,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい」"
+                                "Yes"
                             ]
                         },
                         {
@@ -2757,14 +2757,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（これから選択授業か）」"
+                                "(Is it time for elective classes now?)"
                             ]
                         },
                         {
@@ -2781,21 +2781,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（この後の行動をどうするか。前と同じだと、"
+                                "(What should I do next? If I do the same as\nbefore, the outcome won't change)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  結果は変わらない）」"
+                                ""
                             ]
                         },
                         {
@@ -2812,14 +2812,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（なにか考えないとな）」"
+                                "(I need to think of something)"
                             ]
                         },
                         {
@@ -2865,21 +2865,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（今日は２１日か。"
+                                "(Today is the 21st. If it's the same as before,\nthe ritual will be held on the 26th, five days\nfrom now)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　前と同じなら、５日後の２６日に儀式が行われる）」"
+                                ""
                             ]
                         },
                         {
@@ -2896,21 +2896,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>【正宗】"
+                                "\\>【Masamune】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「（それまでに犯人を見つけて阻止しないといけない。"
+                                "(I have to find the culprit and stop them before\nthen. Let's do our best)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　頑張ろう）」"
+                                ""
                             ]
                         },
                         {
@@ -2927,45 +2927,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "２１日から２５日の５日間を行動して、"
+                                "Let's take action from the 21st to the 25th,\nprotecting Amelia while preventing the mysterious\nritual. We can attend classes during the day and\nexplore with Amelia after school."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アメリを守りながら謎の儀式を阻止しましょう。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "昼は授業を受け、放課後にアメリと探索できます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教室の自分の席の本で、なにもせずに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時間を進めることも出来ます。"
+                                ""
                             ]
                         },
                         {
@@ -2982,7 +2958,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新たに儀式魔法の実験室で、儀式学を受けられるようになった！"
+                                "You can also advance time without doing anything\nby using the book on your desk in the classroom."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I have now become able to receive ritual magic\nlessons in the new Ritual Magic Laboratory!"
                             ]
                         },
                         {
