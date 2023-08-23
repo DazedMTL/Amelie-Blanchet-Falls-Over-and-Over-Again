@@ -1082,14 +1082,14 @@ Scene_Status.prototype.update = function () {
 Window_Status.prototype.refresh = function () {
 	this.contents.clear();
 	if (this._actor) {
-		this.contents.fontSize = 24;
+		this.contents.fontSize = 18;
 		this.drawText(this._actor.name(), Moghunter.scStatus_ActorNameX, Moghunter.scStatus_ActorNameY, 120, "center");
 		this.drawText(this._actor.level, Moghunter.scStatus_LevelX, Moghunter.scStatus_LevelY, 100, "center");
 		this.drawText(this._actor.currentExp(), Moghunter.scStatus_ExpX, Moghunter.scStatus_ExpY, 100, "center");
 		var nexp = this._actor.nextRequiredExp();
 		if (this._actor.isMaxLevel()) { nexp = '-------' };
 		this.drawText(nexp, Moghunter.scStatus_NExpX, Moghunter.scStatus_NExpY, 100, "center");
-		this.contents.fontSize = 22;
+		this.contents.fontSize = 16;
 		this.drawText(this._actor.hp + " / " + this._actor.mhp, Moghunter.scStatus_HPNumberX, Moghunter.scStatus_HPNumberY, 100, "right");
 		this.drawText(this._actor.mp + " / " + this._actor.mmp, Moghunter.scStatus_MPNumberX, Moghunter.scStatus_MPNumberY, 100, "right");
 		this.drawText(this._actor.tp, Moghunter.scStatus_TPNumberX, Moghunter.scStatus_TPNumberY, 100, "right");
