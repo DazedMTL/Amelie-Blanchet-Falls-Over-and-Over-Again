@@ -2077,7 +2077,7 @@ Window_MenuStatusM.prototype.loadImages = function () {
 // * drawItem
 //==============================
 Window_MenuStatusM.prototype.drawItem = function (index) {
-	this.contents.fontSize = 20;
+	this.contents.fontSize = 21;
 	this.drawItemBackground(index)
 	this.drawItemImage(index);
 	this.drawItemStatus(index);
