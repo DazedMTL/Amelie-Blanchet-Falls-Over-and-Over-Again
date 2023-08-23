@@ -101,7 +101,7 @@
             }
         ],
         "gold": 0,
-        "name": "ヘルハウンド",
+        "name": "Hellhound",
         "note": "Breath Motion: 1",
         "params": [
             20000,
@@ -249,7 +249,7 @@
             }
         ],
         "gold": 20,
-        "name": "ゴブリン",
+        "name": "Goblin",
         "note": "Breath Motion: 1",
         "params": [
             190,
@@ -335,7 +335,7 @@
             }
         ],
         "gold": 20,
-        "name": "ホブゴブリン",
+        "name": "Hobgoblin",
         "note": "Breath Motion: 1",
         "params": [
             210,
@@ -435,7 +435,7 @@
             }
         ],
         "gold": 100,
-        "name": "ハイオーク",
+        "name": "High Orc",
         "note": "Breath Motion: 1",
         "params": [
             2000,
@@ -521,7 +521,7 @@
             }
         ],
         "gold": 20,
-        "name": "オーク",
+        "name": "Orc",
         "note": "Breath Motion: 1",
         "params": [
             350,
@@ -621,7 +621,7 @@
             }
         ],
         "gold": 100,
-        "name": "地獄トカゲ",
+        "name": "Hell Lizard",
         "note": "Breath Motion: 1",
         "params": [
             2500,
@@ -714,7 +714,7 @@
             }
         ],
         "gold": 20,
-        "name": "元気なマンドラゴラ",
+        "name": "Energetic Mandragora",
         "note": "Breath Motion: 1",
         "params": [
             450,
@@ -807,7 +807,7 @@
             }
         ],
         "gold": 20,
-        "name": "スピリット",
+        "name": "Spirit",
         "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
         "params": [
             420,
@@ -893,7 +893,7 @@
             }
         ],
         "gold": 20,
-        "name": "スピリット",
+        "name": "Spirit",
         "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
         "params": [
             480,
@@ -993,7 +993,7 @@
             }
         ],
         "gold": 200,
-        "name": "スピリットキング",
+        "name": "Spirit King",
         "note": "Breath Motion: 1",
         "params": [
             3500,
@@ -1079,7 +1079,7 @@
             }
         ],
         "gold": 20,
-        "name": "ファイアスライム",
+        "name": "Fire Slime",
         "note": "Breath Motion: 1",
         "params": [
             550,
@@ -1165,7 +1165,7 @@
             }
         ],
         "gold": 20,
-        "name": "滾るファイアスライム",
+        "name": "Rolling Fire Slime",
         "note": "Breath Motion: 1",
         "params": [
             4500,
@@ -1270,7 +1270,7 @@
             }
         ],
         "gold": 300,
-        "name": "スライムキング",
+        "name": "Slime King",
         "note": "Breath Motion: 1",
         "params": [
             4500,
@@ -1356,7 +1356,7 @@
             }
         ],
         "gold": 20,
-        "name": "トレント",
+        "name": "Trent",
         "note": "Breath Motion: 1",
         "params": [
             700,
@@ -1449,7 +1449,7 @@
             }
         ],
         "gold": 400,
-        "name": "トレントキング",
+        "name": "Trent King",
         "note": "Breath Motion: 1",
         "params": [
             6000,
@@ -1554,7 +1554,7 @@
             }
         ],
         "gold": 2000,
-        "name": "ジャクソン・スタインフェルド",
+        "name": "Jackson Steinfeld",
         "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
         "params": [
             8000,
@@ -1671,7 +1671,7 @@
             }
         ],
         "gold": 2000,
-        "name": "ジャクソン・スタインフェルド",
+        "name": "Jackson Steinfeld",
         "note": "Breath Motion: 1",
         "params": [
             8000,
@@ -1752,7 +1752,7 @@
             }
         ],
         "gold": 60,
-        "name": "巡回マンモス",
+        "name": "Patrolling Mammoth",
         "note": "Breath Motion: 1",
         "params": [
             600,
@@ -1833,7 +1833,7 @@
             }
         ],
         "gold": 60,
-        "name": "巡回カラス",
+        "name": "Patrolling Crow",
         "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
         "params": [
             580,
@@ -1926,7 +1926,7 @@
             }
         ],
         "gold": 1000,
-        "name": "警備長マンモス",
+        "name": "Chief of Security Mammoth",
         "note": "Breath Motion: 1",
         "params": [
             5500,
@@ -2007,7 +2007,7 @@
             }
         ],
         "gold": 60,
-        "name": "ワイバーン",
+        "name": "Wyvern",
         "note": "Breath Motion: 1",
         "params": [
             900,
@@ -2088,7 +2088,7 @@
             }
         ],
         "gold": 60,
-        "name": "ミニドラゴン",
+        "name": "Mini Dragon",
         "note": "Breath Motion: 1",
         "params": [
             880,
@@ -2181,7 +2181,7 @@
             }
         ],
         "gold": 1500,
-        "name": "大人びたワイバーン",
+        "name": "Mature Wyvern",
         "note": "Breath Motion: 1",
         "params": [
             10000,
@@ -2262,7 +2262,7 @@
             }
         ],
         "gold": 60,
-        "name": "飼育ゴブリン",
+        "name": "Goblin Keeper",
         "note": "Breath Motion: 1",
         "params": [
             950,
@@ -2350,7 +2350,7 @@
             }
         ],
         "gold": 60,
-        "name": "ユニコーン",
+        "name": "Unicorn",
         "note": "Breath Motion: 1",
         "params": [
             1050,
@@ -2450,7 +2450,7 @@
             }
         ],
         "gold": 1500,
-        "name": "誇り高きユニコーン",
+        "name": "Proud Unicorn",
         "note": "Breath Motion: 1",
         "params": [
             12000,
@@ -2531,7 +2531,7 @@
             }
         ],
         "gold": 60,
-        "name": "ホワイトタイガー",
+        "name": "White Tiger",
         "note": "Breath Motion: 1",
         "params": [
             1200,
@@ -2612,7 +2612,7 @@
             }
         ],
         "gold": 60,
-        "name": "浮遊魚",
+        "name": "Floating Fish",
         "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
         "params": [
             1150,
@@ -2705,7 +2705,7 @@
             }
         ],
         "gold": 2000,
-        "name": "人工ダイナソー",
+        "name": "Artificial Dinosaur",
         "note": "Breath Motion: 1",
         "params": [
             13000,
@@ -2805,7 +2805,7 @@
             }
         ],
         "gold": 3000,
-        "name": "クラーケン",
+        "name": "Kraken",
         "note": "Breath Motion: 1",
         "params": [
             15000,
@@ -2948,7 +2948,7 @@
             }
         ],
         "gold": 150,
-        "name": "フェニックス",
+        "name": "Phoenix",
         "note": "Breath Motion: 1",
         "params": [
             1400,
@@ -3029,7 +3029,7 @@
             }
         ],
         "gold": 150,
-        "name": "コカトリス",
+        "name": "Cockatrice",
         "note": "Breath Motion: 1",
         "params": [
             1350,
@@ -3122,7 +3122,7 @@
             }
         ],
         "gold": 2000,
-        "name": "ドラゴン・エレクトリック種",
+        "name": "Dragon Electric Species",
         "note": "Breath Motion: 1",
         "params": [
             25000,
@@ -3203,7 +3203,7 @@
             }
         ],
         "gold": 150,
-        "name": "ドラゴン・ダーク種",
+        "name": "Dragon Dark Species",
         "note": "Breath Motion: 1",
         "params": [
             1900,
@@ -3284,7 +3284,7 @@
             }
         ],
         "gold": 150,
-        "name": "ドラゴンの卵",
+        "name": "Dragon Egg",
         "note": "Breath Motion: 1",
         "params": [
             1800,
@@ -3384,7 +3384,7 @@
             }
         ],
         "gold": 2000,
-        "name": "獰猛なドラゴン・ダーク種",
+        "name": "Fierce Dragon Dark Species",
         "note": "Breath Motion: 1",
         "params": [
             28000,
@@ -3472,7 +3472,7 @@
             }
         ],
         "gold": 150,
-        "name": "ドラゴン・フロスト種",
+        "name": "Dragon Frost Species",
         "note": "Breath Motion: 1",
         "params": [
             2100,
@@ -3553,7 +3553,7 @@
             }
         ],
         "gold": 150,
-        "name": "なにかの塊",
+        "name": "Mass of Something",
         "note": "Breath Motion: 1",
         "params": [
             1950,
@@ -3653,7 +3653,7 @@
             }
         ],
         "gold": 2000,
-        "name": "ドラゴン・フロスト変異種",
+        "name": "Dragon Frost Variant",
         "note": "Breath Motion: 1",
         "params": [
             31000,
@@ -3734,7 +3734,7 @@
             }
         ],
         "gold": 2000,
-        "name": "腐った金塊",
+        "name": "Rotten Gold Nugget",
         "note": "Breath Motion: 1\n\n金落とす",
         "params": [
             2000,
@@ -3877,7 +3877,7 @@
             }
         ],
         "gold": 200,
-        "name": "スケルトン",
+        "name": "Skeleton",
         "note": "Breath Motion: 1",
         "params": [
             2400,
@@ -3958,7 +3958,7 @@
             }
         ],
         "gold": 200,
-        "name": "地獄スパイダー",
+        "name": "Hell Spider",
         "note": "Breath Motion: 1",
         "params": [
             2300,
@@ -4051,7 +4051,7 @@
             }
         ],
         "gold": 3000,
-        "name": "アースゴーレム（電気の姿）",
+        "name": "Earth Golem (Electric Form)",
         "note": "Breath Motion: 1",
         "params": [
             33000,
@@ -4245,7 +4245,7 @@
             }
         ],
         "gold": 0,
-        "name": "公爵級悪魔エリゴール",
+        "name": "Duke-class demon Eligor",
         "note": "Breath Motion: 1",
         "params": [
             28000,
@@ -4384,7 +4384,7 @@
             }
         ],
         "gold": 0,
-        "name": "偽魔王",
+        "name": "False Demon King",
         "note": "Breath Motion: 1",
         "params": [
             45000,
@@ -4975,7 +4975,7 @@
             }
         ],
         "gold": 100,
-        "name": "偽箱トラップ",
+        "name": "False Box Trap",
         "note": "Breath Motion: 1\n\nいろんなアイテム落とす",
         "params": [
             1800,
@@ -5070,7 +5070,7 @@
             }
         ],
         "gold": 100,
-        "name": "偽箱トラップ",
+        "name": "False Box Trap",
         "note": "Breath Motion: 1\n\nいろんなアイテム落とす",
         "params": [
             1800,
@@ -5165,7 +5165,7 @@
             }
         ],
         "gold": 100,
-        "name": "偽箱トラップ",
+        "name": "False Box Trap",
         "note": "Breath Motion: 1\n\nいろんなアイテム落とす",
         "params": [
             1800,
@@ -5246,7 +5246,7 @@
             }
         ],
         "gold": 0,
-        "name": "魔法研の生徒",
+        "name": "Student of Magic Research",
         "note": "Breath Motion: 1",
         "params": [
             500,
@@ -5332,7 +5332,7 @@
             }
         ],
         "gold": 20,
-        "name": "デバッグよう",
+        "name": "For debugging",
         "note": "Breath Motion: 1",
         "params": [
             1,
@@ -5680,7 +5680,7 @@
             }
         ],
         "gold": 2000,
-        "name": "獰猛なドラゴン・ダーク種（強化）",
+        "name": "Fierce Dragon Dark Species (Enhanced)",
         "note": "Breath Motion: 1",
         "params": [
             40000,
@@ -5990,7 +5990,7 @@
             }
         ],
         "gold": 0,
-        "name": "その他----------------",
+        "name": "Other----------------",
         "note": "",
         "params": [
             100,
@@ -6057,7 +6057,7 @@
             }
         ],
         "gold": 0,
-        "name": "炎",
+        "name": "Flame",
         "note": "Breath Motion: 1",
         "params": [
             200,
@@ -6124,7 +6124,7 @@
             }
         ],
         "gold": 0,
-        "name": "水",
+        "name": "Water",
         "note": "Breath Motion: 1",
         "params": [
             200,
@@ -6191,7 +6191,7 @@
             }
         ],
         "gold": 0,
-        "name": "電気",
+        "name": "Electricity",
         "note": "Breath Motion: 1",
         "params": [
             200,
@@ -6258,7 +6258,7 @@
             }
         ],
         "gold": 0,
-        "name": "闇",
+        "name": "Darkness",
         "note": "Breath Motion: 1",
         "params": [
             200,
@@ -6325,7 +6325,7 @@
             }
         ],
         "gold": 0,
-        "name": "光",
+        "name": "Light",
         "note": "Breath Motion: 1",
         "params": [
             200,
@@ -6449,7 +6449,7 @@
             }
         ],
         "gold": 0,
-        "name": "ユニーク---------------",
+        "name": "Unique",
         "note": "",
         "params": [
             100,
@@ -6579,7 +6579,7 @@
             }
         ],
         "gold": 0,
-        "name": "オーク・アビス",
+        "name": "Orc Abyss",
         "note": "Breath Motion: 1",
         "params": [
             2200,
@@ -6709,7 +6709,7 @@
             }
         ],
         "gold": 0,
-        "name": "スピリット・アビス",
+        "name": "Spirit Abyss",
         "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
         "params": [
             5000,
@@ -6846,7 +6846,7 @@
             }
         ],
         "gold": 0,
-        "name": "ゴーレム・アビス",
+        "name": "Golem Abyss",
         "note": "Breath Motion: 1",
         "params": [
             7000,
@@ -6983,7 +6983,7 @@
             }
         ],
         "gold": 0,
-        "name": "マンモス・アビス",
+        "name": "Mammoth Abyss",
         "note": "Breath Motion: 1",
         "params": [
             15000,
@@ -7127,7 +7127,7 @@
             }
         ],
         "gold": 0,
-        "name": "ウィルオウィスプ・アビス",
+        "name": "Will-o-Wisp Abyss",
         "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
         "params": [
             16000,
@@ -7271,7 +7271,7 @@
             }
         ],
         "gold": 0,
-        "name": "ミノタウロス・アビス",
+        "name": "Minotaurus Abyss",
         "note": "Breath Motion: 1",
         "params": [
             15500,
@@ -7472,7 +7472,7 @@
             }
         ],
         "gold": 0,
-        "name": "ゲイザー・アビス",
+        "name": "Gazer Abyss",
         "note": "Breath Motion: 1",
         "params": [
             40000,
@@ -7604,7 +7604,7 @@
             }
         ],
         "gold": 0,
-        "name": "ドラゴン・アビス",
+        "name": "Dragon Abyss",
         "note": "Breath Motion: 1",
         "params": [
             50000,
@@ -7731,7 +7731,7 @@
             }
         ],
         "gold": 0,
-        "name": "アビス",
+        "name": "Abyss",
         "note": "Breath Motion: 2\nFloat Motion: 2\nSwing Motion: 1",
         "params": [
             75000,

@@ -3,11 +3,11 @@
     {
         "id": 1,
         "atypeId": 1,
-        "description": "正宗の服。\n勇者協会から支給された安物。",
+        "description": "Masamune's clothes. Cheap ones provided by the Hero\nAssociation.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "正宗の服",
+        "name": "Masamune's Robe",
         "note": "",
         "params": [
             0,
@@ -24,11 +24,11 @@
     {
         "id": 2,
         "atypeId": 3,
-        "description": "エレナの制服。\n青いカーディガンは今年の流行らしい。",
+        "description": "Elena's uniform. The blue cardigan seems to be this year's\ntrend.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "エレナの制服",
+        "name": "Elena's uniform",
         "note": "<costume:sei2>",
         "params": [
             0,
@@ -45,11 +45,11 @@
     {
         "id": 3,
         "atypeId": 3,
-        "description": "エレナの普段着。\n露出を多めにして男を誘っている。",
+        "description": "Elena's casual clothes. She's showing a bit more skin to\nentice men.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "エレナの服",
+        "name": "Elena's clothes",
         "note": "<costume:huku2>",
         "params": [
             0,
@@ -66,11 +66,11 @@
     {
         "id": 4,
         "atypeId": 4,
-        "description": "日和の制服。\n正しく着こなしている。",
+        "description": "Hiyo's school uniform. She is wearing it properly.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "日和の制服",
+        "name": "Hiyo's school uniform",
         "note": "<costume:sei3>",
         "params": [
             0,
@@ -87,11 +87,11 @@
     {
         "id": 5,
         "atypeId": 4,
-        "description": "日和の普段着。\nお気に入りの一着。",
+        "description": "Hiyo's casual outfit. Her favorite attire.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "日和の服",
+        "name": "Hiyo's clothes",
         "note": "<costume:huku3>",
         "params": [
             0,
@@ -108,11 +108,11 @@
     {
         "id": 6,
         "atypeId": 5,
-        "description": "オリビアの制服。\n生徒会副会長専用の制服。",
+        "description": "Olivia's uniform. A uniform exclusively for the vice\npresident of the student council.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "オリビアの制服",
+        "name": "Olivia's uniform",
         "note": "<costume:sei4>",
         "params": [
             0,
@@ -129,11 +129,11 @@
     {
         "id": 7,
         "atypeId": 5,
-        "description": "オリビアの普段着。\nルームメイトが選んだ服。",
+        "description": "Olivia's casual clothes. Clothes chosen by her roommate.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "オリビアの服",
+        "name": "Olivia's clothes",
         "note": "<costume:huku4>",
         "params": [
             0,
@@ -177,11 +177,11 @@
     {
         "id": 9,
         "atypeId": 2,
-        "description": "アメリの制服。",
+        "description": "Amelia's school uniform.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "アメリの制服",
+        "name": "Amelia's school uniform",
         "note": "<costume:sei>",
         "params": [
             0,
@@ -198,11 +198,11 @@
     {
         "id": 10,
         "atypeId": 2,
-        "description": "アメリの私服。\n好きなブランドの服。",
+        "description": "Amelia's casual clothes. Clothes from her favorite brand.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "アメリの服",
+        "name": "Amelia's clothes",
         "note": "<costume:huku>",
         "params": [
             0,
@@ -219,11 +219,11 @@
     {
         "id": 11,
         "atypeId": 2,
-        "description": "アメリの下着。\n勝負下着の一つ。",
+        "description": "Amelia's underwear. One of her lucky underwear.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "アメリの下着",
+        "name": "Amelia's underwear",
         "note": "<costume:sitagi>",
         "params": [
             0,
@@ -240,11 +240,11 @@
     {
         "id": 12,
         "atypeId": 2,
-        "description": "アメリのエッチな下着。\n先生から貰ったスケベな物。着けるだけで興奮する。",
+        "description": "Amelia's naughty underwear. A perverted item received from\nthe professor. Just wearing it makes you excited.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "アメリのエッチな下着",
+        "name": "Amelia's sexy underwear",
         "note": "<costume:hsitagi>",
         "params": [
             0,
@@ -261,11 +261,11 @@
     {
         "id": 13,
         "atypeId": 2,
-        "description": "レオンから貰った服型の魔導具。\n恥ずかしいけど魔力が増える。",
+        "description": "The magical tool in the form of clothing that I received\nfrom Leon. It's embarrassing, but it increases my magical\npower.",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "アメリのエッチな服",
+        "name": "Amelia's sexy outfit",
         "note": "<costume:hukuh>",
         "params": [
             0,
@@ -313,7 +313,7 @@
         "etypeId": 2,
         "traits": [],
         "iconIndex": 135,
-        "name": "レビヤタンの服",
+        "name": "Leviathan's clothes",
         "note": "",
         "params": [
             0,
@@ -421,7 +421,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "アクセサリー-----------",
+        "name": "Accessory",
         "note": "",
         "params": [
             0,
@@ -438,7 +438,7 @@
     {
         "id": 20,
         "atypeId": 7,
-        "description": "通常攻撃が炎属性になり、魔力が1.1倍になる。",
+        "description": "Normal attacks become fire attribute and magic power\nincreases by 1.1 times.",
         "etypeId": 3,
         "traits": [
             {
@@ -453,7 +453,7 @@
             }
         ],
         "iconIndex": 64,
-        "name": "炎のペンダント",
+        "name": "Pendant of Flames",
         "note": "",
         "params": [
             0,
@@ -470,7 +470,7 @@
     {
         "id": 21,
         "atypeId": 7,
-        "description": "通常攻撃が水属性になり、魔力が1.1倍になる。",
+        "description": "Normal attacks become water attribute and magic power\nincreases by 1.1 times.",
         "etypeId": 3,
         "traits": [
             {
@@ -485,7 +485,7 @@
             }
         ],
         "iconIndex": 67,
-        "name": "水のペンダント",
+        "name": "Water Pendant",
         "note": "",
         "params": [
             0,
@@ -502,7 +502,7 @@
     {
         "id": 22,
         "atypeId": 7,
-        "description": "通常攻撃が電属性になり、魔力が1.1倍になる。",
+        "description": "Normal attacks become electric attribute and magic power\nincreases by 1.1 times.",
         "etypeId": 3,
         "traits": [
             {
@@ -517,7 +517,7 @@
             }
         ],
         "iconIndex": 66,
-        "name": "電のペンダント",
+        "name": "Electric Pendant",
         "note": "",
         "params": [
             0,
@@ -534,7 +534,7 @@
     {
         "id": 23,
         "atypeId": 7,
-        "description": "通常攻撃が闇属性になり、魔力が1.1倍になる。",
+        "description": "Normal attacks become dark attribute and magic power\nincreases by 1.1 times.",
         "etypeId": 3,
         "traits": [
             {
@@ -549,7 +549,7 @@
             }
         ],
         "iconIndex": 71,
-        "name": "闇のペンダント",
+        "name": "Pendant of Darkness",
         "note": "",
         "params": [
             0,
@@ -566,7 +566,7 @@
     {
         "id": 24,
         "atypeId": 7,
-        "description": "通常攻撃が光属性になり、魔力が1.1倍になる。",
+        "description": "Normal attacks become light attribute and magic power\nincreases by 1.1 times.",
         "etypeId": 3,
         "traits": [
             {
@@ -581,7 +581,7 @@
             }
         ],
         "iconIndex": 70,
-        "name": "光のペンダント",
+        "name": "Pendant of Light",
         "note": "",
         "params": [
             0,
@@ -625,7 +625,7 @@
     {
         "id": 26,
         "atypeId": 7,
-        "description": "睡眠を無効化させる石。",
+        "description": "A stone that nullifies sleep.",
         "etypeId": 3,
         "traits": [
             {
@@ -635,7 +635,7 @@
             }
         ],
         "iconIndex": 8,
-        "name": "睡眠無効ストーン",
+        "name": "Sleep Nullification Stone",
         "note": "",
         "params": [
             0,
@@ -652,7 +652,7 @@
     {
         "id": 27,
         "atypeId": 7,
-        "description": "混乱を無効化させる石。",
+        "description": "A stone that nullifies confusion.",
         "etypeId": 3,
         "traits": [
             {
@@ -662,7 +662,7 @@
             }
         ],
         "iconIndex": 6,
-        "name": "混乱無効ストーン",
+        "name": "Confusion Nullification Stone",
         "note": "",
         "params": [
             0,
@@ -679,7 +679,7 @@
     {
         "id": 28,
         "atypeId": 7,
-        "description": "火傷、麻痺、冷凍を無効化させる石。",
+        "description": "Stone that nullifies burns, paralysis, and freezing.",
         "etypeId": 3,
         "traits": [
             {
@@ -699,7 +699,7 @@
             }
         ],
         "iconIndex": 70,
-        "name": "三属性異常無効ストーン",
+        "name": "Three Attribute Abnormality Nullification Stone",
         "note": "",
         "params": [
             0,
@@ -716,7 +716,7 @@
     {
         "id": 29,
         "atypeId": 7,
-        "description": "毒を無効化させる石。",
+        "description": "A stone that nullifies poison.",
         "etypeId": 3,
         "traits": [
             {
@@ -726,7 +726,7 @@
             }
         ],
         "iconIndex": 2,
-        "name": "毒無効ストーン",
+        "name": "Poison Nullification Stone",
         "note": "",
         "params": [
             0,
@@ -743,7 +743,7 @@
     {
         "id": 30,
         "atypeId": 7,
-        "description": "スタンを無効化させる石。",
+        "description": "Stone that nullifies Stan.",
         "etypeId": 3,
         "traits": [
             {
@@ -753,7 +753,7 @@
             }
         ],
         "iconIndex": 2,
-        "name": "スタン無効ストーン",
+        "name": "Stun Nullification Stone",
         "note": "",
         "params": [
             0,
@@ -770,7 +770,7 @@
     {
         "id": 31,
         "atypeId": 7,
-        "description": "魅了を無効化させる石。",
+        "description": "A stone that nullifies charm.",
         "etypeId": 3,
         "traits": [
             {
@@ -780,7 +780,7 @@
             }
         ],
         "iconIndex": 2,
-        "name": "魅了無効ストーン",
+        "name": "Charm Nullification Stone",
         "note": "",
         "params": [
             0,
@@ -861,7 +861,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "魔道具-----------",
+        "name": "Magic Tool",
         "note": "",
         "params": [
             0,
@@ -878,7 +878,7 @@
     {
         "id": 35,
         "atypeId": 7,
-        "description": "会心率が1.3倍になる",
+        "description": "Critical rate increases by 1.3 times.",
         "etypeId": 4,
         "traits": [
             {
@@ -888,7 +888,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "会心のピアス",
+        "name": "Piercing of Critical Hits",
         "note": "",
         "params": [
             0,
@@ -905,7 +905,7 @@
     {
         "id": 36,
         "atypeId": 7,
-        "description": "敏捷が2倍になる。",
+        "description": "Agility doubles.",
         "etypeId": 4,
         "traits": [
             {
@@ -915,7 +915,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "敏捷のピアス",
+        "name": "Agile Earrings",
         "note": "",
         "params": [
             0,
@@ -932,7 +932,7 @@
     {
         "id": 37,
         "atypeId": 7,
-        "description": "HPが自動で少量回復する",
+        "description": "HP automatically recovers a small amount.",
         "etypeId": 4,
         "traits": [
             {
@@ -942,7 +942,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "回復のピアス",
+        "name": "Healing Earrings",
         "note": "",
         "params": [
             0,
@@ -959,7 +959,7 @@
     {
         "id": 38,
         "atypeId": 7,
-        "description": "MPが自動で少量回復する",
+        "description": "MP automatically recovers a small amount.",
         "etypeId": 4,
         "traits": [
             {
@@ -969,7 +969,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "魔力回復の指輪",
+        "name": "Ring of Magic Recovery",
         "note": "D1",
         "params": [
             0,
@@ -986,7 +986,7 @@
     {
         "id": 39,
         "atypeId": 7,
-        "description": "HPの最大量が1.3倍になる",
+        "description": "The maximum amount of HP increases by 1.3 times.",
         "etypeId": 4,
         "traits": [
             {
@@ -996,7 +996,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "体力の指輪",
+        "name": "Ring of Vitality",
         "note": "",
         "params": [
             0,
@@ -1013,7 +1013,7 @@
     {
         "id": 40,
         "atypeId": 7,
-        "description": "MPの最大量が1.3倍になる",
+        "description": "The maximum amount of MP increases by 1.3 times.",
         "etypeId": 4,
         "traits": [
             {
@@ -1023,7 +1023,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "魔力の指輪",
+        "name": "Ring of Magic Power",
         "note": "",
         "params": [
             0,
@@ -1040,7 +1040,7 @@
     {
         "id": 41,
         "atypeId": 7,
-        "description": "防御、魔法防御が1.2倍になる",
+        "description": "Defense and magic defense will increase by 1.2 times.",
         "etypeId": 4,
         "traits": [
             {
@@ -1055,7 +1055,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "防御のベルト",
+        "name": "Defense Belt",
         "note": "",
         "params": [
             0,
@@ -1072,7 +1072,7 @@
     {
         "id": 42,
         "atypeId": 7,
-        "description": "魔力、攻撃力が1.2倍になる",
+        "description": "Magic power and attack power increase by 1.2 times.",
         "etypeId": 4,
         "traits": [
             {
@@ -1087,7 +1087,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "攻撃のベルト",
+        "name": "Belt of Attack",
         "note": "",
         "params": [
             0,
@@ -1131,7 +1131,7 @@
     {
         "id": 44,
         "atypeId": 7,
-        "description": "闇属性の攻撃を30％減らせる。",
+        "description": "Reduces dark attribute attacks by 30%.",
         "etypeId": 3,
         "traits": [
             {
@@ -1141,7 +1141,7 @@
             }
         ],
         "iconIndex": 71,
-        "name": "闇への対抗策ストーン",
+        "name": "Countermeasure Stone against Darkness",
         "note": "",
         "params": [
             0,
@@ -1212,7 +1212,7 @@
     {
         "id": 47,
         "atypeId": 7,
-        "description": "戦闘で獲得するアイテムの入手率が2倍になる",
+        "description": "The drop rate of items obtained in battles is doubled.",
         "etypeId": 4,
         "traits": [
             {
@@ -1222,7 +1222,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "アイテムゴーグル",
+        "name": "Item Goggles",
         "note": "",
         "params": [
             0,
@@ -1239,7 +1239,7 @@
     {
         "id": 48,
         "atypeId": 7,
-        "description": "戦闘で獲得する金額が2倍になる",
+        "description": "The amount of money obtained in battles is doubled.",
         "etypeId": 4,
         "traits": [
             {
@@ -1249,7 +1249,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "ゴールドゴーグル",
+        "name": "Gold Goggles",
         "note": "",
         "params": [
             0,
@@ -1293,11 +1293,11 @@
     {
         "id": 50,
         "atypeId": 7,
-        "description": "オーク・アビスを倒した時に入手した指輪。",
+        "description": "The ring obtained when defeating the Orc Abyss.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 144,
-        "name": "オークの指輪",
+        "name": "Orc's Ring",
         "note": "",
         "params": [
             0,
@@ -1314,11 +1314,11 @@
     {
         "id": 51,
         "atypeId": 7,
-        "description": "スピリットを倒した時に入手した指輪。",
+        "description": "A ring obtained when defeating a spirit.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 144,
-        "name": "スピリットの指輪",
+        "name": "Spirit Ring",
         "note": "",
         "params": [
             0,
@@ -1335,11 +1335,11 @@
     {
         "id": 52,
         "atypeId": 7,
-        "description": "ゴーレムを倒した時に入手した指輪。",
+        "description": "The ring obtained when defeating the golem.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 144,
-        "name": "ゴーレムの指輪",
+        "name": "Golem's Ring",
         "note": "",
         "params": [
             0,
@@ -1356,11 +1356,11 @@
     {
         "id": 53,
         "atypeId": 7,
-        "description": "マンモスを倒した時に入手した指輪。",
+        "description": "The ring obtained when defeating the mammoth.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 144,
-        "name": "マンモスの指輪",
+        "name": "Mammoth Ring",
         "note": "",
         "params": [
             300,
@@ -1377,11 +1377,11 @@
     {
         "id": 54,
         "atypeId": 7,
-        "description": "ウィルオウィスプを倒した時に入手した指輪。",
+        "description": "The ring obtained when defeating the Will-o-Wisp.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 144,
-        "name": "ウィスプの指輪",
+        "name": "Wisps' Ring",
         "note": "",
         "params": [
             0,
@@ -1398,11 +1398,11 @@
     {
         "id": 55,
         "atypeId": 7,
-        "description": "ミノタウロスを倒した時に入手した指輪。",
+        "description": "The ring obtained when defeating the Minotaur.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 144,
-        "name": "ミノタウロスの指輪",
+        "name": "Minotaur's Ring",
         "note": "",
         "params": [
             0,
@@ -1446,7 +1446,7 @@
     {
         "id": 57,
         "atypeId": 7,
-        "description": "ゲイザーを倒した時に入手した指輪。\n会心率+10％",
+        "description": "The ring obtained when defeating Gazer. Critical hit rate\n+10%.",
         "etypeId": 4,
         "traits": [
             {
@@ -1456,7 +1456,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ゲイザーの指輪",
+        "name": "Gazer's Ring",
         "note": "",
         "params": [
             0,
@@ -1473,7 +1473,7 @@
     {
         "id": 58,
         "atypeId": 7,
-        "description": "ドラゴンを倒した時に入手した指輪。\nTP再生率+10％",
+        "description": "Ring obtained when defeating the dragon. TP regeneration\nrate +10%.",
         "etypeId": 4,
         "traits": [
             {
@@ -1483,7 +1483,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ドラゴンの指輪",
+        "name": "Dragon's Ring",
         "note": "",
         "params": [
             0,
@@ -1500,7 +1500,7 @@
     {
         "id": 59,
         "atypeId": 7,
-        "description": "防御が下がる代わりに魔法力が二倍になる。",
+        "description": "In exchange for decreased defense, magic power doubles.",
         "etypeId": 4,
         "traits": [
             {
@@ -1520,7 +1520,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "アビスの指輪",
+        "name": "Ring of the Abyss",
         "note": "",
         "params": [
             0,

@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 2,
-        "description": "ブナの木から作られた杖\n勇者教会から支給される普通の杖",
+        "description": "Staff made from the oak tree A regular staff supplied by the\nHero Church",
         "etypeId": 1,
         "traits": [
             {
@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "ブナの杖",
+        "name": "Buna Staff",
         "note": "<skill_id:5> ",
         "params": [
             0,
@@ -31,7 +31,7 @@
     {
         "id": 2,
         "animationId": 2,
-        "description": "チェストナッツの木から作られた杖\nまれに相手を氷状態にする",
+        "description": "A staff made from a chestnut tree. Occasionally freezes the\nopponent.",
         "etypeId": 1,
         "traits": [
             {
@@ -46,7 +46,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "チェストナッツの杖",
+        "name": "Chestnut Staff",
         "note": "<skill_id:5> ",
         "params": [
             0,
@@ -64,7 +64,7 @@
     {
         "id": 3,
         "animationId": 2,
-        "description": "トネリコの木から作られた杖\n会心率が高い",
+        "description": "A staff made from the Tonelico tree. Has a high critical\nrate.",
         "etypeId": 1,
         "traits": [
             {
@@ -79,7 +79,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "トネリコの杖",
+        "name": "Toneriko's Staff",
         "note": "<skill_id:5> ",
         "params": [
             0,
@@ -130,7 +130,7 @@
     {
         "id": 5,
         "animationId": 2,
-        "description": "ヤナギの木から作られた杖\n軽くて使いやすい",
+        "description": "The staff made from a willow tree is light and easy to use.",
         "etypeId": 1,
         "traits": [
             {
@@ -145,7 +145,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "ヤナギの杖",
+        "name": "Willow Staff",
         "note": "<skill_id:5> ",
         "params": [
             0,
@@ -163,7 +163,7 @@
     {
         "id": 6,
         "animationId": 2,
-        "description": "コクタンの木から作られた杖\nまれに相手を麻痺状態にする",
+        "description": "A staff made from the Kokutan tree. Occasionally, it\nparalyzes the opponent.",
         "etypeId": 1,
         "traits": [
             {
@@ -178,7 +178,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "コクタンの杖",
+        "name": "Kokutan's Staff",
         "note": "<skill_id:5> ",
         "params": [
             0,
@@ -196,7 +196,7 @@
     {
         "id": 7,
         "animationId": 2,
-        "description": "シタンの木から作られた杖\nまれに相手を混乱状態にする",
+        "description": "A staff made from the wood of a Siton tree. Occasionally\ncauses confusion to the opponent.",
         "etypeId": 1,
         "traits": [
             {
@@ -211,7 +211,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "シタンの杖",
+        "name": "Staff of Siton",
         "note": "<skill_id:5> ",
         "params": [
             0,
@@ -262,7 +262,7 @@
     {
         "id": 9,
         "animationId": 2,
-        "description": "イトスギの木から作られた杖\n運が良くなるらしい",
+        "description": "A staff made from the Ito sugi tree. It seems to bring good\nluck.",
         "etypeId": 1,
         "traits": [
             {
@@ -277,7 +277,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "イトスギの杖",
+        "name": "Itosugi's Staff",
         "note": "<skill_id:5> ",
         "params": [
             0,
@@ -295,7 +295,7 @@
     {
         "id": 10,
         "animationId": 2,
-        "description": "パウサンドウッドの木から作られた杖\nまれに相手を火傷状態にする",
+        "description": "Staff made from Pausandwood tree. Occasionally inflicts a\nburn status on the opponent.",
         "etypeId": 1,
         "traits": [
             {
@@ -310,7 +310,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "パウサンドウッドの杖",
+        "name": "Staff of Pausandwood",
         "note": "<skill_id:5> ",
         "params": [
             0,
@@ -328,7 +328,7 @@
     {
         "id": 11,
         "animationId": 2,
-        "description": "サクラの木から作られた杖\nまれに相手を睡眠状態にする。ずっしりと重い。",
+        "description": "Staff made from a Sakura tree. Occasionally puts the\nopponent in a sleep state. It is heavy and solid.",
         "etypeId": 1,
         "traits": [
             {
@@ -348,7 +348,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "サクラの杖",
+        "name": "Sakura's Staff",
         "note": "<skill_id:5> ",
         "params": [
             0,
@@ -399,11 +399,11 @@
     {
         "id": 13,
         "animationId": 2,
-        "description": "ヘーゼルナッツの木から作られた杖\nエレナが愛用している。良い匂いがするらしい。",
+        "description": "The cane made from hazelnut tree is Elena's favorite. It\nseems to have a nice scent.",
         "etypeId": 1,
         "traits": [],
         "iconIndex": 120,
-        "name": "ヘーゼルナッツの杖",
+        "name": "Hazelnut Staff",
         "note": "<skill_id:5> ",
         "params": [
             0,
@@ -421,11 +421,11 @@
     {
         "id": 14,
         "animationId": 2,
-        "description": "ヘーゼルナッツの木から作られた杖\nエレナが愛用している。良い匂いがするらしい。",
+        "description": "The cane made from hazelnut tree is Elena's favorite. It\nseems to have a nice scent.",
         "etypeId": 1,
         "traits": [],
         "iconIndex": 120,
-        "name": "ヘーゼルナッツの杖Ⅱ",
+        "name": "Hazel Nut Staff II",
         "note": "<skill_id:5> ",
         "params": [
             0,
@@ -443,11 +443,11 @@
     {
         "id": 15,
         "animationId": 2,
-        "description": "ヘーゼルナッツの木から作られた杖\nエレナが愛用している。良い匂いがするらしい。",
+        "description": "The cane made from hazelnut tree is Elena's favorite. It\nseems to have a nice scent.",
         "etypeId": 1,
         "traits": [],
         "iconIndex": 120,
-        "name": "ヘーゼルナッツの杖Ⅲ",
+        "name": "Hazel Nut Staff III",
         "note": "<skill_id:5> ",
         "params": [
             0,
@@ -498,11 +498,11 @@
     {
         "id": 17,
         "animationId": 1,
-        "description": "ケヤキの木から作られた杖\n日和が愛用している。物理攻撃も上がるらしい。",
+        "description": "The staff made from a Zelkova tree is Hiyo's favorite. It\nseems to also increase physical attacks.",
         "etypeId": 1,
         "traits": [],
         "iconIndex": 120,
-        "name": "ケヤキの杖",
+        "name": "Keyaki Staff",
         "note": "",
         "params": [
             0,
@@ -520,11 +520,11 @@
     {
         "id": 18,
         "animationId": 1,
-        "description": "ケヤキの木から作られた杖\n日和が愛用している。物理攻撃も上がるらしい。",
+        "description": "The staff made from a Zelkova tree is Hiyo's favorite. It\nseems to also increase physical attacks.",
         "etypeId": 1,
         "traits": [],
         "iconIndex": 120,
-        "name": "ケヤキの杖Ⅱ",
+        "name": "Keyaki Staff II",
         "note": "",
         "params": [
             0,
@@ -575,11 +575,11 @@
     {
         "id": 20,
         "animationId": 2,
-        "description": "ジネストラの木から作られた杖\nオリビアが愛用している。不思議な魅力がある杖。",
+        "description": "The staff made from the Genestra tree, which Olivia uses. It\nhas a mysterious charm.",
         "etypeId": 1,
         "traits": [],
         "iconIndex": 120,
-        "name": "ジネストラの杖",
+        "name": "Staff of Ginestra",
         "note": "<skill_id:5> ",
         "params": [
             0,
