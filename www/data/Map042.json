@@ -14546,6 +14546,23 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "捕まるとイベントが発生してしまいます。"
+                            ]
+                        },
+                        {
                             "code": 117,
                             "indent": 0,
                             "parameters": [

@@ -13686,6 +13686,37 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
+                                "スキット 表情 アメリ f 1"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "【アメリ】"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "  「いえ、いきなり言われても困ります」"
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 0,
+                            "parameters": [
                                 "スキット 終了"
                             ]
                         },
