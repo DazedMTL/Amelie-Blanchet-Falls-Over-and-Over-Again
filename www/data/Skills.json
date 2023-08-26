@@ -2263,7 +2263,7 @@
         "iconIndex": 109,
         "message1": "は%1を唱えた",
         "message2": "魔法攻撃を反射する！",
-        "mpCost": 20,
+        "mpCost": 30,
         "name": "反射魔法",
         "note": "",
         "occasion": 1,
@@ -4886,7 +4886,7 @@
         "damage": {
             "critical": true,
             "elementId": 3,
-            "formula": "a.mat * 6 - b.mdf * 2",
+            "formula": "a.mat * 5.5 - b.mdf * 2",
             "type": 1,
             "variance": 20
         },
@@ -4895,7 +4895,7 @@
             {
                 "code": 21,
                 "dataId": 7,
-                "value1": 0.5,
+                "value1": 0.2,
                 "value2": 0
             }
         ],
@@ -4960,12 +4960,6 @@
         "description": "",
         "effects": [
             {
-                "code": 21,
-                "dataId": 18,
-                "value1": 1,
-                "value2": 0
-            },
-            {
                 "code": 31,
                 "dataId": 2,
                 "value1": 5,
@@ -4987,7 +4981,7 @@
         "speed": 0,
         "stypeId": 1,
         "successRate": 100,
-        "tpCost": 10,
+        "tpCost": 0,
         "tpGain": 0
     },
     {
@@ -5189,7 +5183,7 @@
             {
                 "code": 21,
                 "dataId": 7,
-                "value1": 0.3,
+                "value1": 0.2,
                 "value2": 0
             }
         ],
@@ -5423,7 +5417,7 @@
             {
                 "code": 21,
                 "dataId": 8,
-                "value1": 0.6,
+                "value1": 0.5,
                 "value2": 0
             }
         ],
@@ -5614,7 +5608,7 @@
             {
                 "code": 21,
                 "dataId": 14,
-                "value1": 0.5,
+                "value1": 0.3,
                 "value2": 0
             }
         ],
@@ -7679,7 +7673,7 @@
             {
                 "code": 21,
                 "dataId": 14,
-                "value1": 0.5,
+                "value1": 0.4,
                 "value2": 0
             }
         ],

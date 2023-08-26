@@ -18236,8 +18236,8 @@
                                         }
                                     ],
                                     "repeat": false,
-                                    "skippable": false,
-                                    "wait": true
+                                    "skippable": true,
+                                    "wait": false
                                 }
                             ]
                         },

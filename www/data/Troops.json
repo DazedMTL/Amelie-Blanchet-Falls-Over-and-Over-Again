@@ -481,24 +481,6 @@
                         ]
                     },
                     {
-                        "code": 337,
-                        "indent": 0,
-                        "parameters": [
-                            0,
-                            51,
-                            false
-                        ]
-                    },
-                    {
-                        "code": 333,
-                        "indent": 0,
-                        "parameters": [
-                            1,
-                            0,
-                            21
-                        ]
-                    },
-                    {
                         "code": 0,
                         "indent": 0,
                         "parameters": []
@@ -7111,13 +7093,13 @@
         "id": 80,
         "members": [
             {
-                "enemyId": 62,
+                "enemyId": 91,
                 "x": 408,
-                "y": 440,
+                "y": 436,
                 "hidden": false
             }
         ],
-        "name": "デバッグよう",
+        "name": "でば",
         "pages": [
             {
                 "conditions": {

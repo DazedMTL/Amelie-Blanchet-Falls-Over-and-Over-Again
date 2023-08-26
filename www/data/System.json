@@ -109,7 +109,7 @@
         "pitch": 100,
         "volume": 30
     },
-    "editMapId": 1,
+    "editMapId": 11,
     "elements": [
         "",
         "物理",
@@ -850,7 +850,7 @@
                 0,
                 0
             ],
-            "level": 22
+            "level": 15
         },
         {
             "actorId": 2,
@@ -860,30 +860,30 @@
                 0,
                 0
             ],
-            "level": 24
+            "level": 15
         },
         {
-            "actorId": 3,
+            "actorId": 0,
             "equips": [
-                13,
-                2,
+                1,
+                1,
                 0,
                 0
             ],
-            "level": 27
+            "level": 1
         },
         {
-            "actorId": 5,
+            "actorId": 0,
             "equips": [
-                20,
-                6,
+                1,
+                1,
                 0,
                 0
             ],
-            "level": 25
+            "level": 1
         }
     ],
-    "testTroopId": 51,
+    "testTroopId": 19,
     "title1Name": "Layer1",
     "title2Name": "",
     "titleBgm": {
@@ -1195,7 +1195,7 @@
         "",
         ""
     ],
-    "versionId": 69396038,
+    "versionId": 8841212,
     "victoryMe": {
         "name": "jingle01_syouri",
         "pan": 0,

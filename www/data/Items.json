@@ -4395,7 +4395,7 @@
     {
         "id": 153,
         "animationId": 0,
-        "consumable": false,
+        "consumable": true,
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -4420,7 +4420,7 @@
         "occasion": 2,
         "price": 9800,
         "repeats": 1,
-        "scope": 0,
+        "scope": 7,
         "speed": 0,
         "successRate": 100,
         "tpGain": 0
@@ -4428,7 +4428,7 @@
     {
         "id": 154,
         "animationId": 0,
-        "consumable": false,
+        "consumable": true,
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -4453,7 +4453,7 @@
         "occasion": 2,
         "price": 9800,
         "repeats": 1,
-        "scope": 0,
+        "scope": 7,
         "speed": 0,
         "successRate": 100,
         "tpGain": 0
@@ -4461,7 +4461,7 @@
     {
         "id": 155,
         "animationId": 0,
-        "consumable": false,
+        "consumable": true,
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -4486,7 +4486,7 @@
         "occasion": 2,
         "price": 9800,
         "repeats": 1,
-        "scope": 0,
+        "scope": 7,
         "speed": 0,
         "successRate": 100,
         "tpGain": 0
@@ -4494,7 +4494,7 @@
     {
         "id": 156,
         "animationId": 0,
-        "consumable": false,
+        "consumable": true,
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -4519,7 +4519,7 @@
         "occasion": 2,
         "price": 9800,
         "repeats": 1,
-        "scope": 0,
+        "scope": 7,
         "speed": 0,
         "successRate": 100,
         "tpGain": 0
@@ -4527,7 +4527,7 @@
     {
         "id": 157,
         "animationId": 0,
-        "consumable": false,
+        "consumable": true,
         "damage": {
             "critical": false,
             "elementId": 0,
@@ -4552,7 +4552,7 @@
         "occasion": 2,
         "price": 9800,
         "repeats": 1,
-        "scope": 0,
+        "scope": 7,
         "speed": 0,
         "successRate": 100,
         "tpGain": 0

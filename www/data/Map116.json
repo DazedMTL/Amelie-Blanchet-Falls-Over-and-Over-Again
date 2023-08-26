@@ -9734,7 +9734,7 @@
                         "switch1Id": 53,
                         "switch1Valid": true,
                         "switch2Id": 204,
-                        "switch2Valid": true,
+                        "switch2Valid": false,
                         "variableId": 1,
                         "variableValid": true,
                         "variableValue": 90
@@ -9749,8 +9749,75 @@
                     },
                     "list": [
                         {
-                            "code": 102,
+                            "code": 111,
                             "indent": 0,
+                            "parameters": [
+                                0,
+                                204,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "【正宗】"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "「このまま突入してもいいのか。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "　もっとホフマンの情報がほしい」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "呪い魔法の授業5をクリアすると進めます。"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 102,
+                            "indent": 1,
                             "parameters": [
                                 [
                                     "工房に入る",
@@ -9764,7 +9831,7 @@
                         },
                         {
                             "code": 402,
-                            "indent": 0,
+                            "indent": 1,
                             "parameters": [
                                 0,
                                 "工房に入る"
@@ -9772,26 +9839,26 @@
                         },
                         {
                             "code": 221,
-                            "indent": 1,
+                            "indent": 2,
                             "parameters": []
                         },
                         {
                             "code": 117,
-                            "indent": 1,
+                            "indent": 2,
                             "parameters": [
                                 2
                             ]
                         },
                         {
                             "code": 230,
-                            "indent": 1,
+                            "indent": 2,
                             "parameters": [
                                 60
                             ]
                         },
                         {
                             "code": 201,
-                            "indent": 1,
+                            "indent": 2,
                             "parameters": [
                                 0,
                                 249,
@@ -9803,7 +9870,7 @@
                         },
                         {
                             "code": 205,
-                            "indent": 1,
+                            "indent": 2,
                             "parameters": [
                                 -1,
                                 {
@@ -9824,7 +9891,7 @@
                         },
                         {
                             "code": 505,
-                            "indent": 1,
+                            "indent": 2,
                             "parameters": [
                                 {
                                     "code": 3,
@@ -9834,12 +9901,12 @@
                         },
                         {
                             "code": 222,
-                            "indent": 1,
+                            "indent": 2,
                             "parameters": []
                         },
                         {
                             "code": 121,
-                            "indent": 1,
+                            "indent": 2,
                             "parameters": [
                                 72,
                                 72,
@@ -9848,12 +9915,12 @@
                         },
                         {
                             "code": 0,
-                            "indent": 1,
+                            "indent": 2,
                             "parameters": []
                         },
                         {
                             "code": 402,
-                            "indent": 0,
+                            "indent": 1,
                             "parameters": [
                                 1,
                                 "入らない"
@@ -9861,11 +9928,21 @@
                         },
                         {
                             "code": 0,
-                            "indent": 1,
+                            "indent": 2,
                             "parameters": []
                         },
                         {
                             "code": 404,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
                             "indent": 0,
                             "parameters": []
                         },

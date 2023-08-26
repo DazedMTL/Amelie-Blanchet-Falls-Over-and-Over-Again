@@ -210,8 +210,8 @@
                 "denominator": 8
             },
             {
-                "kind": 1,
-                "dataId": 19,
+                "kind": 0,
+                "dataId": 0,
                 "denominator": 8
             },
             {
@@ -296,8 +296,8 @@
                 "denominator": 8
             },
             {
-                "kind": 1,
-                "dataId": 19,
+                "kind": 0,
+                "dataId": 0,
                 "denominator": 8
             },
             {
@@ -440,9 +440,9 @@
         "params": [
             2000,
             5000,
-            32,
+            30,
             10,
-            28,
+            26,
             10,
             15,
             30
@@ -482,8 +482,8 @@
                 "denominator": 8
             },
             {
-                "kind": 1,
-                "dataId": 13,
+                "kind": 0,
+                "dataId": 0,
                 "denominator": 5
             },
             {
@@ -626,9 +626,9 @@
         "params": [
             2500,
             5000,
-            33,
+            32,
             10,
-            33,
+            30,
             10,
             30,
             30
@@ -1003,7 +1003,7 @@
             39,
             10,
             25,
-            30
+            15
         ]
     },
     {
@@ -1204,14 +1204,14 @@
             },
             {
                 "conditionParam1": 0,
-                "conditionParam2": 0.5,
+                "conditionParam2": 0.3,
                 "conditionType": 2,
                 "rating": 3,
                 "skillId": 57
             },
             {
                 "conditionParam1": 0,
-                "conditionParam2": 0.6,
+                "conditionParam2": 0.5,
                 "conditionType": 2,
                 "rating": 4,
                 "skillId": 143
@@ -1452,7 +1452,7 @@
         "name": "トレントキング",
         "note": "Breath Motion: 1",
         "params": [
-            6000,
+            5500,
             5000,
             48,
             10,
@@ -1663,11 +1663,6 @@
                 "code": 11,
                 "dataId": 3,
                 "value": 0.75
-            },
-            {
-                "code": 61,
-                "dataId": 0,
-                "value": 1
             }
         ],
         "gold": 2000,
@@ -2184,7 +2179,7 @@
         "name": "大人びたワイバーン",
         "note": "Breath Motion: 1",
         "params": [
-            10000,
+            9000,
             5000,
             60,
             10,
@@ -2536,7 +2531,7 @@
         "params": [
             1200,
             5000,
-            65,
+            63,
             10,
             10,
             10,
@@ -2710,7 +2705,7 @@
         "params": [
             13000,
             300,
-            70,
+            65,
             10,
             10,
             10,
@@ -2810,9 +2805,9 @@
         "params": [
             15000,
             5000,
-            72,
+            70,
             10,
-            72,
+            70,
             10,
             15,
             50
@@ -5267,35 +5262,21 @@
                 "conditionParam2": 0,
                 "conditionType": 0,
                 "rating": 5,
-                "skillId": 128
-            },
-            {
-                "conditionParam1": 0,
-                "conditionParam2": 0,
-                "conditionType": 0,
-                "rating": 3,
-                "skillId": 129
-            },
-            {
-                "conditionParam1": 0,
-                "conditionParam2": 0,
-                "conditionType": 0,
-                "rating": 4,
-                "skillId": 130
+                "skillId": 1
             }
         ],
         "battlerHue": 0,
-        "battlerName": "will-o_-the-wisp_01",
+        "battlerName": "",
         "dropItems": [
             {
-                "kind": 1,
-                "dataId": 13,
-                "denominator": 8
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
             },
             {
-                "kind": 1,
-                "dataId": 19,
-                "denominator": 8
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
             },
             {
                 "dataId": 1,
@@ -5303,46 +5284,36 @@
                 "kind": 0
             }
         ],
-        "exp": 10000,
+        "exp": 0,
         "traits": [
-            {
-                "code": 41,
-                "dataId": 1,
-                "value": 1
-            },
             {
                 "code": 22,
                 "dataId": 0,
-                "value": 1
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
             },
             {
                 "code": 31,
-                "dataId": 3,
-                "value": 1
-            },
-            {
-                "code": 11,
-                "dataId": 2,
-                "value": 1.5
-            },
-            {
-                "code": 11,
-                "dataId": 3,
-                "value": 0.75
+                "dataId": 1,
+                "value": 0
             }
         ],
-        "gold": 20,
-        "name": "デバッグよう",
-        "note": "Breath Motion: 1",
+        "gold": 0,
+        "name": "",
+        "note": "",
         "params": [
-            1,
-            300,
-            16,
+            100,
+            0,
             10,
-            18,
             10,
-            1,
-            30
+            10,
+            10,
+            10,
+            10
         ]
     },
     {
@@ -7276,7 +7247,7 @@
         "params": [
             15500,
             5000,
-            76,
+            73,
             25,
             73,
             15,
@@ -7746,6 +7717,340 @@
     },
     {
         "id": 90,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 91,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 128
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 129
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 130
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "21_ゴブリン",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 13,
+                "denominator": 1
+            },
+            {
+                "kind": 1,
+                "dataId": 19,
+                "denominator": 1
+            },
+            {
+                "kind": 1,
+                "dataId": 25,
+                "denominator": 1
+            }
+        ],
+        "exp": 40,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.5
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.75
+            }
+        ],
+        "gold": 20,
+        "name": "でば",
+        "note": "Breath Motion: 1",
+        "params": [
+            1,
+            300,
+            16,
+            10,
+            18,
+            10,
+            15,
+            30
+        ]
+    },
+    {
+        "id": 92,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 93,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 94,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 95,
         "actions": [
             {
                 "conditionParam1": 0,
