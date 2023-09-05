@@ -101,7 +101,7 @@
         1536,
         1536,
         6688,
-        7089,
+        7088,
         7088,
         7088,
         7088,
@@ -123,7 +123,7 @@
         1536,
         1536,
         6688,
-        7097,
+        7096,
         7096,
         7096,
         7096,
@@ -1751,7 +1751,7 @@
         0,
         0,
         0,
-        0,
+        5,
         0,
         0,
         0,
@@ -1773,7 +1773,7 @@
         0,
         0,
         0,
-        0,
+        5,
         0,
         0,
         0,
@@ -1795,7 +1795,7 @@
         0,
         0,
         0,
-        0,
+        5,
         0,
         0,
         0,
@@ -2570,7 +2570,7 @@
                         "characterName": "jogaibook3",
                         "direction": 2,
                         "pattern": 1,
-                        "characterIndex": 2
+                        "characterIndex": 3
                     },
                     "list": [
                         {
@@ -2807,6 +2807,13 @@
                             "code": 221,
                             "indent": 1,
                             "parameters": []
+                        },
+                        {
+                            "code": 242,
+                            "indent": 1,
+                            "parameters": [
+                                1
+                            ]
                         },
                         {
                             "code": 117,
@@ -3134,7 +3141,7 @@
                 }
             ],
             "x": 5,
-            "y": 11
+            "y": 9
         },
         {
             "id": 2,
@@ -3163,7 +3170,7 @@
                         "characterName": "jogaibook3",
                         "direction": 2,
                         "pattern": 1,
-                        "characterIndex": 2
+                        "characterIndex": 3
                     },
                     "list": [
                         {
@@ -3386,6 +3393,13 @@
                             "code": 221,
                             "indent": 1,
                             "parameters": []
+                        },
+                        {
+                            "code": 242,
+                            "indent": 1,
+                            "parameters": [
+                                1
+                            ]
                         },
                         {
                             "code": 117,
@@ -3706,7 +3720,7 @@
                 }
             ],
             "x": 7,
-            "y": 11
+            "y": 9
         },
         {
             "id": 3,
@@ -3735,7 +3749,7 @@
                         "characterName": "jogaibook3",
                         "direction": 2,
                         "pattern": 1,
-                        "characterIndex": 2
+                        "characterIndex": 3
                     },
                     "list": [
                         {
@@ -3958,6 +3972,13 @@
                             "code": 221,
                             "indent": 1,
                             "parameters": []
+                        },
+                        {
+                            "code": 242,
+                            "indent": 1,
+                            "parameters": [
+                                1
+                            ]
                         },
                         {
                             "code": 117,
@@ -4278,7 +4299,7 @@
                 }
             ],
             "x": 9,
-            "y": 11
+            "y": 9
         },
         {
             "id": 4,
@@ -4544,6 +4565,13 @@
                             "code": 221,
                             "indent": 1,
                             "parameters": []
+                        },
+                        {
+                            "code": 242,
+                            "indent": 1,
+                            "parameters": [
+                                1
+                            ]
                         },
                         {
                             "code": 117,
@@ -4871,7 +4899,7 @@
                 }
             ],
             "x": 5,
-            "y": 9
+            "y": 11
         },
         {
             "id": 5,
@@ -5130,6 +5158,13 @@
                             "code": 221,
                             "indent": 1,
                             "parameters": []
+                        },
+                        {
+                            "code": 242,
+                            "indent": 1,
+                            "parameters": [
+                                1
+                            ]
                         },
                         {
                             "code": 117,
@@ -5456,7 +5491,7 @@
                     "walkAnime": true
                 }
             ],
-            "x": 7,
+            "x": 6,
             "y": 7
         },
         {
@@ -5775,6 +5810,13 @@
                             "parameters": [
                                 0,
                                 "見る"
+                            ]
+                        },
+                        {
+                            "code": 242,
+                            "indent": 1,
+                            "parameters": [
+                                1
                             ]
                         },
                         {
@@ -6101,7 +6143,7 @@
                 }
             ],
             "x": 7,
-            "y": 9
+            "y": 11
         },
         {
             "id": 8,
@@ -6347,6 +6389,13 @@
                             "parameters": [
                                 0,
                                 "見る"
+                            ]
+                        },
+                        {
+                            "code": 242,
+                            "indent": 1,
+                            "parameters": [
+                                1
                             ]
                         },
                         {
@@ -6673,7 +6722,7 @@
                 }
             ],
             "x": 9,
-            "y": 9
+            "y": 11
         },
         {
             "id": 9,
@@ -6925,6 +6974,13 @@
                             "code": 221,
                             "indent": 1,
                             "parameters": []
+                        },
+                        {
+                            "code": 242,
+                            "indent": 1,
+                            "parameters": [
+                                1
+                            ]
                         },
                         {
                             "code": 117,
@@ -7251,7 +7307,7 @@
                     "walkAnime": true
                 }
             ],
-            "x": 9,
+            "x": 8,
             "y": 7
         },
         {
@@ -7281,7 +7337,7 @@
                         "characterName": "jogaibook3",
                         "direction": 2,
                         "pattern": 1,
-                        "characterIndex": 2
+                        "characterIndex": 3
                     },
                     "list": [
                         {
@@ -7518,6 +7574,13 @@
                             "code": 221,
                             "indent": 1,
                             "parameters": []
+                        },
+                        {
+                            "code": 242,
+                            "indent": 1,
+                            "parameters": [
+                                1
+                            ]
                         },
                         {
                             "code": 117,
@@ -7838,593 +7901,8 @@
                 }
             ],
             "x": 7,
-            "y": 4
+            "y": 5
         },
-        {
-            "id": 11,
-            "name": "EV011",
-            "note": "",
-            "pages": [
-                {
-                    "conditions": {
-                        "actorId": 1,
-                        "actorValid": false,
-                        "itemId": 1,
-                        "itemValid": false,
-                        "selfSwitchCh": "A",
-                        "selfSwitchValid": false,
-                        "switch1Id": 230,
-                        "switch1Valid": false,
-                        "switch2Id": 1,
-                        "switch2Valid": false,
-                        "variableId": 1,
-                        "variableValid": false,
-                        "variableValue": 0
-                    },
-                    "directionFix": true,
-                    "image": {
-                        "tileId": 0,
-                        "characterName": "jogaibook3",
-                        "direction": 2,
-                        "pattern": 1,
-                        "characterIndex": 0
-                    },
-                    "list": [
-                        {
-                            "code": 108,
-                            "indent": 0,
-                            "parameters": [
-                                "event_text : アメリの声"
-                            ]
-                        },
-                        {
-                            "code": 205,
-                            "indent": 0,
-                            "parameters": [
-                                0,
-                                {
-                                    "list": [
-                                        {
-                                            "code": 36,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 44,
-                                            "parameters": [
-                                                {
-                                                    "name": "Book2",
-                                                    "volume": 90,
-                                                    "pitch": 100,
-                                                    "pan": 0
-                                                }
-                                            ],
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 17,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 15,
-                                            "parameters": [
-                                                5
-                                            ],
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 18,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 15,
-                                            "parameters": [
-                                                5
-                                            ],
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 19,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 15,
-                                            "parameters": [
-                                                5
-                                            ],
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 35,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 0
-                                        }
-                                    ],
-                                    "repeat": false,
-                                    "skippable": false,
-                                    "wait": false
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 36,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 44,
-                                    "parameters": [
-                                        {
-                                            "name": "Book2",
-                                            "volume": 90,
-                                            "pitch": 100,
-                                            "pan": 0
-                                        }
-                                    ],
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 17,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 15,
-                                    "parameters": [
-                                        5
-                                    ],
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 18,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 15,
-                                    "parameters": [
-                                        5
-                                    ],
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 19,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 15,
-                                    "parameters": [
-                                        5
-                                    ],
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 35,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『その時アメリは……』"
-                            ]
-                        },
-                        {
-                            "code": 102,
-                            "indent": 0,
-                            "parameters": [
-                                [
-                                    "見る",
-                                    "みない"
-                                ],
-                                1,
-                                0,
-                                1,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 402,
-                            "indent": 0,
-                            "parameters": [
-                                0,
-                                "見る"
-                            ]
-                        },
-                        {
-                            "code": 221,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 117,
-                            "indent": 1,
-                            "parameters": [
-                                63
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 1,
-                            "parameters": [
-                                147
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 1,
-                            "parameters": [
-                                60
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 1,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 211,
-                            "indent": 1,
-                            "parameters": [
-                                0
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 1,
-                            "parameters": [
-                                35,
-                                35,
-                                0,
-                                3,
-                                7,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 1,
-                            "parameters": [
-                                4,
-                                4,
-                                0,
-                                3,
-                                5,
-                                -1,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 122,
-                            "indent": 1,
-                            "parameters": [
-                                5,
-                                5,
-                                0,
-                                3,
-                                5,
-                                -1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 201,
-                            "indent": 1,
-                            "parameters": [
-                                0,
-                                439,
-                                8,
-                                7,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 222,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 402,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                "みない"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": []
-                        },
-                        {
-                            "code": 404,
-                            "indent": 0,
-                            "parameters": []
-                        },
-                        {
-                            "code": 108,
-                            "indent": 0,
-                            "parameters": [
-                                "-----"
-                            ]
-                        },
-                        {
-                            "code": 205,
-                            "indent": 0,
-                            "parameters": [
-                                0,
-                                {
-                                    "list": [
-                                        {
-                                            "code": 44,
-                                            "parameters": [
-                                                {
-                                                    "name": "Book2",
-                                                    "volume": 90,
-                                                    "pitch": 100,
-                                                    "pan": 0
-                                                }
-                                            ],
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 36,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 18,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 15,
-                                            "parameters": [
-                                                5
-                                            ],
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 17,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 15,
-                                            "parameters": [
-                                                5
-                                            ],
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 16,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 15,
-                                            "parameters": [
-                                                5
-                                            ],
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 35,
-                                            "indent": null
-                                        },
-                                        {
-                                            "code": 0
-                                        }
-                                    ],
-                                    "repeat": false,
-                                    "skippable": false,
-                                    "wait": false
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 44,
-                                    "parameters": [
-                                        {
-                                            "name": "Book2",
-                                            "volume": 90,
-                                            "pitch": 100,
-                                            "pan": 0
-                                        }
-                                    ],
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 36,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 18,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 15,
-                                    "parameters": [
-                                        5
-                                    ],
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 17,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 15,
-                                    "parameters": [
-                                        5
-                                    ],
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 16,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 15,
-                                    "parameters": [
-                                        5
-                                    ],
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 505,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "code": 35,
-                                    "indent": null
-                                }
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": []
-                        }
-                    ],
-                    "moveFrequency": 3,
-                    "moveRoute": {
-                        "list": [
-                            {
-                                "code": 0,
-                                "parameters": []
-                            }
-                        ],
-                        "repeat": true,
-                        "skippable": false,
-                        "wait": false
-                    },
-                    "moveSpeed": 3,
-                    "moveType": 0,
-                    "priorityType": 1,
-                    "stepAnime": false,
-                    "through": false,
-                    "trigger": 0,
-                    "walkAnime": true
-                }
-            ],
-            "x": 5,
-            "y": 6
-        }
+        null
     ]
 }

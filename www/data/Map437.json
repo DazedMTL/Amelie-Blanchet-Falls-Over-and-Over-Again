@@ -7623,6 +7623,13 @@
                             ]
                         },
                         {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                10
+                            ]
+                        },
+                        {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
@@ -8024,20 +8031,28 @@
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 232,
                             "indent": 0,
                             "parameters": [
-                                "",
+                                2,
                                 0,
                                 0,
-                                2
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                0,
+                                0,
+                                30,
+                                true
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 235,
                             "indent": 0,
                             "parameters": [
-                                "//終わり"
+                                2
                             ]
                         },
                         {
@@ -8130,7 +8145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「ただのフレンドだ。セックスもするがな」"
+                                "  「ただのフレンドだ」"
                             ]
                         },
                         {
@@ -8223,14 +8238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「節度を持ってするのならいいよ。魔法研みたい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  なのはだめだけど」"
+                                "  「節度を持ってするのなら」"
                             ]
                         },
                         {
@@ -8285,62 +8293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「節度なんかないだろ」"
-                            ]
-                        },
-                        {
-                            "code": 356,
-                            "indent": 0,
-                            "parameters": [
-                                "スキット 表情 日和 f 42"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【小夜子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「ある。ゴムをすれば乱交まではOKだろ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【正宗】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  「乱交するなよ！」"
+                                "  「節度なんかないだろ！」"
                             ]
                         },
                         {
