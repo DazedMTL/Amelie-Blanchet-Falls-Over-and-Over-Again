@@ -7552,14 +7552,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『レビヤタンEND』"
+                                "Leviathan END is one of the worlds observed by\nsomeone."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰かが観測した世界の一つ。"
+                                ""
                             ]
                         },
                         {
@@ -7567,8 +7567,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "みない"
+                                    "Look",
+                                    "Don't look"
                                 ],
                                 1,
                                 0,
