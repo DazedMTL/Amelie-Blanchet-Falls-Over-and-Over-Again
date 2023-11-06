@@ -110,7 +110,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "なんでも教えてくれる天具。\n攻略に行き詰ったら聞いてみよう。",
+        "description": "なんでも教えてくれる道具。\n攻略に行き詰ったら聞いてみよう。",
         "effects": [
             {
                 "code": 44,
@@ -122,7 +122,7 @@
         "hitType": 0,
         "iconIndex": 79,
         "itypeId": 2,
-        "name": "物知り魔道具",
+        "name": "物知り魔導具",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -221,12 +221,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の作り方が書いてある。\nクラフト・シェリー著作",
+        "description": "魔導具の作り方が書いてある。\nクラフト・シェリー著作",
         "effects": [],
         "hitType": 0,
         "iconIndex": 189,
         "itypeId": 2,
-        "name": "魔道具図鑑Ⅰ",
+        "name": "魔導具図鑑Ⅰ",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -247,12 +247,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の作り方が書いてある。\nクラフト・シェリー著作",
+        "description": "魔導具の作り方が書いてある。\nクラフト・シェリー著作",
         "effects": [],
         "hitType": 0,
         "iconIndex": 189,
         "itypeId": 2,
-        "name": "魔道具図鑑Ⅱ",
+        "name": "魔導具図鑑Ⅱ",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -273,12 +273,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の作り方が書いてある。\nクラフト・シェリー著作",
+        "description": "魔導具の作り方が書いてある。\nクラフト・シェリー著作",
         "effects": [],
         "hitType": 0,
         "iconIndex": 189,
         "itypeId": 2,
-        "name": "魔道具図鑑Ⅲ",
+        "name": "魔導具図鑑Ⅲ",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2107,7 +2107,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の生成に使う",
+        "description": "魔導具の生成に使う",
         "effects": [],
         "hitType": 0,
         "iconIndex": 147,
@@ -2133,7 +2133,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の生成に使う",
+        "description": "魔導具の生成に使う",
         "effects": [],
         "hitType": 0,
         "iconIndex": 145,
@@ -2159,7 +2159,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の生成に使う",
+        "description": "魔導具の生成に使う",
         "effects": [],
         "hitType": 0,
         "iconIndex": 144,
@@ -2211,7 +2211,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の生成に使う",
+        "description": "魔導具の生成に使う",
         "effects": [],
         "hitType": 0,
         "iconIndex": 304,
@@ -2237,7 +2237,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の生成に使う",
+        "description": "魔導具の生成に使う",
         "effects": [],
         "hitType": 0,
         "iconIndex": 292,
@@ -2263,7 +2263,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の生成に使う",
+        "description": "魔導具の生成に使う",
         "effects": [],
         "hitType": 0,
         "iconIndex": 273,
@@ -2289,7 +2289,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の生成に使う",
+        "description": "魔導具の生成に使う",
         "effects": [],
         "hitType": 0,
         "iconIndex": 300,
@@ -2315,7 +2315,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の生成に使う",
+        "description": "魔導具の生成に使う",
         "effects": [],
         "hitType": 0,
         "iconIndex": 291,
@@ -2341,7 +2341,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の生成に使う",
+        "description": "魔導具の生成に使う",
         "effects": [],
         "hitType": 0,
         "iconIndex": 297,
@@ -2367,7 +2367,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の生成に使う",
+        "description": "魔導具の生成に使う",
         "effects": [],
         "hitType": 0,
         "iconIndex": 298,
@@ -2393,7 +2393,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔道具の生成に使う",
+        "description": "魔導具の生成に使う",
         "effects": [],
         "hitType": 0,
         "iconIndex": 289,
@@ -3131,7 +3131,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "肉体改造部部が闇購買部に流した記録石。\n肉体改造部に関する研究の映像が映っているらしい。",
+        "description": "肉体改造部が闇購買部に流した記録石。\n肉体改造に関する研究の映像が映っているらしい。",
         "effects": [
             {
                 "code": 44,
@@ -4535,7 +4535,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "地獄に生息する植物の種。\n食べると敏腕生が成長する。",
+        "description": "地獄に生息する植物の種。\n食べると敏捷性が成長する。",
         "effects": [
             {
                 "code": 42,
@@ -4547,7 +4547,7 @@
         "hitType": 0,
         "iconIndex": 276,
         "itypeId": 1,
-        "name": "敏腕の魔種",
+        "name": "敏捷の魔種",
         "note": "",
         "occasion": 2,
         "price": 9800,

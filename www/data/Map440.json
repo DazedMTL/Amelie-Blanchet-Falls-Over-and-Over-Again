@@ -14631,7 +14631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  「い、いきないなんだ」"
+                                "  「い、いきなりなんだ」"
                             ]
                         },
                         {
@@ -26548,7 +26548,7 @@
                         "wait": false
                     },
                     "moveSpeed": 3,
-                    "moveType": 1,
+                    "moveType": 0,
                     "priorityType": 1,
                     "stepAnime": false,
                     "through": false,
