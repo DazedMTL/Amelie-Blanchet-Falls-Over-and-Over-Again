@@ -2346,8 +2346,8 @@
             "pages": [
                 {
                     "conditions": {
-                        "actorId": 1,
-                        "actorValid": false,
+                        "actorId": 3,
+                        "actorValid": true,
                         "itemId": 1,
                         "itemValid": false,
                         "selfSwitchCh": "A",
